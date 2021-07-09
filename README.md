@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Generate Snake](https://github.com/friendbear/friendbear/actions/workflows/cronjob-make-snake-picture.yml/badge.svg)](https://github.com/friendbear/friendbear/actions/workflows/cronjob-make-snake-picture.yml)
+
 ## <img src="https://image.flaticon.com/icons/svg/3306/3306281.svg" width=18/> Status
 <img src="https://github-readme-stats.vercel.app/api?username=friendbear&count_private=true" width="450"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=friendbear&layout=compact" width="375"/>
 
