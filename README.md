@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=friendbear alt=friendbear/> </p>
 
+[![Update gist with latest YouTube videos](https://github.com/friendbear/youtube-box/actions/workflows/main.yml/badge.svg)](https://github.com/friendbear/youtube-box/actions/workflows/main.yml)
 
 <p align="center">
 <br><br>
