@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [![Generate Snake](https://github.com/friendbear/friendbear/actions/workflows/cronjob-make-snake-picture.yml/badge.svg)](https://github.com/friendbear/friendbear/actions/workflows/cronjob-make-snake-picture.yml)
 ![snake gif](https://github.com/friendbear/friendbear/blob/output/github-contribution-grid-snake.gif)
 ## <img src="https://image.flaticon.com/icons/svg/3306/3306281.svg" width=18/> Status
-<img src="https://github-readme-stats.vercel.app/api?username=friendbear&count_private=true" width="450"/>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=friendbear)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=friendbear&count_private=true&theme=dracula" width="450"/>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=friendbear&layout=compact&hide=javascript,html,jupyter&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=friendbear&show_icons=true)  
 
