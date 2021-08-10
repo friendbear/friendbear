@@ -62,6 +62,9 @@ Here are some ideas to get you started:
 <img src="https://img.icons8.com/ios-filled/256/000000/twitter.svg" alt="twitter profile" width="26px"/></a>
 &emsp;
 
+netfetch
+![neofetch-me](asset/images/netfetch-me.png)
+
 [email]: mailto:s8zmnonun@relay.firefox.com
 [twitter]: https://twitter.com/friendbear22
 [devdojo]: https://devdojo.com/friendbear
