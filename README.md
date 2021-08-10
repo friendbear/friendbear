@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 <!--
 - 🔭 I’m currently working on ...
 -->
-- 🌱 I’m currently learning Scala Rust and Python lang
+- 🌱 I’m currently learning Scala, Rust and Python lang
 - 📫 How to reach me: [email](mailto:s8zmnonun@relay.firefox.com)
 <!--
 - 👯 I’m looking to collaborate on ...
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <a href="https://dev.to/friendbear"> 
 <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="dev to profile" width="24px"/></a>
 &emsp;
-<a href= "https://instagram.com/">
+<a href= "https://instagram.com/friendbear22">
 <img src="https://img.icons8.com/ios-glyphs/256/000000/instagram-new.svg" alt="instagram profile" width="28px"/></a>
 &emsp;
 <a href="https://www.paypal.com/paypalme/friendbear">
