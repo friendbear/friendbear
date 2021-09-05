@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 <!--
 - 🔭 I’m currently working on ...
 -->
-- 🌱 I’m currently learning Scala, Rust and Python lang
+- 🌱 I’m currently learning [Scala](https://users.scala-lang.org/u/friendbear), [Rust](https://users.rust-lang.org/u/friendbear) and Python lang
 - 📫 How to reach me: [email](mailto:s8zmnonun@relay.firefox.com)
 <!--
 - 👯 I’m looking to collaborate on ...
@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 &emsp;
 
 neofetch
-![neofetch-me](netfetch-me.png)
+![neofetch-me](asset/image/netfetch-me.png)
 
 [email]: mailto:s8zmnonun@relay.firefox.com
 [twitter]: https://twitter.com/friendbear22
