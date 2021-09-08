@@ -1,4 +1,4 @@
-### Hi there （こんにちわ）👋
+### Hi there （こんにちわ）![wave](wave.gif)
 
 
 **friendbear/friendbear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -71,4 +71,6 @@ neofetch
 [dev.to]: https://dev.to/friendbear
 [linkedin]: https://www.linkedin.com/in/friendbear
 
+
+![asna](asuna.gif)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B15N77Q)
