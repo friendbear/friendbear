@@ -1,4 +1,4 @@
-### Hi there （こんにちわ）![wave](wave.gif)
+### Hi there （こんにちわ）<img src="https://raw.githubusercontent.com/friendbear/friendbear/main/wave.gif" width="35px">
 
 
 **friendbear/friendbear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
