@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 <!--
 - 🔭 I’m currently working on ...
 -->
-- 🌱 I’m currently learning [Scala](https://users.scala-lang.org/u/friendbear), [Rust](https://users.rust-lang.org/u/friendbear) and [Python](https://pypi.org/user/friendbear) lang
+- 🌱 I’m currently learning [Scala](https://users.scala-lang.org/u/friendbear), [Rust](https://users.rust-lang.org/u/friendbear), [Python](https://pypi.org/user/friendbear) C, C++, .NET and lang
 - 📫 How to reach me: [email](mailto:s8zmnonun@relay.firefox.com)
 <!--
 - 👯 I’m looking to collaborate on ...
