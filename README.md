@@ -24,6 +24,13 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=friendbear&count_private=true&theme=dracula" width="450"/>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=friendbear&layout=compact&hide=javascript,html,jupyter&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+```text
+Scala        2 hrs 12 mins   █████████▒░░░░░░░░░░░░░░░   36.99 % 
+Markdown     1 hr 19 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.31 % 
+HTML         53 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+Bash         40 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+JavaScript   18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+```
 <!--END_SECTION:waka-->
 
 <!--
