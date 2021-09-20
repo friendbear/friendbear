@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 ## <img src="https://image.flaticon.com/icons/svg/3306/3306281.svg" width=18/> Status
 <img src="https://github-readme-stats.vercel.app/api?username=friendbear&count_private=true&theme=dracula" width="450"/>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=friendbear&layout=compact&hide=javascript,html,jupyter&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Waka Readme](https://github.com/friendbear/friendbear/actions/workflows/cronjob-wakatime-generater.yml/badge.svg)](https://github.com/friendbear/friendbear/actions/workflows/cronjob-wakatime-generater.yml)
 <!--START_SECTION:waka-->
 ```text
 Scala        2 hrs 12 mins   ████████████████░░░░░░░░░   63.43 % 
