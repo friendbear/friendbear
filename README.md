@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Scala        2 hrs 12 mins   █████████▒░░░░░░░░░░░░░░░   36.99 % 
-Markdown     1 hr 19 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.31 % 
-HTML         53 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.92 % 
-Bash         40 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-JavaScript   18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+Scala        2 hrs 12 mins   ████████████████░░░░░░░░░   63.43 % 
+Bash         40 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.22 % 
+YAML         12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+Other        7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+Properties   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
 ```
 <!--END_SECTION:waka-->
 
