@@ -92,5 +92,6 @@ T Kumagai
 To view and share your lists, visit 
 
 
-Love SAO ![asna](asuna.gif)
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B15N77Q)
+I love Asuna from SAO. ![asna](asuna.gif)
