@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning [Scala](https://users.scala-lang.org/u/friendbear), [Rust](https://users.rust-lang.org/u/friendbear), [Python](https://pypi.org/user/friendbear) C, C++, .NET and lang
 - 📫 How to reach me: [email](mailto:s8zmnonun@relay.firefox.com)
+
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -81,6 +82,15 @@ Markdown     5 mins          ██░░░░░░░░░░░░░░░
 [dev.to]: https://dev.to/friendbear
 [linkedin]: https://www.linkedin.com/in/friendbear
 
+### [smile](https://smile.amazon.com/hz/wishlist/ls/ref_=wl_list_url_friends_message>>)
 
-![asna](asuna.gif)
+Hi, I was wondering if you had built a list on Amazon. I'd love to see what you really want. Could you share your list with me?--
+
+Thanks!
+T Kumagai
+
+To view and share your lists, visit 
+
+
+Love SAO ![asna](asuna.gif)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B15N77Q)
