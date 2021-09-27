@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 [![Waka Readme](https://github.com/friendbear/friendbear/actions/workflows/cronjob-wakatime-generater.yml/badge.svg)](https://github.com/friendbear/friendbear/actions/workflows/cronjob-wakatime-generater.yml)
 <!--START_SECTION:waka-->
 ```text
-Markdown   5 mins          ██████████████░░░░░░░░░░░   56.10 % 
-TOML       1 min           ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+Other        48 mins         ████████████████████████▒   96.70 % 
+Scala        1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
 ```
 <!--END_SECTION:waka-->
 
