@@ -8,7 +8,8 @@ Here are some ideas to get you started:
 <!--
 - 🔭 I’m currently working on ...
 -->
-- 🌱 I’m currently learning [Scala](https://users.scala-lang.org/u/friendbear), [Rust](https://users.rust-lang.org/u/friendbear), [Python](https://pypi.org/user/friendbear) C, C++, .NET and lang
+- 🌱 I’m currently learning [Scala](https://users.scala-lang.org/u/friendbear), [Rust](https://users.rust-lang.org/u/friendbear), [Python](https://pypi.org/user/friendbear) C, C++, .NET and Bigdata... etc
+
 - 📫 How to reach me: [email](mailto:s8zmnonun@relay.firefox.com)
 
 <!--
@@ -19,10 +20,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
 -->
-<p algin="right">
-<a href="https://twitter.com/TwitterDev?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @TwitterDev</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</p>
+
+
 
 [![Generate Snake](https://github.com/friendbear/friendbear/actions/workflows/cronjob-make-snake-picture.yml/badge.svg)](https://github.com/friendbear/friendbear/actions/workflows/cronjob-make-snake-picture.yml)
 ![snake gif](https://github.com/friendbear/friendbear/blob/output/github-contribution-grid-snake.gif)
@@ -64,6 +65,11 @@ Makefile     6 mins          ██▒░░░░░░░░░░░░░░
 
 <p align="center">
 <br><br>
+
+<p algin="right">
+<a href="https://twitter.com/TwitterDev?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @TwitterDev</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
+
 <a href="https://dev.to/friendbear"> 
 <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="dev to profile" width="24px"/></a>
 &emsp;
