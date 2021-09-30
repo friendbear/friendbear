@@ -18,14 +18,21 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
+<p algin="right">
+<a href="https://twitter.com/TwitterDev?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @TwitterDev</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
 
 [![Generate Snake](https://github.com/friendbear/friendbear/actions/workflows/cronjob-make-snake-picture.yml/badge.svg)](https://github.com/friendbear/friendbear/actions/workflows/cronjob-make-snake-picture.yml)
 ![snake gif](https://github.com/friendbear/friendbear/blob/output/github-contribution-grid-snake.gif)
 ## <img src="https://image.flaticon.com/icons/svg/3306/3306281.svg" width=18/> Status
 <img src="https://github-readme-stats.vercel.app/api?username=friendbear&count_private=true&theme=dracula" width="450"/>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=friendbear&layout=compact&hide=javascript,html,jupyter&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+
 [![Waka Readme](https://github.com/friendbear/friendbear/actions/workflows/cronjob-wakatime-generater.yml/badge.svg)](https://github.com/friendbear/friendbear/actions/workflows/cronjob-wakatime-generater.yml)
+
+
 <!--START_SECTION:waka-->
 ```text
 Week: 23 September, 2021 - 29 September, 2021
@@ -75,6 +82,7 @@ Makefile     6 mins          ██▒░░░░░░░░░░░░░░
 <a href="https://twitter.com/friendbear22">
 <img src="https://img.icons8.com/ios-filled/256/000000/twitter.svg" alt="twitter profile" width="26px"/></a>
 &emsp;
+
 
 [email]: mailto:s8zmnonun@relay.firefox.com
 [twitter]: https://twitter.com/friendbear22
