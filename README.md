@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 [![Waka Readme](https://github.com/friendbear/friendbear/actions/workflows/cronjob-wakatime-generater.yml/badge.svg)](https://github.com/friendbear/friendbear/actions/workflows/cronjob-wakatime-generater.yml)
 <!--START_SECTION:waka-->
 ```text
+Week: 23 September, 2021 - 29 September, 2021
+
 Other        55 mins         ██████████████████▓░░░░░░   75.00 % 
 Scala        11 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
 Makefile     6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
