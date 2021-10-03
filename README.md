@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 <!--
 - 🔭 I’m currently working on ...
 -->
-- 🌱 I’m currently learning [Scala](https://users.scala-lang.org/u/friendbear), [Rust](https://users.rust-lang.org/u/friendbear), [Python](https://pypi.org/user/friendbear) C, C++, .NET and Bigdata... etc
+- 🌱 I’m currently learning [Scala](https://users.scala-lang.org/u/friendbear), [Rust](https://users.rust-lang.org/u/friendbear), [Python](https://pypi.org/user/friendbear) C, C++, .NET and Bigdata, [MongoDB](https://www.mongodb.com/community/forums/u/friendbear) ... etc
 
 - 📫 How to reach me: [email](mailto:s8zmnonun@relay.firefox.com)
 
