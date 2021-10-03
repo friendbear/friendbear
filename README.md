@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 September, 2021 - 01 October, 2021
+Week: 26 September, 2021 - 02 October, 2021
 
 Other        55 mins         ██████████████████▒░░░░░░   73.57 % 
 Scala        12 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.15 % 
