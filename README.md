@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 September, 2021 - 03 October, 2021
+Week: 28 September, 2021 - 04 October, 2021
 
-Other        55 mins         ██████████████████▒░░░░░░   73.57 % 
-Scala        12 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.15 % 
-Makefile     6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+Scala        11 mins         ███████████▒░░░░░░░░░░░░░   45.51 % 
+Makefile     6 mins          ███████░░░░░░░░░░░░░░░░░░   28.06 % 
+Other        6 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.43 % 
 ```
 <!--END_SECTION:waka-->
 
