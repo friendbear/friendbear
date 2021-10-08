@@ -36,11 +36,13 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 September, 2021 - 06 October, 2021
+Week: 01 October, 2021 - 07 October, 2021
 
-Python          2 hrs           ██████████████▒░░░░░░░░░░   57.21 % 
-SuperCollider   1 hr 6 mins     ████████░░░░░░░░░░░░░░░░░   31.75 % 
-Scala           22 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+Python          2 hrs 12 mins   ██████████████░░░░░░░░░░░   55.95 % 
+SuperCollider   1 hr 6 mins     ███████░░░░░░░░░░░░░░░░░░   28.25 % 
+Scala           21 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+JavaScript      8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+Markdown        6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
 ```
 <!--END_SECTION:waka-->
 
