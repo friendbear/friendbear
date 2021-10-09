@@ -1,7 +1,9 @@
+## <img src="https://img.icons8.com/color/48/000000/github--v3.png"/> friendbear 
+
 ### Hi there （こんにちわ）<img src="https://raw.githubusercontent.com/friendbear/friendbear/main/wave.gif" width="35px">
 
 
-**friendbear/friendbear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 [QuickAccess Playground](https://wandbox.org/)
 Here are some ideas to get you started:
@@ -85,6 +87,9 @@ JavaScript      8 mins          █░░░░░░░░░░░░░░░
 <a href="https://twitter.com/friendbear22">
 <img src="https://img.icons8.com/ios-filled/256/000000/twitter.svg" alt="twitter profile" width="26px"/></a>
 &emsp;
+<a href="https://stackoverflow.com/users/10924993/t-kumagai">
+<img src="https://img.icons8.com/ios/32/000000/stackoverflow.png"/>
+&emsp;
 
 
 [email]: mailto:s8zmnonun@relay.firefox.com
@@ -92,6 +97,7 @@ JavaScript      8 mins          █░░░░░░░░░░░░░░░
 [devdojo]: https://devdojo.com/friendbear
 [dev.to]: https://dev.to/friendbear
 [linkedin]: https://www.linkedin.com/in/friendbear
+[stakoverflow]: https://stackoverflow.com/users/10924993/t-kumagai
 
 ### [smile](https://smile.amazon.com/hz/wishlist/ls/ref_=wl_list_url_friends_message>>)
 
