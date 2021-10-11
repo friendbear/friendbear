@@ -100,6 +100,11 @@ Markdown        8 mins          ▓░░░░░░░░░░░░░░░
 [![instagram badge](https://img.shields.io/badge/instagram-inductor.kela-C42D81?style=flat-square&logo=instagram)](https://www.instagram.com/inductor.kela) [![blog badge](https://img.shields.io/badge/blog-blog.inductor.me-1f425f?style=flat-square)](https://blog.inductor.me) 
 [![blog badge](https://img.shields.io/badge/speakerdeck-inductor-1f425f?style=flat-square)](https://speakerdeck.com/inductor)
 -->
+
+### Experience
+
+<img src="https://github-readme-linkedin-iwxercbpe-friendbear22.vercel.app/experience?username=friendbear" />
+
 ### Skills
 
 ![](https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat) ![](https://img.shields.io/badge/-Amazon%20AWS-232F3E.svg?logo=amazon-aws&style=flat) ![](https://img.shields.io/badge/-Linux-6C6694.svg?logo=linux&style=flat) 
