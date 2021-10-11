@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 October, 2021 - 09 October, 2021
+Week: 04 October, 2021 - 10 October, 2021
 
 Python          2 hrs 25 mins   █████████░░░░░░░░░░░░░░░░   35.53 % 
 SuperCollider   1 hr 45 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.72 % 
