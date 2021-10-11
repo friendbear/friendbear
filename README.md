@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: [email](mailto:s8zmnonun@relay.firefox.com)
 
+[![Twitter: ThraiiBraga](https://img.shields.io/twitter/follow/friendbear22?stype=social)](https://twitter.com/friendbear22)
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -29,24 +30,24 @@ Here are some ideas to get you started:
 #!/usr/bin/env amm
 import scala.io.Source
 
-trait Programmer{def programinng()}
-trait Engineer{def writting()}
-trait Manager{def communication()}
+trait Programmer{def doPrograminng()} // Under thought.
+trait Engineer{def doThink()}
+trait Manager{def doCommunication()}
 trait FullstackEnginner { this: Programmer with Engineer with Manager =>
-    def superman()
+    def superman?()
 }
 class AboutMe(name: String)
 object AboutMe {
   def printAbout() {
     println("MyName is ${name}")
   }
-  def apply(weightScale: Range = 0 to 100, likeLocation: List[String] = Nil, likeLanguage: List[String] = List()): AboutMe =
+  def apply(weightScale: Range, likeLocation: List[String] = Nil, likeLanguage: List[String] = List()): AboutMe =
     AboutMe(weightScale, likeLocation, likeLanguage)
 }
 
-type ProgramData = (Int, String, String)
+type ProgramData = (Int, String, String, String)
 def loadProgramData(): List[ProgramData] = {
-  Source.fromFile("program.csv").getLines.drop(1).map(s => {val split = s.split(',');(split(0).toInt, split(1), split(2))}).toList
+  Source.fromFile("program.csv").getLines.drop(1).map(s => {val split = s.split(',');(split(0).toInt, split(1), split(2), split(3))}).toList
 }
 
 val programData = loadProgramData
@@ -61,6 +62,10 @@ def printMe() {
    AboutMe.apply(55 to 79, likeLocation, programData.filter(likeLogic)).name = "T Kumagai" printAbout
 }
 ```
+<em><b>I love coffee</b> Since 2021-10: open ko-fi shop <a href="https://ko-fi.com/friendbear">Please Access My Coffe Shop.</a>
+<a href='https://ko-fi.com/B0B15N77Q' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</em>
+
 ---
 
 [![Generate Snake](https://github.com/friendbear/friendbear/actions/workflows/cronjob-make-snake-picture.yml/badge.svg)](https://github.com/friendbear/friendbear/actions/workflows/cronjob-make-snake-picture.yml)
@@ -145,7 +150,7 @@ T Kumagai
 To view and share your lists, visit 
 
 <p align="left">
-<a href='https://ko-fi.com/B0B15N77Q' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
 <!--
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B15N77Q)
 -->
