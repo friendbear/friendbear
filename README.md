@@ -61,7 +61,7 @@ def printMe() {
    AboutMe.apply(55 to 79, likeLocation, programData.filter(likeLogic)).name = "T Kumagai" printAbout
 }
 ```
-
+---
 
 [![Generate Snake](https://github.com/friendbear/friendbear/actions/workflows/cronjob-make-snake-picture.yml/badge.svg)](https://github.com/friendbear/friendbear/actions/workflows/cronjob-make-snake-picture.yml)
 ![snake gif](https://github.com/friendbear/friendbear/blob/output/github-contribution-grid-snake.gif)
