@@ -22,9 +22,45 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
 -->
 
+### A little more about me...
+```scala
+#!/usr/bin/env amm
+import scala.io.Source
+
+trait Programmer{def programinng()}
+trait Engineer{def writting()}
+trait Manager{def communication()}
+trait FullstackEnginner { this: Programmer with Engineer with Manager =>
+    def superman()
+}
+class AboutMe(name: String)
+object AboutMe {
+  def printAbout() {
+    println("MyName is ${name}")
+  }
+  def apply(weightScale: Range = 0 to 100, likeLocation: List[String] = Nil, likeLanguage: List[String] = List()): AboutMe =
+    AboutMe(weightScale, likeLocation, likeLanguage)
+}
+
+type ProgramData = (Int, String, String)
+def loadProgramData(): List[ProgramData] = {
+  Source.fromFile("program.csv").getLines.drop(1).map(s => {val split = s.split(',');(split(0).toInt, split(1), split(2))}).toList
+}
+
+val programData = loadProgramData
+val likeLogic = (like: ProgramData) => like._2 match {
+    case "hybrid" | "oop" | "functional" | "el" => true
+    case _ => false
+  }
+val likeLocation = List("出雲大社", "Etc.")
+
+@main
+def printMe() {
+   AboutMe.apply(55 to 79, likeLocation, programData.filter(likeLogic)).name = "T Kumagai" printAbout
+}
+```
 
 
 [![Generate Snake](https://github.com/friendbear/friendbear/actions/workflows/cronjob-make-snake-picture.yml/badge.svg)](https://github.com/friendbear/friendbear/actions/workflows/cronjob-make-snake-picture.yml)
