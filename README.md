@@ -79,13 +79,13 @@ def printMe() {
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 October, 2021 - 10 October, 2021
+Week: 05 October, 2021 - 11 October, 2021
 
-Python          2 hrs 25 mins   █████████░░░░░░░░░░░░░░░░   35.53 % 
-SuperCollider   1 hr 45 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.72 % 
-Scala           1 hr 14 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.07 % 
-Other           1 hr 1 min      ███▓░░░░░░░░░░░░░░░░░░░░░   15.05 % 
-Markdown        8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+Python          2 hrs 36 mins   ███████▒░░░░░░░░░░░░░░░░░   29.76 % 
+SuperCollider   1 hr 45 mins    █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
+Scala           1 hr 14 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+Other           1 hr 5 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+Rust            59 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
 ```
 <!--END_SECTION:waka-->
 
