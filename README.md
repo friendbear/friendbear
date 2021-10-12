@@ -30,36 +30,36 @@ Here are some ideas to get you started:
 #!/usr/bin/env amm
 import scala.io.Source
 
-trait Programmer{def doPrograminng()} // Under thought.
-trait Engineer{def doThink()}
-trait Manager{def doCommunication()}
+trait Programmer{def programinng()}
+trait Engineer{def writting()}
+trait Manager{def communication()}
 trait FullstackEnginner { this: Programmer with Engineer with Manager =>
-    def superman?()
+    def superman()
 }
-class AboutMe(name: String)
+class AboutMe(name: String, weightScale: Range, likeLocations: List[String], likeLanguages: List[String])
 object AboutMe {
   def printAbout() {
     println("MyName is ${name}")
   }
-  def apply(weightScale: Range, likeLocation: List[String] = Nil, likeLanguage: List[String] = List()): AboutMe =
-    AboutMe(weightScale, likeLocation, likeLanguage)
+  def apply(weightScale: Range, likeLocations: List[String], likeLanguages: List[String]): AboutMe =
+    AboutMe(weightScale, likeLocations, likeLanguage)
 }
 
-type ProgramData = (Int, String, String, String)
+type ProgramData = (Int, String, String)
 def loadProgramData(): List[ProgramData] = {
-  Source.fromFile("program.csv").getLines.drop(1).map(s => {val split = s.split(',');(split(0).toInt, split(1), split(2), split(3))}).toList
+  Source.fromFile("program.csv").getLines.drop(1).map(s => {val split = s.split(',');(split(0).toInt, split(1), split(2))}).toList
 }
-
-val programData = loadProgramData
-val likeLogic = (like: ProgramData) => like._2 match {
-    case "hybrid" | "oop" | "functional" | "el" => true
-    case _ => false
-  }
-val likeLocation = List("出雲大社", "Etc.")
 
 @main
 def printMe() {
-   AboutMe.apply(55 to 79, likeLocation, programData.filter(likeLogic)).name = "T Kumagai" printAbout
+  val programData = loadProgramData
+  val likeLogic = (like: String) => like match {
+    case "hybrid" | "oop" | "functional" | "el" => true
+    case _ => false
+  }
+  val likeLocations = List("Kyoto, Japan", "Shimane, 出雲大社", "Etc.")
+  val langs = for (programs <- programData.filter(p => likeLogic(p._3)) yield programs._2
+  AboutMe.apply(55 to 79, likeLocations, langs).name = "T Kumagai" printAbout
 }
 ```
 <em><b>I love coffee</b> Since 2021-10: open ko-fi shop <a href="https://ko-fi.com/friendbear">Please Access My Coffe Shop.</a>
