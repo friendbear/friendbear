@@ -103,6 +103,8 @@ Scala      1 hr 3 mins     ███░░░░░░░░░░░░░░�
 
 ### Experience
 
+Under constract
+
 <img src="https://github-readme-linkedin-iwxercbpe-friendbear22.vercel.app/experience?username=friendbear" />
 
 ### Skills
