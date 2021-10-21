@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: [email](mailto:s8zmnonun@relay.firefox.com)
 
+
 [![Twitter: ThraiiBraga](https://img.shields.io/twitter/follow/friendbear22?stype=social)](https://twitter.com/friendbear22)
 <!--
 - 👯 I’m looking to collaborate on ...
@@ -147,6 +148,7 @@ Under constract
 [linkedin]: https://www.linkedin.com/in/friendbear
 [stakoverflow]: https://stackoverflow.com/users/10924993/t-kumagai
 
+![handshake](handshake.gif)
 ### [smile](https://smile.amazon.com/hz/wishlist/ls/ref_=wl_list_url_friends_message>>)
 
 Hi, I was wondering if you had built a list on Amazon. I'd love to see what you really want. Could you share your list with me?--
