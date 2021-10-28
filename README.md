@@ -80,7 +80,7 @@ def printMe() {
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 October, 2021 - 26 October, 2021
+Week: 21 October, 2021 - 27 October, 2021
 
 Rust       3 hrs 25 mins   ██████████████████░░░░░░░   72.02 % 
 Markdown   1 hr 10 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.80 % 
