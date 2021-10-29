@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning [Scala](https://users.scala-lang.org/u/friendbear), [Rust](https://users.rust-lang.org/u/friendbear), [Python](https://pypi.org/user/friendbear) C, C++, .NET and Bigdata, [MongoDB](https://www.mongodb.com/community/forums/u/friendbear) ... etc
 
 - 📫 How to reach me: [email](mailto:s8zmnonun@relay.firefox.com)
-
+- 🔑 GPP Key: F9521D94D71A2F01
 
 [![Twitter: ThraiiBraga](https://img.shields.io/twitter/follow/friendbear22?stype=social)](https://twitter.com/friendbear22)
 <!--
@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
+
 
 ### A little more about me...
 ```scala
