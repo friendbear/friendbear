@@ -149,7 +149,12 @@ Under constract
 [linkedin]: https://www.linkedin.com/in/friendbear
 [stakoverflow]: https://stackoverflow.com/users/10924993/t-kumagai
 
-![handshake](handshake.gif)
+## Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+
+<!--END-SECTION:activity-->
+
 ### [smile](https://smile.amazon.com/hz/wishlist/ls/ref_=wl_list_url_friends_message>>)
 
 Hi, I was wondering if you had built a list on Amazon. I'd love to see what you really want. Could you share your list with me?--
