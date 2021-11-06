@@ -152,6 +152,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[11/06 19:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#153` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[11/06 18:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#152` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[11/06 14:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 `[11/05 02:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [friendbear/udemy-apache-kafka](https://github.com/friendbear/udemy-apache-kafka)  
@@ -161,10 +162,10 @@ Under constract
 `[11/05 01:16]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#5`](https://github.com//friendbear/udemy-apache-kafka/issues/5 'Section6: CLI 101') in [friendbear/udemy-apache-kafka](https://github.com/friendbear/udemy-apache-kafka)  
 `[11/04 01:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 `[11/04 01:23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [athul/waka-readme](https://github.com/athul/waka-readme)  
-`[11/03 08:52]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [conduktor/scala-api-template](https://github.com/conduktor/scala-api-template) to [friendbear/scala-api-template](https://github.com/friendbear/scala-api-template)  
 
 <details><summary>Show More</summary>
 
+`[11/03 08:52]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [conduktor/scala-api-template](https://github.com/conduktor/scala-api-template) to [friendbear/scala-api-template](https://github.com/friendbear/scala-api-template)  
 `[11/03 08:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [conduktor/scala-api-template](https://github.com/conduktor/scala-api-template)  
 `[11/03 05:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/udemy-apache-kafka](https://github.com/friendbear/udemy-apache-kafka)  
 `[11/03 05:01]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#4`](https://github.com//friendbear/udemy-apache-kafka/pull/4 'Update README') in [friendbear/udemy-apache-kafka](https://github.com/friendbear/udemy-apache-kafka)  
@@ -407,7 +408,6 @@ Under constract
 `[10/02 23:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [friendbear/friendbear.github.io](https://github.com/friendbear/friendbear.github.io)  
 `[10/02 18:51]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2`](https://github.com//friendbear/friendbear.github.io/pull/2 'Facebook') in [friendbear/friendbear.github.io](https://github.com/friendbear/friendbear.github.io)  
 `[10/02 18:47]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2`](https://github.com//friendbear/friendbear.github.io/pull/2 'Facebook') in [friendbear/friendbear.github.io](https://github.com/friendbear/friendbear.github.io)  
-`[10/02 18:45]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`facebook`](https://github.com/friendbear/friendbear.github.io/tree/facebook) in [friendbear/friendbear.github.io](https://github.com/friendbear/friendbear.github.io)  
 
 </details>
 <!--END_SECTION:activity-->
