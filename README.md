@@ -152,7 +152,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-`[11/05 11:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
+`[11/06 14:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 `[11/05 02:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [friendbear/udemy-apache-kafka](https://github.com/friendbear/udemy-apache-kafka)  
 `[11/05 02:41]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#6`](https://github.com//friendbear/udemy-apache-kafka/pull/6 'Section6 cont.') in [friendbear/udemy-apache-kafka](https://github.com/friendbear/udemy-apache-kafka)  
 `[11/05 02:41]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#6`](https://github.com//friendbear/udemy-apache-kafka/pull/6 'Section6 cont.') in [friendbear/udemy-apache-kafka](https://github.com/friendbear/udemy-apache-kafka)  
@@ -408,7 +408,6 @@ Under constract
 `[10/02 18:47]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2`](https://github.com//friendbear/friendbear.github.io/pull/2 'Facebook') in [friendbear/friendbear.github.io](https://github.com/friendbear/friendbear.github.io)  
 `[10/02 18:45]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`facebook`](https://github.com/friendbear/friendbear.github.io/tree/facebook) in [friendbear/friendbear.github.io](https://github.com/friendbear/friendbear.github.io)  
 `[10/02 01:18]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#80`](https://github.com//TaKO8Ki/gobang/issues/80 'Connection fails when using `127.0.0.1`') in [TaKO8Ki/gobang](https://github.com/TaKO8Ki/gobang)  
-`[10/02 01:06]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#1` in <span title="Private Repo">`🔒friendbear/silver-garbanzo`</span>  
 
 </details>
 <!--END_SECTION:activity-->
