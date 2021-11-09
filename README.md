@@ -150,6 +150,9 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[11/09 10:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/plant-uml](https://github.com/friendbear/plant-uml)  
+`[11/09 10:19]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/plant-uml/tree/main) in [friendbear/plant-uml](https://github.com/friendbear/plant-uml)  
+`[11/09 10:16]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/plant-uml](https://github.com/friendbear/plant-uml)  
 `[11/09 03:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/kafka-beginners-course](https://github.com/friendbear/kafka-beginners-course)  
 `[11/09 03:48]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/t](https://github.com/friendbear/t)  
 `[11/09 03:42]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/kafka-beginners-course/tree/main) in [friendbear/kafka-beginners-course](https://github.com/friendbear/kafka-beginners-course)  
@@ -157,12 +160,12 @@ Under constract
 `[11/09 03:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole)  
 `[11/09 03:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [obsproject/obs-studio](https://github.com/obsproject/obs-studio)  
 `[11/09 03:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [questdb/questdb](https://github.com/questdb/questdb)  
-`[11/09 03:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [provectus/kafka-ui](https://github.com/provectus/kafka-ui)  
-`[11/09 03:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [confluentinc/demo-scene](https://github.com/confluentinc/demo-scene)  
-`[11/08 05:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [friendbear/udemy-apache-kafka](https://github.com/friendbear/udemy-apache-kafka)  
 
 <details><summary>Show More</summary>
 
+`[11/09 03:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [provectus/kafka-ui](https://github.com/provectus/kafka-ui)  
+`[11/09 03:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [confluentinc/demo-scene](https://github.com/confluentinc/demo-scene)  
+`[11/08 05:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [friendbear/udemy-apache-kafka](https://github.com/friendbear/udemy-apache-kafka)  
 `[11/08 05:28]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#7`](https://github.com//friendbear/udemy-apache-kafka/pull/7 'Kafka Command Line Interface 101') in [friendbear/udemy-apache-kafka](https://github.com/friendbear/udemy-apache-kafka)  
 `[11/08 05:28]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#7`](https://github.com//friendbear/udemy-apache-kafka/pull/7 'Kafka Command Line Interface 101') in [friendbear/udemy-apache-kafka](https://github.com/friendbear/udemy-apache-kafka)  
 `[11/08 05:26]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#5`](https://github.com//friendbear/udemy-apache-kafka/issues/5 'Section6: CLI 101') in [friendbear/udemy-apache-kafka](https://github.com/friendbear/udemy-apache-kafka)  
@@ -407,7 +410,6 @@ Under constract
 `[10/07 00:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#114` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[10/07 00:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [friendbear/friendbear.github.io](https://github.com/friendbear/friendbear.github.io)  
 `[10/07 00:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [nektos/act](https://github.com/nektos/act)  
-`[10/06 15:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [friendbear/friendbear.github.io](https://github.com/friendbear/friendbear.github.io)  
 
 </details>
 <!--END_SECTION:activity-->
