@@ -150,19 +150,24 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[11/09 03:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole)  
+`[11/09 03:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [obsproject/obs-studio](https://github.com/obsproject/obs-studio)  
+`[11/09 03:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [questdb/questdb](https://github.com/questdb/questdb)  
+`[11/09 03:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [provectus/kafka-ui](https://github.com/provectus/kafka-ui)  
+`[11/09 03:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [confluentinc/demo-scene](https://github.com/confluentinc/demo-scene)  
 `[11/08 05:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [friendbear/udemy-apache-kafka](https://github.com/friendbear/udemy-apache-kafka)  
 `[11/08 05:28]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#7`](https://github.com//friendbear/udemy-apache-kafka/pull/7 'Kafka Command Line Interface 101') in [friendbear/udemy-apache-kafka](https://github.com/friendbear/udemy-apache-kafka)  
 `[11/08 05:28]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#7`](https://github.com//friendbear/udemy-apache-kafka/pull/7 'Kafka Command Line Interface 101') in [friendbear/udemy-apache-kafka](https://github.com/friendbear/udemy-apache-kafka)  
 `[11/08 05:26]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#5`](https://github.com//friendbear/udemy-apache-kafka/issues/5 'Section6: CLI 101') in [friendbear/udemy-apache-kafka](https://github.com/friendbear/udemy-apache-kafka)  
 `[11/08 05:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/udemy-apache-kafka](https://github.com/friendbear/udemy-apache-kafka)  
+
+<details><summary>Show More</summary>
+
 `[11/08 05:16]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [edenhill/kcat](https://github.com/edenhill/kcat)  
 `[11/08 04:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/udemy-apache-kafka](https://github.com/friendbear/udemy-apache-kafka)  
 `[11/07 23:01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [emilk/egui](https://github.com/emilk/egui)  
 `[11/07 22:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#154` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[11/06 19:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#153` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-
-<details><summary>Show More</summary>
-
 `[11/06 18:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#152` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[11/06 14:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 `[11/05 02:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [friendbear/udemy-apache-kafka](https://github.com/friendbear/udemy-apache-kafka)  
@@ -403,11 +408,6 @@ Under constract
 `[10/05 12:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/dotfiles](https://github.com/friendbear/dotfiles)  
 `[10/05 12:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [microsoft/Git-Credential-Manager-Core](https://github.com/microsoft/Git-Credential-Manager-Core)  
 `[10/05 11:59]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rtimush/sbt-updates](https://github.com/rtimush/sbt-updates)  
-`[10/05 11:59]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)  
-`[10/05 10:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#113` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[10/05 10:05]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#68`](https://github.com//DeskPi-Team/deskpi/issues/68 'Please add support for Ubuntu Budgie 21.04') in [DeskPi-Team/deskpi](https://github.com/DeskPi-Team/deskpi)  
-`[10/05 09:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [DeskPi-Team/deskpi](https://github.com/DeskPi-Team/deskpi)  
-`[10/04 22:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#112` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 
 </details>
 <!--END_SECTION:activity-->
