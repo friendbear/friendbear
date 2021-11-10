@@ -151,7 +151,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-`[11/10 05:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/kafka-beginners-course](https://github.com/friendbear/kafka-beginners-course)  
+`[11/10 05:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/kafka-beginners-course](https://github.com/friendbear/kafka-beginners-course)  
 `[11/10 02:52]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1`](https://github.com//friendbear/kafka-beginners-course/issues/1 'Section 8: Kafka Java Programming 101') in [friendbear/kafka-beginners-course](https://github.com/friendbear/kafka-beginners-course)  
 `[11/10 02:49]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1`](https://github.com//friendbear/kafka-beginners-course/issues/1 'Section 8: Kafka Java Programming 101') in [friendbear/kafka-beginners-course](https://github.com/friendbear/kafka-beginners-course)  
 `[11/09 10:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/plant-uml](https://github.com/friendbear/plant-uml)  
@@ -411,7 +411,6 @@ Under constract
 `[10/07 02:55]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#16`](https://github.com//matchai/bird-box/pull/16 'Bump path-parse from 1.0.6 to 1.0.7') in [matchai/bird-box](https://github.com/matchai/bird-box)  
 `[10/07 02:55]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#16`](https://github.com//matchai/bird-box/issues/16 'Bump path-parse from 1.0.6 to 1.0.7') in [matchai/bird-box](https://github.com/matchai/bird-box)  
 `[10/07 02:54]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#16`](https://github.com//matchai/bird-box/pull/16 'Bump path-parse from 1.0.6 to 1.0.7') in [matchai/bird-box](https://github.com/matchai/bird-box)  
-`[10/07 00:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#114` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 
 </details>
 <!--END_SECTION:activity-->
