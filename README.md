@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - 🔑 GPP Key: F9521D94D71A2F01
 
 [![Twitter: ThraiiBraga](https://img.shields.io/twitter/follow/friendbear22?stype=social)](https://twitter.com/friendbear22)
+[![Twitter: ThraiiBraga](https://img.shields.io/twitter/follow/bearsworld22?stype=social)](https://twitter.com/bearswoorld22)
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
