@@ -151,6 +151,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[11/10 05:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/kafka-beginners-course](https://github.com/friendbear/kafka-beginners-course)  
 `[11/10 02:52]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1`](https://github.com//friendbear/kafka-beginners-course/issues/1 'Section 8: Kafka Java Programming 101') in [friendbear/kafka-beginners-course](https://github.com/friendbear/kafka-beginners-course)  
 `[11/10 02:49]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1`](https://github.com//friendbear/kafka-beginners-course/issues/1 'Section 8: Kafka Java Programming 101') in [friendbear/kafka-beginners-course](https://github.com/friendbear/kafka-beginners-course)  
 `[11/09 10:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/plant-uml](https://github.com/friendbear/plant-uml)  
@@ -160,10 +161,10 @@ Under constract
 `[11/09 03:48]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/t](https://github.com/friendbear/t)  
 `[11/09 03:42]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/kafka-beginners-course/tree/main) in [friendbear/kafka-beginners-course](https://github.com/friendbear/kafka-beginners-course)  
 `[11/09 03:42]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/kafka-beginners-course](https://github.com/friendbear/kafka-beginners-course)  
-`[11/09 03:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole)  
 
 <details><summary>Show More</summary>
 
+`[11/09 03:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole)  
 `[11/09 03:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [obsproject/obs-studio](https://github.com/obsproject/obs-studio)  
 `[11/09 03:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [questdb/questdb](https://github.com/questdb/questdb)  
 `[11/09 03:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [provectus/kafka-ui](https://github.com/provectus/kafka-ui)  
@@ -411,7 +412,6 @@ Under constract
 `[10/07 02:55]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#16`](https://github.com//matchai/bird-box/issues/16 'Bump path-parse from 1.0.6 to 1.0.7') in [matchai/bird-box](https://github.com/matchai/bird-box)  
 `[10/07 02:54]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#16`](https://github.com//matchai/bird-box/pull/16 'Bump path-parse from 1.0.6 to 1.0.7') in [matchai/bird-box](https://github.com/matchai/bird-box)  
 `[10/07 00:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#114` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[10/07 00:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/friendbear.github.io](https://github.com/friendbear/friendbear.github.io)  
 
 </details>
 <!--END_SECTION:activity-->
