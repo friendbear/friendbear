@@ -81,11 +81,12 @@ def printMe() {
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 November, 2021 - 08 November, 2021
+Week: 03 November, 2021 - 09 November, 2021
 
-Markdown   2 hrs 40 mins   ██████████████████████▓░░   90.37 % 
-Bash       15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
-YAML       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Markdown     2 hrs 22 mins   ████████████████████▒░░░░   81.91 % 
+XML          16 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+Java         12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+YAML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 ```
 <!--END_SECTION:waka-->
 
