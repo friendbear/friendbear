@@ -151,6 +151,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[11/12 04:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [canonical/multipass](https://github.com/canonical/multipass)  
 `[11/12 00:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rohit-px2/nvui](https://github.com/rohit-px2/nvui)  
 `[11/11 20:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cloudflare/wrangler](https://github.com/cloudflare/wrangler)  
 `[11/11 06:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#156` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
@@ -160,10 +161,10 @@ Under constract
 `[11/10 02:52]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1`](https://github.com//friendbear/kafka-beginners-course/issues/1 'Section 8: Kafka Java Programming 101') in [friendbear/kafka-beginners-course](https://github.com/friendbear/kafka-beginners-course)  
 `[11/10 02:49]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1`](https://github.com//friendbear/kafka-beginners-course/issues/1 'Section 8: Kafka Java Programming 101') in [friendbear/kafka-beginners-course](https://github.com/friendbear/kafka-beginners-course)  
 `[11/09 10:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/plant-uml](https://github.com/friendbear/plant-uml)  
-`[11/09 10:19]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/plant-uml/tree/main) in [friendbear/plant-uml](https://github.com/friendbear/plant-uml)  
 
 <details><summary>Show More</summary>
 
+`[11/09 10:19]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/plant-uml/tree/main) in [friendbear/plant-uml](https://github.com/friendbear/plant-uml)  
 `[11/09 10:16]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/plant-uml](https://github.com/friendbear/plant-uml)  
 `[11/09 03:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/kafka-beginners-course](https://github.com/friendbear/kafka-beginners-course)  
 `[11/09 03:48]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/t](https://github.com/friendbear/t)  
@@ -409,7 +410,6 @@ Under constract
 `[10/07 02:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/bird-box](https://github.com/friendbear/bird-box)  
 `[10/07 02:58]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2`](https://github.com//friendbear/bird-box/pull/2 'Bump path-parse from 1.0.6 to 1.0.7') in [friendbear/bird-box](https://github.com/friendbear/bird-box)  
 `[10/07 02:58]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2`](https://github.com//friendbear/bird-box/pull/2 'Bump path-parse from 1.0.6 to 1.0.7') in [friendbear/bird-box](https://github.com/friendbear/bird-box)  
-`[10/07 02:57]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/npm_and_yarn/hosted-git-info-2.8.9` from [friendbear/bird-box](https://github.com/friendbear/bird-box)  
 
 </details>
 <!--END_SECTION:activity-->
