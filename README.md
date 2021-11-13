@@ -152,6 +152,8 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[11/13 19:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#159` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
+`[11/13 19:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#158` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[11/13 12:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/kafka-beginners-course](https://github.com/friendbear/kafka-beginners-course)  
 `[11/13 09:50]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [prometheus/node_exporter](https://github.com/prometheus/node_exporter)  
 `[11/12 06:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [yeemachine/kalidokit](https://github.com/yeemachine/kalidokit)  
@@ -160,11 +162,11 @@ Under constract
 `[11/12 00:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rohit-px2/nvui](https://github.com/rohit-px2/nvui)  
 `[11/11 20:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cloudflare/wrangler](https://github.com/cloudflare/wrangler)  
 `[11/11 06:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#156` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[11/10 17:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
-`[11/10 14:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#155` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 
 <details><summary>Show More</summary>
 
+`[11/10 17:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
+`[11/10 14:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#155` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[11/10 05:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/kafka-beginners-course](https://github.com/friendbear/kafka-beginners-course)  
 `[11/10 02:52]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1`](https://github.com//friendbear/kafka-beginners-course/issues/1 'Section 8: Kafka Java Programming 101') in [friendbear/kafka-beginners-course](https://github.com/friendbear/kafka-beginners-course)  
 `[11/10 02:49]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1`](https://github.com//friendbear/kafka-beginners-course/issues/1 'Section 8: Kafka Java Programming 101') in [friendbear/kafka-beginners-course](https://github.com/friendbear/kafka-beginners-course)  
@@ -409,8 +411,6 @@ Under constract
 `[10/07 18:38]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue `#46` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[10/07 18:38]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue `#49` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[10/07 18:38]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue `#62` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[10/07 18:37]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue `#77` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[10/07 03:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/bird-box](https://github.com/friendbear/bird-box)  
 
 </details>
 <!--END_SECTION:activity-->
