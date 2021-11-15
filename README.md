@@ -152,6 +152,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[11/15 17:57]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#160` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[11/14 18:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/karin-alexa-project](https://github.com/friendbear/karin-alexa-project)  
 `[11/14 18:15]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#3`](https://github.com//friendbear/karin-alexa-project/pull/3 'Bump flask from 0.12.1 to 1.0') in [friendbear/karin-alexa-project](https://github.com/friendbear/karin-alexa-project)  
 `[11/14 18:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/karin-alexa-project](https://github.com/friendbear/karin-alexa-project)  
@@ -161,10 +162,10 @@ Under constract
 `[11/14 16:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/karin-alexa-project](https://github.com/friendbear/karin-alexa-project)  
 `[11/14 12:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [johnwheeler/flask-ask](https://github.com/johnwheeler/flask-ask)  
 `[11/14 09:19]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [elastic/kibana](https://github.com/elastic/kibana)  
-`[11/14 06:43]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/karin-alexa-project/tree/main) in [friendbear/karin-alexa-project](https://github.com/friendbear/karin-alexa-project)  
 
 <details><summary>Show More</summary>
 
+`[11/14 06:43]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/karin-alexa-project/tree/main) in [friendbear/karin-alexa-project](https://github.com/friendbear/karin-alexa-project)  
 `[11/14 06:33]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/karin-alexa-project](https://github.com/friendbear/karin-alexa-project)  
 `[11/13 19:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#159` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[11/13 19:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#158` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
@@ -410,7 +411,7 @@ Under constract
 `[10/09 04:32]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [zio/zio-prelude](https://github.com/zio/zio-prelude)  
 `[10/09 04:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/bird-box](https://github.com/friendbear/bird-box)  
 `[10/09 04:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
-`[10/08 23:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒friendbear/silver-garbanzo`</span>  
+`[10/08 23:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒friendbear/silver-garbanzo`</span>  
 
 </details>
 <!--END_SECTION:activity-->
