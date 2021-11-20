@@ -152,6 +152,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[11/20 05:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/karin-alexa-project](https://github.com/friendbear/karin-alexa-project)  
 `[11/18 09:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [twitter/hbc](https://github.com/twitter/hbc)  
 `[11/18 05:44]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/kafka-beginners/tree/main) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[11/18 05:42]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
@@ -161,10 +162,10 @@ Under constract
 `[11/14 18:15]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#3`](https://github.com//friendbear/karin-alexa-project/pull/3 'Bump flask from 0.12.1 to 1.0') in [friendbear/karin-alexa-project](https://github.com/friendbear/karin-alexa-project)  
 `[11/14 18:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/karin-alexa-project](https://github.com/friendbear/karin-alexa-project)  
 `[11/14 18:15]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2`](https://github.com//friendbear/karin-alexa-project/pull/2 'Bump pyyaml from 3.12 to 5.4') in [friendbear/karin-alexa-project](https://github.com/friendbear/karin-alexa-project)  
-`[11/14 18:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/karin-alexa-project](https://github.com/friendbear/karin-alexa-project)  
 
 <details><summary>Show More</summary>
 
+`[11/14 18:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/karin-alexa-project](https://github.com/friendbear/karin-alexa-project)  
 `[11/14 18:14]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//friendbear/karin-alexa-project/pull/1 'Bump pyopenssl from 17.0.0 to 17.5.0') in [friendbear/karin-alexa-project](https://github.com/friendbear/karin-alexa-project)  
 `[11/14 16:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/karin-alexa-project](https://github.com/friendbear/karin-alexa-project)  
 `[11/14 12:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [johnwheeler/flask-ask](https://github.com/johnwheeler/flask-ask)  
@@ -412,7 +413,6 @@ Under constract
 `[10/09 04:38]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)  
 `[10/09 04:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [hashicorp/boundary](https://github.com/hashicorp/boundary)  
 `[10/09 04:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [softwaremill/magnolia](https://github.com/softwaremill/magnolia)  
-`[10/09 04:32]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [zio/zio-prelude](https://github.com/zio/zio-prelude)  
 
 </details>
 <!--END_SECTION:activity-->
