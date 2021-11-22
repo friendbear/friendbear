@@ -152,7 +152,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-`[11/22 04:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/python-begginer](https://github.com/friendbear/python-begginer)  
+`[11/22 05:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/python-begginer](https://github.com/friendbear/python-begginer)  
 `[11/20 09:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#161` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[11/20 05:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/karin-alexa-project](https://github.com/friendbear/karin-alexa-project)  
 `[11/18 09:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [twitter/hbc](https://github.com/twitter/hbc)  
@@ -412,7 +412,6 @@ Under constract
 `[10/10 18:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/rust-coding-for-beginners](https://github.com/friendbear/rust-coding-for-beginners)  
 `[10/09 22:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [appwrite/appwrite](https://github.com/appwrite/appwrite)  
 `[10/09 15:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in <span title="Private Repo">`🔒friendbear/silver-garbanzo`</span>  
-`[10/09 04:38]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)  
 
 </details>
 <!--END_SECTION:activity-->
