@@ -152,6 +152,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[11/22 04:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/python-begginer](https://github.com/friendbear/python-begginer)  
 `[11/20 09:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#161` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[11/20 05:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/karin-alexa-project](https://github.com/friendbear/karin-alexa-project)  
 `[11/18 09:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [twitter/hbc](https://github.com/twitter/hbc)  
@@ -161,10 +162,10 @@ Under constract
 `[11/15 17:57]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#160` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[11/14 18:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/karin-alexa-project](https://github.com/friendbear/karin-alexa-project)  
 `[11/14 18:15]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#3`](https://github.com//friendbear/karin-alexa-project/pull/3 'Bump flask from 0.12.1 to 1.0') in [friendbear/karin-alexa-project](https://github.com/friendbear/karin-alexa-project)  
-`[11/14 18:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/karin-alexa-project](https://github.com/friendbear/karin-alexa-project)  
 
 <details><summary>Show More</summary>
 
+`[11/14 18:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/karin-alexa-project](https://github.com/friendbear/karin-alexa-project)  
 `[11/14 18:15]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2`](https://github.com//friendbear/karin-alexa-project/pull/2 'Bump pyyaml from 3.12 to 5.4') in [friendbear/karin-alexa-project](https://github.com/friendbear/karin-alexa-project)  
 `[11/14 18:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/karin-alexa-project](https://github.com/friendbear/karin-alexa-project)  
 `[11/14 18:14]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//friendbear/karin-alexa-project/pull/1 'Bump pyopenssl from 17.0.0 to 17.5.0') in [friendbear/karin-alexa-project](https://github.com/friendbear/karin-alexa-project)  
@@ -412,7 +413,6 @@ Under constract
 `[10/09 22:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [appwrite/appwrite](https://github.com/appwrite/appwrite)  
 `[10/09 15:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in <span title="Private Repo">`🔒friendbear/silver-garbanzo`</span>  
 `[10/09 04:38]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)  
-`[10/09 04:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [hashicorp/boundary](https://github.com/hashicorp/boundary)  
 
 </details>
 <!--END_SECTION:activity-->
