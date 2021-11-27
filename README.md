@@ -153,6 +153,8 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[11/27 14:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tesaguri/twitter-stream-rs](https://github.com/tesaguri/twitter-stream-rs)  
+`[11/27 14:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [egg-mode-rs/egg-mode](https://github.com/egg-mode-rs/egg-mode)  
 `[11/27 09:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [friendbear/iriam-event](https://github.com/friendbear/iriam-event)  
 `[11/26 07:39]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/iriam-event/tree/main) in [friendbear/iriam-event](https://github.com/friendbear/iriam-event)  
 `[11/26 07:39]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/iriam-event](https://github.com/friendbear/iriam-event)  
@@ -161,11 +163,11 @@ Under constract
 `[11/25 04:59]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/mongo-karin](https://github.com/friendbear/mongo-karin)  
 `[11/25 04:54]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/mongo-karin-/tree/main) in [friendbear/mongo-karin-](https://github.com/friendbear/mongo-karin-)  
 `[11/25 04:54]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/mongo-karin-](https://github.com/friendbear/mongo-karin-)  
-`[11/25 02:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#164` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[11/25 02:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#163` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 
 <details><summary>Show More</summary>
 
+`[11/25 02:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#164` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
+`[11/25 02:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#163` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[11/23 20:10]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rastapasta/mapscii](https://github.com/rastapasta/mapscii)  
 `[11/23 18:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#162` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[11/22 05:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/python-begginer](https://github.com/friendbear/python-begginer)  
@@ -411,8 +413,6 @@ Under constract
 `[10/12 11:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/dotfiles](https://github.com/friendbear/dotfiles)  
 `[10/12 04:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 `[10/12 04:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒friendbear/silver-garbanzo`</span>  
-`[10/12 03:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/friendbear.github.io](https://github.com/friendbear/friendbear.github.io)  
-`[10/12 00:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#120` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 
 </details>
 <!--END_SECTION:activity-->
