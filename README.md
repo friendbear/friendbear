@@ -153,6 +153,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[11/28 02:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [neovide/neovide](https://github.com/neovide/neovide)  
 `[11/27 19:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/dotfiles](https://github.com/friendbear/dotfiles)  
 `[11/27 14:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tesaguri/twitter-stream-rs](https://github.com/tesaguri/twitter-stream-rs)  
 `[11/27 14:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [egg-mode-rs/egg-mode](https://github.com/egg-mode-rs/egg-mode)  
@@ -162,10 +163,10 @@ Under constract
 `[11/26 06:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/mongo-karin](https://github.com/friendbear/mongo-karin)  
 `[11/25 05:00]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/mongo-karin/tree/main) in [friendbear/mongo-karin](https://github.com/friendbear/mongo-karin)  
 `[11/25 04:59]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/mongo-karin](https://github.com/friendbear/mongo-karin)  
-`[11/25 04:54]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/mongo-karin-/tree/main) in [friendbear/mongo-karin-](https://github.com/friendbear/mongo-karin-)  
 
 <details><summary>Show More</summary>
 
+`[11/25 04:54]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/mongo-karin-/tree/main) in [friendbear/mongo-karin-](https://github.com/friendbear/mongo-karin-)  
 `[11/25 04:54]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/mongo-karin-](https://github.com/friendbear/mongo-karin-)  
 `[11/25 02:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#164` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[11/25 02:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#163` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
@@ -413,7 +414,6 @@ Under constract
 `[10/12 14:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/rust-coding-for-beginners](https://github.com/friendbear/rust-coding-for-beginners)  
 `[10/12 11:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/dotfiles](https://github.com/friendbear/dotfiles)  
 `[10/12 04:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
-`[10/12 04:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒friendbear/silver-garbanzo`</span>  
 
 </details>
 <!--END_SECTION:activity-->
