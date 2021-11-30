@@ -82,10 +82,10 @@ def printMe() {
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 November, 2021 - 28 November, 2021
+Week: 23 November, 2021 - 29 November, 2021
 
-Rust       9 hrs 47 mins   █████████████████████▒░░░   85.04 % 
-JSON       55 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+Rust       9 hrs 47 mins   █████████████████████▒░░░   85.03 % 
+JSON       55 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
 TOML       26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
 CSV        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 Markdown   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
