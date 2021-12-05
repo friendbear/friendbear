@@ -153,7 +153,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-`[12/05 19:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/dotfiles](https://github.com/friendbear/dotfiles)  
+`[12/05 23:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/dotfiles](https://github.com/friendbear/dotfiles)  
 `[12/04 14:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[12/02 07:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [TeXitoi/structopt](https://github.com/TeXitoi/structopt)  
 `[12/02 07:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/iriam-event](https://github.com/friendbear/iriam-event)  
@@ -412,7 +412,6 @@ Under constract
 `[10/13 18:51]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [DataDog/glommio](https://github.com/DataDog/glommio)  
 `[10/13 18:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [httpie/httpie](https://github.com/httpie/httpie)  
 `[10/13 12:16]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tauri-apps/tauri](https://github.com/tauri-apps/tauri)  
-`[10/13 04:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear.github.io](https://github.com/friendbear/friendbear.github.io)  
 
 </details>
 <!--END_SECTION:activity-->
