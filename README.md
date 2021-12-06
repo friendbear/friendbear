@@ -153,6 +153,9 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[12/06 13:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/twitter-followers](https://github.com/friendbear/twitter-followers)  
+`[12/06 13:51]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/twitter-followers/tree/main) in [friendbear/twitter-followers](https://github.com/friendbear/twitter-followers)  
+`[12/06 13:50]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/twitter-followers](https://github.com/friendbear/twitter-followers)  
 `[12/06 08:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[12/05 23:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/dotfiles](https://github.com/friendbear/dotfiles)  
 `[12/04 14:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
@@ -160,12 +163,12 @@ Under constract
 `[12/02 07:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/iriam-event](https://github.com/friendbear/iriam-event)  
 `[12/01 23:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/dotfiles](https://github.com/friendbear/dotfiles)  
 `[12/01 05:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [hackerb9/lsix](https://github.com/hackerb9/lsix)  
-`[12/01 05:32]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [daleroberts/itermplot](https://github.com/daleroberts/itermplot)  
-`[11/28 07:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#165` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[11/28 02:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [neovide/neovide](https://github.com/neovide/neovide)  
 
 <details><summary>Show More</summary>
 
+`[12/01 05:32]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [daleroberts/itermplot](https://github.com/daleroberts/itermplot)  
+`[11/28 07:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#165` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
+`[11/28 02:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [neovide/neovide](https://github.com/neovide/neovide)  
 `[11/27 19:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/dotfiles](https://github.com/friendbear/dotfiles)  
 `[11/27 14:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tesaguri/twitter-stream-rs](https://github.com/tesaguri/twitter-stream-rs)  
 `[11/27 14:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [egg-mode-rs/egg-mode](https://github.com/egg-mode-rs/egg-mode)  
@@ -409,9 +412,6 @@ Under constract
 `[10/14 01:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [deepmind/neural_testbed](https://github.com/deepmind/neural_testbed)  
 `[10/14 01:01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [deepmind/alphafold](https://github.com/deepmind/alphafold)  
 `[10/13 19:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bcoe/conventional-release-labels](https://github.com/bcoe/conventional-release-labels)  
-`[10/13 18:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [yusuke/samurai](https://github.com/yusuke/samurai)  
-`[10/13 18:51]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [DataDog/glommio](https://github.com/DataDog/glommio)  
-`[10/13 18:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [httpie/httpie](https://github.com/httpie/httpie)  
 
 </details>
 <!--END_SECTION:activity-->
