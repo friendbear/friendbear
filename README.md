@@ -153,6 +153,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[12/06 19:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#166` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[12/06 13:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/twitter-followers](https://github.com/friendbear/twitter-followers)  
 `[12/06 13:51]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/twitter-followers/tree/main) in [friendbear/twitter-followers](https://github.com/friendbear/twitter-followers)  
 `[12/06 13:50]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/twitter-followers](https://github.com/friendbear/twitter-followers)  
@@ -162,10 +163,10 @@ Under constract
 `[12/02 07:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [TeXitoi/structopt](https://github.com/TeXitoi/structopt)  
 `[12/02 07:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/iriam-event](https://github.com/friendbear/iriam-event)  
 `[12/01 23:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/dotfiles](https://github.com/friendbear/dotfiles)  
-`[12/01 05:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [hackerb9/lsix](https://github.com/hackerb9/lsix)  
 
 <details><summary>Show More</summary>
 
+`[12/01 05:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [hackerb9/lsix](https://github.com/hackerb9/lsix)  
 `[12/01 05:32]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [daleroberts/itermplot](https://github.com/daleroberts/itermplot)  
 `[11/28 07:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#165` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[11/28 02:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [neovide/neovide](https://github.com/neovide/neovide)  
