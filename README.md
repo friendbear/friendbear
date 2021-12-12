@@ -153,6 +153,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[12/12 02:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[12/10 10:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#168` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[12/09 11:19]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [TechnocratSid/elastic-twitter-canvas](https://github.com/TechnocratSid/elastic-twitter-canvas) to [friendbear/elastic-twitter-canvas](https://github.com/friendbear/elastic-twitter-canvas)  
 `[12/08 13:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#167` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
@@ -162,10 +163,10 @@ Under constract
 `[12/07 21:39]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [orf/gping](https://github.com/orf/gping)  
 `[12/06 19:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#166` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[12/06 13:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/twitter-followers](https://github.com/friendbear/twitter-followers)  
-`[12/06 13:51]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/twitter-followers/tree/main) in [friendbear/twitter-followers](https://github.com/friendbear/twitter-followers)  
 
 <details><summary>Show More</summary>
 
+`[12/06 13:51]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/twitter-followers/tree/main) in [friendbear/twitter-followers](https://github.com/friendbear/twitter-followers)  
 `[12/06 13:50]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/twitter-followers](https://github.com/friendbear/twitter-followers)  
 `[12/06 08:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[12/05 23:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/dotfiles](https://github.com/friendbear/dotfiles)  
@@ -412,8 +413,6 @@ Under constract
 `[10/15 09:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#126` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[10/15 09:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 `[10/15 00:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#125` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[10/15 00:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#124` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[10/14 12:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear.github.io](https://github.com/friendbear/friendbear.github.io)  
 
 </details>
 <!--END_SECTION:activity-->
