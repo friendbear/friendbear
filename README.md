@@ -153,7 +153,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-`[12/12 02:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
+`[12/13 13:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[12/10 10:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#168` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[12/09 11:19]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [TechnocratSid/elastic-twitter-canvas](https://github.com/TechnocratSid/elastic-twitter-canvas) to [friendbear/elastic-twitter-canvas](https://github.com/friendbear/elastic-twitter-canvas)  
 `[12/08 13:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#167` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
@@ -412,7 +412,6 @@ Under constract
 `[10/15 14:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/RockScalaForBeginner](https://github.com/friendbear/RockScalaForBeginner)  
 `[10/15 09:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#126` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[10/15 09:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
-`[10/15 00:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#125` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 
 </details>
 <!--END_SECTION:activity-->
