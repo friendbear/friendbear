@@ -153,6 +153,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[12/15 18:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#170` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[12/15 17:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [friendbear/auth-service](https://github.com/friendbear/auth-service)  
 `[12/15 07:53]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/auth-service/tree/main) in [friendbear/auth-service](https://github.com/friendbear/auth-service)  
 `[12/15 07:49]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/auth-service](https://github.com/friendbear/auth-service)  
@@ -162,10 +163,10 @@ Under constract
 `[12/13 13:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[12/10 10:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#168` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[12/09 11:19]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [TechnocratSid/elastic-twitter-canvas](https://github.com/TechnocratSid/elastic-twitter-canvas) to [friendbear/elastic-twitter-canvas](https://github.com/friendbear/elastic-twitter-canvas)  
-`[12/08 13:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#167` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 
 <details><summary>Show More</summary>
 
+`[12/08 13:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#167` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[12/08 11:38]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bitnami/bitnami-docker-kafka](https://github.com/bitnami/bitnami-docker-kafka)  
 `[12/08 10:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/iriam-event](https://github.com/friendbear/iriam-event)  
 `[12/08 08:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
@@ -413,7 +414,6 @@ Under constract
 `[10/16 08:50]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#31`](https://github.com//friendbear/RockScalaForBeginner/pull/31 'scala2.12 -> 2.13') in [friendbear/RockScalaForBeginner](https://github.com/friendbear/RockScalaForBeginner)  
 `[10/16 08:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/RockScalaForBeginner](https://github.com/friendbear/RockScalaForBeginner)  
 `[10/16 02:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#127` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[10/15 18:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/RockScalaForBeginner](https://github.com/friendbear/RockScalaForBeginner)  
 
 </details>
 <!--END_SECTION:activity-->
