@@ -153,6 +153,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[12/16 05:31]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/diesel-db-posts-sample/tree/main) in [friendbear/diesel-db-posts-sample](https://github.com/friendbear/diesel-db-posts-sample)  
 `[12/16 05:31]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/diesel-db-posts-sample](https://github.com/friendbear/diesel-db-posts-sample)  
 `[12/16 05:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/auth-service](https://github.com/friendbear/auth-service)  
 `[12/16 01:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [diesel-rs/diesel](https://github.com/diesel-rs/diesel)  
@@ -162,10 +163,10 @@ Under constract
 `[12/15 07:49]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/auth-service](https://github.com/friendbear/auth-service)  
 `[12/15 07:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/iriam-event](https://github.com/friendbear/iriam-event)  
 `[12/14 22:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/dotfiles](https://github.com/friendbear/dotfiles)  
-`[12/14 00:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#169` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 
 <details><summary>Show More</summary>
 
+`[12/14 00:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#169` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[12/13 13:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[12/10 10:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#168` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[12/09 11:19]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [TechnocratSid/elastic-twitter-canvas](https://github.com/TechnocratSid/elastic-twitter-canvas) to [friendbear/elastic-twitter-canvas](https://github.com/friendbear/elastic-twitter-canvas)  
@@ -413,7 +414,6 @@ Under constract
 `[10/17 05:59]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`section8`](https://github.com/friendbear/book-of-the-Irregular-at-magic-high-school/tree/section8) in [friendbear/book-of-the-Irregular-at-magic-high-school](https://github.com/friendbear/book-of-the-Irregular-at-magic-high-school)  
 `[10/16 09:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear.github.io](https://github.com/friendbear/friendbear.github.io)  
 `[10/16 08:53]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#30`](https://github.com//friendbear/RockScalaForBeginner/issues/30 'Versionup  Scala2.13') in [friendbear/RockScalaForBeginner](https://github.com/friendbear/RockScalaForBeginner)  
-`[10/16 08:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `13` commits in [friendbear/RockScalaForBeginner](https://github.com/friendbear/RockScalaForBeginner)  
 
 </details>
 <!--END_SECTION:activity-->
