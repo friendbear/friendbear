@@ -153,6 +153,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[12/17 05:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cantino/mcfly](https://github.com/cantino/mcfly)  
 `[12/16 10:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/auth-service](https://github.com/friendbear/auth-service)  
 `[12/16 09:58]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`diesel-discussions-2979`](https://github.com/friendbear/auth-service/tree/diesel-discussions-2979) in [friendbear/auth-service](https://github.com/friendbear/auth-service)  
 `[12/16 05:31]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/diesel-db-posts-sample/tree/main) in [friendbear/diesel-db-posts-sample](https://github.com/friendbear/diesel-db-posts-sample)  
@@ -162,10 +163,10 @@ Under constract
 `[12/15 18:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#170` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[12/15 17:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [friendbear/auth-service](https://github.com/friendbear/auth-service)  
 `[12/15 07:53]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/auth-service/tree/main) in [friendbear/auth-service](https://github.com/friendbear/auth-service)  
-`[12/15 07:49]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/auth-service](https://github.com/friendbear/auth-service)  
 
 <details><summary>Show More</summary>
 
+`[12/15 07:49]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/auth-service](https://github.com/friendbear/auth-service)  
 `[12/15 07:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/iriam-event](https://github.com/friendbear/iriam-event)  
 `[12/14 22:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/dotfiles](https://github.com/friendbear/dotfiles)  
 `[12/14 00:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#169` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
@@ -413,7 +414,6 @@ Under constract
 `[10/17 06:55]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`section11`](https://github.com/friendbear/book-of-the-Irregular-at-magic-high-school/tree/section11) in [friendbear/book-of-the-Irregular-at-magic-high-school](https://github.com/friendbear/book-of-the-Irregular-at-magic-high-school)  
 `[10/17 06:24]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`section10`](https://github.com/friendbear/book-of-the-Irregular-at-magic-high-school/tree/section10) in [friendbear/book-of-the-Irregular-at-magic-high-school](https://github.com/friendbear/book-of-the-Irregular-at-magic-high-school)  
 `[10/17 06:08]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`section9`](https://github.com/friendbear/book-of-the-Irregular-at-magic-high-school/tree/section9) in [friendbear/book-of-the-Irregular-at-magic-high-school](https://github.com/friendbear/book-of-the-Irregular-at-magic-high-school)  
-`[10/17 05:59]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`section8`](https://github.com/friendbear/book-of-the-Irregular-at-magic-high-school/tree/section8) in [friendbear/book-of-the-Irregular-at-magic-high-school](https://github.com/friendbear/book-of-the-Irregular-at-magic-high-school)  
 
 </details>
 <!--END_SECTION:activity-->
