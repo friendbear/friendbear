@@ -82,13 +82,13 @@ def printMe() {
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 December, 2021 - 17 December, 2021
+Week: 12 December, 2021 - 18 December, 2021
 
-Rust             8 hrs 53 mins   ████████████████████▒░░░░   81.08 % 
-TOML             48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
-Java             20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
-Bash             19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
-GitIgnore file   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+Rust             8 hrs 53 mins   ████████████████████░░░░░   79.66 % 
+TOML             48 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+Java             23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+Bash             19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+GitIgnore file   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 ```
 <!--END_SECTION:waka-->
 
