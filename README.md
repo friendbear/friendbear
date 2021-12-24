@@ -151,6 +151,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[12/24 10:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#172` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[12/21 00:47]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [spring-projects/spring-kafka](https://github.com/spring-projects/spring-kafka)  
 `[12/19 07:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#171` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[12/17 22:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
@@ -160,10 +161,10 @@ Under constract
 `[12/16 05:31]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/diesel-db-posts-sample/tree/main) in [friendbear/diesel-db-posts-sample](https://github.com/friendbear/diesel-db-posts-sample)  
 `[12/16 05:31]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/diesel-db-posts-sample](https://github.com/friendbear/diesel-db-posts-sample)  
 `[12/16 05:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/auth-service](https://github.com/friendbear/auth-service)  
-`[12/16 01:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [diesel-rs/diesel](https://github.com/diesel-rs/diesel)  
 
 <details><summary>Show More</summary>
 
+`[12/16 01:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [diesel-rs/diesel](https://github.com/diesel-rs/diesel)  
 `[12/15 18:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#170` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[12/15 17:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [friendbear/auth-service](https://github.com/friendbear/auth-service)  
 `[12/15 07:53]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/auth-service/tree/main) in [friendbear/auth-service](https://github.com/friendbear/auth-service)  
@@ -411,7 +412,6 @@ Under constract
 `[10/17 06:56]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#4`](https://github.com//friendbear/book-of-the-Irregular-at-magic-high-school/pull/4 'fin section10') in [friendbear/book-of-the-Irregular-at-magic-high-school](https://github.com/friendbear/book-of-the-Irregular-at-magic-high-school)  
 `[10/17 06:56]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#3`](https://github.com//friendbear/book-of-the-Irregular-at-magic-high-school/pull/3 'Section9') in [friendbear/book-of-the-Irregular-at-magic-high-school](https://github.com/friendbear/book-of-the-Irregular-at-magic-high-school)  
 `[10/17 06:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/book-of-the-Irregular-at-magic-high-school](https://github.com/friendbear/book-of-the-Irregular-at-magic-high-school)  
-`[10/17 06:56]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#3`](https://github.com//friendbear/book-of-the-Irregular-at-magic-high-school/pull/3 'Section9') in [friendbear/book-of-the-Irregular-at-magic-high-school](https://github.com/friendbear/book-of-the-Irregular-at-magic-high-school)  
 
 </details>
 <!--END_SECTION:activity-->
