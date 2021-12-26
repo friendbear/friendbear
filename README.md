@@ -82,11 +82,11 @@ def printMe() {
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 December, 2021 - 24 December, 2021
+Week: 19 December, 2021 - 25 December, 2021
 
-Other            8 mins          █████████▒░░░░░░░░░░░░░░░   36.73 % 
-XML              7 mins          ████████░░░░░░░░░░░░░░░░░   32.29 % 
-Java             6 mins          ███████░░░░░░░░░░░░░░░░░░   27.69 % 
+Other   8 mins          ███████████▓░░░░░░░░░░░░░   46.92 % 
+JSON    7 mins          █████████▓░░░░░░░░░░░░░░░   39.19 % 
+Java    2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.89 % 
 ```
 <!--END_SECTION:waka-->
 
