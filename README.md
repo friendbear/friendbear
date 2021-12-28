@@ -151,6 +151,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[12/28 00:59]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [hyperium/hyper](https://github.com/hyperium/hyper)  
 `[12/28 00:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)  
 `[12/28 00:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [confluentinc/examples](https://github.com/confluentinc/examples)  
 `[12/26 19:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust)  
@@ -160,10 +161,10 @@ Under constract
 `[12/24 10:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#172` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[12/21 00:47]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [spring-projects/spring-kafka](https://github.com/spring-projects/spring-kafka)  
 `[12/19 07:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#171` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[12/17 22:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 
 <details><summary>Show More</summary>
 
+`[12/17 22:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[12/17 05:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cantino/mcfly](https://github.com/cantino/mcfly)  
 `[12/16 10:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/auth-service](https://github.com/friendbear/auth-service)  
 `[12/16 09:58]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`diesel-discussions-2979`](https://github.com/friendbear/auth-service/tree/diesel-discussions-2979) in [friendbear/auth-service](https://github.com/friendbear/auth-service)  
@@ -411,7 +412,6 @@ Under constract
 `[10/18 04:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/book-of-the-Irregular-at-magic-high-school](https://github.com/friendbear/book-of-the-Irregular-at-magic-high-school)  
 `[10/18 03:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 `[10/17 06:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/book-of-the-Irregular-at-magic-high-school](https://github.com/friendbear/book-of-the-Irregular-at-magic-high-school)  
-`[10/17 06:57]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#5`](https://github.com//friendbear/book-of-the-Irregular-at-magic-high-school/pull/5 'Section7') in [friendbear/book-of-the-Irregular-at-magic-high-school](https://github.com/friendbear/book-of-the-Irregular-at-magic-high-school)  
 
 </details>
 <!--END_SECTION:activity-->
