@@ -82,10 +82,7 @@ def printMe() {
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 December, 2021 - 31 December, 2021
-
-JSON   7 mins          ██████████████████▒░░░░░░   73.83 % 
-Java   2 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.17 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
