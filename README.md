@@ -147,19 +147,24 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[01/03 02:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [PacktPublishing/Rust-Programming-Recipies](https://github.com/PacktPublishing/Rust-Programming-Recipies)  
+`[01/03 02:46]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/rust-programming-recipes/tree/main) in [friendbear/rust-programming-recipes](https://github.com/friendbear/rust-programming-recipes)  
+`[01/03 02:46]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/rust-programming-recipes](https://github.com/friendbear/rust-programming-recipes)  
+`[01/03 02:44]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/rust-programming-recipes/tree/main) in [friendbear/rust-programming-recipes](https://github.com/friendbear/rust-programming-recipes)  
+`[01/03 02:44]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/rust-programming-recipes](https://github.com/friendbear/rust-programming-recipes)  
 `[01/03 02:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rust-lang/rust](https://github.com/rust-lang/rust)  
 `[12/28 00:59]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [hyperium/hyper](https://github.com/hyperium/hyper)  
 `[12/28 00:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)  
 `[12/28 00:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [confluentinc/examples](https://github.com/confluentinc/examples)  
 `[12/26 19:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust)  
+
+<details><summary>Show More</summary>
+
 `[12/25 03:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [spinscale/elasticsearch-ingest-opennlp](https://github.com/spinscale/elasticsearch-ingest-opennlp)  
 `[12/24 20:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX)  
 `[12/24 20:19]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [saitoha/libsixel](https://github.com/saitoha/libsixel)  
 `[12/24 10:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#172` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[12/21 00:47]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [spring-projects/spring-kafka](https://github.com/spring-projects/spring-kafka)  
-
-<details><summary>Show More</summary>
-
 `[12/19 07:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#171` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[12/17 22:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[12/17 05:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cantino/mcfly](https://github.com/cantino/mcfly)  
@@ -403,11 +408,6 @@ Under constract
 `[10/18 05:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cruise-group/profile](https://github.com/cruise-group/profile)  
 `[10/18 05:44]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`gh-pages`](https://github.com/cruise-group/profile/tree/gh-pages) in [cruise-group/profile](https://github.com/cruise-group/profile)  
 `[10/18 05:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cruise-group/profile](https://github.com/cruise-group/profile)  
-`[10/18 05:37]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/cruise-group/profile/tree/main) in [cruise-group/profile](https://github.com/cruise-group/profile)  
-`[10/18 05:37]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [cruise-group/profile](https://github.com/cruise-group/profile)  
-`[10/18 05:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
-`[10/18 04:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/book-of-the-Irregular-at-magic-high-school](https://github.com/friendbear/book-of-the-Irregular-at-magic-high-school)  
-`[10/18 03:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 
 </details>
 <!--END_SECTION:activity-->
