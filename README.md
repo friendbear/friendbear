@@ -150,7 +150,9 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-`[01/03 13:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/rust-programming-recipes](https://github.com/friendbear/rust-programming-recipes)  
+`[01/06 04:29]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`develop`](https://github.com/friendbear/rust-programming-recipes/tree/develop) in [friendbear/rust-programming-recipes](https://github.com/friendbear/rust-programming-recipes)  
+`[01/06 04:11]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1`](https://github.com//friendbear/rust-programming-recipes/issues/1 '[Section1]Handling All Kinds of Errors with Result and zoption') in [friendbear/rust-programming-recipes](https://github.com/friendbear/rust-programming-recipes)  
+`[01/06 04:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/rust-programming-recipes](https://github.com/friendbear/rust-programming-recipes)  
 `[01/03 02:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [PacktPublishing/Rust-Programming-Recipies](https://github.com/PacktPublishing/Rust-Programming-Recipies)  
 `[01/03 02:46]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/rust-programming-recipes/tree/main) in [friendbear/rust-programming-recipes](https://github.com/friendbear/rust-programming-recipes)  
 `[01/03 02:46]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/rust-programming-recipes](https://github.com/friendbear/rust-programming-recipes)  
@@ -158,11 +160,11 @@ Under constract
 `[01/03 02:44]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/rust-programming-recipes](https://github.com/friendbear/rust-programming-recipes)  
 `[01/03 02:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rust-lang/rust](https://github.com/rust-lang/rust)  
 `[12/28 00:59]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [hyperium/hyper](https://github.com/hyperium/hyper)  
-`[12/28 00:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)  
-`[12/28 00:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [confluentinc/examples](https://github.com/confluentinc/examples)  
 
 <details><summary>Show More</summary>
 
+`[12/28 00:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)  
+`[12/28 00:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [confluentinc/examples](https://github.com/confluentinc/examples)  
 `[12/26 19:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust)  
 `[12/25 03:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [spinscale/elasticsearch-ingest-opennlp](https://github.com/spinscale/elasticsearch-ingest-opennlp)  
 `[12/24 20:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX)  
@@ -408,9 +410,6 @@ Under constract
 `[10/19 02:12]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/friendbear.github.io](https://github.com/friendbear/friendbear.github.io)  
 `[10/19 01:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `0` commits in [friendbear/friendbear.github.io](https://github.com/friendbear/friendbear.github.io)  
 `[10/19 01:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [hashicorp/f5-terraform-consul-sd-webinar](https://github.com/hashicorp/f5-terraform-consul-sd-webinar)  
-`[10/18 19:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cruise-group/.github](https://github.com/cruise-group/.github)  
-`[10/18 05:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cruise-group/profile](https://github.com/cruise-group/profile)  
-`[10/18 05:44]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`gh-pages`](https://github.com/cruise-group/profile/tree/gh-pages) in [cruise-group/profile](https://github.com/cruise-group/profile)  
 
 </details>
 <!--END_SECTION:activity-->
