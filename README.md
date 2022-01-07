@@ -82,10 +82,12 @@ def printMe() {
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 December, 2021 - 05 January, 2022
+Week: 31 December, 2021 - 06 January, 2022
 
-Rust         6 mins          █████████████▒░░░░░░░░░░░   53.28 % 
-Git Config   5 mins          ███████████▒░░░░░░░░░░░░░   45.23 % 
+Rust         57 mins         ████████████████████▒░░░░   81.03 % 
+JSON         6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
+Git Config   5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+TOML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 ```
 <!--END_SECTION:waka-->
 
