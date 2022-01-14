@@ -82,12 +82,11 @@ def printMe() {
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 January, 2022 - 12 January, 2022
+Week: 07 January, 2022 - 13 January, 2022
 
-Rust         1 hr 19 mins    █████████████████▓░░░░░░░   71.12 % 
-Markdown     19 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.62 % 
-JSON         7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
-TOML         5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+Rust       27 mins         █████████████▒░░░░░░░░░░░   53.48 % 
+Markdown   19 mins         █████████▓░░░░░░░░░░░░░░░   38.14 % 
+TOML       4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
 ```
 <!--END_SECTION:waka-->
 
