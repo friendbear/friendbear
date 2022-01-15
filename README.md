@@ -82,7 +82,7 @@ def printMe() {
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 January, 2022 - 13 January, 2022
+Week: 08 January, 2022 - 14 January, 2022
 
 Rust       27 mins         █████████████▒░░░░░░░░░░░   53.48 % 
 Markdown   19 mins         █████████▓░░░░░░░░░░░░░░░   38.14 % 
