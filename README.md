@@ -147,6 +147,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[01/25 08:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#173` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[01/08 10:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/rust-programming-recipes](https://github.com/friendbear/rust-programming-recipes)  
 `[01/08 10:53]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#3`](https://github.com//friendbear/rust-programming-recipes/pull/3 'Develop') in [friendbear/rust-programming-recipes](https://github.com/friendbear/rust-programming-recipes)  
 `[01/08 10:53]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#3`](https://github.com//friendbear/rust-programming-recipes/pull/3 'Develop') in [friendbear/rust-programming-recipes](https://github.com/friendbear/rust-programming-recipes)  
@@ -156,10 +157,10 @@ Under constract
 `[01/06 06:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/rust-programming-recipes](https://github.com/friendbear/rust-programming-recipes)  
 `[01/06 04:29]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`develop`](https://github.com/friendbear/rust-programming-recipes/tree/develop) in [friendbear/rust-programming-recipes](https://github.com/friendbear/rust-programming-recipes)  
 `[01/06 04:11]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1`](https://github.com//friendbear/rust-programming-recipes/issues/1 '[Section1]Handling All Kinds of Errors with Result and zoption') in [friendbear/rust-programming-recipes](https://github.com/friendbear/rust-programming-recipes)  
-`[01/06 04:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/rust-programming-recipes](https://github.com/friendbear/rust-programming-recipes)  
 
 <details><summary>Show More</summary>
 
+`[01/06 04:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/rust-programming-recipes](https://github.com/friendbear/rust-programming-recipes)  
 `[01/03 02:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [PacktPublishing/Rust-Programming-Recipies](https://github.com/PacktPublishing/Rust-Programming-Recipies)  
 `[01/03 02:46]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/rust-programming-recipes/tree/main) in [friendbear/rust-programming-recipes](https://github.com/friendbear/rust-programming-recipes)  
 `[01/03 02:46]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/rust-programming-recipes](https://github.com/friendbear/rust-programming-recipes)  
