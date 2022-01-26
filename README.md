@@ -374,7 +374,6 @@ Under constract
 `[10/27 00:27]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue `#90` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[10/26 11:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear.github.io](https://github.com/friendbear/friendbear.github.io)  
 `[10/26 09:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#131` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[10/26 00:17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [aalmiray/sb-cli](https://github.com/aalmiray/sb-cli)  
 
 </details>
 <!--END_SECTION:activity-->
