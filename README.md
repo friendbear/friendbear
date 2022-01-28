@@ -363,14 +363,6 @@ Under constract
 `[10/27 21:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#135` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[10/27 08:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#134` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[10/27 07:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#133` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[10/27 07:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jojo2234/GreenPass-Experiments](https://github.com/jojo2234/GreenPass-Experiments)  
-`[10/27 07:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [apache/airflow](https://github.com/apache/airflow)  
-`[10/27 06:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [JuliaLang/julia](https://github.com/JuliaLang/julia)  
-`[10/27 06:56]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [commaai/openpilot](https://github.com/commaai/openpilot)  
-`[10/27 06:56]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [github/copilot-docs](https://github.com/github/copilot-docs)  
-`[10/27 06:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#132` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[10/27 06:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [apache/superset](https://github.com/apache/superset)  
-`[10/27 04:16]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [grafana/grafana](https://github.com/grafana/grafana)  
 
 </details>
 <!--END_SECTION:activity-->
