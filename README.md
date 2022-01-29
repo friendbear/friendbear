@@ -352,12 +352,6 @@ Under constract
 `[10/29 05:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#142` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[10/29 03:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#141` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[10/29 00:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#140` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[10/28 16:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cloudflare/boringtun](https://github.com/cloudflare/boringtun)  
-`[10/28 15:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#139` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[10/28 08:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#138` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[10/28 08:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#137` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[10/28 08:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ouuan/ouuan](https://github.com/ouuan/ouuan)  
-`[10/28 08:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith)  
 
 </details>
 <!--END_SECTION:activity-->
