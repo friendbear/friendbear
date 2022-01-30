@@ -349,8 +349,6 @@ Under constract
 `[10/29 16:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [etorreborre/specs2](https://github.com/etorreborre/specs2)  
 `[10/29 16:22]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lifeparticle/lifeparticle](https://github.com/lifeparticle/lifeparticle)  
 `[10/29 15:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#143` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[10/29 05:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#142` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[10/29 03:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#141` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 
 </details>
 <!--END_SECTION:activity-->
