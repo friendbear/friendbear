@@ -340,15 +340,6 @@ Under constract
 `[10/31 09:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/rust-coding-for-beginners](https://github.com/friendbear/rust-coding-for-beginners)  
 `[10/31 03:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [seratch/notion-sdk-jvm](https://github.com/seratch/notion-sdk-jvm)  
 `[10/30 03:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/rust-coding-for-beginners](https://github.com/friendbear/rust-coding-for-beginners)  
-`[10/29 20:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/dotfiles](https://github.com/friendbear/dotfiles)  
-`[10/29 19:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [graalvm/vscode-extensions](https://github.com/graalvm/vscode-extensions)  
-`[10/29 19:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lifeparticle/Python-Cheatsheet](https://github.com/lifeparticle/Python-Cheatsheet)  
-`[10/29 18:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
-`[10/29 18:44]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#10`](https://github.com//friendbear/rust-coding-for-beginners/issues/10 'Project 2: Contact manager') in [friendbear/rust-coding-for-beginners](https://github.com/friendbear/rust-coding-for-beginners)  
-`[10/29 18:39]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [github/docs](https://github.com/github/docs) to [friendbear/docs](https://github.com/friendbear/docs)  
-`[10/29 16:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [etorreborre/specs2](https://github.com/etorreborre/specs2)  
-`[10/29 16:22]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lifeparticle/lifeparticle](https://github.com/lifeparticle/lifeparticle)  
-`[10/29 15:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#143` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 
 </details>
 <!--END_SECTION:activity-->
