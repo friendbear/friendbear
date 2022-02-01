@@ -335,13 +335,6 @@ Under constract
 `[11/01 04:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [friendbear/rust-coding-for-beginners](https://github.com/friendbear/rust-coding-for-beginners)  
 `[10/31 23:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#147` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[10/31 21:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#146` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[10/31 09:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#144` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[10/31 09:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#145` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[10/31 09:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/rust-coding-for-beginners](https://github.com/friendbear/rust-coding-for-beginners)  
-`[10/31 09:15]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#11`](https://github.com//friendbear/rust-coding-for-beginners/pull/11 'Develop') in [friendbear/rust-coding-for-beginners](https://github.com/friendbear/rust-coding-for-beginners)  
-`[10/31 09:15]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#11`](https://github.com//friendbear/rust-coding-for-beginners/pull/11 'Develop') in [friendbear/rust-coding-for-beginners](https://github.com/friendbear/rust-coding-for-beginners)  
-`[10/31 09:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/rust-coding-for-beginners](https://github.com/friendbear/rust-coding-for-beginners)  
-`[10/31 03:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [seratch/notion-sdk-jvm](https://github.com/seratch/notion-sdk-jvm)  
 
 </details>
 <!--END_SECTION:activity-->
