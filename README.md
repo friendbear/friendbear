@@ -320,8 +320,6 @@ Under constract
 `[11/02 02:36]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [conduktor/kafka-stack-docker-compose](https://github.com/conduktor/kafka-stack-docker-compose)  
 `[11/02 02:17]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/udemy-apache-kafka/tree/main) in [friendbear/udemy-apache-kafka](https://github.com/friendbear/udemy-apache-kafka)  
 `[11/02 02:17]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/udemy-apache-kafka](https://github.com/friendbear/udemy-apache-kafka)  
-`[11/02 01:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mxschmitt/playwright-go](https://github.com/mxschmitt/playwright-go)  
-`[11/01 22:43]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#10`](https://github.com//friendbear/rust-coding-for-beginners/issues/10 'Project 2: Contact manager') in [friendbear/rust-coding-for-beginners](https://github.com/friendbear/rust-coding-for-beginners)  
 
 </details>
 <!--END_SECTION:activity-->
