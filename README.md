@@ -322,7 +322,6 @@ Under constract
 `[11/02 02:17]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/udemy-apache-kafka](https://github.com/friendbear/udemy-apache-kafka)  
 `[11/02 01:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mxschmitt/playwright-go](https://github.com/mxschmitt/playwright-go)  
 `[11/01 22:43]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#10`](https://github.com//friendbear/rust-coding-for-beginners/issues/10 'Project 2: Contact manager') in [friendbear/rust-coding-for-beginners](https://github.com/friendbear/rust-coding-for-beginners)  
-`[11/01 09:22]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [keycastr/keycastr](https://github.com/keycastr/keycastr)  
 
 </details>
 <!--END_SECTION:activity-->
