@@ -309,10 +309,6 @@ Under constract
 `[11/03 02:52]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#2`](https://github.com//friendbear/udemy-apache-kafka/issues/2 'Kafka Theory') in [friendbear/udemy-apache-kafka](https://github.com/friendbear/udemy-apache-kafka)  
 `[11/03 02:51]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#97`](https://github.com//conduktor/kafka-stack-docker-compose/issues/97 'Kafka Theory') in [conduktor/kafka-stack-docker-compose](https://github.com/conduktor/kafka-stack-docker-compose)  
 `[11/03 02:50]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#97`](https://github.com//conduktor/kafka-stack-docker-compose/issues/97 'Kafka Theory') in [conduktor/kafka-stack-docker-compose](https://github.com/conduktor/kafka-stack-docker-compose)  
-`[11/02 12:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#151` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[11/02 11:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#150` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[11/02 10:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#149` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[11/02 07:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#148` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 
 </details>
 <!--END_SECTION:activity-->
