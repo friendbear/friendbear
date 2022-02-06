@@ -289,11 +289,7 @@ Under constract
 `[11/07 22:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#154` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[11/06 19:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#153` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[11/06 18:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#152` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[11/06 14:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
-`[11/05 02:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [friendbear/udemy-apache-kafka](https://github.com/friendbear/udemy-apache-kafka)  
-`[11/05 02:41]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#6`](https://github.com//friendbear/udemy-apache-kafka/pull/6 'Section6 cont.') in [friendbear/udemy-apache-kafka](https://github.com/friendbear/udemy-apache-kafka)  
-`[11/05 02:41]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#6`](https://github.com//friendbear/udemy-apache-kafka/pull/6 'Section6 cont.') in [friendbear/udemy-apache-kafka](https://github.com/friendbear/udemy-apache-kafka)  
-`[11/05 02:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/udemy-apache-kafka](https://github.com/friendbear/udemy-apache-kafka)  
+`[11/06 14:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 
 </details>
 <!--END_SECTION:activity-->
