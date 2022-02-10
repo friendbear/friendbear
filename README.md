@@ -280,9 +280,6 @@ Under constract
 `[11/10 05:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/kafka-beginners-course](https://github.com/friendbear/kafka-beginners-course)  
 `[11/10 02:52]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1`](https://github.com//friendbear/kafka-beginners-course/issues/1 'Section 8: Kafka Java Programming 101') in [friendbear/kafka-beginners-course](https://github.com/friendbear/kafka-beginners-course)  
 `[11/10 02:49]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1`](https://github.com//friendbear/kafka-beginners-course/issues/1 'Section 8: Kafka Java Programming 101') in [friendbear/kafka-beginners-course](https://github.com/friendbear/kafka-beginners-course)  
-`[11/09 10:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/plant-uml](https://github.com/friendbear/plant-uml)  
-`[11/09 10:19]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/plant-uml/tree/main) in [friendbear/plant-uml](https://github.com/friendbear/plant-uml)  
-`[11/09 10:16]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/plant-uml](https://github.com/friendbear/plant-uml)  
 
 </details>
 <!--END_SECTION:activity-->
