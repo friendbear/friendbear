@@ -277,9 +277,6 @@ Under constract
 `[11/11 06:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#156` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[11/10 17:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 `[11/10 14:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#155` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[11/10 05:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/kafka-beginners-course](https://github.com/friendbear/kafka-beginners-course)  
-`[11/10 02:52]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1`](https://github.com//friendbear/kafka-beginners-course/issues/1 'Section 8: Kafka Java Programming 101') in [friendbear/kafka-beginners-course](https://github.com/friendbear/kafka-beginners-course)  
-`[11/10 02:49]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1`](https://github.com//friendbear/kafka-beginners-course/issues/1 'Section 8: Kafka Java Programming 101') in [friendbear/kafka-beginners-course](https://github.com/friendbear/kafka-beginners-course)  
 
 </details>
 <!--END_SECTION:activity-->
