@@ -272,8 +272,6 @@ Under constract
 `[11/12 06:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [yeemachine/kalidokit](https://github.com/yeemachine/kalidokit)  
 `[11/12 05:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#157` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[11/12 04:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [canonical/multipass](https://github.com/canonical/multipass)  
-`[11/12 00:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rohit-px2/nvui](https://github.com/rohit-px2/nvui)  
-`[11/11 20:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cloudflare/wrangler](https://github.com/cloudflare/wrangler)  
 
 </details>
 <!--END_SECTION:activity-->
