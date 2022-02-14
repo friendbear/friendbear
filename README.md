@@ -267,8 +267,6 @@ Under constract
 `[11/14 06:33]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/karin-alexa-project](https://github.com/friendbear/karin-alexa-project)  
 `[11/13 19:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#159` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[11/13 19:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#158` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[11/13 12:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/kafka-beginners-course](https://github.com/friendbear/kafka-beginners-course)  
-`[11/13 09:50]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [prometheus/node_exporter](https://github.com/prometheus/node_exporter)  
 
 </details>
 <!--END_SECTION:activity-->
