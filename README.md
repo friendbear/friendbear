@@ -265,8 +265,6 @@ Under constract
 `[11/14 09:19]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [elastic/kibana](https://github.com/elastic/kibana)  
 `[11/14 06:43]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/karin-alexa-project/tree/main) in [friendbear/karin-alexa-project](https://github.com/friendbear/karin-alexa-project)  
 `[11/14 06:33]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/karin-alexa-project](https://github.com/friendbear/karin-alexa-project)  
-`[11/13 19:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#159` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[11/13 19:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#158` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 
 </details>
 <!--END_SECTION:activity-->
