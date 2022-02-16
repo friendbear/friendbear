@@ -151,7 +151,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-`[02/16 01:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/python-begginer](https://github.com/friendbear/python-begginer)  
+`[02/16 01:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/python-begginer](https://github.com/friendbear/python-begginer)  
 `[02/15 03:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [wurstmeister/kafka-docker](https://github.com/wurstmeister/kafka-docker)  
 `[02/14 09:28]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1`](https://github.com//friendbear/rust-programming-recipes/issues/1 '[Section1]Handling All Kinds of Errors with Result and option') in [friendbear/rust-programming-recipes](https://github.com/friendbear/rust-programming-recipes)  
 `[02/14 09:27]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1`](https://github.com//friendbear/rust-programming-recipes/issues/1 '[Section1]Handling All Kinds of Errors with Result and option') in [friendbear/rust-programming-recipes](https://github.com/friendbear/rust-programming-recipes)  
