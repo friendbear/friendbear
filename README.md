@@ -151,6 +151,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[02/18 04:57]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#176` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[02/18 01:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `14` commits in [friendbear/python-begginer](https://github.com/friendbear/python-begginer)  
 `[02/15 03:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [wurstmeister/kafka-docker](https://github.com/wurstmeister/kafka-docker)  
 `[02/14 09:28]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1`](https://github.com//friendbear/rust-programming-recipes/issues/1 '[Section1]Handling All Kinds of Errors with Result and option') in [friendbear/rust-programming-recipes](https://github.com/friendbear/rust-programming-recipes)  
@@ -160,10 +161,10 @@ Under constract
 `[02/06 10:35]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1`](https://github.com//friendbear/rust-programming-recipes/issues/1 '[Section1]Handling All Kinds of Errors with Result and option') in [friendbear/rust-programming-recipes](https://github.com/friendbear/rust-programming-recipes)  
 `[02/06 10:34]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#5`](https://github.com//friendbear/rust-programming-recipes/issues/5 'Introducting the Failure Crate') in [friendbear/rust-programming-recipes](https://github.com/friendbear/rust-programming-recipes)  
 `[02/06 10:24]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#5`](https://github.com//friendbear/rust-programming-recipes/pull/5 'Introducting the Failure Crate') in [friendbear/rust-programming-recipes](https://github.com/friendbear/rust-programming-recipes)  
-`[02/06 10:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/rust-programming-recipes](https://github.com/friendbear/rust-programming-recipes)  
 
 <details><summary>Show More</summary>
 
+`[02/06 10:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/rust-programming-recipes](https://github.com/friendbear/rust-programming-recipes)  
 `[02/06 10:24]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#5`](https://github.com//friendbear/rust-programming-recipes/pull/5 'Introducting the Failure Crate') in [friendbear/rust-programming-recipes](https://github.com/friendbear/rust-programming-recipes)  
 `[02/06 10:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/rust-programming-recipes](https://github.com/friendbear/rust-programming-recipes)  
 `[02/06 08:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/dotfiles](https://github.com/friendbear/dotfiles)  
