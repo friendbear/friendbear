@@ -259,8 +259,6 @@ Under constract
 `[11/20 09:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#161` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[11/20 05:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/karin-alexa-project](https://github.com/friendbear/karin-alexa-project)  
 `[11/18 09:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [twitter/hbc](https://github.com/twitter/hbc)  
-`[11/18 05:44]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/kafka-beginners/tree/main) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
-`[11/18 05:42]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 
 </details>
 <!--END_SECTION:activity-->
