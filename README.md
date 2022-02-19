@@ -258,7 +258,6 @@ Under constract
 `[11/22 05:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/python-begginer](https://github.com/friendbear/python-begginer)  
 `[11/20 09:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#161` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[11/20 05:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/karin-alexa-project](https://github.com/friendbear/karin-alexa-project)  
-`[11/18 09:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [twitter/hbc](https://github.com/twitter/hbc)  
 
 </details>
 <!--END_SECTION:activity-->
