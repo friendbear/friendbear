@@ -82,9 +82,7 @@ def printMe() {
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 February, 2022 - 20 February, 2022
-
-
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
