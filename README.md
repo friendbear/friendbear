@@ -82,7 +82,10 @@ def printMe() {
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+From: 15 February, 2022 - To: 22 February, 2022
+
+Rust       10 mins         █████████████████▒░░░░░░░   69.30 % 
+TOML       4 mins          ███████▓░░░░░░░░░░░░░░░░░   30.70 % 
 ```
 <!--END_SECTION:waka-->
 
