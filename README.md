@@ -113,9 +113,6 @@ Under constract
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=friendbear alt=friendbear/> </p>
 
-
-🚀<a href="https://twitter.com/TwitterDev?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @TwitterDev</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <p algin="right">
 <a href="https://dev.to/friendbear"> 
 <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="dev to profile" width="24px"/></a>
