@@ -147,6 +147,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[02/26 00:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui)  
 `[02/25 15:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [paritytech/scripts](https://github.com/paritytech/scripts)  
 `[02/25 04:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#180` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[02/24 07:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#179` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
@@ -156,10 +157,10 @@ Under constract
 `[02/22 00:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#178` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[02/21 04:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/python-begginer](https://github.com/friendbear/python-begginer)  
 `[02/18 05:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#177` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[02/18 04:57]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#176` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 
 <details><summary>Show More</summary>
 
+`[02/18 04:57]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#176` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[02/18 01:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `14` commits in [friendbear/python-begginer](https://github.com/friendbear/python-begginer)  
 `[02/15 03:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [wurstmeister/kafka-docker](https://github.com/wurstmeister/kafka-docker)  
 `[02/14 09:28]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1`](https://github.com//friendbear/rust-programming-recipes/issues/1 '[Section1]Handling All Kinds of Errors with Result and option') in [friendbear/rust-programming-recipes](https://github.com/friendbear/rust-programming-recipes)  
