@@ -82,10 +82,12 @@ def printMe() {
 
 <!--START_SECTION:waka-->
 ```text
-From: 17 February, 2022 - To: 24 February, 2022
+From: 18 February, 2022 - To: 25 February, 2022
 
-Rust     20 mins         █████████████████░░░░░░░░   67.43 % 
-TOML     10 mins         ████████░░░░░░░░░░░░░░░░░   32.42 % 
+Rust     36 mins         ████████████▒░░░░░░░░░░░░   49.97 % 
+JSON     19 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.22 % 
+TOML     11 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+Other    4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
 ```
 <!--END_SECTION:waka-->
 
