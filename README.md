@@ -253,10 +253,6 @@ Under constract
 `[12/01 05:32]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [daleroberts/itermplot](https://github.com/daleroberts/itermplot)  
 `[11/28 07:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#165` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[11/28 02:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [neovide/neovide](https://github.com/neovide/neovide)  
-`[11/27 19:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/dotfiles](https://github.com/friendbear/dotfiles)  
-`[11/27 14:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tesaguri/twitter-stream-rs](https://github.com/tesaguri/twitter-stream-rs)  
-`[11/27 14:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [egg-mode-rs/egg-mode](https://github.com/egg-mode-rs/egg-mode)  
-`[11/27 09:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/iriam-event](https://github.com/friendbear/iriam-event)  
 
 </details>
 <!--END_SECTION:activity-->
