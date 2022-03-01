@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 <!--
 - 🔭 I’m currently working on ...
 -->
-- 🌱 I’m currently learning [Scala](https://users.scala-lang.org/u/friendbear), [Rust](https://users.rust-lang.org/u/friendbear), [Python](https://pypi.org/user/friendbear) C, C++, .NET and Bigdata, [MongoDB](https://www.mongodb.com/community/forums/u/friendbear) ... etc
+- 🌱 I’m currently learning [Scala](https://users.scala-lang.org/u/friendbear), [Rustlang](https://users.rust-lang.org/u/friendbear), [Python3](https://pypi.org/user/friendbear) C, C++, .NET and Bigdata, [MongoDB](https://www.mongodb.com/community/forums/u/friendbear) ... etc
 
 - 📫 How to reach me: [email](mailto:s8zmnonun@relay.firefox.com)
 - 🔑 GPP Key: F9521D94D71A2F01
@@ -115,7 +115,7 @@ Under constract
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=friendbear alt=friendbear/> </p>
 
-<p algin="right">
+<p algin="center">
 <a href="https://dev.to/friendbear"> 
 <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="dev to profile" width="24px"/></a>
 &emsp;
