@@ -17,6 +17,13 @@ Here are some ideas to get you started:
 
 [![Twitter: ThraiiBraga](https://img.shields.io/twitter/follow/friendbear22?stype=social)](https://twitter.com/friendbear22)
 [![Twitter: ThraiiBraga](https://img.shields.io/twitter/follow/bearsworld22?stype=social)](https://twitter.com/bearsworld22)
+
+
+### My owner Twitter Community 🐥
+
+- Let's go out to the ocean.
+- [cruise-group](https://twitter.com/i/communities/1498584754915999744)
+
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
