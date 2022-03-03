@@ -156,6 +156,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[03/03 09:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#189` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[03/03 06:17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [wasmerio/wasmer-python](https://github.com/wasmerio/wasmer-python)  
 `[03/03 03:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/friendbear.github.io](https://github.com/friendbear/friendbear.github.io)  
 `[03/03 00:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
@@ -165,10 +166,10 @@ Under constract
 `[03/02 13:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 `[03/02 08:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear.github.io](https://github.com/friendbear/friendbear.github.io)  
 `[03/02 06:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#186` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[03/02 05:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cruise-group/.github](https://github.com/cruise-group/.github)  
 
 <details><summary>Show More</summary>
 
+`[03/02 05:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cruise-group/.github](https://github.com/cruise-group/.github)  
 `[03/02 04:33]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`db5f2e8`](https://github.com/cruise-group/cruise-group/commit/db5f2e8e5985418dc2000af7a4d6f362f9b05f4c#commitcomment-67760658) in [cruise-group/cruise-group](https://github.com/cruise-group/cruise-group)  
 `[03/02 04:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cruise-group/cruise-group](https://github.com/cruise-group/cruise-group)  
 `[03/02 04:31]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`gh-pages`](https://github.com/cruise-group/cruise-group/tree/gh-pages) in [cruise-group/cruise-group](https://github.com/cruise-group/cruise-group)  
