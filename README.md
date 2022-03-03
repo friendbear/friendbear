@@ -1,6 +1,6 @@
 ## <img src="https://img.icons8.com/color/48/000000/github--v3.png"/> friendbear 
 
-### Hi there （こんにちわ）<img src="https://raw.githubusercontent.com/friendbear/friendbear/main/wave.gif" width="35px">
+### Hi there （こんにちわ）from Japan :japan: <img src="https://raw.githubusercontent.com/friendbear/friendbear/main/wave.gif" width="35px">
 
 
  ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -281,6 +281,8 @@ Under constract
 ### [smile](https://smile.amazon.com/hz/wishlist/ls/ref_=wl_list_url_friends_message>>)
 
 Hi, I was wondering if you had built a list on Amazon. I'd love to see what you really want. Could you share your list with me?--
+
+- Wish List [Amazon](https://amzn.to/3pukpja)
 
 Thanks!
 T Kumagai
