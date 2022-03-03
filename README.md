@@ -271,8 +271,6 @@ Under constract
 `[12/06 08:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[12/05 23:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/dotfiles](https://github.com/friendbear/dotfiles)  
 `[12/04 14:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
-`[12/02 07:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [TeXitoi/structopt](https://github.com/TeXitoi/structopt)  
-`[12/02 07:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/iriam-event](https://github.com/friendbear/iriam-event)  
 
 </details>
 <!--END_SECTION:activity-->
