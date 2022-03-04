@@ -1,9 +1,9 @@
 ## <img src="https://img.icons8.com/color/48/000000/github--v3.png"/> friendbear 
 <em>
-<div id="quotesWidgetTicker"></div>
+<!-- <div id="quotesWidgetTicker"></div>
 <script async type="text/javascript" data-type="quotes-widget" src="https://c.mql5.com/js/widgets/quotes/widget.js?v=1">
   {"type":"ticker","filter":["EURUSD","USDJPY","GBPUSD","AUDUSD","USDCAD","USDCHF","NZDUSD"],"width":"100%","height":50,"id":"quotesWidgetTicker"}
-</script>
+</script> -->
 </em>
 
 ### Hi there （こんにちわ）from Japan :japan: <img src="https://raw.githubusercontent.com/friendbear/friendbear/main/wave.gif" width="35px">
