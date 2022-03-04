@@ -1,6 +1,11 @@
 ## <img src="https://img.icons8.com/color/48/000000/github--v3.png"/> friendbear 
 
-
+<em>
+<script async type="text/javascript" data-type="quotes-widget"
+    src="https://c.mql5.com/js/widgets/quotes/widget.js?v=1">
+      { "type": "ticker", "filter": ["EURUSD", "USDJPY", "GBPUSD", "AUDUSD", "USDCAD", "USDCHF", "NZDUSD"], "width": "100%", "height": 50, "id": "quotesWidgetTicker" }
+    </script>
+</em>
 
 ### Hi there （こんにちわ）from Japan :japan: <img src="https://raw.githubusercontent.com/friendbear/friendbear/main/wave.gif" width="35px">
 
@@ -14,7 +19,8 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning [Scala](https://users.scala-lang.org/u/friendbear), [Rustlang](https://users.rust-lang.org/u/friendbear), [Python3](https://pypi.org/user/friendbear) C, C++, .NET and Bigdata, [MongoDB](https://www.mongodb.com/community/forums/u/friendbear) ... etc
 
-- 📫 How to reach me: [email](mailto:s8zmnonun@relay.firefox.com)
+- 📫 How to reach me: <a href="mailto:s8zmnonun@relay.firefox.com">s8zmnonun@relay.firefox.com</a> is.</p>
+
 - 🔑 GPP Key: F9521D94D71A2F01
 
 [![Twitter: ThraiiBraga](https://img.shields.io/twitter/follow/friendbear22?stype=social)](https://twitter.com/friendbear22)
@@ -39,7 +45,8 @@ My QR ![QR](asset/images/qr.png)
 
 -->
 
-
+### GitHub Markdown Reference
+<https://github.github.com/gfm/>
 
 ### A little more about me...
 ```scala
@@ -81,6 +88,10 @@ def printMe() {
 <em><b>I love coffee</b> Since 2021-10: open ko-fi shop <a href="https://ko-fi.com/friendbear">Please Access My Coffe Shop.</a>
 <a href='https://ko-fi.com/B0B15N77Q' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </em>
+
+---
+## 日本テクニカルサポートQR CODE
+ ![1000yen](asset/images/strip-coffe-1000yen.png)
 
 ---
 
