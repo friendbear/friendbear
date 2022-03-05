@@ -9,6 +9,7 @@
 
 ### Hi there （こんにちわ）from Japan :japan: <img src="https://raw.githubusercontent.com/friendbear/friendbear/main/wave.gif" width="35px">
 
+![moz://a](asset/images/mozfest-logo.svg)
 
  ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
