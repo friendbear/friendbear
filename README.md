@@ -9,7 +9,14 @@
 
 ### Hi there （こんにちわ）from Japan :japan: <img src="https://raw.githubusercontent.com/friendbear/friendbear/main/wave.gif" width="35px">
 
+---
+
 ![moz://a](asset/images/mozfest-logo.svg)
+
+Mozilla supporter 
+## <img src="asset/images/Mozilla-supporter.svg"/>
+- [My Mozilla profile](https://support.mozilla.org/en-US/user/friendbear)
+  
 
  ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -340,3 +347,5 @@ To view and share your lists, visit
 [![Update gist with latest YouTube videos](https://github.com/friendbear/youtube-box/actions/workflows/main.yml/badge.svg)](https://github.com/friendbear/youtube-box/actions/workflows/main.yml)
 
 [![wakatime](https://wakatime.com/badge/user/c9dffbdd-c073-4c7d-a529-e105c09c8423/project/2860db9f-388b-400c-95ab-51b00dbf7a82.svg)](https://wakatime.com/badge/user/c9dffbdd-c073-4c7d-a529-e105c09c8423/project/2860db9f-388b-400c-95ab-51b00dbf7a82)
+
+![mozira](asset/images/Mozilla.png)
