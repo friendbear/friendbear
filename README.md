@@ -311,7 +311,6 @@ Under constract
 `[12/06 13:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/twitter-followers](https://github.com/friendbear/twitter-followers)  
 `[12/06 13:51]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/twitter-followers/tree/main) in [friendbear/twitter-followers](https://github.com/friendbear/twitter-followers)  
 `[12/06 13:50]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/twitter-followers](https://github.com/friendbear/twitter-followers)  
-`[12/06 08:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 
 </details>
 <!--END_SECTION:activity-->
