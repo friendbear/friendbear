@@ -187,6 +187,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[03/09 04:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [barklan/inline_sql_syntax](https://github.com/barklan/inline_sql_syntax)  
 `[03/09 02:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#196` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[03/08 12:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu)  
 `[03/08 12:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lapce/lapce](https://github.com/lapce/lapce)  
@@ -196,10 +197,10 @@ Under constract
 `[03/08 09:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Excited-ccccly/markdown-mail](https://github.com/Excited-ccccly/markdown-mail)  
 `[03/08 08:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cruise-group/cruise-group](https://github.com/cruise-group/cruise-group)  
 `[03/08 08:23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [discord/workers-rs](https://github.com/discord/workers-rs)  
-`[03/08 04:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cruise-group/.github](https://github.com/cruise-group/.github)  
 
 <details><summary>Show More</summary>
 
+`[03/08 04:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cruise-group/.github](https://github.com/cruise-group/.github)  
 `[03/08 03:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/friendbear.github.io](https://github.com/friendbear/friendbear.github.io)  
 `[03/07 17:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [hyperpayorg/hardwallet](https://github.com/hyperpayorg/hardwallet)  
 `[03/07 17:36]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [PolyMeilex/Neothesia](https://github.com/PolyMeilex/Neothesia)  
