@@ -189,6 +189,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[03/11 14:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [PremChapagain/premchapagain](https://github.com/PremChapagain/premchapagain)  
 `[03/10 22:51]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [SpaceManiac/discord-rs](https://github.com/SpaceManiac/discord-rs)  
 `[03/10 17:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#199` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[03/10 06:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter)  
@@ -198,10 +199,10 @@ Under constract
 `[03/09 13:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#198` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[03/09 12:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#197` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[03/09 07:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
-`[03/09 04:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [barklan/inline_sql_syntax](https://github.com/barklan/inline_sql_syntax)  
 
 <details><summary>Show More</summary>
 
+`[03/09 04:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [barklan/inline_sql_syntax](https://github.com/barklan/inline_sql_syntax)  
 `[03/09 02:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#196` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[03/08 12:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu)  
 `[03/08 12:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lapce/lapce](https://github.com/lapce/lapce)  
