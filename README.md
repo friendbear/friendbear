@@ -189,6 +189,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[03/13 13:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#200` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[03/12 21:11]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [crisgarner/awesome-foundry](https://github.com/crisgarner/awesome-foundry)  
 `[03/12 21:06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [gakonst/foundry](https://github.com/gakonst/foundry)  
 `[03/12 20:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sayrer/twitter-text](https://github.com/sayrer/twitter-text)  
@@ -198,10 +199,10 @@ Under constract
 `[03/11 14:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [PremChapagain/premchapagain](https://github.com/PremChapagain/premchapagain)  
 `[03/10 22:51]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [SpaceManiac/discord-rs](https://github.com/SpaceManiac/discord-rs)  
 `[03/10 17:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#199` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[03/10 06:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter)  
 
 <details><summary>Show More</summary>
 
+`[03/10 06:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter)  
 `[03/09 21:24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [glauth/glauth](https://github.com/glauth/glauth)  
 `[03/09 20:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/friendbear.github.io](https://github.com/friendbear/friendbear.github.io)  
 `[03/09 19:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [MozillaReality/hubs-discord-bot](https://github.com/MozillaReality/hubs-discord-bot)  
