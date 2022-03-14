@@ -349,7 +349,6 @@ Under constract
 `[12/15 07:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/iriam-event](https://github.com/friendbear/iriam-event)  
 `[12/14 22:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/dotfiles](https://github.com/friendbear/dotfiles)  
 `[12/14 00:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#169` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[12/13 13:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 
 </details>
 <!--END_SECTION:activity-->
