@@ -189,6 +189,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[03/15 11:15]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [triggermesh/triggermesh](https://github.com/triggermesh/triggermesh)  
 `[03/15 10:34]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#7`](https://github.com//friendbear/friendbear/pull/7 'Create CODE_OF_CONDUCT.md') in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 `[03/15 10:15]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [microsoft/vscode-remote-try-rust](https://github.com/microsoft/vscode-remote-try-rust)  
 `[03/15 10:03]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`add-code-of-conduct-1`](https://github.com/friendbear/friendbear/tree/add-code-of-conduct-1) in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
@@ -198,10 +199,10 @@ Under constract
 `[03/12 21:06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [gakonst/foundry](https://github.com/gakonst/foundry)  
 `[03/12 20:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sayrer/twitter-text](https://github.com/sayrer/twitter-text)  
 `[03/12 20:24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [pest-parser/pest](https://github.com/pest-parser/pest)  
-`[03/12 20:21]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [twitter/twitter-text](https://github.com/twitter/twitter-text)  
 
 <details><summary>Show More</summary>
 
+`[03/12 20:21]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [twitter/twitter-text](https://github.com/twitter/twitter-text)  
 `[03/12 05:38]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [getsentry/sentry-cocoa](https://github.com/getsentry/sentry-cocoa)  
 `[03/11 14:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [PremChapagain/premchapagain](https://github.com/PremChapagain/premchapagain)  
 `[03/10 22:51]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [SpaceManiac/discord-rs](https://github.com/SpaceManiac/discord-rs)  
