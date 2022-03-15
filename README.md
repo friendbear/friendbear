@@ -347,7 +347,6 @@ Under constract
 `[12/15 07:53]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/auth-service/tree/main) in [friendbear/auth-service](https://github.com/friendbear/auth-service)  
 `[12/15 07:49]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/auth-service](https://github.com/friendbear/auth-service)  
 `[12/15 07:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/iriam-event](https://github.com/friendbear/iriam-event)  
-`[12/14 22:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/dotfiles](https://github.com/friendbear/dotfiles)  
 
 </details>
 <!--END_SECTION:activity-->
