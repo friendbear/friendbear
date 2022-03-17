@@ -187,6 +187,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[03/17 07:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mailhog/MailHog](https://github.com/mailhog/MailHog)  
 `[03/17 06:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#202` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[03/17 06:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [pranthiks/sendmail](https://github.com/pranthiks/sendmail)  
 `[03/17 06:25]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [pranthiks/sendmail](https://github.com/pranthiks/sendmail) to [friendbear/sendmail](https://github.com/friendbear/sendmail)  
@@ -196,10 +197,10 @@ Under constract
 `[03/15 10:34]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#7`](https://github.com//friendbear/friendbear/pull/7 'Create CODE_OF_CONDUCT.md') in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 `[03/15 10:15]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [microsoft/vscode-remote-try-rust](https://github.com/microsoft/vscode-remote-try-rust)  
 `[03/15 10:03]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`add-code-of-conduct-1`](https://github.com/friendbear/friendbear/tree/add-code-of-conduct-1) in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
-`[03/15 10:02]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#6`](https://github.com//friendbear/friendbear/issues/6 'Linkedln create company') in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 
 <details><summary>Show More</summary>
 
+`[03/15 10:02]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#6`](https://github.com//friendbear/friendbear/issues/6 'Linkedln create company') in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 `[03/13 13:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#200` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[03/12 21:11]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [crisgarner/awesome-foundry](https://github.com/crisgarner/awesome-foundry)  
 `[03/12 21:06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [gakonst/foundry](https://github.com/gakonst/foundry)  
