@@ -187,6 +187,8 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[03/17 10:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
+`[03/17 10:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/dotfiles](https://github.com/friendbear/dotfiles)  
 `[03/17 09:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear.github.io](https://github.com/friendbear/friendbear.github.io)  
 `[03/17 08:47]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#2`](https://github.com//friendbear/friendbear.github.io/pull/2 'Master') in [friendbear/friendbear.github.io](https://github.com/friendbear/friendbear.github.io)  
 `[03/17 08:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear.github.io](https://github.com/friendbear/friendbear.github.io)  
@@ -195,11 +197,11 @@ Under constract
 `[03/17 07:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mailhog/MailHog](https://github.com/mailhog/MailHog)  
 `[03/17 06:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#202` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[03/17 06:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [pranthiks/sendmail](https://github.com/pranthiks/sendmail)  
-`[03/17 06:25]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [pranthiks/sendmail](https://github.com/pranthiks/sendmail) to [friendbear/sendmail](https://github.com/friendbear/sendmail)  
-`[03/16 04:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mdn/translated-content](https://github.com/mdn/translated-content)  
 
 <details><summary>Show More</summary>
 
+`[03/17 06:25]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [pranthiks/sendmail](https://github.com/pranthiks/sendmail) to [friendbear/sendmail](https://github.com/friendbear/sendmail)  
+`[03/16 04:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mdn/translated-content](https://github.com/mdn/translated-content)  
 `[03/15 12:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#201` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[03/15 11:15]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [triggermesh/triggermesh](https://github.com/triggermesh/triggermesh)  
 `[03/15 10:34]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#7`](https://github.com//friendbear/friendbear/pull/7 'Create CODE_OF_CONDUCT.md') in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
