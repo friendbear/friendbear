@@ -120,10 +120,11 @@ def printMe() {
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 March 2022 - To: 17 March 2022
+From: 11 March 2022 - To: 18 March 2022
 
-Markdown   1 hr 29 mins    ███████████████████████▓░   94.08 %
-Other      3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+Markdown     1 hr 29 mins    ██████████████████████▒░░   88.76 %
+Scala        5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
+Other        3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
 ```
 
 <!--END_SECTION:waka-->
