@@ -59,7 +59,7 @@ My QR ![QR](asset/images/qr.png)
 -->
 
 ### GitHub Markdown Reference
-<https://github.github.com/gfm/>
+- <https://github.github.com/gfm/>
 
 ### A little more about me...
 ```scala
@@ -101,10 +101,6 @@ def printMe() {
 <em><b>I love coffee</b> Since 2021-10: open ko-fi shop <a href="https://ko-fi.com/friendbear">Please Access My Coffe Shop.</a>
 <a href='https://ko-fi.com/B0B15N77Q' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </em>
-
----
-## 日本テクニカルサポートQR CODE
- ![1000yen](asset/images/strip-coffe-1000yen.png)
 
 ---
 
