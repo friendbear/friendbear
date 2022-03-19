@@ -104,6 +104,13 @@ def printMe() {
 
 ---
 
+# Contributions
+(in the last 365 days, languages pie based on number of commits)
+
+![](./profile-3d-contrib/profile-night-green.svg)
+
+---
+
 [![Generate Snake](https://github.com/friendbear/friendbear/actions/workflows/cronjob-make-snake-picture.yml/badge.svg)](https://github.com/friendbear/friendbear/actions/workflows/cronjob-make-snake-picture.yml)
 ![snake gif](https://github.com/friendbear/friendbear/blob/output/github-contribution-grid-snake.gif)
 ## <img src="https://image.flaticon.com/icons/svg/3306/3306281.svg" width=18/> Status
