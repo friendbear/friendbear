@@ -192,19 +192,23 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[03/20 10:32]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [iuridepaula/portfolio](https://github.com/iuridepaula/portfolio) to [friendbear/portfolio](https://github.com/friendbear/portfolio)  
+`[03/20 10:32]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [iuridepaula/portfolio](https://github.com/iuridepaula/portfolio)  
+`[03/20 10:23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Cyebukayire/raspberrypi-security-camera](https://github.com/Cyebukayire/raspberrypi-security-camera)  
+`[03/20 10:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [chesslablab/redux-chess](https://github.com/chesslablab/redux-chess)  
 `[03/20 07:06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [SolaceSamples/solace-samples-mqtt](https://github.com/SolaceSamples/solace-samples-mqtt)  
 `[03/20 03:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#208` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[03/20 03:42]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [genmancoder/pwa-contacts](https://github.com/genmancoder/pwa-contacts)  
 `[03/20 02:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [R0X4R/Garud](https://github.com/R0X4R/Garud)  
 `[03/20 01:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mj-hd/dashboy](https://github.com/mj-hd/dashboy)  
 `[03/19 15:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [scala-network/TorqueGUI](https://github.com/scala-network/TorqueGUI)  
+
+<details><summary>Show More</summary>
+
 `[03/19 15:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [scala-network/GUI-miner](https://github.com/scala-network/GUI-miner)  
 `[03/19 14:51]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [scala-network/TelegramWallet](https://github.com/scala-network/TelegramWallet)  
 `[03/19 12:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 `[03/19 12:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/JavaTwitter4jSnippets](https://github.com/friendbear/JavaTwitter4jSnippets)  
-
-<details><summary>Show More</summary>
-
 `[03/19 12:11]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/JavaTwitter4jSnippets/tree/main) in [friendbear/JavaTwitter4jSnippets](https://github.com/friendbear/JavaTwitter4jSnippets)  
 `[03/19 12:11]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/JavaTwitter4jSnippets](https://github.com/friendbear/JavaTwitter4jSnippets)  
 `[03/19 07:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#207` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
