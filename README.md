@@ -123,7 +123,7 @@ def printMe() {
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 March 2022 - To: 19 March 2022
+From: 13 March 2022 - To: 20 March 2022
 
 Markdown     1 hr 29 mins    ██████████████▒░░░░░░░░░░   57.21 %
 Java         37 mins         ██████░░░░░░░░░░░░░░░░░░░   24.06 %
