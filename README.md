@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 [![Twitter: ThraiiBraga](https://img.shields.io/twitter/follow/bearsworld22?stype=social)](https://twitter.com/bearsworld22)
 
 ---
-
-[![linux-fundation-logo](/asset/images/inux-fundation-logo.png)](https://openprofile.dev/)
+## Linux Fundation ↓
+[![linux-fundation-logo](/asset/images/linux-fundation-logo.png)](https://openprofile.dev/)
 
 ---
 
