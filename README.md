@@ -201,6 +201,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[03/22 13:33]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [ryuma017/portfolio](https://github.com/ryuma017/portfolio) to [friendbear/portfolio-1](https://github.com/friendbear/portfolio-1)  
 `[03/22 12:56]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov)  
 `[03/22 11:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#210` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[03/22 11:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [pin0S/portfolios-that-pop](https://github.com/pin0S/portfolios-that-pop)  
@@ -210,10 +211,10 @@ Under constract
 `[03/22 07:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 `[03/21 12:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [omololevy/GitHub-Search](https://github.com/omololevy/GitHub-Search)  
 `[03/21 05:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
-`[03/20 10:32]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [iuridepaula/portfolio](https://github.com/iuridepaula/portfolio) to [friendbear/portfolio](https://github.com/friendbear/portfolio)  
 
 <details><summary>Show More</summary>
 
+`[03/20 10:32]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [iuridepaula/portfolio](https://github.com/iuridepaula/portfolio) to [friendbear/portfolio](https://github.com/friendbear/portfolio)  
 `[03/20 10:32]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [iuridepaula/portfolio](https://github.com/iuridepaula/portfolio)  
 `[03/20 10:23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Cyebukayire/raspberrypi-security-camera](https://github.com/Cyebukayire/raspberrypi-security-camera)  
 `[03/20 10:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [chesslablab/redux-chess](https://github.com/chesslablab/redux-chess)  
