@@ -201,19 +201,23 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[03/22 11:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#210` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
+`[03/22 11:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [pin0S/portfolios-that-pop](https://github.com/pin0S/portfolios-that-pop)  
+`[03/22 11:41]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sitkevij/hex](https://github.com/sitkevij/hex)  
+`[03/22 11:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sitkevij/no_color](https://github.com/sitkevij/no_color)  
 `[03/22 07:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#209` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[03/22 07:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 `[03/21 12:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [omololevy/GitHub-Search](https://github.com/omololevy/GitHub-Search)  
 `[03/21 05:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 `[03/20 10:32]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [iuridepaula/portfolio](https://github.com/iuridepaula/portfolio) to [friendbear/portfolio](https://github.com/friendbear/portfolio)  
 `[03/20 10:32]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [iuridepaula/portfolio](https://github.com/iuridepaula/portfolio)  
+
+<details><summary>Show More</summary>
+
 `[03/20 10:23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Cyebukayire/raspberrypi-security-camera](https://github.com/Cyebukayire/raspberrypi-security-camera)  
 `[03/20 10:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [chesslablab/redux-chess](https://github.com/chesslablab/redux-chess)  
 `[03/20 07:06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [SolaceSamples/solace-samples-mqtt](https://github.com/SolaceSamples/solace-samples-mqtt)  
 `[03/20 03:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#208` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-
-<details><summary>Show More</summary>
-
 `[03/20 03:42]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [genmancoder/pwa-contacts](https://github.com/genmancoder/pwa-contacts)  
 `[03/20 02:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [R0X4R/Garud](https://github.com/R0X4R/Garud)  
 `[03/20 01:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mj-hd/dashboy](https://github.com/mj-hd/dashboy)  
