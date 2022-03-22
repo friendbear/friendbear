@@ -108,9 +108,10 @@ def printMe() {
 </em>
 
 ---
-
 ## my codepen
-* [codepen](https://codepen.io)
+
+* [![codepen](/asset/images/odepen-logo.png)](https://codepen.io)
+
 
 # Contributions
 (in the last 365 days, languages pie based on number of commits)
