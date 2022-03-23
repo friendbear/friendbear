@@ -15,6 +15,8 @@
 
 Mozilla supporter 
 ## <img src="asset/images/Mozilla-supporter.svg"/>
+
+![mozilla](asset/images/icons8-firefox-a-free-and-open-source-web-browser-developed-by-the-mozilla-foundation-50.png)
 - [My Mozilla profile](https://support.mozilla.org/en-US/user/friendbear)
   
 
@@ -33,7 +35,7 @@ Here are some ideas to get you started:
 
 [![Twitter: ThraiiBraga](https://img.shields.io/twitter/follow/friendbear22?stype=social)](https://twitter.com/friendbear22)
 [![Twitter: ThraiiBraga](https://img.shields.io/twitter/follow/bearsworld22?stype=social)](https://twitter.com/bearsworld22)
-
+[![Twitter: ThraiiBraga](https://img.shields.io/twitter/follow/cruise_group_jp?stype=social)](https://twitter.com/cruise_group_jp)
 ---
 ## Linux Fundation ↓
 [![linux-fundation-logo](/asset/images/linux-fundation-logo.png)](https://openprofile.dev/)
@@ -153,6 +155,7 @@ Other        3 mins          ▓░░░░░░░░░░░░░░░░
 
 [![instagram badge](https://img.shields.io/badge/instagram-inductor.kela-C42D81?style=flat-square&logo=instagram)](https://www.instagram.com/inductor.kela) [![blog badge](https://img.shields.io/badge/blog-blog.inductor.me-1f425f?style=flat-square)](https://blog.inductor.me) 
 [![blog badge](https://img.shields.io/badge/speakerdeck-inductor-1f425f?style=flat-square)](https://speakerdeck.com/inductor)
+
 -->
 
 ### Experience
@@ -186,8 +189,17 @@ Under constract
 <a href="https://twitter.com/friendbear22">
 <img src="https://img.icons8.com/ios-filled/256/000000/twitter.svg" alt="twitter profile" width="26px"/></a>
 &emsp;
+<a href="https://twitter.com/bearsworld22">
+<img src="/asset/images/icon8-twitter-50.png" alt="bearsworld" width="26px"/></a>
+&emsp;
 <a href="https://stackoverflow.com/users/10924993/t-kumagai">
 <img src="https://img.icons8.com/ios/32/000000/stackoverflow.png"/>
+&emsp;
+<a href="https://community.codenewbie.org/friendbear">
+<img src="/asset/images/icon8-accuracy-50.png" alt="community" width="26px"/></a>
+&emsp;
+<a href="https://events.atlassiian.com">
+<img src="/asset/images/icon8-atlassian-50.png" alt="atlassian" width="26px"/></a>
 &emsp;
 
 
@@ -427,7 +439,8 @@ Under constract
 
 Hi, I was wondering if you had built a list on Amazon. I'd love to see what you really want. Could you share your list with me?--
 
-- Wish List [Amazon](https://amzn.to/3pukpja)
+- Wish List [Amazon US](https://amzn.to/3pukpja)
+- Wish List [Amazon JP](https://t.co/CRxwQJcXpQ)
 
 Thanks!
 T Kumagai
@@ -450,5 +463,3 @@ To view and share your lists, visit
 [![Update gist with latest YouTube videos](https://github.com/friendbear/youtube-box/actions/workflows/main.yml/badge.svg)](https://github.com/friendbear/youtube-box/actions/workflows/main.yml)
 
 [![wakatime](https://wakatime.com/badge/user/c9dffbdd-c073-4c7d-a529-e105c09c8423/project/2860db9f-388b-400c-95ab-51b00dbf7a82.svg)](https://wakatime.com/badge/user/c9dffbdd-c073-4c7d-a529-e105c09c8423/project/2860db9f-388b-400c-95ab-51b00dbf7a82)
-
-![mozira](asset/images/Mozilla.png)
