@@ -201,6 +201,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[03/23 03:24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ultrasecurity/DarkSide](https://github.com/ultrasecurity/DarkSide)  
 `[03/23 02:49]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2`](https://github.com//pin0S/portfolios-that-pop/issues/2 'Great, can we have multi-user support for portfolios?') in [pin0S/portfolios-that-pop](https://github.com/pin0S/portfolios-that-pop)  
 `[03/23 02:42]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#3`](https://github.com//omololevy/GitHub-Search/issues/3 ' I love it because I can see beautifully.  I have an idea, but I thought it would be more useful if there was an option to view multiple profiles at once, separated by delimiters, so I have added an ISSUE as an idea.  Also, a PDF export function would be great.  I would also be happy if it could be combined with GitHub Action and sent via email on a regular basis.') in [omololevy/GitHub-Search](https://github.com/omololevy/GitHub-Search)  
 `[03/22 17:47]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [SolaceSamples/solace-samples-mqtt](https://github.com/SolaceSamples/solace-samples-mqtt) to [friendbear/solace-samples-mqtt](https://github.com/friendbear/solace-samples-mqtt)  
@@ -210,10 +211,10 @@ Under constract
 `[03/22 13:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/dotfiles](https://github.com/friendbear/dotfiles)  
 `[03/22 13:33]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [ryuma017/portfolio](https://github.com/ryuma017/portfolio) to [friendbear/portfolio-1](https://github.com/friendbear/portfolio-1)  
 `[03/22 12:56]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov)  
-`[03/22 11:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#210` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 
 <details><summary>Show More</summary>
 
+`[03/22 11:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#210` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[03/22 11:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [pin0S/portfolios-that-pop](https://github.com/pin0S/portfolios-that-pop)  
 `[03/22 11:41]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sitkevij/hex](https://github.com/sitkevij/hex)  
 `[03/22 11:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sitkevij/no_color](https://github.com/sitkevij/no_color)  
