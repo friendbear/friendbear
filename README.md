@@ -68,51 +68,66 @@ My QR ![QR](asset/images/qr.png)
 ### GitHub Markdown Reference
 - <https://github.github.com/gfm/>
 
+---
+
 ### A little more about me...
-```scala
-#!/usr/bin/env amm
-import scala.io.Source
 
-trait Programmer{def programinng()}
-trait Engineer{def writting()}
-trait Manager{def communication()}
-trait FullstackEnginner { this: Programmer with Engineer with Manager =>
-    def superman()
-}
-class AboutMe(name: String, weightScale: Range, likeLocations: List[String], likeLanguages: List[String])
-object AboutMe {
-  def printAbout() {
-    println("MyName is ${name}")
-  }
-  def apply(weightScale: Range, likeLocations: List[String], likeLanguages: List[String]): AboutMe =
-    AboutMe(weightScale, likeLocations, likeLanguage)
-}
+<details><summary>CLICK ME</summary>
+<p>
 
-type ProgramData = (Int, String, String)
-def loadProgramData(): List[ProgramData] = {
-  Source.fromFile("program.csv").getLines.drop(1).map(s => {val split = s.split(',');(split(0).toInt, split(1), split(2))}).toList
-}
+#### We can hide anything, even code!
 
-@main
-def printMe() {
-  val programData = loadProgramData
-  val likeLogic = (like: String) => like match {
-    case "hybrid" | "oop" | "functional" | "el" => true
-    case _ => false
-  }
-  val likeLocations = List("Kyoto, Japan", "Shimane, 出雲大社", "Etc.")
-  val langs = for (programs <- programData.filter(p => likeLogic(p._3)) yield programs._2
-  AboutMe.apply(55 to 79, likeLocations, langs).name = "T Kumagai" printAbout
-}
-```
+    ```scala
+    #!/usr/bin/env amm
+    import scala.io.Source
+
+    trait Programmer{def programinng()}
+    trait Engineer{def writting()}
+    trait Manager{def communication()}
+    trait FullstackEnginner { this: Programmer with Engineer with Manager =>
+        def superman()
+    }
+    class AboutMe(name: String, weightScale: Range, likeLocations: List[String], likeLanguages: List[String])
+    object AboutMe {
+      def printAbout() {
+        println("MyName is ${name}")
+      }
+      def apply(weightScale: Range, likeLocations: List[String], likeLanguages: List[String]): AboutMe =
+        AboutMe(weightScale, likeLocations, likeLanguage)
+    }
+
+    type ProgramData = (Int, String, String)
+    def loadProgramData(): List[ProgramData] = {
+      Source.fromFile("program.csv").getLines.drop(1).map(s => {val split = s.split(',');(split(0).toInt, split(1), split(2))}).toList
+    }
+
+    @main
+    def printMe() {
+      val programData = loadProgramData
+      val likeLogic = (like: String) => like match {
+        case "hybrid" | "oop" | "functional" | "el" => true
+        case _ => false
+      }
+      val likeLocations = List("Kyoto, Japan", "Shimane, 出雲大社", "Etc.")
+      val langs = for (programs <- programData.filter(p => likeLogic(p._3)) yield programs._2
+      AboutMe.apply(55 to 79, likeLocations, langs).name = "T Kumagai" printAbout
+    }
+    ```
+</p>
+</details>
+
+---
+
 <em><b>I love coffee</b> Since 2021-10: open ko-fi shop <a href="https://ko-fi.com/friendbear">Please Access My Coffe Shop.</a>
 <a href='https://ko-fi.com/B0B15N77Q' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </em>
 
 ---
-## my codepen
+## my link
 
-* [![codepen](/asset/images/odepen-logo.png)](https://codepen.io)
+* codepen
+  * [![codepen](/asset/images/odepen-logo.png)](https://codepen.io)
+* [jira](https://friendbear.atlassian.net)
 
 
 # Contributions
@@ -460,7 +475,18 @@ To view and share your lists, visit
 
 😙I love Asuna from SAO. ![asna](asuna.gif)
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?@friendbear" frameborder="0"></iframe>
+---
+
+[MyLiving](https://en.wikivoyage.org/wiki/Funabashi)
+
+```geojson
+{
+  "type": "Point",
+  "coordinates": [
+    35.7333, 140.0366
+  ]
+}
+```
 
 <!-- PayPal Logo --><table border="0" cellpadding="10" cellspacing="0" align="left"><tr><td align="center"><a href="#" onclick="javascript:window.open('https://www.paypal.com/jp/webapps/mpp/logo/about','olcwhatispaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=900, height=700');"><img src="https://www.paypalobjects.com/digitalassets/c/website/marketing/apac/jp/developer/319x110_a.png" border="0" alt="ペイパル｜VISA, Mastercard, JCB, American Express, Union Pay, 銀行"></a></td></tr></table><!-- PayPal Logo -->
 
