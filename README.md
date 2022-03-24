@@ -204,16 +204,16 @@ Under constract
 <img src="https://img.icons8.com/ios-filled/256/000000/twitter.svg" alt="twitter profile" width="26px"/></a>
 &emsp;
 <a href="https://twitter.com/bearsworld22">
-<img src="/asset/images/icon8-twitter-50.png" alt="bearsworld" width="26px"/></a>
+<img src="https://raw.githubusercontent.com/friendbear/friendbear/main/asset/images/icon8-twitter-50.png" alt="bearsworld" width="26px"/></a>
 &emsp;
 <a href="https://stackoverflow.com/users/10924993/t-kumagai">
 <img src="https://img.icons8.com/ios/32/000000/stackoverflow.png"/>
 &emsp;
 <a href="https://community.codenewbie.org/friendbear">
-<img src="/asset/images/icon8-accuracy-50.png" alt="community" width="26px"/></a>
+<img src="https://raw.githubusercontent.com/friendbear/friendbear/main/asset/images/icon8-accuracy-50.png" alt="community" width="26px"/></a>
 &emsp;
 <a href="https://events.atlassiian.com">
-<img src="/asset/images/icon8-atlassian-50.png" alt="atlassian" width="26px"/></a>
+<img src="https://raw.githubusercontent.com/friendbear/friendbear/main/asset/images/icon8-atlassian-50.png" alt="atlassian" width="26px"/></a>
 &emsp;
 
 
