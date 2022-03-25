@@ -449,9 +449,6 @@ Under constract
 `[12/28 00:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [confluentinc/examples](https://github.com/confluentinc/examples)  
 `[12/26 19:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust)  
 `[12/25 03:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [spinscale/elasticsearch-ingest-opennlp](https://github.com/spinscale/elasticsearch-ingest-opennlp)  
-`[12/24 20:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX)  
-`[12/24 20:19]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [saitoha/libsixel](https://github.com/saitoha/libsixel)  
-`[12/24 10:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#172` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 
 </details>
 <!--END_SECTION:activity-->
