@@ -228,6 +228,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[03/25 13:34]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/scala3-hello-world/tree/main) in [friendbear/scala3-hello-world](https://github.com/friendbear/scala3-hello-world)  
 `[03/25 13:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/dotfiles](https://github.com/friendbear/dotfiles)  
 `[03/25 12:10]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [scala-network/XLArig](https://github.com/scala-network/XLArig)  
 `[03/24 16:38]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [forem/selfhost](https://github.com/forem/selfhost)  
@@ -237,10 +238,10 @@ Under constract
 `[03/24 10:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 `[03/24 09:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#213` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[03/24 01:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [endeavouros-team/EndeavourOS-ISO](https://github.com/endeavouros-team/EndeavourOS-ISO)  
-`[03/24 00:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [zzanehip/The-OldOS-Project](https://github.com/zzanehip/The-OldOS-Project)  
 
 <details><summary>Show More</summary>
 
+`[03/24 00:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [zzanehip/The-OldOS-Project](https://github.com/zzanehip/The-OldOS-Project)  
 `[03/23 10:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 `[03/23 08:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/hashicorp-valut-handson](https://github.com/friendbear/hashicorp-valut-handson)  
 `[03/23 08:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear.github.io](https://github.com/friendbear/friendbear.github.io)  
