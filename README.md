@@ -452,7 +452,6 @@ Under constract
 `[12/28 00:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)  
 `[12/28 00:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [confluentinc/examples](https://github.com/confluentinc/examples)  
 `[12/26 19:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust)  
-`[12/25 03:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [spinscale/elasticsearch-ingest-opennlp](https://github.com/spinscale/elasticsearch-ingest-opennlp)  
 
 </details>
 <!--END_SECTION:activity-->
