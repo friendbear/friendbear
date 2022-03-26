@@ -54,6 +54,7 @@ My QR ![QR](asset/images/qr.png)
 
 ### Usefull Link
 - [openlab](https://openlab.ncl.ac.uk/)
+- [jupyter](https://jupyter.org/)
 
 <!--
 - 👯 I’m looking to collaborate on ...
