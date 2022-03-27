@@ -228,6 +228,8 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[03/27 06:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
+`[03/27 06:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [servo/servo](https://github.com/servo/servo)  
 `[03/26 17:20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup)  
 `[03/26 17:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 `[03/26 16:59]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) to [friendbear/data-science-ipython-notebooks](https://github.com/friendbear/data-science-ipython-notebooks)  
@@ -236,11 +238,11 @@ Under constract
 `[03/26 13:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [stilliard/github-task-list-completed](https://github.com/stilliard/github-task-list-completed)  
 `[03/26 13:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/kafka-beginners-course](https://github.com/friendbear/kafka-beginners-course)  
 `[03/26 13:26]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2`](https://github.com//friendbear/kafka-beginners-course/pull/2 '[Snyk] Upgrade org.apache.kafka:kafka-clients from 3.0.0 to 3.1.0') in [friendbear/kafka-beginners-course](https://github.com/friendbear/kafka-beginners-course)  
-`[03/26 13:19]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [probot/probot](https://github.com/probot/probot)  
-`[03/26 13:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ppy/osu-wiki](https://github.com/ppy/osu-wiki)  
 
 <details><summary>Show More</summary>
 
+`[03/26 13:19]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [probot/probot](https://github.com/probot/probot)  
+`[03/26 13:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ppy/osu-wiki](https://github.com/ppy/osu-wiki)  
 `[03/26 11:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/kafka-beginners-course](https://github.com/friendbear/kafka-beginners-course)  
 `[03/26 11:19]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`snyk-upgrade-31b924133d2ae0f253d0487098a5afc9`](https://github.com/friendbear/kafka-beginners-course/tree/snyk-upgrade-31b924133d2ae0f253d0487098a5afc9) in [friendbear/kafka-beginners-course](https://github.com/friendbear/kafka-beginners-course)  
 `[03/26 06:19]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [containers/podman](https://github.com/containers/podman)  
@@ -460,8 +462,6 @@ Under constract
 `[01/03 02:46]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/rust-programming-recipes](https://github.com/friendbear/rust-programming-recipes)  
 `[01/03 02:44]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/rust-programming-recipes/tree/main) in [friendbear/rust-programming-recipes](https://github.com/friendbear/rust-programming-recipes)  
 `[01/03 02:44]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/rust-programming-recipes](https://github.com/friendbear/rust-programming-recipes)  
-`[01/03 02:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rust-lang/rust](https://github.com/rust-lang/rust)  
-`[12/28 00:59]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [hyperium/hyper](https://github.com/hyperium/hyper)  
 
 </details>
 <!--END_SECTION:activity-->
