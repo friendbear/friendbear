@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 [![Twitter: ThraiiBraga](https://img.shields.io/twitter/follow/cruise_group_jp?stype=social)](https://twitter.com/cruise_group_jp)
 ---
 ## Linux Fundation ↓
-[![linux-fundation-logo](/asset/images/linux-fundation-logo.png)](https://openprofile.dev/)
+[![linux-fundation-logo](/asset/images/linux-fundation-logo.png)](https://openprofile.dev/profile/friendbear)
 
 ---
 
@@ -78,7 +78,7 @@ My QR ![QR](asset/images/qr.png)
 
 #### We can hide anything, even code!
 
-    ```scala
+```scala
     #!/usr/bin/env amm
     import scala.io.Source
 
@@ -113,7 +113,7 @@ My QR ![QR](asset/images/qr.png)
       val langs = for (programs <- programData.filter(p => likeLogic(p._3)) yield programs._2
       AboutMe.apply(55 to 79, likeLocations, langs).name = "T Kumagai" printAbout
     }
-    ```
+```
 </p>
 </details>
 
@@ -125,7 +125,7 @@ My QR ![QR](asset/images/qr.png)
 
 ---
 ## my link
-
+* [IEEE](https://spectrum.ieee.org/u/tomohiro_kumagai)
 * [![codepen](/asset/images/odepen-logo.png)](https://codepen.io)
 * [jira](https://friendbear.atlassian.net)
 * [tecnical blog](https://friendbear.hashnode.dev/)
