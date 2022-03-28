@@ -229,6 +229,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[03/28 12:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 `[03/28 08:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[03/28 08:43]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`snyk-upgrade-8aba2205a5dc8cd0d4aa4a3c31d1966a`](https://github.com/friendbear/kafka-beginners/tree/snyk-upgrade-8aba2205a5dc8cd0d4aa4a3c31d1966a) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[03/28 08:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
@@ -238,10 +239,10 @@ Under constract
 `[03/28 08:43]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`snyk-upgrade-9c5a98ab00d335f44cac4d52fe2d67d7`](https://github.com/friendbear/kafka-beginners/tree/snyk-upgrade-9c5a98ab00d335f44cac4d52fe2d67d7) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[03/27 20:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)  
 `[03/27 06:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
-`[03/27 06:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [servo/servo](https://github.com/servo/servo)  
 
 <details><summary>Show More</summary>
 
+`[03/27 06:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [servo/servo](https://github.com/servo/servo)  
 `[03/26 17:20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup)  
 `[03/26 17:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 `[03/26 16:59]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) to [friendbear/data-science-ipython-notebooks](https://github.com/friendbear/data-science-ipython-notebooks)  
@@ -462,7 +463,6 @@ Under constract
 `[01/08 10:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [friendbear/rust-programming-recipes](https://github.com/friendbear/rust-programming-recipes)  
 `[01/06 06:29]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2`](https://github.com//friendbear/rust-programming-recipes/pull/2 'Develop') in [friendbear/rust-programming-recipes](https://github.com/friendbear/rust-programming-recipes)  
 `[01/06 06:29]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2`](https://github.com//friendbear/rust-programming-recipes/pull/2 'Develop') in [friendbear/rust-programming-recipes](https://github.com/friendbear/rust-programming-recipes)  
-`[01/06 06:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/rust-programming-recipes](https://github.com/friendbear/rust-programming-recipes)  
 
 </details>
 <!--END_SECTION:activity-->
