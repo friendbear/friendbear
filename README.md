@@ -464,7 +464,7 @@ Under constract
 `[01/08 10:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/rust-programming-recipes](https://github.com/friendbear/rust-programming-recipes)  
 `[01/08 10:53]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#3`](https://github.com//friendbear/rust-programming-recipes/pull/3 'Develop') in [friendbear/rust-programming-recipes](https://github.com/friendbear/rust-programming-recipes)  
 `[01/08 10:53]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#3`](https://github.com//friendbear/rust-programming-recipes/pull/3 'Develop') in [friendbear/rust-programming-recipes](https://github.com/friendbear/rust-programming-recipes)  
-`[01/08 10:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/rust-programming-recipes](https://github.com/friendbear/rust-programming-recipes)  
+`[01/08 10:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/rust-programming-recipes](https://github.com/friendbear/rust-programming-recipes)  
 
 </details>
 <!--END_SECTION:activity-->
