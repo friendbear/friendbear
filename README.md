@@ -229,6 +229,8 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[03/29 05:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [github/feedback](https://github.com/github/feedback)  
+`[03/29 05:23]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/semdmail-gmail-docker](https://github.com/friendbear/semdmail-gmail-docker)  
 `[03/29 03:05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Inglebard/dockerfiles](https://github.com/Inglebard/dockerfiles)  
 `[03/29 02:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#214` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[03/28 12:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
@@ -237,11 +239,11 @@ Under constract
 `[03/28 08:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[03/28 08:43]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`snyk-upgrade-810c9331f206014d26178d3b836616a7`](https://github.com/friendbear/kafka-beginners/tree/snyk-upgrade-810c9331f206014d26178d3b836616a7) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[03/28 08:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
-`[03/28 08:43]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`snyk-upgrade-9537a12d35ff5d65d5c76be7a044ec1b`](https://github.com/friendbear/kafka-beginners/tree/snyk-upgrade-9537a12d35ff5d65d5c76be7a044ec1b) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
-`[03/28 08:43]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`snyk-upgrade-9c5a98ab00d335f44cac4d52fe2d67d7`](https://github.com/friendbear/kafka-beginners/tree/snyk-upgrade-9c5a98ab00d335f44cac4d52fe2d67d7) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 
 <details><summary>Show More</summary>
 
+`[03/28 08:43]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`snyk-upgrade-9537a12d35ff5d65d5c76be7a044ec1b`](https://github.com/friendbear/kafka-beginners/tree/snyk-upgrade-9537a12d35ff5d65d5c76be7a044ec1b) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
+`[03/28 08:43]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`snyk-upgrade-9c5a98ab00d335f44cac4d52fe2d67d7`](https://github.com/friendbear/kafka-beginners/tree/snyk-upgrade-9c5a98ab00d335f44cac4d52fe2d67d7) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[03/27 20:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)  
 `[03/27 06:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 `[03/27 06:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [servo/servo](https://github.com/servo/servo)  
@@ -462,8 +464,7 @@ Under constract
 `[01/08 10:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/rust-programming-recipes](https://github.com/friendbear/rust-programming-recipes)  
 `[01/08 10:53]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#3`](https://github.com//friendbear/rust-programming-recipes/pull/3 'Develop') in [friendbear/rust-programming-recipes](https://github.com/friendbear/rust-programming-recipes)  
 `[01/08 10:53]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#3`](https://github.com//friendbear/rust-programming-recipes/pull/3 'Develop') in [friendbear/rust-programming-recipes](https://github.com/friendbear/rust-programming-recipes)  
-`[01/08 10:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [friendbear/rust-programming-recipes](https://github.com/friendbear/rust-programming-recipes)  
-`[01/06 06:29]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2`](https://github.com//friendbear/rust-programming-recipes/pull/2 'Develop') in [friendbear/rust-programming-recipes](https://github.com/friendbear/rust-programming-recipes)  
+`[01/08 10:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/rust-programming-recipes](https://github.com/friendbear/rust-programming-recipes)  
 
 </details>
 <!--END_SECTION:activity-->
