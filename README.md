@@ -225,6 +225,8 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[03/30 22:49]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [swapnakpanda/Infographics](https://github.com/swapnakpanda/Infographics) to [friendbear/Infographics](https://github.com/friendbear/Infographics)  
+`[03/30 22:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [withfig/autocomplete](https://github.com/withfig/autocomplete)  
 `[03/30 07:57]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#216` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[03/30 07:07]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [kafka-rust/kafka-rust](https://github.com/kafka-rust/kafka-rust) to [friendbear/kafka-rust](https://github.com/friendbear/kafka-rust)  
 `[03/30 07:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [kafka-rust/kafka-rust](https://github.com/kafka-rust/kafka-rust)  
@@ -233,11 +235,11 @@ Under constract
 `[03/29 10:15]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc)  
 `[03/29 05:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [github/feedback](https://github.com/github/feedback)  
 `[03/29 05:23]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/semdmail-gmail-docker](https://github.com/friendbear/semdmail-gmail-docker)  
-`[03/29 03:05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Inglebard/dockerfiles](https://github.com/Inglebard/dockerfiles)  
-`[03/29 02:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#214` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 
 <details><summary>Show More</summary>
 
+`[03/29 03:05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Inglebard/dockerfiles](https://github.com/Inglebard/dockerfiles)  
+`[03/29 02:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#214` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[03/28 12:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 `[03/28 08:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[03/28 08:43]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`snyk-upgrade-8aba2205a5dc8cd0d4aa4a3c31d1966a`](https://github.com/friendbear/kafka-beginners/tree/snyk-upgrade-8aba2205a5dc8cd0d4aa4a3c31d1966a) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
@@ -458,8 +460,6 @@ Under constract
 `[02/06 06:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/rust-programming-recipes](https://github.com/friendbear/rust-programming-recipes)  
 `[02/06 06:35]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#4`](https://github.com//friendbear/rust-programming-recipes/pull/4 'typo.') in [friendbear/rust-programming-recipes](https://github.com/friendbear/rust-programming-recipes)  
 `[02/06 06:35]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#4`](https://github.com//friendbear/rust-programming-recipes/pull/4 'typo.') in [friendbear/rust-programming-recipes](https://github.com/friendbear/rust-programming-recipes)  
-`[02/06 06:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/rust-programming-recipes](https://github.com/friendbear/rust-programming-recipes)  
-`[01/31 00:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [confluentinc/cp-demo](https://github.com/confluentinc/cp-demo)  
 
 </details>
 <!--END_SECTION:activity-->
