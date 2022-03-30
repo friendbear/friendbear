@@ -149,14 +149,10 @@ My QR ![QR](asset/images/qr.png)
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 March 2022 - To: 28 March 2022
+From: 22 March 2022 - To: 29 March 2022
 
-Bash         12 mins         ████████▓░░░░░░░░░░░░░░░░   35.09 %
-Scala        11 mins         ████████░░░░░░░░░░░░░░░░░   31.67 %
-XML          5 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.76 %
-Java         3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.03 %
-JSON         1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 %
-Text         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+Docker       35 mins         █████████░░░░░░░░░░░░░░░░   36.07 %
+Other        14 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.33 %
 ```
 
 <!--END_SECTION:waka-->
