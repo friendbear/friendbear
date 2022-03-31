@@ -225,6 +225,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[03/31 05:04]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/apache-airflow-dags](https://github.com/friendbear/apache-airflow-dags)  
 `[03/30 22:49]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [swapnakpanda/Infographics](https://github.com/swapnakpanda/Infographics) to [friendbear/Infographics](https://github.com/friendbear/Infographics)  
 `[03/30 22:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [withfig/autocomplete](https://github.com/withfig/autocomplete)  
 `[03/30 07:57]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#216` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
@@ -234,10 +235,10 @@ Under constract
 `[03/29 10:58]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#215` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[03/29 10:15]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc)  
 `[03/29 05:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [github/feedback](https://github.com/github/feedback)  
-`[03/29 05:23]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/semdmail-gmail-docker](https://github.com/friendbear/semdmail-gmail-docker)  
 
 <details><summary>Show More</summary>
 
+`[03/29 05:23]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/semdmail-gmail-docker](https://github.com/friendbear/semdmail-gmail-docker)  
 `[03/29 03:05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Inglebard/dockerfiles](https://github.com/Inglebard/dockerfiles)  
 `[03/29 02:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#214` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[03/28 12:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
@@ -459,7 +460,6 @@ Under constract
 `[02/06 08:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/dotfiles](https://github.com/friendbear/dotfiles)  
 `[02/06 06:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/rust-programming-recipes](https://github.com/friendbear/rust-programming-recipes)  
 `[02/06 06:35]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#4`](https://github.com//friendbear/rust-programming-recipes/pull/4 'typo.') in [friendbear/rust-programming-recipes](https://github.com/friendbear/rust-programming-recipes)  
-`[02/06 06:35]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#4`](https://github.com//friendbear/rust-programming-recipes/pull/4 'typo.') in [friendbear/rust-programming-recipes](https://github.com/friendbear/rust-programming-recipes)  
 
 </details>
 <!--END_SECTION:activity-->
