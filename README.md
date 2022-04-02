@@ -149,10 +149,10 @@ My QR ![QR](asset/images/qr.png)
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 March 2022 - To: 31 March 2022
+From: 25 March 2022 - To: 01 April 2022
 
-Docker       35 mins         ██████████▓░░░░░░░░░░░░░░   42.48 %
-Other        14 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.05 %
+Docker       35 mins         ███████████▓░░░░░░░░░░░░░   46.49 %
+Other        15 mins         █████░░░░░░░░░░░░░░░░░░░░   19.90 %
 ```
 
 <!--END_SECTION:waka-->
