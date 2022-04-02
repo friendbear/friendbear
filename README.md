@@ -225,6 +225,8 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[04/02 11:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bazelbuild/bazel](https://github.com/bazelbuild/bazel)  
+`[04/02 11:42]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [JetBrains/bazel-bsp](https://github.com/JetBrains/bazel-bsp)  
 `[04/02 11:28]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/scala-cli-lab/tree/main) in [friendbear/scala-cli-lab](https://github.com/friendbear/scala-cli-lab)  
 `[04/02 11:28]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/scala-cli-lab](https://github.com/friendbear/scala-cli-lab)  
 `[04/02 03:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [VirtusLab/scala-cli](https://github.com/VirtusLab/scala-cli)  
@@ -233,11 +235,11 @@ Under constract
 `[03/31 11:23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [iptv-org/iptv](https://github.com/iptv-org/iptv)  
 `[03/31 11:21]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)  
 `[03/31 05:04]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/apache-airflow-dags](https://github.com/friendbear/apache-airflow-dags)  
-`[03/30 22:49]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [swapnakpanda/Infographics](https://github.com/swapnakpanda/Infographics) to [friendbear/Infographics](https://github.com/friendbear/Infographics)  
-`[03/30 22:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [withfig/autocomplete](https://github.com/withfig/autocomplete)  
 
 <details><summary>Show More</summary>
 
+`[03/30 22:49]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [swapnakpanda/Infographics](https://github.com/swapnakpanda/Infographics) to [friendbear/Infographics](https://github.com/friendbear/Infographics)  
+`[03/30 22:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [withfig/autocomplete](https://github.com/withfig/autocomplete)  
 `[03/30 07:57]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#216` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[03/30 07:07]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [kafka-rust/kafka-rust](https://github.com/kafka-rust/kafka-rust) to [friendbear/kafka-rust](https://github.com/friendbear/kafka-rust)  
 `[03/30 07:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [kafka-rust/kafka-rust](https://github.com/kafka-rust/kafka-rust)  
@@ -458,8 +460,6 @@ Under constract
 `[02/14 09:27]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1`](https://github.com//friendbear/rust-programming-recipes/issues/1 '[Section1]Handling All Kinds of Errors with Result and option') in [friendbear/rust-programming-recipes](https://github.com/friendbear/rust-programming-recipes)  
 `[02/14 08:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#175` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[02/14 06:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#174` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[02/06 10:35]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1`](https://github.com//friendbear/rust-programming-recipes/issues/1 '[Section1]Handling All Kinds of Errors with Result and option') in [friendbear/rust-programming-recipes](https://github.com/friendbear/rust-programming-recipes)  
-`[02/06 10:34]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#5`](https://github.com//friendbear/rust-programming-recipes/issues/5 'Introducting the Failure Crate') in [friendbear/rust-programming-recipes](https://github.com/friendbear/rust-programming-recipes)  
 
 </details>
 <!--END_SECTION:activity-->
