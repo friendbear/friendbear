@@ -225,6 +225,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[04/02 01:42]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [firefox-devtools/profiler](https://github.com/firefox-devtools/profiler)  
 `[03/31 13:15]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#217` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[03/31 11:23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [iptv-org/iptv](https://github.com/iptv-org/iptv)  
 `[03/31 11:21]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)  
@@ -234,10 +235,10 @@ Under constract
 `[03/30 07:57]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#216` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[03/30 07:07]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [kafka-rust/kafka-rust](https://github.com/kafka-rust/kafka-rust) to [friendbear/kafka-rust](https://github.com/friendbear/kafka-rust)  
 `[03/30 07:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [kafka-rust/kafka-rust](https://github.com/kafka-rust/kafka-rust)  
-`[03/30 07:05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [fede1024/rust-rdkafka](https://github.com/fede1024/rust-rdkafka)  
 
 <details><summary>Show More</summary>
 
+`[03/30 07:05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [fede1024/rust-rdkafka](https://github.com/fede1024/rust-rdkafka)  
 `[03/29 10:58]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#215` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[03/29 10:15]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc)  
 `[03/29 05:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [github/feedback](https://github.com/github/feedback)  
@@ -459,7 +460,6 @@ Under constract
 `[02/06 10:24]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#5`](https://github.com//friendbear/rust-programming-recipes/pull/5 'Introducting the Failure Crate') in [friendbear/rust-programming-recipes](https://github.com/friendbear/rust-programming-recipes)  
 `[02/06 10:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/rust-programming-recipes](https://github.com/friendbear/rust-programming-recipes)  
 `[02/06 10:24]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#5`](https://github.com//friendbear/rust-programming-recipes/pull/5 'Introducting the Failure Crate') in [friendbear/rust-programming-recipes](https://github.com/friendbear/rust-programming-recipes)  
-`[02/06 10:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/rust-programming-recipes](https://github.com/friendbear/rust-programming-recipes)  
 
 </details>
 <!--END_SECTION:activity-->
