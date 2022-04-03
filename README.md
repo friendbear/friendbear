@@ -227,6 +227,9 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[04/03 14:21]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [seanmonstar/warp](https://github.com/seanmonstar/warp) to [friendbear/warp](https://github.com/friendbear/warp)  
+`[04/03 14:21]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [seanmonstar/warp](https://github.com/seanmonstar/warp)  
+`[04/03 14:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sunng87/handlebars-rust](https://github.com/sunng87/handlebars-rust)  
 `[04/03 04:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 `[04/02 13:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/scala-cli-lab](https://github.com/friendbear/scala-cli-lab)  
 `[04/02 12:23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [com-lihaoyi/mill](https://github.com/com-lihaoyi/mill)  
@@ -234,12 +237,12 @@ Under constract
 `[04/02 11:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bazelbuild/bazel](https://github.com/bazelbuild/bazel)  
 `[04/02 11:42]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [JetBrains/bazel-bsp](https://github.com/JetBrains/bazel-bsp)  
 `[04/02 11:28]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/scala-cli-lab/tree/main) in [friendbear/scala-cli-lab](https://github.com/friendbear/scala-cli-lab)  
-`[04/02 11:28]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/scala-cli-lab](https://github.com/friendbear/scala-cli-lab)  
-`[04/02 03:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [VirtusLab/scala-cli](https://github.com/VirtusLab/scala-cli)  
-`[04/02 01:42]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [firefox-devtools/profiler](https://github.com/firefox-devtools/profiler)  
 
 <details><summary>Show More</summary>
 
+`[04/02 11:28]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/scala-cli-lab](https://github.com/friendbear/scala-cli-lab)  
+`[04/02 03:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [VirtusLab/scala-cli](https://github.com/VirtusLab/scala-cli)  
+`[04/02 01:42]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [firefox-devtools/profiler](https://github.com/firefox-devtools/profiler)  
 `[03/31 13:15]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#217` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[03/31 11:23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [iptv-org/iptv](https://github.com/iptv-org/iptv)  
 `[03/31 11:21]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)  
@@ -460,8 +463,7 @@ Under constract
 `[02/21 04:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/python-begginer](https://github.com/friendbear/python-begginer)  
 `[02/18 05:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#177` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[02/18 04:57]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#176` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[02/18 01:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `14` commits in [friendbear/python-begginer](https://github.com/friendbear/python-begginer)  
-`[02/15 03:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [wurstmeister/kafka-docker](https://github.com/wurstmeister/kafka-docker)  
+`[02/18 01:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [friendbear/python-begginer](https://github.com/friendbear/python-begginer)  
 
 </details>
 <!--END_SECTION:activity-->
