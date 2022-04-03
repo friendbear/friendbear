@@ -129,6 +129,7 @@ My QR ![QR](asset/images/qr.png)
 * [![codepen](/asset/images/odepen-logo.png)](https://codepen.io)
 * [jira](https://friendbear.atlassian.net)
 * [tecnical blog](https://friendbear.hashnode.dev/)
+* [StackShare](https://stackshare.io/friendbear)
 
 # Contributions
 (in the last 365 days, languages pie based on number of commits)
