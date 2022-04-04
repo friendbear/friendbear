@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning [Scala](https://users.scala-lang.org/u/friendbear), [Rustlang](https://users.rust-lang.org/u/friendbear), [Python3](https://pypi.org/user/friendbear) C, C++, .NET and Bigdata, [MongoDB](https://www.mongodb.com/community/forums/u/friendbear) ... etc
 
-- 📫 How to reach me: <a href="mailto:s8zmnonun@relay.firefox.com">s8zmnonun@relay.firefox.com</a> is.</p>
+- 📫 How to reach me: <a href="mailto:a11mpl0ax@relay.firefox.com">a11mpl0ax@relay.firefox.com</a> is.</p>
 
 - 🔑 GPP Key: F9521D94D71A2F01
 
