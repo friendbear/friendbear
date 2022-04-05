@@ -470,7 +470,7 @@ Under constract
 `[02/21 04:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/python-begginer](https://github.com/friendbear/python-begginer)  
 `[02/18 05:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#177` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[02/18 04:57]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#176` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[02/18 01:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/python-begginer](https://github.com/friendbear/python-begginer)  
+`[02/18 01:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/python-begginer](https://github.com/friendbear/python-begginer)  
 
 </details>
 <!--END_SECTION:activity-->
