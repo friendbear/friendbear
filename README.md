@@ -227,6 +227,8 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[04/05 06:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tomtom-international/postman-collections](https://github.com/tomtom-international/postman-collections)  
+`[04/05 06:01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tomtom-international/grafana-inviter](https://github.com/tomtom-international/grafana-inviter)  
 `[04/05 06:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tomtom-international/configuration-service](https://github.com/tomtom-international/configuration-service)  
 `[04/05 05:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tomtom-international/kotlin-tools](https://github.com/tomtom-international/kotlin-tools)  
 `[04/04 05:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash)  
@@ -235,11 +237,11 @@ Under constract
 `[04/03 14:21]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [seanmonstar/warp](https://github.com/seanmonstar/warp) to [friendbear/warp](https://github.com/friendbear/warp)  
 `[04/03 14:21]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [seanmonstar/warp](https://github.com/seanmonstar/warp)  
 `[04/03 14:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sunng87/handlebars-rust](https://github.com/sunng87/handlebars-rust)  
-`[04/03 04:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
-`[04/02 13:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/scala-cli-lab](https://github.com/friendbear/scala-cli-lab)  
 
 <details><summary>Show More</summary>
 
+`[04/03 04:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
+`[04/02 13:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/scala-cli-lab](https://github.com/friendbear/scala-cli-lab)  
 `[04/02 12:23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [com-lihaoyi/mill](https://github.com/com-lihaoyi/mill)  
 `[04/02 12:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [build-server-protocol/build-server-protocol](https://github.com/build-server-protocol/build-server-protocol)  
 `[04/02 11:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bazelbuild/bazel](https://github.com/bazelbuild/bazel)  
@@ -468,7 +470,7 @@ Under constract
 `[02/21 04:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/python-begginer](https://github.com/friendbear/python-begginer)  
 `[02/18 05:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#177` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[02/18 04:57]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#176` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[02/18 01:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [friendbear/python-begginer](https://github.com/friendbear/python-begginer)  
+`[02/18 01:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/python-begginer](https://github.com/friendbear/python-begginer)  
 
 </details>
 <!--END_SECTION:activity-->
