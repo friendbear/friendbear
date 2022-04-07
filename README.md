@@ -150,7 +150,7 @@ My QR ![QR](asset/images/qr.png)
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 March 2022 - To: 05 April 2022
+From: 30 March 2022 - To: 06 April 2022
 
 Scala        20 mins         ███████████▓░░░░░░░░░░░░░   47.09 %
 Python       8 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.95 %
