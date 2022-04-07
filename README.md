@@ -47,6 +47,10 @@ Here are some ideas to get you started:
 My QR ![QR](asset/images/qr.png)
 
 
+### Web3 My Profile
+
+- [getcoin](https://gitcoin.co/friendbear)
+
 ### My owner Twitter Community 🐥
 
 - Let's go out to the ocean.
