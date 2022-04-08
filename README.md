@@ -232,6 +232,8 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[04/08 06:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [keybase/client](https://github.com/keybase/client)  
+`[04/08 06:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd)  
 `[04/07 22:21]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [warpdotdev/Warp](https://github.com/warpdotdev/Warp)  
 `[04/07 15:11]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [saulpw/visidata](https://github.com/saulpw/visidata)  
 `[04/07 13:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
@@ -240,11 +242,11 @@ Under constract
 `[04/07 12:05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [kumahq/kuma](https://github.com/kumahq/kuma)  
 `[04/07 11:36]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [containerd/containerd](https://github.com/containerd/containerd)  
 `[04/07 11:14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cilium/cilium](https://github.com/cilium/cilium)  
-`[04/07 10:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [horsicq/XPEViewer](https://github.com/horsicq/XPEViewer)  
-`[04/07 07:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [infosecn1nja/Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit)  
 
 <details><summary>Show More</summary>
 
+`[04/07 10:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [horsicq/XPEViewer](https://github.com/horsicq/XPEViewer)  
+`[04/07 07:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [infosecn1nja/Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit)  
 `[04/07 06:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [pranshu05/Elpha](https://github.com/pranshu05/Elpha)  
 `[04/07 04:25]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/Hashnode](https://github.com/friendbear/Hashnode)  
 `[04/06 02:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [xcodebuild/CodeTerminal](https://github.com/xcodebuild/CodeTerminal)  
@@ -478,8 +480,6 @@ Under constract
 `[02/26 03:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#181` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[02/26 03:20]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#954`](https://github.com//Rigellute/spotify-tui/issues/954 'About changing the redirect URL.') in [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui)  
 `[02/26 00:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui)  
-`[02/25 15:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [paritytech/scripts](https://github.com/paritytech/scripts)  
-`[02/25 04:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#180` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 
 </details>
 <!--END_SECTION:activity-->
