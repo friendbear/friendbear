@@ -232,6 +232,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[04/10 04:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [volcano-sh/volcano](https://github.com/volcano-sh/volcano)  
 `[04/09 16:49]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [thirdweb-dev/examples](https://github.com/thirdweb-dev/examples) to [friendbear/examples](https://github.com/friendbear/examples)  
 `[04/09 16:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [thirdweb-dev/examples](https://github.com/thirdweb-dev/examples)  
 `[04/09 13:47]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#2`](https://github.com//friendbear/100days-of-code-confluent-cloud-kafka/issues/2 'dependencies errors') in [friendbear/100days-of-code-confluent-cloud-kafka](https://github.com/friendbear/100days-of-code-confluent-cloud-kafka)  
@@ -241,10 +242,10 @@ Under constract
 `[04/09 13:12]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/100days-of-code-confluent-cloud-kafka](https://github.com/friendbear/100days-of-code-confluent-cloud-kafka)  
 `[04/09 08:59]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [StatisticsNZ/simplevis](https://github.com/StatisticsNZ/simplevis)  
 `[04/09 03:17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [darkquasar/AzureHunter](https://github.com/darkquasar/AzureHunter)  
-`[04/08 16:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [singularity-data/risingwave](https://github.com/singularity-data/risingwave)  
 
 <details><summary>Show More</summary>
 
+`[04/08 16:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [singularity-data/risingwave](https://github.com/singularity-data/risingwave)  
 `[04/08 06:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [keybase/client](https://github.com/keybase/client)  
 `[04/08 06:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd)  
 `[04/07 22:21]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [warpdotdev/Warp](https://github.com/warpdotdev/Warp)  
