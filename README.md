@@ -232,6 +232,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[04/10 08:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#219` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[04/10 06:47]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech)  
 `[04/10 04:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [volcano-sh/volcano](https://github.com/volcano-sh/volcano)  
 `[04/09 16:49]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [thirdweb-dev/examples](https://github.com/thirdweb-dev/examples) to [friendbear/examples](https://github.com/friendbear/examples)  
@@ -241,10 +242,10 @@ Under constract
 `[04/09 13:41]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`develop`](https://github.com/friendbear/100days-of-code-confluent-cloud-kafka/tree/develop) in [friendbear/100days-of-code-confluent-cloud-kafka](https://github.com/friendbear/100days-of-code-confluent-cloud-kafka)  
 `[04/09 13:32]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/100days-of-code-confluent-cloud-kafka/tree/main) in [friendbear/100days-of-code-confluent-cloud-kafka](https://github.com/friendbear/100days-of-code-confluent-cloud-kafka)  
 `[04/09 13:12]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/100days-of-code-confluent-cloud-kafka](https://github.com/friendbear/100days-of-code-confluent-cloud-kafka)  
-`[04/09 08:59]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [StatisticsNZ/simplevis](https://github.com/StatisticsNZ/simplevis)  
 
 <details><summary>Show More</summary>
 
+`[04/09 08:59]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [StatisticsNZ/simplevis](https://github.com/StatisticsNZ/simplevis)  
 `[04/09 03:17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [darkquasar/AzureHunter](https://github.com/darkquasar/AzureHunter)  
 `[04/08 16:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [singularity-data/risingwave](https://github.com/singularity-data/risingwave)  
 `[04/08 06:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [keybase/client](https://github.com/keybase/client)  
@@ -481,7 +482,6 @@ Under constract
 `[03/02 04:30]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/cruise-group/cruise-group/tree/main) in [cruise-group/cruise-group](https://github.com/cruise-group/cruise-group)  
 `[03/02 04:30]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [cruise-group/cruise-group](https://github.com/cruise-group/cruise-group)  
 `[03/02 03:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cruise-group/.github](https://github.com/cruise-group/.github)  
-`[03/02 03:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 
 </details>
 <!--END_SECTION:activity-->
