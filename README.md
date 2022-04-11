@@ -232,6 +232,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[04/11 17:19]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [zellij-org/zellij](https://github.com/zellij-org/zellij)  
 `[04/11 13:58]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#220` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[04/11 13:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [adamchalmers/dingo](https://github.com/adamchalmers/dingo)  
 `[04/11 12:59]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bitvecto-rs/bitvec](https://github.com/bitvecto-rs/bitvec)  
@@ -241,10 +242,10 @@ Under constract
 `[04/10 08:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#219` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[04/10 06:47]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech)  
 `[04/10 04:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [volcano-sh/volcano](https://github.com/volcano-sh/volcano)  
-`[04/09 16:49]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [thirdweb-dev/examples](https://github.com/thirdweb-dev/examples) to [friendbear/examples](https://github.com/friendbear/examples)  
 
 <details><summary>Show More</summary>
 
+`[04/09 16:49]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [thirdweb-dev/examples](https://github.com/thirdweb-dev/examples) to [friendbear/examples](https://github.com/friendbear/examples)  
 `[04/09 16:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [thirdweb-dev/examples](https://github.com/thirdweb-dev/examples)  
 `[04/09 13:47]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#2`](https://github.com//friendbear/100days-of-code-confluent-cloud-kafka/issues/2 'dependencies errors') in [friendbear/100days-of-code-confluent-cloud-kafka](https://github.com/friendbear/100days-of-code-confluent-cloud-kafka)  
 `[04/09 13:45]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1`](https://github.com//friendbear/100days-of-code-confluent-cloud-kafka/issues/1 'rdkafka0.28.0') in [friendbear/100days-of-code-confluent-cloud-kafka](https://github.com/friendbear/100days-of-code-confluent-cloud-kafka)  
@@ -481,7 +482,6 @@ Under constract
 `[03/02 13:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 `[03/02 08:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear.github.io](https://github.com/friendbear/friendbear.github.io)  
 `[03/02 06:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#186` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[03/02 05:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cruise-group/.github](https://github.com/cruise-group/.github)  
 
 </details>
 <!--END_SECTION:activity-->
