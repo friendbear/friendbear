@@ -480,7 +480,6 @@ Under constract
 `[03/03 00:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 `[03/02 15:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#187` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[03/02 15:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#188` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[03/02 14:23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [poketwo/poketwo](https://github.com/poketwo/poketwo)  
 
 </details>
 <!--END_SECTION:activity-->
