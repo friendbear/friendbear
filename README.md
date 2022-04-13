@@ -154,7 +154,7 @@ My QR ![QR](asset/images/qr.png)
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 April 2022 - To: 11 April 2022
+From: 05 April 2022 - To: 12 April 2022
 
 Rust         1 hr 34 mins    ██████████████▓░░░░░░░░░░   58.04 %
 TOML         1 hr            █████████▒░░░░░░░░░░░░░░░   37.08 %
