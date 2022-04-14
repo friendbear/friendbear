@@ -232,6 +232,9 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[04/14 14:59]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [apache/pulsar](https://github.com/apache/pulsar)  
+`[04/14 14:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#223` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
+`[04/14 14:41]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [vectordotdev/vector](https://github.com/vectordotdev/vector)  
 `[04/14 08:01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [apache/beam](https://github.com/apache/beam)  
 `[04/14 03:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [facebook/lexical](https://github.com/facebook/lexical)  
 `[04/14 02:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#222` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
@@ -239,12 +242,12 @@ Under constract
 `[04/13 13:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#221` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[04/13 12:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [godotengine/godot](https://github.com/godotengine/godot)  
 `[04/13 12:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [godotengine/godot-docs](https://github.com/godotengine/godot-docs)  
-`[04/13 12:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [a-little-org-called-mario/a-little-game-called-mario](https://github.com/a-little-org-called-mario/a-little-game-called-mario)  
-`[04/12 03:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [clear-code-projects/youtube-download](https://github.com/clear-code-projects/youtube-download)  
-`[04/12 02:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [redpanda-data/redpanda](https://github.com/redpanda-data/redpanda)  
 
 <details><summary>Show More</summary>
 
+`[04/13 12:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [a-little-org-called-mario/a-little-game-called-mario](https://github.com/a-little-org-called-mario/a-little-game-called-mario)  
+`[04/12 03:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [clear-code-projects/youtube-download](https://github.com/clear-code-projects/youtube-download)  
+`[04/12 02:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [redpanda-data/redpanda](https://github.com/redpanda-data/redpanda)  
 `[04/11 17:19]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [zellij-org/zellij](https://github.com/zellij-org/zellij)  
 `[04/11 13:58]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#220` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[04/11 13:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [adamchalmers/dingo](https://github.com/adamchalmers/dingo)  
@@ -479,9 +482,6 @@ Under constract
 `[03/04 07:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/friendbear.github.io](https://github.com/friendbear/friendbear.github.io)  
 `[03/04 07:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 `[03/04 00:11]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [microsoft/winget-cli](https://github.com/microsoft/winget-cli)  
-`[03/03 20:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
-`[03/03 13:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [openjdk/jdk](https://github.com/openjdk/jdk)  
-`[03/03 11:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 
 </details>
 <!--END_SECTION:activity-->
