@@ -1,12 +1,5 @@
 ## <img src="https://img.icons8.com/color/48/000000/github--v3.png"/> friendbear 
 
-<em>
-<script async type="text/javascript" data-type="quotes-widget"
-    src="https://c.mql5.com/js/widgets/quotes/widget.js?v=1">
-      { "type": "ticker", "filter": ["EURUSD", "USDJPY", "GBPUSD", "AUDUSD", "USDCAD", "USDCHF", "NZDUSD"], "width": "100%", "height": 50, "id": "quotesWidgetTicker" }
-    </script>
-</em>
-
 ### Hi there （こんにちわ）from Japan :japan: <img src="https://raw.githubusercontent.com/friendbear/friendbear/main/wave.gif" width="35px">
 
 ---
@@ -37,28 +30,37 @@ Here are some ideas to get you started:
 [![Twitter: ThraiiBraga](https://img.shields.io/twitter/follow/bearsworld22?stype=social)](https://twitter.com/bearsworld22)
 [![Twitter: ThraiiBraga](https://img.shields.io/twitter/follow/cruise_group_jp?stype=social)](https://twitter.com/cruise_group_jp)
 ---
-## Linux Fundation ↓
-[![linux-fundation-logo](/asset/images/linux-fundation-logo.png)](https://openprofile.dev/profile/friendbear)
-
----
 
 :doc: [MyDagsHub]: / https://dagshub.com/friendbear "DacsHub"
 
 My QR ![QR](asset/images/qr.png)
 
+---
+
+## Community
+
+### My link
+* [IEEE](https://spectrum.ieee.org/u/tomohiro_kumagai)
+* [![codepen](/asset/images/odepen-logo.png)](https://codepen.io)
+* [Jira](https://friendbear.atlassian.net)
+* [Tecnical blog](https://friendbear.hashnode.dev/)
+* [StackShare](https://stackshare.io/friendbear)
+
+### Linux Fundation ↓
+[![linux-fundation-logo](/asset/images/linux-fundation-logo.png)](https://openprofile.dev/profile/friendbear)
+
+
+### Trading Profile
+- [mql](https://www.mql5.com/ja/users/friendbear)
 
 ### Web3 My Profile
 
 - [getcoin](https://gitcoin.co/friendbear)
 
-### My owner Twitter Community 🐥
+### Twitter Community 🐥
 
-- Let's go out to the ocean.
 - [cruise-group](https://twitter.com/i/communities/1498584754915999744)
 
-### Usefull Link
-- [openlab](https://openlab.ncl.ac.uk/)
-- [jupyter](https://jupyter.org/)
 
 <!--
 - 👯 I’m looking to collaborate on ...
@@ -70,8 +72,6 @@ My QR ![QR](asset/images/qr.png)
 
 -->
 
-### GitHub Markdown Reference
-- <https://github.github.com/gfm/>
 
 ---
 
@@ -128,12 +128,13 @@ My QR ![QR](asset/images/qr.png)
 </em>
 
 ---
-## my link
-* [IEEE](https://spectrum.ieee.org/u/tomohiro_kumagai)
-* [![codepen](/asset/images/odepen-logo.png)](https://codepen.io)
-* [jira](https://friendbear.atlassian.net)
-* [tecnical blog](https://friendbear.hashnode.dev/)
-* [StackShare](https://stackshare.io/friendbear)
+
+## Usefull Link
+
+- [GitHub Markdown Reference](https://github.github.com/gfm/)
+- [Open Lab](https://openlab.ncl.ac.uk/)
+- [Jupyter](https://jupyter.org/)
+
 
 # Contributions
 (in the last 365 days, languages pie based on number of commits)
@@ -210,7 +211,7 @@ Under constract
 <img src="https://img.icons8.com/ios-filled/256/000000/twitter.svg" alt="twitter profile" width="26px"/></a>
 &emsp;
 <a href="https://twitter.com/bearsworld22">
-<img src="https://raw.githubusercontent.com/friendbear/friendbear/main/asset/images/icon8-twitter-50.png" alt="bearsworld" width="26px"/></a>
+<img src="https://img.icons8.com/ios-filled/256/000000/twitter.svg" alt="bearsworld" width="26px"/></a>
 &emsp;
 <a href="https://stackoverflow.com/users/10924993/t-kumagai">
 <img src="https://img.icons8.com/ios/32/000000/stackoverflow.png"/>
@@ -218,7 +219,7 @@ Under constract
 <a href="https://community.codenewbie.org/friendbear">
 <img src="https://raw.githubusercontent.com/friendbear/friendbear/main/asset/images/icon8-accuracy-50.png" alt="community" width="26px"/></a>
 &emsp;
-<a href="https://events.atlassiian.com">
+<a href="https://friendbear.atlassian.net">
 <img src="https://raw.githubusercontent.com/friendbear/friendbear/main/asset/images/icon8-atlassian-50.png" alt="atlassian" width="26px"/></a>
 &emsp;
 
