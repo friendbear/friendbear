@@ -237,6 +237,8 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[04/17 11:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
+`[04/17 11:17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mattmagrin/game_recommendation_engine](https://github.com/mattmagrin/game_recommendation_engine)  
 `[04/17 10:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 `[04/17 10:40]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [natemoo-re/natemoo-re](https://github.com/natemoo-re/natemoo-re) to [friendbear/natemoo-re](https://github.com/friendbear/natemoo-re)  
 `[04/17 07:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
@@ -245,11 +247,11 @@ Under constract
 `[04/17 06:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [randalhsu/OPAL](https://github.com/randalhsu/OPAL)  
 `[04/17 06:50]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [EA31337/EA31337](https://github.com/EA31337/EA31337)  
 `[04/17 06:17]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1`](https://github.com//mattmagrin/game_recommendation_engine/issues/1 '[Enhanced] can we add manufacturer, country, and wiki links to the column?') in [mattmagrin/game_recommendation_engine](https://github.com/mattmagrin/game_recommendation_engine)  
-`[04/17 03:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [apache/avro](https://github.com/apache/avro)  
-`[04/17 03:50]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [apache/iceberg](https://github.com/apache/iceberg)  
 
 <details><summary>Show More</summary>
 
+`[04/17 03:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [apache/avro](https://github.com/apache/avro)  
+`[04/17 03:50]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [apache/iceberg](https://github.com/apache/iceberg)  
 `[04/17 03:20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [google/mediapipe](https://github.com/google/mediapipe)  
 `[04/17 03:06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [everythingishacked/CheekyKeys](https://github.com/everythingishacked/CheekyKeys)  
 `[04/17 01:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ruilisi/fortune-sheet](https://github.com/ruilisi/fortune-sheet)  
@@ -486,7 +488,6 @@ Under constract
 `[03/07 06:05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [billw2/rpi-clone](https://github.com/billw2/rpi-clone)  
 `[03/07 05:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 `[03/07 05:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#194` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[03/06 20:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dtolnay/cxx](https://github.com/dtolnay/cxx)  
 
 </details>
 <!--END_SECTION:activity-->
