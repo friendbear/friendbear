@@ -1,5 +1,7 @@
 ## <img src="https://img.icons8.com/color/48/000000/github--v3.png"/> friendbear 
 
+<a href="https://github.com/sponsors/friendbear" title="Sponsor T Kumagai"><img src="asset/images/sponsor.svg?sanitize=true" width="94" height="28" aria-hidden="true"></a>
+
 ### Hi there （こんにちわ）from Japan :japan: <img src="https://raw.githubusercontent.com/friendbear/friendbear/main/wave.gif" width="35px">
 
 ---
@@ -14,6 +16,7 @@ Mozilla supporter
   
 
  ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 [QuickAccess Playground](https://wandbox.org/)
 Here are some ideas to get you started:
