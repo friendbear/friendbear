@@ -512,7 +512,8 @@ To view and share your lists, visit
 😙I love Asuna from SAO. ![asna](asuna.gif)
 
 ---
-
+* host: <https://vercel.com/friendbear>
+---
 [MyLiving](https://en.wikivoyage.org/wiki/Funabashi)
 
 ```geojson
@@ -525,6 +526,7 @@ To view and share your lists, visit
 ```
 
 <!-- PayPal Logo --><table border="0" cellpadding="10" cellspacing="0" align="left"><tr><td align="center"><a href="#" onclick="javascript:window.open('https://www.paypal.com/jp/webapps/mpp/logo/about','olcwhatispaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=900, height=700');"><img src="https://www.paypalobjects.com/digitalassets/c/website/marketing/apac/jp/developer/319x110_a.png" border="0" alt="ペイパル｜VISA, Mastercard, JCB, American Express, Union Pay, 銀行"></a></td></tr></table><!-- PayPal Logo -->
+
 
 [![Update gist with latest YouTube videos](https://github.com/friendbear/youtube-box/actions/workflows/main.yml/badge.svg)](https://github.com/friendbear/youtube-box/actions/workflows/main.yml)
 
