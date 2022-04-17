@@ -233,6 +233,9 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[04/17 07:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Popsiclestick/gist-sync-action](https://github.com/Popsiclestick/gist-sync-action)  
+`[04/17 06:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [randalhsu/OPAL](https://github.com/randalhsu/OPAL)  
+`[04/17 06:50]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [EA31337/EA31337](https://github.com/EA31337/EA31337)  
 `[04/17 06:17]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1`](https://github.com//mattmagrin/game_recommendation_engine/issues/1 '[Enhanced] can we add manufacturer, country, and wiki links to the column?') in [mattmagrin/game_recommendation_engine](https://github.com/mattmagrin/game_recommendation_engine)  
 `[04/17 03:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [apache/avro](https://github.com/apache/avro)  
 `[04/17 03:50]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [apache/iceberg](https://github.com/apache/iceberg)  
@@ -240,12 +243,12 @@ Under constract
 `[04/17 03:06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [everythingishacked/CheekyKeys](https://github.com/everythingishacked/CheekyKeys)  
 `[04/17 01:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ruilisi/fortune-sheet](https://github.com/ruilisi/fortune-sheet)  
 `[04/15 13:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)  
-`[04/15 07:15]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [scala-network/scala-v8.1](https://github.com/scala-network/scala-v8.1)  
-`[04/14 14:59]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [apache/pulsar](https://github.com/apache/pulsar)  
-`[04/14 14:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#223` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 
 <details><summary>Show More</summary>
 
+`[04/15 07:15]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [scala-network/scala-v8.1](https://github.com/scala-network/scala-v8.1)  
+`[04/14 14:59]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [apache/pulsar](https://github.com/apache/pulsar)  
+`[04/14 14:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#223` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[04/14 14:41]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [vectordotdev/vector](https://github.com/vectordotdev/vector)  
 `[04/14 08:01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [apache/beam](https://github.com/apache/beam)  
 `[04/14 03:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [facebook/lexical](https://github.com/facebook/lexical)  
@@ -480,11 +483,6 @@ Under constract
 `[03/06 09:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [serenity-rs/serenity](https://github.com/serenity-rs/serenity)  
 `[03/06 06:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#193` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[03/05 23:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
-`[03/05 22:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#192` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[03/05 07:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#191` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[03/05 07:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [pola-rs/polars](https://github.com/pola-rs/polars)  
-`[03/05 02:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
-`[03/04 16:14]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [diablinux/jupyter-notebooks-collection](https://github.com/diablinux/jupyter-notebooks-collection) to [friendbear/jupyter-notebooks-collection](https://github.com/friendbear/jupyter-notebooks-collection)  
 
 </details>
 <!--END_SECTION:activity-->
