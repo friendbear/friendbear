@@ -36,8 +36,14 @@ Here are some ideas to get you started:
 
 :doc: [MyDagsHub]: / https://dagshub.com/friendbear "DacsHub"
 
-My QR ![QR](asset/images/qr.png)
+---
 
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/friendbear/friendbear/blob/master/devcard.svg" width="400" alt="T Kumagai's Dev Card"/></a>
+
+<!--
+<a href="https://app.daily.dev/friendbear"><img src="https://api.daily.dev/devcards/f55171042f5f40e5aeb3b88e315499f7.png?r=9vx" width="400" alt="T Kumagai's Dev Card"/></a>
+
+-->
 ---
 
 ## Community
