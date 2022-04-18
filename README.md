@@ -2,20 +2,31 @@
 
 <a href="https://github.com/sponsors/friendbear" title="Sponsor T Kumagai"><img src="asset/images/sponsor.svg?sanitize=true" width="94" height="28" aria-hidden="true"></a>
 
+
 ### Hi there （こんにちわ）from Japan :japan: <img src="https://raw.githubusercontent.com/friendbear/friendbear/main/wave.gif" width="35px">
 
 ---
+<!--
 
 ![moz://a](asset/images/mozfest-logo.svg)
+
+-->
 
 Mozilla supporter 
 ## <img src="asset/images/Mozilla-supporter.svg"/>
 
+<!--
 ![mozilla](asset/images/icons8-firefox-a-free-and-open-source-web-browser-developed-by-the-mozilla-foundation-50.png)
+-->
+
 - [My Mozilla profile](https://support.mozilla.org/en-US/user/friendbear)
   
 
+---
  ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<a href="https://app.daily.dev/DailyDevTips"><img src="devcard.svg" width="200px" height="200px" alt="T Kumagai's Dev Card"/></a>
+
 
 
 [QuickAccess Playground](https://wandbox.org/)
@@ -37,8 +48,6 @@ Here are some ideas to get you started:
 :doc: [MyDagsHub]: / https://dagshub.com/friendbear "DacsHub"
 
 ---
-
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/friendbear/friendbear/blob/master/devcard.svg" width="400" alt="T Kumagai's Dev Card"/></a>
 
 <!--
 <a href="https://app.daily.dev/friendbear"><img src="https://api.daily.dev/devcards/f55171042f5f40e5aeb3b88e315499f7.png?r=9vx" width="400" alt="T Kumagai's Dev Card"/></a>
