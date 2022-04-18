@@ -238,6 +238,9 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[04/18 02:57]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#224` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
+`[04/18 02:51]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Ostorlab/ostorlab](https://github.com/Ostorlab/ostorlab)  
+`[04/18 02:17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rome/tools](https://github.com/rome/tools)  
 `[04/17 11:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 `[04/17 11:17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mattmagrin/game_recommendation_engine](https://github.com/mattmagrin/game_recommendation_engine)  
 `[04/17 10:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
@@ -245,12 +248,12 @@ Under constract
 `[04/17 07:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 `[04/17 07:04]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [parrondo/mql5-json-api](https://github.com/parrondo/mql5-json-api) to [friendbear/mql5-json-api](https://github.com/friendbear/mql5-json-api)  
 `[04/17 07:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Popsiclestick/gist-sync-action](https://github.com/Popsiclestick/gist-sync-action)  
-`[04/17 06:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [randalhsu/OPAL](https://github.com/randalhsu/OPAL)  
-`[04/17 06:50]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [EA31337/EA31337](https://github.com/EA31337/EA31337)  
-`[04/17 06:17]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1`](https://github.com//mattmagrin/game_recommendation_engine/issues/1 '[Enhanced] can we add manufacturer, country, and wiki links to the column?') in [mattmagrin/game_recommendation_engine](https://github.com/mattmagrin/game_recommendation_engine)  
 
 <details><summary>Show More</summary>
 
+`[04/17 06:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [randalhsu/OPAL](https://github.com/randalhsu/OPAL)  
+`[04/17 06:50]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [EA31337/EA31337](https://github.com/EA31337/EA31337)  
+`[04/17 06:17]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1`](https://github.com//mattmagrin/game_recommendation_engine/issues/1 '[Enhanced] can we add manufacturer, country, and wiki links to the column?') in [mattmagrin/game_recommendation_engine](https://github.com/mattmagrin/game_recommendation_engine)  
 `[04/17 03:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [apache/avro](https://github.com/apache/avro)  
 `[04/17 03:50]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [apache/iceberg](https://github.com/apache/iceberg)  
 `[04/17 03:20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [google/mediapipe](https://github.com/google/mediapipe)  
@@ -485,10 +488,6 @@ Under constract
 `[03/07 16:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cruise-group/.github](https://github.com/cruise-group/.github)  
 `[03/07 15:46]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)  
 `[03/07 13:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#195` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[03/07 09:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear.github.io](https://github.com/friendbear/friendbear.github.io)  
-`[03/07 06:05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [billw2/rpi-clone](https://github.com/billw2/rpi-clone)  
-`[03/07 05:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
-`[03/07 05:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#194` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 
 </details>
 <!--END_SECTION:activity-->
