@@ -158,11 +158,12 @@ My QR ![QR](asset/images/qr.png)
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 April 2022 - To: 16 April 2022
+From: 10 April 2022 - To: 17 April 2022
 
-Rust         1 hr 24 mins    █████████████████▓░░░░░░░   70.34 %
-TOML         30 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.04 %
-Markdown     5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
+Rust         1 hr 24 mins    █████████████████▒░░░░░░░   69.80 %
+TOML         30 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.85 %
+Markdown     5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
+Python       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
