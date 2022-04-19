@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: GitHub ✨ special ✨ repository
+message: hi there. I love opensoure. 
+type: software
+authors:
+  - given-names: T
+    family-names: Kumagai
+repository-code: 'https://github.com/friendbear/friendbear'
+license: Unlicense
