@@ -25,7 +25,7 @@ Mozilla supporter
 ---
  ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="devcard.svg" width="200px" height="200px" alt="T Kumagai's Dev Card"/></a>
+<a href="https://app.daily.dev/friendbear"><img src="devcard.svg" width="200px" height="200px" alt="T Kumagai's Dev Card"/></a>
 
 
 
