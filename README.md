@@ -173,14 +173,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 April 2022 - To: 17 April 2022
+From: 11 April 2022 - To: 18 April 2022
 
-Rust         1 hr 24 mins    █████████████████▒░░░░░░░   69.80 %
-TOML         30 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.85 %
-Markdown     5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
-Python       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Python   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
