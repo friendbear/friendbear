@@ -248,6 +248,8 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[04/19 01:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
+`[04/19 01:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [daltonmenezes/discord-guardian-action](https://github.com/daltonmenezes/discord-guardian-action)  
 `[04/19 01:21]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme)  
 `[04/18 07:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 `[04/18 05:32]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)  
@@ -256,11 +258,11 @@ Under constract
 `[04/18 02:17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rome/tools](https://github.com/rome/tools)  
 `[04/17 11:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 `[04/17 11:17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mattmagrin/game_recommendation_engine](https://github.com/mattmagrin/game_recommendation_engine)  
-`[04/17 10:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
-`[04/17 10:40]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [natemoo-re/natemoo-re](https://github.com/natemoo-re/natemoo-re) to [friendbear/natemoo-re](https://github.com/friendbear/natemoo-re)  
 
 <details><summary>Show More</summary>
 
+`[04/17 10:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
+`[04/17 10:40]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [natemoo-re/natemoo-re](https://github.com/natemoo-re/natemoo-re) to [friendbear/natemoo-re](https://github.com/friendbear/natemoo-re)  
 `[04/17 07:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 `[04/17 07:04]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [parrondo/mql5-json-api](https://github.com/parrondo/mql5-json-api) to [friendbear/mql5-json-api](https://github.com/friendbear/mql5-json-api)  
 `[04/17 07:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Popsiclestick/gist-sync-action](https://github.com/Popsiclestick/gist-sync-action)  
@@ -497,8 +499,6 @@ Under constract
 `[03/08 04:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [cruise-group/.github](https://github.com/cruise-group/.github)  
 `[03/08 03:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/friendbear.github.io](https://github.com/friendbear/friendbear.github.io)  
 `[03/07 17:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [hyperpayorg/hardwallet](https://github.com/hyperpayorg/hardwallet)  
-`[03/07 17:36]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [PolyMeilex/Neothesia](https://github.com/PolyMeilex/Neothesia)  
-`[03/07 16:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cruise-group/.github](https://github.com/cruise-group/.github)  
 
 </details>
 <!--END_SECTION:activity-->
