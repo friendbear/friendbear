@@ -54,7 +54,12 @@ Here are some ideas to get you started:
 
 -->
 
-<!-- daily.dev BOOKMARKS:START --> <!-- daily.dev BOOKMARKS:END -->
+<!-- daily.dev BOOKMARKS:START -->
+- [1,000,000 Concurrent Connections](https://app.daily.dev/posts/7NxYM76h8?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
+- [Using Notion to organise programming topics](https://app.daily.dev/posts/gBpUp2kr6?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
+- [Git Cheat Sheet 📄 &lpar;50 commands + Free PDF and poster&rpar;](https://app.daily.dev/posts/dP7qawzrP?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
+- [Warp: The terminal for the 21st century](https://app.daily.dev/posts/YgAnUhkmC?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
+<!-- daily.dev BOOKMARKS:END -->
 ---
 
 ## Community
