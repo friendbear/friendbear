@@ -27,8 +27,6 @@ Mozilla supporter
 
 <a href="https://app.daily.dev/friendbear"><img src="devcard.svg" width="200px" height="200px" alt="T Kumagai's Dev Card"/></a>
 
-
-
 [QuickAccess Playground](https://wandbox.org/)
 Here are some ideas to get you started:
 <!--
@@ -54,13 +52,6 @@ Here are some ideas to get you started:
 
 -->
 
-<!-- daily.dev BOOKMARKS:START -->
-- [1,000,000 Concurrent Connections](https://app.daily.dev/posts/7NxYM76h8?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
-- [Using Notion to organise programming topics](https://app.daily.dev/posts/gBpUp2kr6?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
-- [Git Cheat Sheet 📄 &lpar;50 commands + Free PDF and poster&rpar;](https://app.daily.dev/posts/dP7qawzrP?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
-- [Warp: The terminal for the 21st century](https://app.daily.dev/posts/YgAnUhkmC?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
-<!-- daily.dev BOOKMARKS:END -->
----
 
 ## Community
 
@@ -251,6 +242,7 @@ Under constract
 [dev.to]: https://dev.to/friendbear
 [linkedin]: https://www.linkedin.com/in/friendbear
 [stakoverflow]: https://stackoverflow.com/users/10924993/t-kumagai
+
 
 ## Recent GitHub Activity
 
@@ -512,6 +504,16 @@ Under constract
 <!--END_SECTION:activity-->
 
 <!--END-SECTION:activity-->
+
+## daily.dev Bookmarks
+
+<!-- daily.dev BOOKMARKS:START -->
+- [1,000,000 Concurrent Connections](https://app.daily.dev/posts/7NxYM76h8?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
+- [Using Notion to organise programming topics](https://app.daily.dev/posts/gBpUp2kr6?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
+- [Git Cheat Sheet 📄 &lpar;50 commands + Free PDF and poster&rpar;](https://app.daily.dev/posts/dP7qawzrP?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
+- [Warp: The terminal for the 21st century](https://app.daily.dev/posts/YgAnUhkmC?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
+<!-- daily.dev BOOKMARKS:END -->
+
 
 ### [smile](https://smile.amazon.com/hz/wishlist/ls/ref_=wl_list_url_friends_message>>)
 
