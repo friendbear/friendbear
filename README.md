@@ -507,10 +507,11 @@ Under constract
 ## daily.dev Bookmarks
 
 <!-- daily.dev BOOKMARKS:START -->
+- [#DevCard 🤩](https://app.daily.dev/posts/w5oH_HZeY?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
+- [A 3D Portrait of a Woman Made in Unreal Engine 5](https://app.daily.dev/posts/ZCQZHxtur?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [1,000,000 Concurrent Connections](https://app.daily.dev/posts/7NxYM76h8?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [Using Notion to organise programming topics](https://app.daily.dev/posts/gBpUp2kr6?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [Git Cheat Sheet 📄 &lpar;50 commands + Free PDF and poster&rpar;](https://app.daily.dev/posts/dP7qawzrP?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
-- [Warp: The terminal for the 21st century](https://app.daily.dev/posts/YgAnUhkmC?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 <!-- daily.dev BOOKMARKS:END -->
 
 
