@@ -247,6 +247,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[04/23 03:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [nerfies/nerfies.github.io](https://github.com/nerfies/nerfies.github.io)  
 `[04/22 12:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cruise-group/.github](https://github.com/cruise-group/.github)  
 `[04/22 12:11]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/cruise-group/codespaces-dev-01/tree/main) in [cruise-group/codespaces-dev-01](https://github.com/cruise-group/codespaces-dev-01)  
 `[04/22 12:11]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [cruise-group/codespaces-dev-01](https://github.com/cruise-group/codespaces-dev-01)  
@@ -256,10 +257,10 @@ Under constract
 `[04/22 11:31]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/cruise-group/codespaces-01/tree/main) in [cruise-group/codespaces-01](https://github.com/cruise-group/codespaces-01)  
 `[04/22 11:31]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [cruise-group/codespaces-01](https://github.com/cruise-group/codespaces-01)  
 `[04/21 13:02]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1`](https://github.com//friendbear/katacoda-scenarios/issues/1 '[Error]katacoda scenarios:create') in [friendbear/katacoda-scenarios](https://github.com/friendbear/katacoda-scenarios)  
-`[04/21 12:49]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/katacoda-scenarios/tree/main) in [friendbear/katacoda-scenarios](https://github.com/friendbear/katacoda-scenarios)  
 
 <details><summary>Show More</summary>
 
+`[04/21 12:49]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/katacoda-scenarios/tree/main) in [friendbear/katacoda-scenarios](https://github.com/friendbear/katacoda-scenarios)  
 `[04/21 12:48]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/katacoda-scenarios](https://github.com/friendbear/katacoda-scenarios)  
 `[04/21 12:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/solace-cloud-admin-traning](https://github.com/friendbear/solace-cloud-admin-traning)  
 `[04/21 12:19]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/solace-cloud-admin-traning/tree/main) in [friendbear/solace-cloud-admin-traning](https://github.com/friendbear/solace-cloud-admin-traning)  
@@ -498,7 +499,6 @@ Under constract
 `[03/15 10:03]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`add-code-of-conduct-1`](https://github.com/friendbear/friendbear/tree/add-code-of-conduct-1) in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 `[03/15 10:02]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#6`](https://github.com//friendbear/friendbear/issues/6 'Linkedln create company') in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 `[03/13 13:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#200` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[03/12 21:11]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [crisgarner/awesome-foundry](https://github.com/crisgarner/awesome-foundry)  
 
 </details>
 <!--END_SECTION:activity-->
