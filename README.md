@@ -509,11 +509,11 @@ Under constract
 ## daily.dev Bookmarks
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Git commands](https://app.daily.dev/posts/C3u6CKK28?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [Building a WebAssembly-powered serverless platform](https://app.daily.dev/posts/lwLBE31I6?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [Visual Studio Code — Quokka. What is Quokka?](https://app.daily.dev/posts/L8dY3H7yO?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [Why Use GitHub Copilot And Copilot Labs: Practical Use Cases for the AI Pair Programmer](https://app.daily.dev/posts/kFEkrBuoq?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [github-pewpew - Pew pew needless GitHub repos! Clean up your repos via CLI](https://app.daily.dev/posts/EJ4GRb2Sh?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
-- [How to turn your home Wi-Fi password into a QR code](https://app.daily.dev/posts/jdNTqtYS_?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 <!-- daily.dev BOOKMARKS:END -->
 
 
