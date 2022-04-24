@@ -247,6 +247,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[04/24 01:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [damiafuentes/DJITelloPy](https://github.com/damiafuentes/DJITelloPy)  
 `[04/24 00:59]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)  
 `[04/24 00:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#229` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[04/23 07:23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [maziac/DeZog](https://github.com/maziac/DeZog)  
@@ -256,10 +257,10 @@ Under constract
 `[04/22 12:11]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [cruise-group/codespaces-dev-01](https://github.com/cruise-group/codespaces-dev-01)  
 `[04/22 12:08]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `main` in <span title="Private Repo">`🔒cruise-group/sturdy-goggles`</span>  
 `[04/22 12:08]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒cruise-group/sturdy-goggles`</span>  
-`[04/22 11:57]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1`](https://github.com//cruise-group/codespaces-01/issues/1 'About dev containers') in [cruise-group/codespaces-01](https://github.com/cruise-group/codespaces-01)  
 
 <details><summary>Show More</summary>
 
+`[04/22 11:57]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1`](https://github.com//cruise-group/codespaces-01/issues/1 'About dev containers') in [cruise-group/codespaces-01](https://github.com/cruise-group/codespaces-01)  
 `[04/22 11:31]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/cruise-group/codespaces-01/tree/main) in [cruise-group/codespaces-01](https://github.com/cruise-group/codespaces-01)  
 `[04/22 11:31]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [cruise-group/codespaces-01](https://github.com/cruise-group/codespaces-01)  
 `[04/21 13:02]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1`](https://github.com//friendbear/katacoda-scenarios/issues/1 '[Error]katacoda scenarios:create') in [friendbear/katacoda-scenarios](https://github.com/friendbear/katacoda-scenarios)  
@@ -499,8 +500,6 @@ Under constract
 `[03/15 11:15]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [triggermesh/triggermesh](https://github.com/triggermesh/triggermesh)  
 `[03/15 10:34]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#7`](https://github.com//friendbear/friendbear/pull/7 'Create CODE_OF_CONDUCT.md') in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 `[03/15 10:15]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [microsoft/vscode-remote-try-rust](https://github.com/microsoft/vscode-remote-try-rust)  
-`[03/15 10:03]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`add-code-of-conduct-1`](https://github.com/friendbear/friendbear/tree/add-code-of-conduct-1) in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
-`[03/15 10:02]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#6`](https://github.com//friendbear/friendbear/issues/6 'Linkedln create company') in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 
 </details>
 <!--END_SECTION:activity-->
