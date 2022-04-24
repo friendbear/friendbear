@@ -499,7 +499,6 @@ Under constract
 `[03/17 06:25]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [pranthiks/sendmail](https://github.com/pranthiks/sendmail) to [friendbear/sendmail](https://github.com/friendbear/sendmail)  
 `[03/16 04:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mdn/translated-content](https://github.com/mdn/translated-content)  
 `[03/15 12:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#201` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[03/15 11:15]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [triggermesh/triggermesh](https://github.com/triggermesh/triggermesh)  
 
 </details>
 <!--END_SECTION:activity-->
