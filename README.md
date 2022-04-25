@@ -247,6 +247,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[04/25 00:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [nhost/nhost](https://github.com/nhost/nhost)  
 `[04/24 09:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#230` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[04/24 08:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [paypal-examples/docs-examples](https://github.com/paypal-examples/docs-examples)  
 `[04/24 01:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [damiafuentes/DJITelloPy](https://github.com/damiafuentes/DJITelloPy)  
@@ -256,10 +257,10 @@ Under constract
 `[04/23 03:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [nerfies/nerfies.github.io](https://github.com/nerfies/nerfies.github.io)  
 `[04/22 12:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cruise-group/.github](https://github.com/cruise-group/.github)  
 `[04/22 12:11]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/cruise-group/codespaces-dev-01/tree/main) in [cruise-group/codespaces-dev-01](https://github.com/cruise-group/codespaces-dev-01)  
-`[04/22 12:11]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [cruise-group/codespaces-dev-01](https://github.com/cruise-group/codespaces-dev-01)  
 
 <details><summary>Show More</summary>
 
+`[04/22 12:11]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [cruise-group/codespaces-dev-01](https://github.com/cruise-group/codespaces-dev-01)  
 `[04/22 12:08]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `main` in <span title="Private Repo">`🔒cruise-group/sturdy-goggles`</span>  
 `[04/22 12:08]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒cruise-group/sturdy-goggles`</span>  
 `[04/22 11:57]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1`](https://github.com//cruise-group/codespaces-01/issues/1 'About dev containers') in [cruise-group/codespaces-01](https://github.com/cruise-group/codespaces-01)  
@@ -498,7 +499,6 @@ Under constract
 `[03/17 06:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [pranthiks/sendmail](https://github.com/pranthiks/sendmail)  
 `[03/17 06:25]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [pranthiks/sendmail](https://github.com/pranthiks/sendmail) to [friendbear/sendmail](https://github.com/friendbear/sendmail)  
 `[03/16 04:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mdn/translated-content](https://github.com/mdn/translated-content)  
-`[03/15 12:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#201` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 
 </details>
 <!--END_SECTION:activity-->
