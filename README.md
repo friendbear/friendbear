@@ -507,11 +507,11 @@ Under constract
 ## daily.dev Bookmarks
 
 <!-- daily.dev BOOKMARKS:START -->
+- [How to design better APIs](https://app.daily.dev/posts/Ft5u2BJEl?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
+- [This week in #Scala &lpar;Apr 25, 2022&rpar;](https://app.daily.dev/posts/41PLRlkAr?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [3 questions about Coinbase’s NFT push – TechCrunch](https://app.daily.dev/posts/MPE9h0xev?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [Git commands](https://app.daily.dev/posts/C3u6CKK28?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [Building a WebAssembly-powered serverless platform](https://app.daily.dev/posts/lwLBE31I6?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
-- [Visual Studio Code — Quokka. What is Quokka?](https://app.daily.dev/posts/L8dY3H7yO?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
-- [Why Use GitHub Copilot And Copilot Labs: Practical Use Cases for the AI Pair Programmer](https://app.daily.dev/posts/kFEkrBuoq?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 <!-- daily.dev BOOKMARKS:END -->
 
 
