@@ -245,6 +245,8 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[04/26 10:53]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [schacko-samples/kafka-summit-london-2022](https://github.com/schacko-samples/kafka-summit-london-2022) to [friendbear/kafka-springboot-java-local](https://github.com/friendbear/kafka-springboot-java-local)  
+`[04/26 10:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [schacko-samples/kafka-summit-london-2022](https://github.com/schacko-samples/kafka-summit-london-2022)  
 `[04/26 09:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [treeverse/lakeFS](https://github.com/treeverse/lakeFS)  
 `[04/26 06:06]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#232` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[04/26 04:23]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#8`](https://github.com//friendbear/friendbear/issues/8 'Update CRITATION(.crf)') in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
@@ -253,11 +255,11 @@ Under constract
 `[04/26 02:24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dimensionhq/fleet](https://github.com/dimensionhq/fleet)  
 `[04/25 18:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 `[04/25 15:28]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`day2`](https://github.com/friendbear/100days-of-code-confluent-cloud-kafka/tree/day2) in [friendbear/100days-of-code-confluent-cloud-kafka](https://github.com/friendbear/100days-of-code-confluent-cloud-kafka)  
-`[04/25 03:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#231` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[04/25 00:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [nhost/nhost](https://github.com/nhost/nhost)  
 
 <details><summary>Show More</summary>
 
+`[04/25 03:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#231` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
+`[04/25 00:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [nhost/nhost](https://github.com/nhost/nhost)  
 `[04/24 09:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#230` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[04/24 08:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [paypal-examples/docs-examples](https://github.com/paypal-examples/docs-examples)  
 `[04/24 01:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [damiafuentes/DJITelloPy](https://github.com/damiafuentes/DJITelloPy)  
@@ -498,8 +500,6 @@ Under constract
 `[03/17 10:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/dotfiles](https://github.com/friendbear/dotfiles)  
 `[03/17 09:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear.github.io](https://github.com/friendbear/friendbear.github.io)  
 `[03/17 08:47]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#2`](https://github.com//friendbear/friendbear.github.io/pull/2 'Master') in [friendbear/friendbear.github.io](https://github.com/friendbear/friendbear.github.io)  
-`[03/17 08:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear.github.io](https://github.com/friendbear/friendbear.github.io)  
-`[03/17 08:39]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2`](https://github.com//friendbear/friendbear.github.io/pull/2 'Master') in [friendbear/friendbear.github.io](https://github.com/friendbear/friendbear.github.io)  
 
 </details>
 <!--END_SECTION:activity-->
