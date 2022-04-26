@@ -245,6 +245,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[04/26 04:23]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#8`](https://github.com//friendbear/friendbear/issues/8 'Update CRITATION(.crf)') in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 `[04/26 03:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)  
 `[04/26 02:43]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#4`](https://github.com//friendbear/100days-of-code-confluent-cloud-kafka/issues/4 'ksqlDB tutorial') in [friendbear/100days-of-code-confluent-cloud-kafka](https://github.com/friendbear/100days-of-code-confluent-cloud-kafka)  
 `[04/26 02:24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dimensionhq/fleet](https://github.com/dimensionhq/fleet)  
@@ -254,10 +255,10 @@ Under constract
 `[04/25 00:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [nhost/nhost](https://github.com/nhost/nhost)  
 `[04/24 09:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#230` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[04/24 08:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [paypal-examples/docs-examples](https://github.com/paypal-examples/docs-examples)  
-`[04/24 01:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [damiafuentes/DJITelloPy](https://github.com/damiafuentes/DJITelloPy)  
 
 <details><summary>Show More</summary>
 
+`[04/24 01:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [damiafuentes/DJITelloPy](https://github.com/damiafuentes/DJITelloPy)  
 `[04/24 00:59]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)  
 `[04/24 00:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#229` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[04/23 07:23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [maziac/DeZog](https://github.com/maziac/DeZog)  
@@ -498,8 +499,6 @@ Under constract
 `[03/17 08:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear.github.io](https://github.com/friendbear/friendbear.github.io)  
 `[03/17 08:39]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2`](https://github.com//friendbear/friendbear.github.io/pull/2 'Master') in [friendbear/friendbear.github.io](https://github.com/friendbear/friendbear.github.io)  
 `[03/17 07:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/friendbear.github.io](https://github.com/friendbear/friendbear.github.io)  
-`[03/17 07:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mailhog/MailHog](https://github.com/mailhog/MailHog)  
-`[03/17 06:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#202` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 
 </details>
 <!--END_SECTION:activity-->
