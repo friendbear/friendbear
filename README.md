@@ -511,11 +511,11 @@ Under constract
 ## daily.dev Bookmarks
 
 <!-- daily.dev BOOKMARKS:START -->
+- [SQL Cheat Sheet – Quick and Easy SQL Command Reference Examples](https://app.daily.dev/posts/VWkxCYJzU?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
+- [The GitHub Stars in our eyes ⭐️](https://app.daily.dev/posts/lO-h5cOch?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [Musk buys Twitter](https://app.daily.dev/posts/4I6he16-R?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [dimensionhq/fleet: 🚀 The blazing fast build tool for Rust.](https://app.daily.dev/posts/nti2DZRvl?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [Radicle: a Decentralized Alternative to GitHub for Web3](https://app.daily.dev/posts/Xxcx3rX9s?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
-- [twitter/the-algorithm](https://app.daily.dev/posts/V5Doq5pC9?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
-- [How to design better APIs](https://app.daily.dev/posts/Ft5u2BJEl?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 <!-- daily.dev BOOKMARKS:END -->
 
 
