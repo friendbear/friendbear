@@ -513,11 +513,11 @@ Under constract
 ## daily.dev Bookmarks
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Musk buys Twitter](https://app.daily.dev/posts/4I6he16-R?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [dimensionhq/fleet: 🚀 The blazing fast build tool for Rust.](https://app.daily.dev/posts/nti2DZRvl?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [Radicle: a Decentralized Alternative to GitHub for Web3](https://app.daily.dev/posts/Xxcx3rX9s?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [twitter/the-algorithm](https://app.daily.dev/posts/V5Doq5pC9?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [How to design better APIs](https://app.daily.dev/posts/Ft5u2BJEl?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
-- [This week in #Scala &lpar;Apr 25, 2022&rpar;](https://app.daily.dev/posts/41PLRlkAr?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 <!-- daily.dev BOOKMARKS:END -->
 
 
