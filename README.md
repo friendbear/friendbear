@@ -171,7 +171,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 19 April 2022 - To: 26 April 2022
+
+Java         11 mins         ███████████████▒░░░░░░░░░   61.56 %
+Markdown     3 mins          █████░░░░░░░░░░░░░░░░░░░░   20.26 %
+Other        1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 %
 ```
 
 <!--END_SECTION:waka-->
