@@ -249,6 +249,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[04/27 15:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mongodb/mongodb-atlas-cli](https://github.com/mongodb/mongodb-atlas-cli)  
 `[04/27 02:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [AykutSarac/jsonvisio.com](https://github.com/AykutSarac/jsonvisio.com)  
 `[04/26 23:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jsonhero-io/jsonhero-web](https://github.com/jsonhero-io/jsonhero-web)  
 `[04/26 12:23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [uncl3armen/Autonomous_Land_Vehicle](https://github.com/uncl3armen/Autonomous_Land_Vehicle)  
@@ -258,10 +259,10 @@ Under constract
 `[04/26 06:06]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#232` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[04/26 04:23]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#8`](https://github.com//friendbear/friendbear/issues/8 'Update CRITATION(.crf)') in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 `[04/26 03:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)  
-`[04/26 02:43]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#4`](https://github.com//friendbear/100days-of-code-confluent-cloud-kafka/issues/4 'ksqlDB tutorial') in [friendbear/100days-of-code-confluent-cloud-kafka](https://github.com/friendbear/100days-of-code-confluent-cloud-kafka)  
 
 <details><summary>Show More</summary>
 
+`[04/26 02:43]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#4`](https://github.com//friendbear/100days-of-code-confluent-cloud-kafka/issues/4 'ksqlDB tutorial') in [friendbear/100days-of-code-confluent-cloud-kafka](https://github.com/friendbear/100days-of-code-confluent-cloud-kafka)  
 `[04/26 02:24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dimensionhq/fleet](https://github.com/dimensionhq/fleet)  
 `[04/25 18:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 `[04/25 15:28]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`day2`](https://github.com/friendbear/100days-of-code-confluent-cloud-kafka/tree/day2) in [friendbear/100days-of-code-confluent-cloud-kafka](https://github.com/friendbear/100days-of-code-confluent-cloud-kafka)  
@@ -501,7 +502,6 @@ Under constract
 `[03/17 17:23]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/scala3-hello-world](https://github.com/friendbear/scala3-hello-world)  
 `[03/17 16:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#205` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[03/17 12:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#204` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[03/17 12:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cloudflare/kafka_zookeeper_exporter](https://github.com/cloudflare/kafka_zookeeper_exporter)  
 
 </details>
 <!--END_SECTION:activity-->
