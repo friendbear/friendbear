@@ -501,7 +501,6 @@ Under constract
 `[03/20 02:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [R0X4R/Garud](https://github.com/R0X4R/Garud)  
 `[03/20 01:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mj-hd/dashboy](https://github.com/mj-hd/dashboy)  
 `[03/19 15:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [scala-network/TorqueGUI](https://github.com/scala-network/TorqueGUI)  
-`[03/19 15:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [scala-network/GUI-miner](https://github.com/scala-network/GUI-miner)  
 
 </details>
 <!--END_SECTION:activity-->
