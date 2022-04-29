@@ -250,6 +250,8 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[04/29 03:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset](https://github.com/BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset)  
+`[04/29 03:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [DeepMotionEditing/deep-motion-editing](https://github.com/DeepMotionEditing/deep-motion-editing)  
 `[04/29 02:32]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/friendbear/dotfiles/tree/master) in [friendbear/dotfiles](https://github.com/friendbear/dotfiles)  
 `[04/28 08:15]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bevyengine/bevy](https://github.com/bevyengine/bevy)  
 `[04/28 05:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [friendbear/hello-github-actions](https://github.com/friendbear/hello-github-actions)  
@@ -258,11 +260,11 @@ Under constract
 `[04/28 05:32]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#2`](https://github.com//friendbear/hello-github-actions/pull/2 'Create Dockerfile') in [friendbear/hello-github-actions](https://github.com/friendbear/hello-github-actions)  
 `[04/28 05:31]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`friendbear-patch-1`](https://github.com/friendbear/hello-github-actions/tree/friendbear-patch-1) in [friendbear/hello-github-actions](https://github.com/friendbear/hello-github-actions)  
 `[04/28 05:29]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/hello-github-actions/tree/main) in [friendbear/hello-github-actions](https://github.com/friendbear/hello-github-actions)  
-`[04/28 05:29]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/hello-github-actions](https://github.com/friendbear/hello-github-actions)  
-`[04/28 03:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mihaip/infinite-mac](https://github.com/mihaip/infinite-mac)  
 
 <details><summary>Show More</summary>
 
+`[04/28 05:29]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/hello-github-actions](https://github.com/friendbear/hello-github-actions)  
+`[04/28 03:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mihaip/infinite-mac](https://github.com/mihaip/infinite-mac)  
 `[04/28 02:57]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#233` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[04/27 15:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mongodb/mongodb-atlas-cli](https://github.com/mongodb/mongodb-atlas-cli)  
 `[04/27 02:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [AykutSarac/jsonvisio.com](https://github.com/AykutSarac/jsonvisio.com)  
@@ -500,7 +502,6 @@ Under constract
 `[03/19 15:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [scala-network/TorqueGUI](https://github.com/scala-network/TorqueGUI)  
 `[03/19 15:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [scala-network/GUI-miner](https://github.com/scala-network/GUI-miner)  
 `[03/19 14:51]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [scala-network/TelegramWallet](https://github.com/scala-network/TelegramWallet)  
-`[03/19 12:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 
 </details>
 <!--END_SECTION:activity-->
