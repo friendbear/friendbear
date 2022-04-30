@@ -512,11 +512,11 @@ Under constract
 ## daily.dev Bookmarks
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Best practices to keep your projects secure on GitHub](https://app.daily.dev/posts/JRoLcISpi?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [SQL Cheat Sheet – Quick and Easy SQL Command Reference Examples](https://app.daily.dev/posts/VWkxCYJzU?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [The GitHub Stars in our eyes ⭐️](https://app.daily.dev/posts/lO-h5cOch?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [Musk buys Twitter](https://app.daily.dev/posts/4I6he16-R?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [dimensionhq/fleet: 🚀 The blazing fast build tool for Rust.](https://app.daily.dev/posts/nti2DZRvl?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
-- [Radicle: a Decentralized Alternative to GitHub for Web3](https://app.daily.dev/posts/Xxcx3rX9s?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 <!-- daily.dev BOOKMARKS:END -->
 
 
