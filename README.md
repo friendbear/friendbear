@@ -250,6 +250,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[05/01 08:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#235` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[04/30 14:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/100days-of-code-confluent-cloud-kafka](https://github.com/friendbear/100days-of-code-confluent-cloud-kafka)  
 `[04/30 11:14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cloudflare/scala-worker-hello-world](https://github.com/cloudflare/scala-worker-hello-world)  
 `[04/30 11:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cloudflare/ssh-log-cli](https://github.com/cloudflare/ssh-log-cli)  
@@ -259,10 +260,10 @@ Under constract
 `[04/30 04:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#234` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[04/29 10:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [hasura/graphql-engine](https://github.com/hasura/graphql-engine)  
 `[04/29 03:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset](https://github.com/BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset)  
-`[04/29 03:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [DeepMotionEditing/deep-motion-editing](https://github.com/DeepMotionEditing/deep-motion-editing)  
 
 <details><summary>Show More</summary>
 
+`[04/29 03:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [DeepMotionEditing/deep-motion-editing](https://github.com/DeepMotionEditing/deep-motion-editing)  
 `[04/29 02:32]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/friendbear/dotfiles/tree/master) in [friendbear/dotfiles](https://github.com/friendbear/dotfiles)  
 `[04/28 08:15]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bevyengine/bevy](https://github.com/bevyengine/bevy)  
 `[04/28 05:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [friendbear/hello-github-actions](https://github.com/friendbear/hello-github-actions)  
