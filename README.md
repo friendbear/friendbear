@@ -512,11 +512,11 @@ Under constract
 ## daily.dev Bookmarks
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Understand New Generation of file formats in 5 minutes — JSON vs. AVRO vs. PARQUET vs. ORC](https://app.daily.dev/posts/AuxuoEHY4?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [Level up your Linux gaming with the new Steam Snap!](https://app.daily.dev/posts/ll1bffR1p?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [Best practices to keep your projects secure on GitHub](https://app.daily.dev/posts/JRoLcISpi?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [SQL Cheat Sheet – Quick and Easy SQL Command Reference Examples](https://app.daily.dev/posts/VWkxCYJzU?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [The GitHub Stars in our eyes ⭐️](https://app.daily.dev/posts/lO-h5cOch?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
-- [Musk buys Twitter](https://app.daily.dev/posts/4I6he16-R?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 <!-- daily.dev BOOKMARKS:END -->
 
 
