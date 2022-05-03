@@ -250,6 +250,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[05/03 00:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [SebLague/Geographical-Adventures](https://github.com/SebLague/Geographical-Adventures)  
 `[05/02 22:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rcaloras/bash-preexec](https://github.com/rcaloras/bash-preexec)  
 `[05/02 22:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ASHWIN990/ADB-Toolkit](https://github.com/ASHWIN990/ADB-Toolkit)  
 `[05/02 08:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#237` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
@@ -259,10 +260,10 @@ Under constract
 `[04/30 14:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/100days-of-code-confluent-cloud-kafka](https://github.com/friendbear/100days-of-code-confluent-cloud-kafka)  
 `[04/30 11:14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cloudflare/scala-worker-hello-world](https://github.com/cloudflare/scala-worker-hello-world)  
 `[04/30 11:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cloudflare/ssh-log-cli](https://github.com/cloudflare/ssh-log-cli)  
-`[04/30 10:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare)  
 
 <details><summary>Show More</summary>
 
+`[04/30 10:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare)  
 `[04/30 05:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [pwa-builder/PWABuilder](https://github.com/pwa-builder/PWABuilder)  
 `[04/30 05:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [pwa-builder/pwa-starter](https://github.com/pwa-builder/pwa-starter)  
 `[04/30 04:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#234` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
@@ -505,7 +506,6 @@ Under constract
 `[03/21 12:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [omololevy/GitHub-Search](https://github.com/omololevy/GitHub-Search)  
 `[03/21 05:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 `[03/20 10:32]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [iuridepaula/portfolio](https://github.com/iuridepaula/portfolio) to [friendbear/portfolio](https://github.com/friendbear/portfolio)  
-`[03/20 10:32]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [iuridepaula/portfolio](https://github.com/iuridepaula/portfolio)  
 
 </details>
 <!--END_SECTION:activity-->
