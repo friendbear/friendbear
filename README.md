@@ -250,6 +250,9 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[05/03 06:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/vector](https://github.com/friendbear/vector)  
+`[05/03 06:03]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/vector/tree/main) in [friendbear/vector](https://github.com/friendbear/vector)  
+`[05/03 06:03]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/vector](https://github.com/friendbear/vector)  
 `[05/03 04:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/mailhog-strage-mongodb](https://github.com/friendbear/mailhog-strage-mongodb)  
 `[05/03 04:30]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/mailhog-strage-mongodb/tree/main) in [friendbear/mailhog-strage-mongodb](https://github.com/friendbear/mailhog-strage-mongodb)  
 `[05/03 04:29]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/mailhog-strage-mongodb](https://github.com/friendbear/mailhog-strage-mongodb)  
@@ -257,12 +260,12 @@ Under constract
 `[05/02 22:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rcaloras/bash-preexec](https://github.com/rcaloras/bash-preexec)  
 `[05/02 22:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ASHWIN990/ADB-Toolkit](https://github.com/ASHWIN990/ADB-Toolkit)  
 `[05/02 08:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#237` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[05/02 06:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#236` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[05/02 01:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [apache/ignite-3](https://github.com/apache/ignite-3)  
-`[05/01 08:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#235` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 
 <details><summary>Show More</summary>
 
+`[05/02 06:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#236` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
+`[05/02 01:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [apache/ignite-3](https://github.com/apache/ignite-3)  
+`[05/01 08:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#235` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[04/30 14:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/100days-of-code-confluent-cloud-kafka](https://github.com/friendbear/100days-of-code-confluent-cloud-kafka)  
 `[04/30 11:14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cloudflare/scala-worker-hello-world](https://github.com/cloudflare/scala-worker-hello-world)  
 `[04/30 11:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cloudflare/ssh-log-cli](https://github.com/cloudflare/ssh-log-cli)  
@@ -505,9 +508,7 @@ Under constract
 `[03/22 11:41]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sitkevij/hex](https://github.com/sitkevij/hex)  
 `[03/22 11:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sitkevij/no_color](https://github.com/sitkevij/no_color)  
 `[03/22 07:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#209` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[03/22 07:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
-`[03/21 12:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [omololevy/GitHub-Search](https://github.com/omololevy/GitHub-Search)  
-`[03/21 05:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
+`[03/22 07:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 
 </details>
 <!--END_SECTION:activity-->
