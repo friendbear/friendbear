@@ -517,11 +517,11 @@ Under constract
 ## daily.dev Bookmarks
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Firefox 100 is Now Available to Download 🥳](https://app.daily.dev/posts/ptaynCyvq?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [How to Add a Web3 Connect Wallet Button to Your Website](https://app.daily.dev/posts/M-4XcaJ_b?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [Understand New Generation of file formats in 5 minutes — JSON vs. AVRO vs. PARQUET vs. ORC](https://app.daily.dev/posts/AuxuoEHY4?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [Level up your Linux gaming with the new Steam Snap!](https://app.daily.dev/posts/ll1bffR1p?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [Best practices to keep your projects secure on GitHub](https://app.daily.dev/posts/JRoLcISpi?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
-- [SQL Cheat Sheet – Quick and Easy SQL Command Reference Examples](https://app.daily.dev/posts/VWkxCYJzU?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 <!-- daily.dev BOOKMARKS:END -->
 
 
