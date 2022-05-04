@@ -250,6 +250,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[05/04 03:09]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`day3`](https://github.com/friendbear/100days-of-code-confluent-cloud-kafka/tree/day3) in [friendbear/100days-of-code-confluent-cloud-kafka](https://github.com/friendbear/100days-of-code-confluent-cloud-kafka)  
 `[05/04 02:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/100days-of-code-confluent-cloud-kafka](https://github.com/friendbear/100days-of-code-confluent-cloud-kafka)  
 `[05/04 01:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#238` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[05/04 01:03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [iced-rs/iced](https://github.com/iced-rs/iced)  
@@ -259,10 +260,10 @@ Under constract
 `[05/03 06:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/vector](https://github.com/friendbear/vector)  
 `[05/03 06:03]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/vector/tree/main) in [friendbear/vector](https://github.com/friendbear/vector)  
 `[05/03 06:03]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/vector](https://github.com/friendbear/vector)  
-`[05/03 04:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/mailhog-strage-mongodb](https://github.com/friendbear/mailhog-strage-mongodb)  
 
 <details><summary>Show More</summary>
 
+`[05/03 04:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/mailhog-strage-mongodb](https://github.com/friendbear/mailhog-strage-mongodb)  
 `[05/03 04:30]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/mailhog-strage-mongodb/tree/main) in [friendbear/mailhog-strage-mongodb](https://github.com/friendbear/mailhog-strage-mongodb)  
 `[05/03 04:29]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/mailhog-strage-mongodb](https://github.com/friendbear/mailhog-strage-mongodb)  
 `[05/03 00:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [SebLague/Geographical-Adventures](https://github.com/SebLague/Geographical-Adventures)  
@@ -507,7 +508,6 @@ Under constract
 `[03/22 16:57]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#2`](https://github.com//pin0S/portfolios-that-pop/issues/2 'Great, can we have multi-user support for portfolios?') in [pin0S/portfolios-that-pop](https://github.com/pin0S/portfolios-that-pop)  
 `[03/22 16:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [gkjohnson/three-mesh-bvh](https://github.com/gkjohnson/three-mesh-bvh)  
 `[03/22 13:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/dotfiles](https://github.com/friendbear/dotfiles)  
-`[03/22 13:33]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [ryuma017/portfolio](https://github.com/ryuma017/portfolio) to [friendbear/portfolio-1](https://github.com/friendbear/portfolio-1)  
 
 </details>
 <!--END_SECTION:activity-->
