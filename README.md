@@ -250,6 +250,8 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[05/04 11:26]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#5`](https://github.com//friendbear/100days-of-code-confluent-cloud-kafka/pull/5 '100days of code day2') in [friendbear/100days-of-code-confluent-cloud-kafka](https://github.com/friendbear/100days-of-code-confluent-cloud-kafka)  
+`[05/04 11:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/auth-service](https://github.com/friendbear/auth-service)  
 `[05/04 07:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#239` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[05/04 07:44]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) to [friendbear/Bash-Oneliner](https://github.com/friendbear/Bash-Oneliner)  
 `[05/04 03:09]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`day3`](https://github.com/friendbear/100days-of-code-confluent-cloud-kafka/tree/day3) in [friendbear/100days-of-code-confluent-cloud-kafka](https://github.com/friendbear/100days-of-code-confluent-cloud-kafka)  
@@ -258,11 +260,11 @@ Under constract
 `[05/04 01:03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [iced-rs/iced](https://github.com/iced-rs/iced)  
 `[05/03 12:24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bitlaw-jp/the-constitution-of-japan](https://github.com/bitlaw-jp/the-constitution-of-japan)  
 `[05/03 07:05]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/friendbear/python-games/tree/master) in [friendbear/python-games](https://github.com/friendbear/python-games)  
-`[05/03 06:49]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/python-games](https://github.com/friendbear/python-games)  
-`[05/03 06:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/vector](https://github.com/friendbear/vector)  
 
 <details><summary>Show More</summary>
 
+`[05/03 06:49]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/python-games](https://github.com/friendbear/python-games)  
+`[05/03 06:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/vector](https://github.com/friendbear/vector)  
 `[05/03 06:03]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/vector/tree/main) in [friendbear/vector](https://github.com/friendbear/vector)  
 `[05/03 06:03]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/vector](https://github.com/friendbear/vector)  
 `[05/03 04:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/mailhog-strage-mongodb](https://github.com/friendbear/mailhog-strage-mongodb)  
@@ -508,7 +510,6 @@ Under constract
 `[03/22 17:47]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [SolaceSamples/solace-samples-mqtt](https://github.com/SolaceSamples/solace-samples-mqtt) to [friendbear/solace-samples-mqtt](https://github.com/friendbear/solace-samples-mqtt)  
 `[03/22 17:03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [giswqs/GEE-Courses](https://github.com/giswqs/GEE-Courses)  
 `[03/22 16:57]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#2`](https://github.com//pin0S/portfolios-that-pop/issues/2 'Great, can we have multi-user support for portfolios?') in [pin0S/portfolios-that-pop](https://github.com/pin0S/portfolios-that-pop)  
-`[03/22 16:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [gkjohnson/three-mesh-bvh](https://github.com/gkjohnson/three-mesh-bvh)  
 
 </details>
 <!--END_SECTION:activity-->
