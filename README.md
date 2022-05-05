@@ -171,12 +171,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 April 2022 - To: 03 May 2022
+From: 27 April 2022 - To: 04 May 2022
 
-YAML       46 mins         █████████████████████▓░░░   87.20 %
-Markdown   5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.28 %
-Docker     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Markdown   1 hr            ███████████████░░░░░░░░░░   60.02 %
+YAML       36 mins         █████████░░░░░░░░░░░░░░░░   35.81 %
+SQL        2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
+Docker     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
