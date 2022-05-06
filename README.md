@@ -251,6 +251,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[05/06 05:56]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [twitterdev/Bookmarks-Notion-Notebook](https://github.com/twitterdev/Bookmarks-Notion-Notebook)  
 `[05/06 01:10]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust)  
 `[05/05 07:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [odedshimon/BruteShark](https://github.com/odedshimon/BruteShark)  
 `[05/05 06:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [m3n0sd0n4ld/uDork](https://github.com/m3n0sd0n4ld/uDork)  
@@ -260,10 +261,10 @@ Under constract
 `[05/04 11:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/100days-of-code-confluent-cloud-kafka](https://github.com/friendbear/100days-of-code-confluent-cloud-kafka)  
 `[05/04 11:36]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#5`](https://github.com//friendbear/100days-of-code-confluent-cloud-kafka/pull/5 '100days of code day2') in [friendbear/100days-of-code-confluent-cloud-kafka](https://github.com/friendbear/100days-of-code-confluent-cloud-kafka)  
 `[05/04 11:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/100days-of-code-confluent-cloud-kafka](https://github.com/friendbear/100days-of-code-confluent-cloud-kafka)  
-`[05/04 11:26]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#5`](https://github.com//friendbear/100days-of-code-confluent-cloud-kafka/pull/5 '100days of code day2') in [friendbear/100days-of-code-confluent-cloud-kafka](https://github.com/friendbear/100days-of-code-confluent-cloud-kafka)  
 
 <details><summary>Show More</summary>
 
+`[05/04 11:26]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#5`](https://github.com//friendbear/100days-of-code-confluent-cloud-kafka/pull/5 '100days of code day2') in [friendbear/100days-of-code-confluent-cloud-kafka](https://github.com/friendbear/100days-of-code-confluent-cloud-kafka)  
 `[05/04 11:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/auth-service](https://github.com/friendbear/auth-service)  
 `[05/04 07:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#239` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[05/04 07:44]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) to [friendbear/Bash-Oneliner](https://github.com/friendbear/Bash-Oneliner)  
@@ -509,7 +510,6 @@ Under constract
 `[03/23 08:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear.github.io](https://github.com/friendbear/friendbear.github.io)  
 `[03/23 07:02]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#3`](https://github.com//omololevy/GitHub-Search/issues/3 'Great, can we have multi-user support for portfolios?') in [omololevy/GitHub-Search](https://github.com/omololevy/GitHub-Search)  
 `[03/23 04:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/hashicorp-valut-handson](https://github.com/friendbear/hashicorp-valut-handson)  
-`[03/23 04:56]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/hashicorp-valut-handson/tree/main) in [friendbear/hashicorp-valut-handson](https://github.com/friendbear/hashicorp-valut-handson)  
 
 </details>
 <!--END_SECTION:activity-->
