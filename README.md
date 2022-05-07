@@ -518,11 +518,11 @@ Under constract
 ## daily.dev Bookmarks
 
 <!-- daily.dev BOOKMARKS:START -->
+- [5 Dev Tools To Look Out For In 2022](https://app.daily.dev/posts/8Z_dWzMuZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [Introduction of Jenkins pipeline](https://app.daily.dev/posts/V7M8F3cc8?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [What are your Most Used Self Hosted Applications?](https://app.daily.dev/posts/sCMSaIke8?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [The Best Programming Conferences to Attend in 2022](https://app.daily.dev/posts/OY6pTeVba?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [Firefox 100 is Now Available to Download 🥳](https://app.daily.dev/posts/ptaynCyvq?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
-- [How to Add a Web3 Connect Wallet Button to Your Website](https://app.daily.dev/posts/M-4XcaJ_b?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 <!-- daily.dev BOOKMARKS:END -->
 
 
