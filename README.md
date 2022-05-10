@@ -251,6 +251,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[05/10 10:07]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/self-hosted-applications/tree/main) in [friendbear/self-hosted-applications](https://github.com/friendbear/self-hosted-applications)  
 `[05/10 09:58]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/self-hosted-applications](https://github.com/friendbear/self-hosted-applications)  
 `[05/10 09:47]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)  
 `[05/10 08:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#243` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
@@ -260,10 +261,10 @@ Under constract
 `[05/08 11:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#241` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[05/08 00:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [BabylonJS/Editor](https://github.com/BabylonJS/Editor)  
 `[05/07 13:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bennadel/Signature-Generator](https://github.com/bennadel/Signature-Generator)  
-`[05/07 12:36]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Nican/Furland](https://github.com/Nican/Furland)  
 
 <details><summary>Show More</summary>
 
+`[05/07 12:36]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Nican/Furland](https://github.com/Nican/Furland)  
 `[05/07 09:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dhondta/dronesploit](https://github.com/dhondta/dronesploit)  
 `[05/06 14:15]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bluesky-social/adx](https://github.com/bluesky-social/adx)  
 `[05/06 13:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#240` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
@@ -509,7 +510,6 @@ Under constract
 `[03/26 06:19]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [containers/podman](https://github.com/containers/podman)  
 `[03/25 13:34]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/scala3-hello-world/tree/main) in [friendbear/scala3-hello-world](https://github.com/friendbear/scala3-hello-world)  
 `[03/25 13:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/dotfiles](https://github.com/friendbear/dotfiles)  
-`[03/25 12:10]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [scala-network/XLArig](https://github.com/scala-network/XLArig)  
 
 </details>
 <!--END_SECTION:activity-->
