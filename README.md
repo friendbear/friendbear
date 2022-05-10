@@ -171,7 +171,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 May 2022 - To: 08 May 2022
+From: 02 May 2022 - To: 09 May 2022
 
 Markdown   1 hr            ███████████████░░░░░░░░░░   60.02 %
 YAML       36 mins         █████████░░░░░░░░░░░░░░░░   35.81 %
