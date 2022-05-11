@@ -519,11 +519,11 @@ Under constract
 ## daily.dev Bookmarks
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Supercharging GitHub Actions with Job Summaries](https://app.daily.dev/posts/-uuDsUEfC?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
+- [Build an iOS App with a revenue 1,338$ / mo](https://app.daily.dev/posts/8YCNJA1E5?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
+- [How to Build a Web3 Twitter Clone](https://app.daily.dev/posts/dZy_eXNj8?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [5 Dev Tools To Look Out For In 2022](https://app.daily.dev/posts/8Z_dWzMuZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [Introduction of Jenkins pipeline](https://app.daily.dev/posts/V7M8F3cc8?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
-- [What are your Most Used Self Hosted Applications?](https://app.daily.dev/posts/sCMSaIke8?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
-- [The Best Programming Conferences to Attend in 2022](https://app.daily.dev/posts/OY6pTeVba?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
-- [Firefox 100 is Now Available to Download 🥳](https://app.daily.dev/posts/ptaynCyvq?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 <!-- daily.dev BOOKMARKS:END -->
 
 
