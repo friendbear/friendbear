@@ -245,6 +245,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[05/12 11:17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [arjun-sir/SaveToNotion](https://github.com/arjun-sir/SaveToNotion)  
 `[05/12 10:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [github/gh-valet](https://github.com/github/gh-valet)  
 `[05/12 05:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [markdoc/markdoc](https://github.com/markdoc/markdoc)  
 `[05/11 23:20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [twitterdev/twitter-streaming-framework](https://github.com/twitterdev/twitter-streaming-framework)  
@@ -254,10 +255,10 @@ Under constract
 `[05/10 09:58]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/self-hosted-applications](https://github.com/friendbear/self-hosted-applications)  
 `[05/10 09:47]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)  
 `[05/10 08:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#243` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[05/10 05:59]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [TryGhost/Ghost](https://github.com/TryGhost/Ghost) to [friendbear/Ghost](https://github.com/friendbear/Ghost)  
 
 <details><summary>Show More</summary>
 
+`[05/10 05:59]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [TryGhost/Ghost](https://github.com/TryGhost/Ghost) to [friendbear/Ghost](https://github.com/friendbear/Ghost)  
 `[05/10 05:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [TryGhost/Ghost](https://github.com/TryGhost/Ghost)  
 `[05/08 12:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#242` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[05/08 11:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#241` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
@@ -505,7 +506,6 @@ Under constract
 `[03/26 13:19]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [probot/probot](https://github.com/probot/probot)  
 `[03/26 13:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ppy/osu-wiki](https://github.com/ppy/osu-wiki)  
 `[03/26 11:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/kafka-beginners-course](https://github.com/friendbear/kafka-beginners-course)  
-`[03/26 11:19]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`snyk-upgrade-31b924133d2ae0f253d0487098a5afc9`](https://github.com/friendbear/kafka-beginners-course/tree/snyk-upgrade-31b924133d2ae0f253d0487098a5afc9) in [friendbear/kafka-beginners-course](https://github.com/friendbear/kafka-beginners-course)  
 
 </details>
 <!--END_SECTION:activity-->
