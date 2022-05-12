@@ -171,13 +171,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 May 2022 - To: 10 May 2022
-
-Markdown   55 mins         ████████████████████▓░░░░   83.31 %
-YAML       8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.35 %
-SQL        2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
-Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
