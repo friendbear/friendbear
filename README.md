@@ -245,6 +245,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[05/14 00:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#245` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[05/13 23:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm)  
 `[05/13 08:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [duckdb/duckdb](https://github.com/duckdb/duckdb)  
 `[05/12 11:17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [arjun-sir/SaveToNotion](https://github.com/arjun-sir/SaveToNotion)  
@@ -254,10 +255,10 @@ Under constract
 `[05/11 08:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#244` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[05/10 10:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [kedacore/keda](https://github.com/kedacore/keda)  
 `[05/10 10:07]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/self-hosted-applications/tree/main) in [friendbear/self-hosted-applications](https://github.com/friendbear/self-hosted-applications)  
-`[05/10 09:58]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/self-hosted-applications](https://github.com/friendbear/self-hosted-applications)  
 
 <details><summary>Show More</summary>
 
+`[05/10 09:58]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/self-hosted-applications](https://github.com/friendbear/self-hosted-applications)  
 `[05/10 09:47]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)  
 `[05/10 08:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#243` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[05/10 05:59]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [TryGhost/Ghost](https://github.com/TryGhost/Ghost) to [friendbear/Ghost](https://github.com/friendbear/Ghost)  
@@ -506,7 +507,6 @@ Under constract
 `[03/26 13:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/kafka-beginners-course](https://github.com/friendbear/kafka-beginners-course)  
 `[03/26 13:26]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2`](https://github.com//friendbear/kafka-beginners-course/pull/2 '[Snyk] Upgrade org.apache.kafka:kafka-clients from 3.0.0 to 3.1.0') in [friendbear/kafka-beginners-course](https://github.com/friendbear/kafka-beginners-course)  
 `[03/26 13:19]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [probot/probot](https://github.com/probot/probot)  
-`[03/26 13:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ppy/osu-wiki](https://github.com/ppy/osu-wiki)  
 
 </details>
 <!--END_SECTION:activity-->
