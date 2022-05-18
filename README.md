@@ -245,6 +245,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[05/18 02:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)  
 `[05/17 19:51]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [denoland/deno](https://github.com/denoland/deno)  
 `[05/16 05:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [alphacep/vosk-api](https://github.com/alphacep/vosk-api)  
 `[05/16 05:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [confluentinc/ksql](https://github.com/confluentinc/ksql)  
@@ -254,10 +255,10 @@ Under constract
 `[05/13 23:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm)  
 `[05/13 08:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [duckdb/duckdb](https://github.com/duckdb/duckdb)  
 `[05/12 11:17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [arjun-sir/SaveToNotion](https://github.com/arjun-sir/SaveToNotion)  
-`[05/12 10:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [github/gh-valet](https://github.com/github/gh-valet)  
 
 <details><summary>Show More</summary>
 
+`[05/12 10:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [github/gh-valet](https://github.com/github/gh-valet)  
 `[05/12 05:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [markdoc/markdoc](https://github.com/markdoc/markdoc)  
 `[05/11 23:20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [twitterdev/twitter-streaming-framework](https://github.com/twitterdev/twitter-streaming-framework)  
 `[05/11 08:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#244` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
@@ -507,7 +508,6 @@ Under constract
 `[03/26 17:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 `[03/26 16:59]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) to [friendbear/data-science-ipython-notebooks](https://github.com/friendbear/data-science-ipython-notebooks)  
 `[03/26 16:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)  
-`[03/26 16:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)  
 
 </details>
 <!--END_SECTION:activity-->
