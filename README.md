@@ -248,6 +248,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[05/20 11:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#249` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[05/20 11:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/self-hosted-applications](https://github.com/friendbear/self-hosted-applications)  
 `[05/20 06:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [m-ou-se/auto-import](https://github.com/m-ou-se/auto-import)  
 `[05/19 22:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#248` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
@@ -257,10 +258,10 @@ Under constract
 `[05/17 19:51]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [denoland/deno](https://github.com/denoland/deno)  
 `[05/16 05:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [alphacep/vosk-api](https://github.com/alphacep/vosk-api)  
 `[05/16 05:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [confluentinc/ksql](https://github.com/confluentinc/ksql)  
-`[05/15 15:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#246` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 
 <details><summary>Show More</summary>
 
+`[05/15 15:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#246` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[05/15 00:23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [curl/curl](https://github.com/curl/curl)  
 `[05/14 00:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#245` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[05/13 23:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm)  
@@ -511,7 +512,6 @@ Under constract
 `[03/28 08:43]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`snyk-upgrade-9c5a98ab00d335f44cac4d52fe2d67d7`](https://github.com/friendbear/kafka-beginners/tree/snyk-upgrade-9c5a98ab00d335f44cac4d52fe2d67d7) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[03/27 20:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)  
 `[03/27 06:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
-`[03/27 06:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [servo/servo](https://github.com/servo/servo)  
 
 </details>
 <!--END_SECTION:activity-->
