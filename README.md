@@ -251,6 +251,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[05/24 04:10]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [datahub-project/datahub](https://github.com/datahub-project/datahub)  
 `[05/23 11:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Just-Moh-it/Pckd](https://github.com/Just-Moh-it/Pckd)  
 `[05/22 01:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#251` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[05/20 21:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#250` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
@@ -260,10 +261,10 @@ Under constract
 `[05/20 06:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [m-ou-se/auto-import](https://github.com/m-ou-se/auto-import)  
 `[05/19 22:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#248` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[05/19 15:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [python-poetry/poetry](https://github.com/python-poetry/poetry)  
-`[05/19 03:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#247` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 
 <details><summary>Show More</summary>
 
+`[05/19 03:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#247` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[05/18 02:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)  
 `[05/17 19:51]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [denoland/deno](https://github.com/denoland/deno)  
 `[05/16 05:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [alphacep/vosk-api](https://github.com/alphacep/vosk-api)  
@@ -514,7 +515,7 @@ Under constract
 `[03/28 08:43]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`snyk-upgrade-8aba2205a5dc8cd0d4aa4a3c31d1966a`](https://github.com/friendbear/kafka-beginners/tree/snyk-upgrade-8aba2205a5dc8cd0d4aa4a3c31d1966a) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[03/28 08:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[03/28 08:43]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`snyk-upgrade-810c9331f206014d26178d3b836616a7`](https://github.com/friendbear/kafka-beginners/tree/snyk-upgrade-810c9331f206014d26178d3b836616a7) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
-`[03/28 08:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
+`[03/28 08:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 
 </details>
 <!--END_SECTION:activity-->
