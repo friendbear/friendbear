@@ -61,6 +61,7 @@ Here are some ideas to get you started:
 * [Jira](https://friendbear.atlassian.net)
 * [Tecnical blog](https://friendbear.hashnode.dev/)
 * [StackShare](https://stackshare.io/friendbear)
+* [coudcast](https://www.crowdcast.io/friendbear)
 
 ### Linux Fundation ↓
 [![linux-fundation-logo](/asset/images/linux-fundation-logo.png)](https://openprofile.dev/profile/friendbear)
