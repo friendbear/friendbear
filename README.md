@@ -528,11 +528,11 @@ Under constract
 ## daily.dev Bookmarks
 
 <!-- daily.dev BOOKMARKS:START -->
+- [PGAdmin4 Docker Desktop Extension](https://app.daily.dev/posts/yoB9XVSjm?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [The Full-Stack Developers’ Setup for macOS Monterey](https://app.daily.dev/posts/lzgmnkA5L?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [Guide to using arenas in Rust](https://app.daily.dev/posts/nw2wjMCwM?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [CSS Tools, JS Utilities, JSON, Databases](https://app.daily.dev/posts/cXEndpS_D?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [Getting Started With PyScript](https://app.daily.dev/posts/RAbwApe4l?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
-- [Using Deno and Materialize to send notifications in real-time](https://app.daily.dev/posts/x18o_Eqts?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 <!-- daily.dev BOOKMARKS:END -->
 
 
