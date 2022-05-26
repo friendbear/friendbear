@@ -172,13 +172,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 May 2022 - To: 24 May 2022
+From: 18 May 2022 - To: 25 May 2022
 
-Java         6 mins          ████████████░░░░░░░░░░░░░   47.37 %
-Rust         5 mins          ███████████▒░░░░░░░░░░░░░   45.71 %
-Text         0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
-Markdown     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Rust         0 secs          █████████▒░░░░░░░░░░░░░░░   37.36 %
+Text         0 secs          ████████░░░░░░░░░░░░░░░░░   32.54 %
+Markdown     0 secs          ██████▓░░░░░░░░░░░░░░░░░░   26.47 %
+Other        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
 ```
 
 <!--END_SECTION:waka-->
