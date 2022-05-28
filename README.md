@@ -252,6 +252,9 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[05/28 08:03]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#5`](https://github.com//friendbear/kafka-beginners/pull/5 '[Snyk] Upgrade org.apache.kafka:kafka-clients from 3.1.0 to 3.2.0') in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
+`[05/28 08:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
+`[05/28 08:03]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`snyk-upgrade-f2f73b14ed9840d17f7015006f03b392`](https://github.com/friendbear/kafka-beginners/tree/snyk-upgrade-f2f73b14ed9840d17f7015006f03b392) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[05/28 06:46]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`snyk-upgrade-6aa8f675b81ce0304d621990b4a3a0a3`](https://github.com/friendbear/kafka-beginners-course/tree/snyk-upgrade-6aa8f675b81ce0304d621990b4a3a0a3) in [friendbear/kafka-beginners-course](https://github.com/friendbear/kafka-beginners-course)  
 `[05/28 06:46]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#3`](https://github.com//friendbear/kafka-beginners-course/pull/3 '[Snyk] Upgrade org.apache.kafka:kafka-clients from 3.1.0 to 3.2.0') in [friendbear/kafka-beginners-course](https://github.com/friendbear/kafka-beginners-course)  
 `[05/28 06:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/kafka-beginners-course](https://github.com/friendbear/kafka-beginners-course)  
@@ -259,12 +262,12 @@ Under constract
 `[05/25 16:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/node-backend-fetch](https://github.com/friendbear/node-backend-fetch)  
 `[05/25 16:17]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/node-backend-fetch/tree/main) in [friendbear/node-backend-fetch](https://github.com/friendbear/node-backend-fetch)  
 `[05/25 16:16]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/node-backend-fetch](https://github.com/friendbear/node-backend-fetch)  
-`[05/25 08:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#253` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[05/25 02:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
-`[05/25 02:28]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#4`](https://github.com//friendbear/kafka-beginners/pull/4 '[Snyk] Upgrade org.yaml:snakeyaml from 1.29 to 1.30') in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 
 <details><summary>Show More</summary>
 
+`[05/25 08:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#253` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
+`[05/25 02:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
+`[05/25 02:28]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#4`](https://github.com//friendbear/kafka-beginners/pull/4 '[Snyk] Upgrade org.yaml:snakeyaml from 1.29 to 1.30') in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[05/25 02:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[05/25 02:28]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#3`](https://github.com//friendbear/kafka-beginners/pull/3 '[Snyk] Upgrade org.yaml:snakeyaml from 1.29 to 1.30') in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[05/25 02:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
@@ -517,9 +520,6 @@ Under constract
 `[04/02 01:42]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [firefox-devtools/profiler](https://github.com/firefox-devtools/profiler)  
 `[03/31 13:15]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#217` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[03/31 11:23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [iptv-org/iptv](https://github.com/iptv-org/iptv)  
-`[03/31 11:21]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)  
-`[03/31 05:04]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/apache-airflow-dags](https://github.com/friendbear/apache-airflow-dags)  
-`[03/30 22:49]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [swapnakpanda/Infographics](https://github.com/swapnakpanda/Infographics) to [friendbear/Infographics](https://github.com/friendbear/Infographics)  
 
 </details>
 <!--END_SECTION:activity-->
