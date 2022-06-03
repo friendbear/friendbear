@@ -172,11 +172,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 May 2022 - To: 01 June 2022
-
-JSON         9 mins          ██████████████▒░░░░░░░░░░   57.00 %
-JavaScript   4 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.28 %
-Markdown     2 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.71 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
