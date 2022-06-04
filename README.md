@@ -252,6 +252,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[06/04 05:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#257` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[06/01 18:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#256` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[06/01 18:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#255` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[06/01 18:34]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1`](https://github.com//friendbear/apache-airflow-dags/issues/1 '[TODO] Dags') in [friendbear/apache-airflow-dags](https://github.com/friendbear/apache-airflow-dags)  
@@ -261,10 +262,10 @@ Under constract
 `[05/28 08:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[05/28 08:03]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`snyk-upgrade-f2f73b14ed9840d17f7015006f03b392`](https://github.com/friendbear/kafka-beginners/tree/snyk-upgrade-f2f73b14ed9840d17f7015006f03b392) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[05/28 06:46]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`snyk-upgrade-6aa8f675b81ce0304d621990b4a3a0a3`](https://github.com/friendbear/kafka-beginners-course/tree/snyk-upgrade-6aa8f675b81ce0304d621990b4a3a0a3) in [friendbear/kafka-beginners-course](https://github.com/friendbear/kafka-beginners-course)  
-`[05/28 06:46]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#3`](https://github.com//friendbear/kafka-beginners-course/pull/3 '[Snyk] Upgrade org.apache.kafka:kafka-clients from 3.1.0 to 3.2.0') in [friendbear/kafka-beginners-course](https://github.com/friendbear/kafka-beginners-course)  
 
 <details><summary>Show More</summary>
 
+`[05/28 06:46]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#3`](https://github.com//friendbear/kafka-beginners-course/pull/3 '[Snyk] Upgrade org.apache.kafka:kafka-clients from 3.1.0 to 3.2.0') in [friendbear/kafka-beginners-course](https://github.com/friendbear/kafka-beginners-course)  
 `[05/28 06:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/kafka-beginners-course](https://github.com/friendbear/kafka-beginners-course)  
 `[05/27 01:32]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [influxdata/rskafka](https://github.com/influxdata/rskafka)  
 `[05/25 16:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/node-backend-fetch](https://github.com/friendbear/node-backend-fetch)  
@@ -519,7 +520,6 @@ Under constract
 `[04/02 12:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [build-server-protocol/build-server-protocol](https://github.com/build-server-protocol/build-server-protocol)  
 `[04/02 11:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bazelbuild/bazel](https://github.com/bazelbuild/bazel)  
 `[04/02 11:42]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [JetBrains/bazel-bsp](https://github.com/JetBrains/bazel-bsp)  
-`[04/02 11:28]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/scala-cli-lab/tree/main) in [friendbear/scala-cli-lab](https://github.com/friendbear/scala-cli-lab)  
 
 </details>
 <!--END_SECTION:activity-->
