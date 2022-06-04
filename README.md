@@ -172,7 +172,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 27 May 2022 - To: 03 June 2022
+
+Rust         1 min           ███████████████▓░░░░░░░░░   62.12 %
+YAML         0 secs          ███████░░░░░░░░░░░░░░░░░░   28.60 %
+Git Config   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
+Text         0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
