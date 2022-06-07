@@ -6,7 +6,7 @@
 ### Hi there （こんにちわ）from Japan :japan: <img src="https://raw.githubusercontent.com/friendbear/friendbear/main/wave.gif" width="35px">
 
 ---
-<!--
+<!--x
 
 ![moz://a](asset/images/mozfest-logo.svg)
 
@@ -38,11 +38,10 @@ Here are some ideas to get you started:
 
 - 🔑 GPP Key: F9521D94D71A2F01
 
-[![Twitter: ThraiiBraga](https://img.shields.io/twitter/follow/friendbear22?stype=social)](https://twitter.com/friendbear22)
-[![Twitter: ThraiiBraga](https://img.shields.io/twitter/follow/bearsworld22?stype=social)](https://twitter.com/bearsworld22)
-[![Twitter: ThraiiBraga](https://img.shields.io/twitter/follow/cruise_group_jp?stype=social)](https://twitter.com/cruise_group_jp)
+
 ---
 
+![codepen](/asset/images/dagshub.png)
 :doc: [MyDagsHub]: / https://dagshub.com/friendbear "DacsHub"
 
 ---
@@ -57,7 +56,7 @@ Here are some ideas to get you started:
 
 ### My link
 * [IEEE](https://spectrum.ieee.org/u/tomohiro_kumagai)
-* [![codepen](/asset/images/odepen-logo.png)](https://codepen.io)
+* [codepen](https://codepen.io/friendbear)
 * [Jira](https://friendbear.atlassian.net)
 * [Tecnical blog](https://friendbear.hashnode.dev/)
 * [StackShare](https://stackshare.io/friendbear)
@@ -247,6 +246,9 @@ Under constract
 [dev.to]: https://dev.to/friendbear
 [linkedin]: https://www.linkedin.com/in/friendbear
 [stakoverflow]: https://stackoverflow.com/users/10924993/t-kumagai
+
+[![Twitter: ThraiiBraga](https://img.shields.io/twitter/follow/friendbear22?stype=social)](https://twitter.com/friendbear22)
+[![Twitter: ThraiiBraga](https://img.shields.io/twitter/follow/bearsworld22?stype=social)](https://twitter.com/bearsworld22)
 
 
 ## Recent GitHub Activity
