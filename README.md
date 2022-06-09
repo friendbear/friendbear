@@ -171,13 +171,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 May 2022 - To: 07 June 2022
+From: 01 June 2022 - To: 08 June 2022
 
-Rust         1 min           ███████████████▓░░░░░░░░░   62.12 %
-YAML         0 secs          ███████░░░░░░░░░░░░░░░░░░   28.60 %
-Git Config   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
-Text         0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Scala        25 mins         ███████████████░░░░░░░░░░   59.39 %
+Markdown     15 mins         █████████░░░░░░░░░░░░░░░░   36.18 %
+Rust         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
+YAML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
