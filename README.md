@@ -171,7 +171,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 June 2022 - To: 08 June 2022
+From: 02 June 2022 - To: 09 June 2022
 
 Scala        25 mins         ███████████████░░░░░░░░░░   59.39 %
 Markdown     15 mins         █████████░░░░░░░░░░░░░░░░   36.18 %
