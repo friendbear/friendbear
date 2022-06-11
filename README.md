@@ -251,6 +251,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[06/11 02:14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [deviantony/docker-elk](https://github.com/deviantony/docker-elk)  
 `[06/09 08:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/programming-rust](https://github.com/friendbear/programming-rust)  
 `[06/09 02:17]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/programming-rust/tree/main) in [friendbear/programming-rust](https://github.com/friendbear/programming-rust)  
 `[06/09 02:09]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/programming-rust](https://github.com/friendbear/programming-rust)  
@@ -260,10 +261,10 @@ Under constract
 `[06/04 05:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#257` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[06/01 18:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#256` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[06/01 18:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#255` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[06/01 18:34]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1`](https://github.com//friendbear/apache-airflow-dags/issues/1 '[TODO] Dags') in [friendbear/apache-airflow-dags](https://github.com/friendbear/apache-airflow-dags)  
 
 <details><summary>Show More</summary>
 
+`[06/01 18:34]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1`](https://github.com//friendbear/apache-airflow-dags/issues/1 '[TODO] Dags') in [friendbear/apache-airflow-dags](https://github.com/friendbear/apache-airflow-dags)  
 `[05/30 12:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#254` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[05/28 18:19]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [EmbarkStudios/kajiya](https://github.com/EmbarkStudios/kajiya)  
 `[05/28 08:03]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#5`](https://github.com//friendbear/kafka-beginners/pull/5 '[Snyk] Upgrade org.apache.kafka:kafka-clients from 3.1.0 to 3.2.0') in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
@@ -518,7 +519,6 @@ Under constract
 `[04/03 14:57]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#218` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[04/03 14:21]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [seanmonstar/warp](https://github.com/seanmonstar/warp) to [friendbear/warp](https://github.com/friendbear/warp)  
 `[04/03 14:21]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [seanmonstar/warp](https://github.com/seanmonstar/warp)  
-`[04/03 14:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sunng87/handlebars-rust](https://github.com/sunng87/handlebars-rust)  
 
 </details>
 <!--END_SECTION:activity-->
