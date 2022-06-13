@@ -519,7 +519,6 @@ Under constract
 `[04/06 02:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [xcodebuild/CodeTerminal](https://github.com/xcodebuild/CodeTerminal)  
 `[04/05 06:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tomtom-international/postman-collections](https://github.com/tomtom-international/postman-collections)  
 `[04/05 06:01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tomtom-international/grafana-inviter](https://github.com/tomtom-international/grafana-inviter)  
-`[04/05 06:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tomtom-international/configuration-service](https://github.com/tomtom-international/configuration-service)  
 
 </details>
 <!--END_SECTION:activity-->
