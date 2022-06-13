@@ -251,9 +251,19 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[06/13 13:34]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `snyk-upgrade-f2f73b14ed9840d17f7015006f03b392` from [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
+`[06/13 13:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
+`[06/13 13:34]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#5`](https://github.com//friendbear/kafka-beginners/pull/5 '[Snyk] Upgrade org.apache.kafka:kafka-clients from 3.1.0 to 3.2.0') in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
+`[06/13 13:32]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `snyk-upgrade-9c5a98ab00d335f44cac4d52fe2d67d7` from [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
+`[06/13 13:32]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `snyk-upgrade-9537a12d35ff5d65d5c76be7a044ec1b` from [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
+`[06/13 13:32]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `snyk-upgrade-810c9331f206014d26178d3b836616a7` from [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
+`[06/13 13:32]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `snyk-upgrade-8aba2205a5dc8cd0d4aa4a3c31d1966a` from [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[06/11 02:14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [deviantony/docker-elk](https://github.com/deviantony/docker-elk)  
 `[06/09 08:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/programming-rust](https://github.com/friendbear/programming-rust)  
 `[06/09 02:17]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/programming-rust/tree/main) in [friendbear/programming-rust](https://github.com/friendbear/programming-rust)  
+
+<details><summary>Show More</summary>
+
 `[06/09 02:09]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/programming-rust](https://github.com/friendbear/programming-rust)  
 `[06/07 18:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 `[06/07 17:55]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`scala3-sample-project`](https://github.com/friendbear/scala3-hello-world/tree/scala3-sample-project) in [friendbear/scala3-hello-world](https://github.com/friendbear/scala3-hello-world)  
@@ -261,9 +271,6 @@ Under constract
 `[06/04 05:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#257` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[06/01 18:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#256` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[06/01 18:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#255` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-
-<details><summary>Show More</summary>
-
 `[06/01 18:34]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1`](https://github.com//friendbear/apache-airflow-dags/issues/1 '[TODO] Dags') in [friendbear/apache-airflow-dags](https://github.com/friendbear/apache-airflow-dags)  
 `[05/30 12:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#254` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[05/28 18:19]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [EmbarkStudios/kajiya](https://github.com/EmbarkStudios/kajiya)  
@@ -513,12 +520,6 @@ Under constract
 `[04/05 06:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tomtom-international/postman-collections](https://github.com/tomtom-international/postman-collections)  
 `[04/05 06:01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tomtom-international/grafana-inviter](https://github.com/tomtom-international/grafana-inviter)  
 `[04/05 06:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tomtom-international/configuration-service](https://github.com/tomtom-international/configuration-service)  
-`[04/05 05:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tomtom-international/kotlin-tools](https://github.com/tomtom-international/kotlin-tools)  
-`[04/04 05:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash)  
-`[04/04 05:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
-`[04/03 14:57]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#218` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[04/03 14:21]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [seanmonstar/warp](https://github.com/seanmonstar/warp) to [friendbear/warp](https://github.com/friendbear/warp)  
-`[04/03 14:21]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [seanmonstar/warp](https://github.com/seanmonstar/warp)  
 
 </details>
 <!--END_SECTION:activity-->
