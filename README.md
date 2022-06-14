@@ -171,10 +171,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 June 2022 - To: 12 June 2022
+From: 06 June 2022 - To: 13 June 2022
 
-Scala      25 mins         ███████████████▓░░░░░░░░░   62.14 %
-Markdown   15 mins         █████████▒░░░░░░░░░░░░░░░   37.86 %
+Rust       40 mins         ███████▒░░░░░░░░░░░░░░░░░   29.55 %
+Java       28 mins         █████░░░░░░░░░░░░░░░░░░░░   20.40 %
+Scala      25 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.77 %
+Markdown   24 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.91 %
+TOML       8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
+XML        7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
 ```
 
 <!--END_SECTION:waka-->
