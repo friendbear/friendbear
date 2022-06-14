@@ -255,6 +255,8 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[06/14 11:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
+`[06/14 11:39]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`snyk-upgrade-599d526baefed6ff1f91bdbbafbb87ed`](https://github.com/friendbear/kafka-beginners/tree/snyk-upgrade-599d526baefed6ff1f91bdbbafbb87ed) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[06/14 02:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#259` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[06/13 17:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/100days-of-code-confluent-cloud-kafka](https://github.com/friendbear/100days-of-code-confluent-cloud-kafka)  
 `[06/13 13:34]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `snyk-upgrade-f2f73b14ed9840d17f7015006f03b392` from [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
@@ -263,11 +265,11 @@ Under constract
 `[06/13 13:32]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `snyk-upgrade-9c5a98ab00d335f44cac4d52fe2d67d7` from [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[06/13 13:32]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `snyk-upgrade-9537a12d35ff5d65d5c76be7a044ec1b` from [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[06/13 13:32]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `snyk-upgrade-810c9331f206014d26178d3b836616a7` from [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
-`[06/13 13:32]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `snyk-upgrade-8aba2205a5dc8cd0d4aa4a3c31d1966a` from [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
-`[06/11 02:14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [deviantony/docker-elk](https://github.com/deviantony/docker-elk)  
 
 <details><summary>Show More</summary>
 
+`[06/13 13:32]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `snyk-upgrade-8aba2205a5dc8cd0d4aa4a3c31d1966a` from [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
+`[06/11 02:14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [deviantony/docker-elk](https://github.com/deviantony/docker-elk)  
 `[06/09 08:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/programming-rust](https://github.com/friendbear/programming-rust)  
 `[06/09 02:17]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/programming-rust/tree/main) in [friendbear/programming-rust](https://github.com/friendbear/programming-rust)  
 `[06/09 02:09]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/programming-rust](https://github.com/friendbear/programming-rust)  
@@ -521,8 +523,6 @@ Under constract
 `[04/07 10:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [horsicq/XPEViewer](https://github.com/horsicq/XPEViewer)  
 `[04/07 07:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [infosecn1nja/Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit)  
 `[04/07 06:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [pranshu05/Elpha](https://github.com/pranshu05/Elpha)  
-`[04/07 04:25]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/Hashnode](https://github.com/friendbear/Hashnode)  
-`[04/06 02:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [xcodebuild/CodeTerminal](https://github.com/xcodebuild/CodeTerminal)  
 
 </details>
 <!--END_SECTION:activity-->
