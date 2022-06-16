@@ -255,7 +255,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-`[06/16 05:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
+`[06/16 06:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[06/16 04:32]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#954`](https://github.com//Rigellute/spotify-tui/issues/954 'About changing the redirect URL.') in [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui)  
 `[06/16 04:32]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#954`](https://github.com//Rigellute/spotify-tui/issues/954 'About changing the redirect URL.') in [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui)  
 `[06/16 02:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
@@ -521,7 +521,6 @@ Under constract
 `[04/07 13:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [OffcierCia/DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map)  
 `[04/07 13:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [protofire/eth-cli](https://github.com/protofire/eth-cli)  
 `[04/07 12:05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [kumahq/kuma](https://github.com/kumahq/kuma)  
-`[04/07 11:36]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [containerd/containerd](https://github.com/containerd/containerd)  
 
 </details>
 <!--END_SECTION:activity-->
