@@ -255,6 +255,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[06/16 05:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[06/16 04:32]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#954`](https://github.com//Rigellute/spotify-tui/issues/954 'About changing the redirect URL.') in [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui)  
 `[06/16 04:32]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#954`](https://github.com//Rigellute/spotify-tui/issues/954 'About changing the redirect URL.') in [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui)  
 `[06/16 02:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
@@ -264,10 +265,10 @@ Under constract
 `[06/13 13:34]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `snyk-upgrade-f2f73b14ed9840d17f7015006f03b392` from [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[06/13 13:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[06/13 13:34]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#5`](https://github.com//friendbear/kafka-beginners/pull/5 '[Snyk] Upgrade org.apache.kafka:kafka-clients from 3.1.0 to 3.2.0') in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
-`[06/13 13:32]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `snyk-upgrade-9c5a98ab00d335f44cac4d52fe2d67d7` from [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 
 <details><summary>Show More</summary>
 
+`[06/13 13:32]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `snyk-upgrade-9c5a98ab00d335f44cac4d52fe2d67d7` from [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[06/13 13:32]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `snyk-upgrade-9537a12d35ff5d65d5c76be7a044ec1b` from [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[06/13 13:32]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `snyk-upgrade-810c9331f206014d26178d3b836616a7` from [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[06/13 13:32]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `snyk-upgrade-8aba2205a5dc8cd0d4aa4a3c31d1966a` from [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
@@ -521,7 +522,6 @@ Under constract
 `[04/07 13:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [protofire/eth-cli](https://github.com/protofire/eth-cli)  
 `[04/07 12:05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [kumahq/kuma](https://github.com/kumahq/kuma)  
 `[04/07 11:36]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [containerd/containerd](https://github.com/containerd/containerd)  
-`[04/07 11:14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cilium/cilium](https://github.com/cilium/cilium)  
 
 </details>
 <!--END_SECTION:activity-->
