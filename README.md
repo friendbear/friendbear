@@ -1,19 +1,17 @@
-## <img src="https://img.icons8.com/color/48/000000/github--v3.png"/> friendbear 
+# <img src="https://img.icons8.com/color/48/000000/github--v3.png"/> friendbear 
 
-<a href="https://github.com/sponsors/friendbear" title="Sponsor T Kumagai"><img src="asset/images/sponsor.svg?sanitize=true" width="94" height="28" aria-hidden="true"></a>
+### Hi there （こんにちわ）from Japan :japan: <img src="https://raw.githubusercontent.com/friendbear/friendbear/main/wave.gif" width="35px" height="35px" aria-hidden="true">
 
-
-### Hi there （こんにちわ）from Japan :japan: <img src="https://raw.githubusercontent.com/friendbear/friendbear/main/wave.gif" width="35px">
 
 ---
 <!--x
 
 ![moz://a](asset/images/mozfest-logo.svg)
 
--->
 
 Mozilla supporter 
 ## <img src="asset/images/Mozilla-supporter.svg"/>
+-->
 
 <!--
 ![mozilla](asset/images/icons8-firefox-a-free-and-open-source-web-browser-developed-by-the-mozilla-foundation-50.png)
@@ -25,7 +23,6 @@ Mozilla supporter
 ---
  ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<a href="https://app.daily.dev/friendbear"><img src="devcard.svg" width="200px" height="200px" alt="T Kumagai's Dev Card"/></a>
 
 [QuickAccess Playground](https://wandbox.org/)
 Here are some ideas to get you started:
@@ -34,37 +31,30 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning [Scala](https://users.scala-lang.org/u/friendbear), [Rustlang](https://users.rust-lang.org/u/friendbear), [Python3](https://pypi.org/user/friendbear) C, C++, .NET and Bigdata, [MongoDB](https://www.mongodb.com/community/forums/u/friendbear) ... etc
 
-- 📫 How to reach me: <a href="mailto:a11mpl0ax@relay.firefox.com">a11mpl0ax@relay.firefox.com</a> is.</p>
-
-- 🔑 GPP Key: F9521D94D71A2F01
-
-
 ---
-
-![codepen](/asset/images/dagshub.png)
-:doc: [MyDagsHub]: / https://dagshub.com/friendbear "DacsHub"
+<a href="https://github.com/sponsors/friendbear" title="Sponsor T Kumagai"><img src="asset/images/sponsor.svg?sanitize=true" width="94" height="28" aria-hidden="true"></a>
 
 ---
 
 <!--
 <a href="https://app.daily.dev/friendbear"><img src="https://api.daily.dev/devcards/f55171042f5f40e5aeb3b88e315499f7.png?r=9vx" width="400" alt="T Kumagai's Dev Card"/></a>
 
+- 📫 How to reach me: <a href="mailto:a11mpl0ax@relay.firefox.com">a11mpl0ax@relay.firefox.com</a> is.</p>
+
+- 🔑 GPP Key: F9521D94D71A2F01
+
 -->
 
-
-## Community
-
 ### My link
+
 * [IEEE](https://spectrum.ieee.org/u/tomohiro_kumagai)
 * [codepen](https://codepen.io/friendbear)
 * [Jira](https://friendbear.atlassian.net)
 * [Tecnical blog](https://friendbear.hashnode.dev/)
 * [StackShare](https://stackshare.io/friendbear)
 * [coudcast](https://www.crowdcast.io/friendbear)
-
-### Linux Fundation ↓
-[![linux-fundation-logo](/asset/images/linux-fundation-logo.png)](https://openprofile.dev/profile/friendbear)
-
+* [MyDagsHub]: / https://dagshub.com/friendbear 
+* [LFX](https://openprofile.dev/profile/friendbear)
 
 ### Trading Profile
 - [mql](https://www.mql5.com/ja/users/friendbear)
@@ -72,11 +62,7 @@ Here are some ideas to get you started:
 ### Web3 My Profile
 
 - [getcoin](https://gitcoin.co/friendbear)
-
-### Twitter Community 🐥
-
-- [cruise-group](https://twitter.com/i/communities/1498584754915999744)
-
+- [opensea](https://opensea.com/friendbear)
 
 <!--
 - 👯 I’m looking to collaborate on ...
@@ -87,7 +73,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-
 
 ---
 
@@ -202,9 +187,11 @@ Under constract
 
 <img src="https://github-readme-linkedin-iwxercbpe-friendbear22.vercel.app/experience?username=friendbear" />
 
+<!--
 ### Skills
 
 ![](https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat) ![](https://img.shields.io/badge/-Amazon%20AWS-232F3E.svg?logo=amazon-aws&style=flat) ![](https://img.shields.io/badge/-Linux-6C6694.svg?logo=linux&style=flat) 
+-->
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=friendbear alt=friendbear/> </p>
 
@@ -241,7 +228,6 @@ Under constract
 &emsp;
 
 
-[email]: mailto:s8zmnonun@relay.firefox.com
 [twitter]: https://twitter.com/friendbear22
 [devdojo]: https://devdojo.com/friendbear
 [dev.to]: https://dev.to/friendbear
@@ -250,6 +236,21 @@ Under constract
 
 [![Twitter: ThraiiBraga](https://img.shields.io/twitter/follow/friendbear22?stype=social)](https://twitter.com/friendbear22)
 [![Twitter: ThraiiBraga](https://img.shields.io/twitter/follow/bearsworld22?stype=social)](https://twitter.com/bearsworld22)
+
+
+# daily.dev devcard
+<a href="https://app.daily.dev/friendbear"><img src="devcard.svg" aligin="left" width="200px" height="200px" alt="T Kumagai's Dev Card"/></a>
+
+
+## daily.dev Bookmarks
+
+<!-- daily.dev BOOKMARKS:START -->
+- [Self Host Your Own Website for Free](https://app.daily.dev/posts/O7VFpc9xO?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
+- [5 VSCode Extensions You Must Use](https://app.daily.dev/posts/VcVWZ7Aus?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
+- [How to Find a Vulnerability in a Website](https://app.daily.dev/posts/95Ay6SowM?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
+- [When to use GraphQL, gRPC, REST, and Webhooks](https://app.daily.dev/posts/72aN_B27u?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
+- [Stripe Apps - Build an app on Stripe](https://app.daily.dev/posts/vZ4t0qwZB?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
+<!-- daily.dev BOOKMARKS:END -->
 
 
 ## Recent GitHub Activity
@@ -526,23 +527,13 @@ Under constract
 
 <!--END-SECTION:activity-->
 
-## daily.dev Bookmarks
-
-<!-- daily.dev BOOKMARKS:START -->
-- [Self Host Your Own Website for Free](https://app.daily.dev/posts/O7VFpc9xO?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
-- [5 VSCode Extensions You Must Use](https://app.daily.dev/posts/VcVWZ7Aus?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
-- [How to Find a Vulnerability in a Website](https://app.daily.dev/posts/95Ay6SowM?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
-- [When to use GraphQL, gRPC, REST, and Webhooks](https://app.daily.dev/posts/72aN_B27u?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
-- [Stripe Apps - Build an app on Stripe](https://app.daily.dev/posts/vZ4t0qwZB?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
-<!-- daily.dev BOOKMARKS:END -->
-
 
 ### [smile](https://smile.amazon.com/hz/wishlist/ls/ref_=wl_list_url_friends_message>>)
 
 Hi, I was wondering if you had built a list on Amazon. I'd love to see what you really want. Could you share your list with me?--
 
 - Wish List [Amazon US](https://amzn.to/3pukpja)
-- Wish List [Amazon JP](https://t.co/CRxwQJcXpQ)
+- Wish List [Amazon JP](https://www.amazon.co.jp/hz/wishlist/ls/35H8D193KCE3O)
 
 Thanks!
 T Kumagai
@@ -560,7 +551,8 @@ To view and share your lists, visit
 
 ---
 * host: <https://vercel.com/friendbear>
----
+
+<!--
 [MyLiving](https://en.wikivoyage.org/wiki/Funabashi)
 
 ```geojson
@@ -571,9 +563,10 @@ To view and share your lists, visit
   ]
 }
 ```
+->
 
-<!-- PayPal Logo --><table border="0" cellpadding="10" cellspacing="0" align="left"><tr><td align="center"><a href="#" onclick="javascript:window.open('https://www.paypal.com/jp/webapps/mpp/logo/about','olcwhatispaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=900, height=700');"><img src="https://www.paypalobjects.com/digitalassets/c/website/marketing/apac/jp/developer/319x110_a.png" border="0" alt="ペイパル｜VISA, Mastercard, JCB, American Express, Union Pay, 銀行"></a></td></tr></table><!-- PayPal Logo -->
-
+<!-- PayPal Logo <table border="0" cellpadding="10" cellspacing="0" align="left"><tr><td align="center"><a href="#" onclick="javascript:window.open('https://www.paypal.com/jp/webapps/mpp/logo/about','olcwhatispaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=900, height=700');"><img src="https://www.paypalobjects.com/digitalassets/c/website/marketing/apac/jp/developer/319x110_a.png" border="0" alt="ペイパル｜VISA, Mastercard, JCB, American Express, Union Pay, 銀行"></a></td></tr></table><!-- PayPal Logo -->
+-->
 
 [![Update gist with latest YouTube videos](https://github.com/friendbear/youtube-box/actions/workflows/main.yml/badge.svg)](https://github.com/friendbear/youtube-box/actions/workflows/main.yml)
 
