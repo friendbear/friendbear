@@ -256,6 +256,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[06/20 13:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [orhun/gpg-tui](https://github.com/orhun/gpg-tui)  
 `[06/17 04:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[06/16 15:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 `[06/16 08:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
@@ -265,10 +266,10 @@ Under constract
 `[06/14 11:39]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`snyk-upgrade-599d526baefed6ff1f91bdbbafbb87ed`](https://github.com/friendbear/kafka-beginners/tree/snyk-upgrade-599d526baefed6ff1f91bdbbafbb87ed) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[06/14 02:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#259` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[06/13 17:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/100days-of-code-confluent-cloud-kafka](https://github.com/friendbear/100days-of-code-confluent-cloud-kafka)  
-`[06/13 13:34]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `snyk-upgrade-f2f73b14ed9840d17f7015006f03b392` from [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 
 <details><summary>Show More</summary>
 
+`[06/13 13:34]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `snyk-upgrade-f2f73b14ed9840d17f7015006f03b392` from [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[06/13 13:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[06/13 13:34]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#5`](https://github.com//friendbear/kafka-beginners/pull/5 '[Snyk] Upgrade org.apache.kafka:kafka-clients from 3.1.0 to 3.2.0') in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[06/13 13:32]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `snyk-upgrade-9c5a98ab00d335f44cac4d52fe2d67d7` from [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
@@ -519,7 +520,6 @@ Under constract
 `[04/08 06:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [keybase/client](https://github.com/keybase/client)  
 `[04/08 06:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd)  
 `[04/07 22:21]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [warpdotdev/Warp](https://github.com/warpdotdev/Warp)  
-`[04/07 15:11]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [saulpw/visidata](https://github.com/saulpw/visidata)  
 
 </details>
 <!--END_SECTION:activity-->
