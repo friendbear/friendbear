@@ -244,11 +244,11 @@ Under constract
 ## daily.dev Bookmarks
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Remote development with Rust on fly.io](https://app.daily.dev/posts/alKOGIlhn?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [Self Host Your Own Website for Free](https://app.daily.dev/posts/O7VFpc9xO?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [5 VSCode Extensions You Must Use](https://app.daily.dev/posts/VcVWZ7Aus?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [How to Find a Vulnerability in a Website](https://app.daily.dev/posts/95Ay6SowM?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [When to use GraphQL, gRPC, REST, and Webhooks](https://app.daily.dev/posts/72aN_B27u?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
-- [Stripe Apps - Build an app on Stripe](https://app.daily.dev/posts/vZ4t0qwZB?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 <!-- daily.dev BOOKMARKS:END -->
 
 
