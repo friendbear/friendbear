@@ -156,13 +156,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 June 2022 - To: 21 June 2022
+From: 15 June 2022 - To: 22 June 2022
 
-Java       1 hr 40 mins    ███████████░░░░░░░░░░░░░░   43.55 %
-Markdown   1 hr 33 mins    ██████████░░░░░░░░░░░░░░░   40.48 %
-Rust       29 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.63 %
-XML        6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
-JSON       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+Java       1 hr 40 mins    ██████████░░░░░░░░░░░░░░░   40.39 %
+Markdown   1 hr 33 mins    █████████▒░░░░░░░░░░░░░░░   37.54 %
+Rust       41 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.84 %
+XML        6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+TOML       5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+JSON       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 ```
 
 <!--END_SECTION:waka-->
