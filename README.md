@@ -156,10 +156,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 June 2022 - To: 29 June 2022
+From: 23 June 2022 - To: 30 June 2022
 
-TOML     10 mins         ███████████████▓░░░░░░░░░   63.23 %
-Other    4 mins          ██████▓░░░░░░░░░░░░░░░░░░   27.25 %
+Java   18 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
