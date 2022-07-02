@@ -156,9 +156,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 June 2022 - To: 30 June 2022
+From: 24 June 2022 - To: 01 July 2022
 
-Java   18 mins         █████████████████████████   100.00 %
+Java     32 mins         ██████████████████▒░░░░░░   72.70 %
+Groovy   9 mins          █████░░░░░░░░░░░░░░░░░░░░   20.52 %
+XML      3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
 ```
 
 <!--END_SECTION:waka-->
