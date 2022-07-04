@@ -156,11 +156,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 June 2022 - To: 02 July 2022
+From: 26 June 2022 - To: 03 July 2022
 
-Java     32 mins         ██████████████████▒░░░░░░   72.70 %
-Groovy   9 mins          █████░░░░░░░░░░░░░░░░░░░░   20.52 %
-XML      3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
+Java         40 mins         ████████████████▓░░░░░░░░   66.44 %
+Groovy       9 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.89 %
+Properties   4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
+Bash         3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
+XML          3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
