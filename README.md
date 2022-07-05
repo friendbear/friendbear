@@ -256,6 +256,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[07/05 01:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/kafka-connect](https://github.com/friendbear/kafka-connect)  
 `[07/04 05:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Eneco/kafka-connect-twitter](https://github.com/Eneco/kafka-connect-twitter)  
 `[07/04 05:18]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/kafka-connect/tree/main) in [friendbear/kafka-connect](https://github.com/friendbear/kafka-connect)  
 `[07/04 05:16]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/kafka-connect](https://github.com/friendbear/kafka-connect)  
@@ -265,10 +266,10 @@ Under constract
 `[07/03 00:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[06/23 14:05]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/introduction-to-github/tree/main) in [friendbear/introduction-to-github](https://github.com/friendbear/introduction-to-github)  
 `[06/23 14:05]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/introduction-to-github](https://github.com/friendbear/introduction-to-github)  
-`[06/23 05:24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [superfly/flyctl](https://github.com/superfly/flyctl)  
 
 <details><summary>Show More</summary>
 
+`[06/23 05:24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [superfly/flyctl](https://github.com/superfly/flyctl)  
 `[06/21 10:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#261` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[06/20 23:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#260` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[06/20 13:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [orhun/gpg-tui](https://github.com/orhun/gpg-tui)  
@@ -513,7 +514,6 @@ Under constract
 `[04/11 13:58]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#220` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[04/11 13:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [adamchalmers/dingo](https://github.com/adamchalmers/dingo)  
 `[04/11 12:59]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bitvecto-rs/bitvec](https://github.com/bitvecto-rs/bitvec)  
-`[04/11 08:47]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [clap-rs/clap](https://github.com/clap-rs/clap)  
 
 </details>
 <!--END_SECTION:activity-->
