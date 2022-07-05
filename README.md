@@ -256,7 +256,19 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[07/05 22:51]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/bundler/nokogiri-1.13.6` from [friendbear/slackthemes](https://github.com/friendbear/slackthemes)  
+`[07/05 22:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/slackthemes](https://github.com/friendbear/slackthemes)  
+`[07/05 22:51]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//friendbear/slackthemes/pull/1 'Bump nokogiri from 1.6.6.2 to 1.13.6') in [friendbear/slackthemes](https://github.com/friendbear/slackthemes)  
+`[07/05 22:49]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/npm_and_yarn/moment-2.29.3` from <span title="Private Repo">`🔒friendbear/gatsby`</span>  
+`[07/05 22:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒friendbear/gatsby`</span>  
+`[07/05 22:49]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR `#1` in <span title="Private Repo">`🔒friendbear/gatsby`</span>  
+`[07/05 22:49]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/npm_and_yarn/devcert-1.2.1` from <span title="Private Repo">`🔒friendbear/gatsby`</span>  
+`[07/05 22:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒friendbear/gatsby`</span>  
+`[07/05 22:49]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR `#2` in <span title="Private Repo">`🔒friendbear/gatsby`</span>  
 `[07/05 02:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lensesio/fast-data-dev](https://github.com/lensesio/fast-data-dev)  
+
+<details><summary>Show More</summary>
+
 `[07/05 01:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/kafka-connect](https://github.com/friendbear/kafka-connect)  
 `[07/04 05:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Eneco/kafka-connect-twitter](https://github.com/Eneco/kafka-connect-twitter)  
 `[07/04 05:18]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/kafka-connect/tree/main) in [friendbear/kafka-connect](https://github.com/friendbear/kafka-connect)  
@@ -266,9 +278,6 @@ Under constract
 `[07/03 02:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [conduktor/kafka-connect-wikimedia](https://github.com/conduktor/kafka-connect-wikimedia)  
 `[07/03 00:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[06/23 14:05]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/introduction-to-github/tree/main) in [friendbear/introduction-to-github](https://github.com/friendbear/introduction-to-github)  
-
-<details><summary>Show More</summary>
-
 `[06/23 14:05]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/introduction-to-github](https://github.com/friendbear/introduction-to-github)  
 `[06/23 05:24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [superfly/flyctl](https://github.com/superfly/flyctl)  
 `[06/21 10:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#261` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
@@ -507,13 +516,6 @@ Under constract
 `[04/13 15:15]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [medusajs/medusa](https://github.com/medusajs/medusa)  
 `[04/13 13:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#221` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[04/13 12:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [godotengine/godot](https://github.com/godotengine/godot)  
-`[04/13 12:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [godotengine/godot-docs](https://github.com/godotengine/godot-docs)  
-`[04/13 12:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [a-little-org-called-mario/a-little-game-called-mario](https://github.com/a-little-org-called-mario/a-little-game-called-mario)  
-`[04/12 03:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [clear-code-projects/youtube-download](https://github.com/clear-code-projects/youtube-download)  
-`[04/12 02:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [redpanda-data/redpanda](https://github.com/redpanda-data/redpanda)  
-`[04/11 17:19]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [zellij-org/zellij](https://github.com/zellij-org/zellij)  
-`[04/11 13:58]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#220` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[04/11 13:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [adamchalmers/dingo](https://github.com/adamchalmers/dingo)  
 
 </details>
 <!--END_SECTION:activity-->
