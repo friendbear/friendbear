@@ -256,6 +256,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[07/06 05:42]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [saubury/plane-kafka](https://github.com/saubury/plane-kafka)  
 `[07/05 22:51]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/bundler/nokogiri-1.13.6` from [friendbear/slackthemes](https://github.com/friendbear/slackthemes)  
 `[07/05 22:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/slackthemes](https://github.com/friendbear/slackthemes)  
 `[07/05 22:51]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//friendbear/slackthemes/pull/1 'Bump nokogiri from 1.6.6.2 to 1.13.6') in [friendbear/slackthemes](https://github.com/friendbear/slackthemes)  
@@ -265,10 +266,10 @@ Under constract
 `[07/05 22:49]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/npm_and_yarn/devcert-1.2.1` from <span title="Private Repo">`🔒friendbear/gatsby`</span>  
 `[07/05 22:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒friendbear/gatsby`</span>  
 `[07/05 22:49]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR `#2` in <span title="Private Repo">`🔒friendbear/gatsby`</span>  
-`[07/05 02:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lensesio/fast-data-dev](https://github.com/lensesio/fast-data-dev)  
 
 <details><summary>Show More</summary>
 
+`[07/05 02:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lensesio/fast-data-dev](https://github.com/lensesio/fast-data-dev)  
 `[07/05 01:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/kafka-connect](https://github.com/friendbear/kafka-connect)  
 `[07/04 05:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Eneco/kafka-connect-twitter](https://github.com/Eneco/kafka-connect-twitter)  
 `[07/04 05:18]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/kafka-connect/tree/main) in [friendbear/kafka-connect](https://github.com/friendbear/kafka-connect)  
@@ -515,7 +516,6 @@ Under constract
 `[04/14 02:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#222` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[04/13 15:15]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [medusajs/medusa](https://github.com/medusajs/medusa)  
 `[04/13 13:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#221` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[04/13 12:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [godotengine/godot](https://github.com/godotengine/godot)  
 
 </details>
 <!--END_SECTION:activity-->
