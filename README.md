@@ -156,7 +156,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 July 2022 - To: 08 July 2022
+From: 02 July 2022 - To: 09 July 2022
 
 YAML         50 mins         ███████▒░░░░░░░░░░░░░░░░░   28.87 %
 Properties   48 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.22 %
