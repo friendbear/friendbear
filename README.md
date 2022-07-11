@@ -156,14 +156,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 July 2022 - To: 09 July 2022
+From: 03 July 2022 - To: 10 July 2022
 
-YAML         50 mins         ███████▒░░░░░░░░░░░░░░░░░   28.87 %
-Properties   48 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.22 %
-Bash         44 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.15 %
-Text         23 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.54 %
-Java         8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+YAML         50 mins         ████████░░░░░░░░░░░░░░░░░   31.69 %
+Properties   43 mins         ███████░░░░░░░░░░░░░░░░░░   27.36 %
+Bash         41 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.67 %
+Text         23 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.80 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 ```
 
 <!--END_SECTION:waka-->
