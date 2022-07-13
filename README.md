@@ -255,6 +255,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[07/13 14:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [MS-WEB-BN/c41n](https://github.com/MS-WEB-BN/c41n)  
 `[07/13 09:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#263` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[07/13 08:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/programming-rust](https://github.com/friendbear/programming-rust)  
 `[07/13 03:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [clauswilke/dataviz](https://github.com/clauswilke/dataviz)  
@@ -264,10 +265,10 @@ Under constract
 `[07/05 22:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/slackthemes](https://github.com/friendbear/slackthemes)  
 `[07/05 22:51]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//friendbear/slackthemes/pull/1 'Bump nokogiri from 1.6.6.2 to 1.13.6') in [friendbear/slackthemes](https://github.com/friendbear/slackthemes)  
 `[07/05 22:49]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/npm_and_yarn/moment-2.29.3` from <span title="Private Repo">`🔒friendbear/gatsby`</span>  
-`[07/05 22:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒friendbear/gatsby`</span>  
 
 <details><summary>Show More</summary>
 
+`[07/05 22:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒friendbear/gatsby`</span>  
 `[07/05 22:49]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR `#1` in <span title="Private Repo">`🔒friendbear/gatsby`</span>  
 `[07/05 22:49]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/npm_and_yarn/devcert-1.2.1` from <span title="Private Repo">`🔒friendbear/gatsby`</span>  
 `[07/05 22:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒friendbear/gatsby`</span>  
@@ -511,7 +512,6 @@ Under constract
 `[04/17 01:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ruilisi/fortune-sheet](https://github.com/ruilisi/fortune-sheet)  
 `[04/15 13:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)  
 `[04/15 07:15]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [scala-network/scala-v8.1](https://github.com/scala-network/scala-v8.1)  
-`[04/14 14:59]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [apache/pulsar](https://github.com/apache/pulsar)  
 
 </details>
 <!--END_SECTION:activity-->
