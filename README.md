@@ -509,9 +509,6 @@ Under constract
 `[04/17 06:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [randalhsu/OPAL](https://github.com/randalhsu/OPAL)  
 `[04/17 06:50]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [EA31337/EA31337](https://github.com/EA31337/EA31337)  
 `[04/17 06:17]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1`](https://github.com//mattmagrin/game_recommendation_engine/issues/1 '[Enhanced] can we add manufacturer, country, and wiki links to the column?') in [mattmagrin/game_recommendation_engine](https://github.com/mattmagrin/game_recommendation_engine)  
-`[04/17 03:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [apache/avro](https://github.com/apache/avro)  
-`[04/17 03:50]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [apache/iceberg](https://github.com/apache/iceberg)  
-`[04/17 03:20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [google/mediapipe](https://github.com/google/mediapipe)  
 
 </details>
 <!--END_SECTION:activity-->
