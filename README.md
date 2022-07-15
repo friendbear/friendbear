@@ -156,11 +156,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 July 2022 - To: 13 July 2022
+From: 07 July 2022 - To: 14 July 2022
 
-Bash         0 secs          ███████████████▒░░░░░░░░░   61.66 %
-Properties   0 secs          ███████▓░░░░░░░░░░░░░░░░░   30.17 %
-JSON         0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 %
+Bash         11 mins         ████████████████████████░   96.59 %
+Properties   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
+JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 ```
 
 <!--END_SECTION:waka-->
