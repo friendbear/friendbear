@@ -492,11 +492,6 @@ Under constract
 `[04/19 01:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 `[04/19 01:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [daltonmenezes/discord-guardian-action](https://github.com/daltonmenezes/discord-guardian-action)  
 `[04/19 01:21]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme)  
-`[04/18 07:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
-`[04/18 05:32]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)  
-`[04/18 02:57]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#224` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[04/18 02:51]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Ostorlab/ostorlab](https://github.com/Ostorlab/ostorlab)  
-`[04/18 02:17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rome/tools](https://github.com/rome/tools)  
 
 </details>
 <!--END_SECTION:activity-->
