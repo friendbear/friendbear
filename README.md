@@ -490,8 +490,6 @@ Under constract
 `[04/19 03:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 `[04/19 03:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ajavageek/beautifygithub](https://github.com/ajavageek/beautifygithub)  
 `[04/19 01:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
-`[04/19 01:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [daltonmenezes/discord-guardian-action](https://github.com/daltonmenezes/discord-guardian-action)  
-`[04/19 01:21]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme)  
 
 </details>
 <!--END_SECTION:activity-->
