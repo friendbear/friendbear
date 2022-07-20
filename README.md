@@ -486,7 +486,6 @@ Under constract
 `[04/20 12:21]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [discordjs/discord.js](https://github.com/discordjs/discord.js)  
 `[04/20 12:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 `[04/20 09:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#225` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[04/19 20:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sqshq/sampler](https://github.com/sqshq/sampler)  
 
 </details>
 <!--END_SECTION:activity-->
