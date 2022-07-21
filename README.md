@@ -480,10 +480,6 @@ Under constract
 `[04/21 09:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [creativetimofficial/github-profile-template](https://github.com/creativetimofficial/github-profile-template)  
 `[04/21 09:38]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [creativetimofficial/vision-ui-dashboard-chakra](https://github.com/creativetimofficial/vision-ui-dashboard-chakra)  
 `[04/21 03:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#228` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[04/21 00:23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ghostery/ghostery-extension](https://github.com/ghostery/ghostery-extension)  
-`[04/20 20:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#227` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[04/20 20:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#226` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[04/20 20:46]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [twitter-research/twiser](https://github.com/twitter-research/twiser)  
 
 </details>
 <!--END_SECTION:activity-->
