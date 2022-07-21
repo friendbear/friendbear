@@ -484,9 +484,6 @@ Under constract
 `[04/20 20:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#227` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[04/20 20:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#226` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[04/20 20:46]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [twitter-research/twiser](https://github.com/twitter-research/twiser)  
-`[04/20 12:21]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [discordjs/discord.js](https://github.com/discordjs/discord.js)  
-`[04/20 12:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
-`[04/20 09:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#225` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 
 </details>
 <!--END_SECTION:activity-->
