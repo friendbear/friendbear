@@ -455,10 +455,6 @@ Under constract
 `[04/24 09:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#230` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[04/24 08:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [paypal-examples/docs-examples](https://github.com/paypal-examples/docs-examples)  
 `[04/24 01:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [damiafuentes/DJITelloPy](https://github.com/damiafuentes/DJITelloPy)  
-`[04/24 00:59]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)  
-`[04/24 00:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#229` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[04/23 07:23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [maziac/DeZog](https://github.com/maziac/DeZog)  
-`[04/23 03:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [nerfies/nerfies.github.io](https://github.com/nerfies/nerfies.github.io)  
 
 </details>
 <!--END_SECTION:activity-->
