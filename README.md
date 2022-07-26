@@ -249,7 +249,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-`[07/26 01:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [friendbear/programming-rust](https://github.com/friendbear/programming-rust)  
+`[07/26 02:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [friendbear/programming-rust](https://github.com/friendbear/programming-rust)  
 `[07/20 05:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [natemoo-re/natemoo-re](https://github.com/natemoo-re/natemoo-re)  
 `[07/14 11:31]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1`](https://github.com//friendbear/springboot-kafka-real-world-project/issues/1 'c.launchdarkly.eventsource.EventSource   : Caught unexpected error from EventHandler: org.apache.kafka.common.KafkaException: Failed to construct kafka producer.') in [friendbear/springboot-kafka-real-world-project](https://github.com/friendbear/springboot-kafka-real-world-project)  
 `[07/14 11:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/springboot-kafka-real-world-project](https://github.com/friendbear/springboot-kafka-real-world-project)  
@@ -449,8 +449,6 @@ Under constract
 `[04/26 03:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)  
 `[04/26 02:43]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#4`](https://github.com//friendbear/100days-of-code-confluent-cloud-kafka/issues/4 'ksqlDB tutorial') in [friendbear/100days-of-code-confluent-cloud-kafka](https://github.com/friendbear/100days-of-code-confluent-cloud-kafka)  
 `[04/26 02:24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dimensionhq/fleet](https://github.com/dimensionhq/fleet)  
-`[04/25 18:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
-`[04/25 15:28]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`day2`](https://github.com/friendbear/100days-of-code-confluent-cloud-kafka/tree/day2) in [friendbear/100days-of-code-confluent-cloud-kafka](https://github.com/friendbear/100days-of-code-confluent-cloud-kafka)  
 
 </details>
 <!--END_SECTION:activity-->
