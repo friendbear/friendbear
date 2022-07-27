@@ -439,7 +439,6 @@ Under constract
 `[04/28 02:57]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#233` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[04/27 15:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mongodb/mongodb-atlas-cli](https://github.com/mongodb/mongodb-atlas-cli)  
 `[04/27 02:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [AykutSarac/jsonvisio.com](https://github.com/AykutSarac/jsonvisio.com)  
-`[04/26 23:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jsonhero-io/jsonhero-web](https://github.com/jsonhero-io/jsonhero-web)  
 
 </details>
 <!--END_SECTION:activity-->
