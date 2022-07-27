@@ -440,15 +440,6 @@ Under constract
 `[04/27 15:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mongodb/mongodb-atlas-cli](https://github.com/mongodb/mongodb-atlas-cli)  
 `[04/27 02:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [AykutSarac/jsonvisio.com](https://github.com/AykutSarac/jsonvisio.com)  
 `[04/26 23:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jsonhero-io/jsonhero-web](https://github.com/jsonhero-io/jsonhero-web)  
-`[04/26 12:23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [uncl3armen/Autonomous_Land_Vehicle](https://github.com/uncl3armen/Autonomous_Land_Vehicle)  
-`[04/26 10:53]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [schacko-samples/kafka-summit-london-2022](https://github.com/schacko-samples/kafka-summit-london-2022) to [friendbear/kafka-springboot-java-local](https://github.com/friendbear/kafka-springboot-java-local)  
-`[04/26 10:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [schacko-samples/kafka-summit-london-2022](https://github.com/schacko-samples/kafka-summit-london-2022)  
-`[04/26 09:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [treeverse/lakeFS](https://github.com/treeverse/lakeFS)  
-`[04/26 06:06]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#232` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[04/26 04:23]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#8`](https://github.com//friendbear/friendbear/issues/8 'Update CRITATION(.crf)') in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
-`[04/26 03:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)  
-`[04/26 02:43]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#4`](https://github.com//friendbear/100days-of-code-confluent-cloud-kafka/issues/4 'ksqlDB tutorial') in [friendbear/100days-of-code-confluent-cloud-kafka](https://github.com/friendbear/100days-of-code-confluent-cloud-kafka)  
-`[04/26 02:24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dimensionhq/fleet](https://github.com/dimensionhq/fleet)  
 
 </details>
 <!--END_SECTION:activity-->
