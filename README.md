@@ -249,7 +249,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-`[07/26 10:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [friendbear/programming-rust](https://github.com/friendbear/programming-rust)  
+`[07/28 02:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [friendbear/programming-rust](https://github.com/friendbear/programming-rust)  
 `[07/20 05:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [natemoo-re/natemoo-re](https://github.com/natemoo-re/natemoo-re)  
 `[07/14 11:31]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1`](https://github.com//friendbear/springboot-kafka-real-world-project/issues/1 'c.launchdarkly.eventsource.EventSource   : Caught unexpected error from EventHandler: org.apache.kafka.common.KafkaException: Failed to construct kafka producer.') in [friendbear/springboot-kafka-real-world-project](https://github.com/friendbear/springboot-kafka-real-world-project)  
 `[07/14 11:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/springboot-kafka-real-world-project](https://github.com/friendbear/springboot-kafka-real-world-project)  
@@ -437,7 +437,6 @@ Under constract
 `[04/28 05:29]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/hello-github-actions](https://github.com/friendbear/hello-github-actions)  
 `[04/28 03:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mihaip/infinite-mac](https://github.com/mihaip/infinite-mac)  
 `[04/28 02:57]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#233` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[04/27 15:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mongodb/mongodb-atlas-cli](https://github.com/mongodb/mongodb-atlas-cli)  
 
 </details>
 <!--END_SECTION:activity-->
