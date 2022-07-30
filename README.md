@@ -426,10 +426,6 @@ Under constract
 `[04/30 05:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [pwa-builder/PWABuilder](https://github.com/pwa-builder/PWABuilder)  
 `[04/30 05:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [pwa-builder/pwa-starter](https://github.com/pwa-builder/pwa-starter)  
 `[04/30 04:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#234` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[04/29 10:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [hasura/graphql-engine](https://github.com/hasura/graphql-engine)  
-`[04/29 03:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset](https://github.com/BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset)  
-`[04/29 03:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [DeepMotionEditing/deep-motion-editing](https://github.com/DeepMotionEditing/deep-motion-editing)  
-`[04/29 02:32]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/friendbear/dotfiles/tree/master) in [friendbear/dotfiles](https://github.com/friendbear/dotfiles)  
 
 </details>
 <!--END_SECTION:activity-->
