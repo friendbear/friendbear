@@ -249,7 +249,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-`[07/30 05:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [friendbear/programming-rust](https://github.com/friendbear/programming-rust)  
+`[07/31 00:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [friendbear/programming-rust](https://github.com/friendbear/programming-rust)  
 `[07/28 09:52]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/cargo/chapter2/mandelbrot/image-0.23.12` from [friendbear/programming-rust](https://github.com/friendbear/programming-rust)  
 `[07/28 09:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/programming-rust](https://github.com/friendbear/programming-rust)  
 `[07/28 09:52]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//friendbear/programming-rust/pull/1 'Bump image from 0.13.0 to 0.23.12 in /chapter2/mandelbrot') in [friendbear/programming-rust](https://github.com/friendbear/programming-rust)  
@@ -420,13 +420,6 @@ Under constract
 `[05/02 06:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#236` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[05/02 01:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [apache/ignite-3](https://github.com/apache/ignite-3)  
 `[05/01 08:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#235` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[04/30 14:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/100days-of-code-confluent-cloud-kafka](https://github.com/friendbear/100days-of-code-confluent-cloud-kafka)  
-`[04/30 11:14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cloudflare/scala-worker-hello-world](https://github.com/cloudflare/scala-worker-hello-world)  
-`[04/30 11:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cloudflare/ssh-log-cli](https://github.com/cloudflare/ssh-log-cli)  
-`[04/30 10:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare)  
-`[04/30 05:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [pwa-builder/PWABuilder](https://github.com/pwa-builder/PWABuilder)  
-`[04/30 05:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [pwa-builder/pwa-starter](https://github.com/pwa-builder/pwa-starter)  
-`[04/30 04:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#234` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 
 </details>
 <!--END_SECTION:activity-->
