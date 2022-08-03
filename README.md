@@ -417,9 +417,6 @@ Under constract
 `[05/03 00:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [SebLague/Geographical-Adventures](https://github.com/SebLague/Geographical-Adventures)  
 `[05/02 22:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rcaloras/bash-preexec](https://github.com/rcaloras/bash-preexec)  
 `[05/02 22:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ASHWIN990/ADB-Toolkit](https://github.com/ASHWIN990/ADB-Toolkit)  
-`[05/02 08:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#237` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[05/02 06:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#236` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[05/02 01:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [apache/ignite-3](https://github.com/apache/ignite-3)  
 
 </details>
 <!--END_SECTION:activity-->
