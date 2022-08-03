@@ -414,9 +414,6 @@ Under constract
 `[05/03 04:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/mailhog-strage-mongodb](https://github.com/friendbear/mailhog-strage-mongodb)  
 `[05/03 04:30]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/mailhog-strage-mongodb/tree/main) in [friendbear/mailhog-strage-mongodb](https://github.com/friendbear/mailhog-strage-mongodb)  
 `[05/03 04:29]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/mailhog-strage-mongodb](https://github.com/friendbear/mailhog-strage-mongodb)  
-`[05/03 00:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [SebLague/Geographical-Adventures](https://github.com/SebLague/Geographical-Adventures)  
-`[05/02 22:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rcaloras/bash-preexec](https://github.com/rcaloras/bash-preexec)  
-`[05/02 22:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ASHWIN990/ADB-Toolkit](https://github.com/ASHWIN990/ADB-Toolkit)  
 
 </details>
 <!--END_SECTION:activity-->
