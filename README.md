@@ -406,15 +406,6 @@ Under constract
 `[05/04 02:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/100days-of-code-confluent-cloud-kafka](https://github.com/friendbear/100days-of-code-confluent-cloud-kafka)  
 `[05/04 01:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#238` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[05/04 01:03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [iced-rs/iced](https://github.com/iced-rs/iced)  
-`[05/03 12:24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bitlaw-jp/the-constitution-of-japan](https://github.com/bitlaw-jp/the-constitution-of-japan)  
-`[05/03 07:05]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/friendbear/python-games/tree/master) in [friendbear/python-games](https://github.com/friendbear/python-games)  
-`[05/03 06:49]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/python-games](https://github.com/friendbear/python-games)  
-`[05/03 06:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/vector](https://github.com/friendbear/vector)  
-`[05/03 06:03]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/vector/tree/main) in [friendbear/vector](https://github.com/friendbear/vector)  
-`[05/03 06:03]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/vector](https://github.com/friendbear/vector)  
-`[05/03 04:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/mailhog-strage-mongodb](https://github.com/friendbear/mailhog-strage-mongodb)  
-`[05/03 04:30]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/mailhog-strage-mongodb/tree/main) in [friendbear/mailhog-strage-mongodb](https://github.com/friendbear/mailhog-strage-mongodb)  
-`[05/03 04:29]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/mailhog-strage-mongodb](https://github.com/friendbear/mailhog-strage-mongodb)  
 
 </details>
 <!--END_SECTION:activity-->
