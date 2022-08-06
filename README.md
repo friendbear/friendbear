@@ -399,8 +399,6 @@ Under constract
 `[05/06 13:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#240` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[05/06 05:56]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [twitterdev/Bookmarks-Notion-Notebook](https://github.com/twitterdev/Bookmarks-Notion-Notebook)  
 `[05/06 01:10]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust)  
-`[05/05 07:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [odedshimon/BruteShark](https://github.com/odedshimon/BruteShark)  
-`[05/05 06:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [m3n0sd0n4ld/uDork](https://github.com/m3n0sd0n4ld/uDork)  
 
 </details>
 <!--END_SECTION:activity-->
