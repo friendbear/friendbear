@@ -255,6 +255,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[08/06 01:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/programming-rust](https://github.com/friendbear/programming-rust)  
 `[08/04 17:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [WerWolv/ImHex](https://github.com/WerWolv/ImHex)  
 `[08/04 08:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [friendbear/auth-service](https://github.com/friendbear/auth-service)  
 `[08/04 04:34]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//friendbear/auth-service/pull/1 'Bump regex from 1.5.4 to 1.5.6') in [friendbear/auth-service](https://github.com/friendbear/auth-service)  
@@ -264,10 +265,10 @@ Under constract
 `[07/28 09:52]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/cargo/chapter2/mandelbrot/image-0.23.12` from [friendbear/programming-rust](https://github.com/friendbear/programming-rust)  
 `[07/28 09:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/programming-rust](https://github.com/friendbear/programming-rust)  
 `[07/28 09:52]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//friendbear/programming-rust/pull/1 'Bump image from 0.13.0 to 0.23.12 in /chapter2/mandelbrot') in [friendbear/programming-rust](https://github.com/friendbear/programming-rust)  
-`[07/28 04:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `14` commits in [friendbear/programming-rust](https://github.com/friendbear/programming-rust)  
 
 <details><summary>Show More</summary>
 
+`[07/28 04:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `14` commits in [friendbear/programming-rust](https://github.com/friendbear/programming-rust)  
 `[07/20 05:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [natemoo-re/natemoo-re](https://github.com/natemoo-re/natemoo-re)  
 `[07/14 11:31]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1`](https://github.com//friendbear/springboot-kafka-real-world-project/issues/1 'c.launchdarkly.eventsource.EventSource   : Caught unexpected error from EventHandler: org.apache.kafka.common.KafkaException: Failed to construct kafka producer.') in [friendbear/springboot-kafka-real-world-project](https://github.com/friendbear/springboot-kafka-real-world-project)  
 `[07/14 11:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/springboot-kafka-real-world-project](https://github.com/friendbear/springboot-kafka-real-world-project)  
@@ -398,7 +399,6 @@ Under constract
 `[05/06 14:15]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bluesky-social/adx](https://github.com/bluesky-social/adx)  
 `[05/06 13:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#240` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[05/06 05:56]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [twitterdev/Bookmarks-Notion-Notebook](https://github.com/twitterdev/Bookmarks-Notion-Notebook)  
-`[05/06 01:10]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust)  
 
 </details>
 <!--END_SECTION:activity-->
