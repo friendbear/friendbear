@@ -396,9 +396,6 @@ Under constract
 `[05/07 13:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bennadel/Signature-Generator](https://github.com/bennadel/Signature-Generator)  
 `[05/07 12:36]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Nican/Furland](https://github.com/Nican/Furland)  
 `[05/07 09:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dhondta/dronesploit](https://github.com/dhondta/dronesploit)  
-`[05/06 14:15]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bluesky-social/adx](https://github.com/bluesky-social/adx)  
-`[05/06 13:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#240` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[05/06 05:56]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [twitterdev/Bookmarks-Notion-Notebook](https://github.com/twitterdev/Bookmarks-Notion-Notebook)  
 
 </details>
 <!--END_SECTION:activity-->
