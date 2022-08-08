@@ -392,10 +392,6 @@ Under constract
 `[05/10 05:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [TryGhost/Ghost](https://github.com/TryGhost/Ghost)  
 `[05/08 12:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#242` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[05/08 11:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#241` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[05/08 00:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [BabylonJS/Editor](https://github.com/BabylonJS/Editor)  
-`[05/07 13:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bennadel/Signature-Generator](https://github.com/bennadel/Signature-Generator)  
-`[05/07 12:36]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Nican/Furland](https://github.com/Nican/Furland)  
-`[05/07 09:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dhondta/dronesploit](https://github.com/dhondta/dronesploit)  
 
 </details>
 <!--END_SECTION:activity-->
