@@ -384,7 +384,6 @@ Under constract
 `[05/12 10:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [github/gh-valet](https://github.com/github/gh-valet)  
 `[05/12 05:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [markdoc/markdoc](https://github.com/markdoc/markdoc)  
 `[05/11 23:20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [twitterdev/twitter-streaming-framework](https://github.com/twitterdev/twitter-streaming-framework)  
-`[05/11 08:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#244` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 
 </details>
 <!--END_SECTION:activity-->
