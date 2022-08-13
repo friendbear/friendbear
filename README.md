@@ -380,9 +380,6 @@ Under constract
 `[05/14 00:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#245` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[05/13 23:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm)  
 `[05/13 08:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [duckdb/duckdb](https://github.com/duckdb/duckdb)  
-`[05/12 11:17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [arjun-sir/SaveToNotion](https://github.com/arjun-sir/SaveToNotion)  
-`[05/12 10:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [github/gh-valet](https://github.com/github/gh-valet)  
-`[05/12 05:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [markdoc/markdoc](https://github.com/markdoc/markdoc)  
 
 </details>
 <!--END_SECTION:activity-->
