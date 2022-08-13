@@ -156,13 +156,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 August 2022 - To: 09 August 2022
+From: 05 August 2022 - To: 12 August 2022
 
-Rust       2 hrs 7 mins    █████████████████████▓░░░   86.19 %
-Markdown   8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
-Bash       6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
-SQL        3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
-TOML       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+Rust         1 hr 52 mins    ███████████████░░░░░░░░░░   59.61 %
+Markdown     47 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.02 %
+TOML         27 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.34 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
