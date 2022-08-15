@@ -377,7 +377,6 @@ Under constract
 `[05/16 05:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [alphacep/vosk-api](https://github.com/alphacep/vosk-api)  
 `[05/16 05:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [confluentinc/ksql](https://github.com/confluentinc/ksql)  
 `[05/15 15:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#246` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[05/15 00:23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [curl/curl](https://github.com/curl/curl)  
 
 </details>
 <!--END_SECTION:activity-->
