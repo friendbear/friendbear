@@ -372,7 +372,6 @@ Under constract
 `[05/19 22:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#248` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[05/19 15:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [python-poetry/poetry](https://github.com/python-poetry/poetry)  
 `[05/19 03:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#247` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[05/18 02:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)  
 
 </details>
 <!--END_SECTION:activity-->
