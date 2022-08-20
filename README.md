@@ -253,6 +253,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[08/20 01:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/programming-rust](https://github.com/friendbear/programming-rust)  
 `[08/16 07:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/auth-service](https://github.com/friendbear/auth-service)  
 `[08/09 16:16]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [conduktor/kafka-beginners-course](https://github.com/conduktor/kafka-beginners-course)  
 `[08/09 01:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [friendbear/programming-rust](https://github.com/friendbear/programming-rust)  
@@ -262,10 +263,10 @@ Under constract
 `[08/04 04:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [friendbear/programming-rust](https://github.com/friendbear/programming-rust)  
 `[08/02 07:06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [pretzelhammer/rust-blog](https://github.com/pretzelhammer/rust-blog)  
 `[08/02 05:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `20` commits in [friendbear/programming-rust](https://github.com/friendbear/programming-rust)  
-`[07/28 09:52]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/cargo/chapter2/mandelbrot/image-0.23.12` from [friendbear/programming-rust](https://github.com/friendbear/programming-rust)  
 
 <details><summary>Show More</summary>
 
+`[07/28 09:52]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/cargo/chapter2/mandelbrot/image-0.23.12` from [friendbear/programming-rust](https://github.com/friendbear/programming-rust)  
 `[07/28 09:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/programming-rust](https://github.com/friendbear/programming-rust)  
 `[07/28 09:52]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//friendbear/programming-rust/pull/1 'Bump image from 0.13.0 to 0.23.12 in /chapter2/mandelbrot') in [friendbear/programming-rust](https://github.com/friendbear/programming-rust)  
 `[07/28 04:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `14` commits in [friendbear/programming-rust](https://github.com/friendbear/programming-rust)  
@@ -366,8 +367,6 @@ Under constract
 `[05/20 11:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#249` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[05/20 11:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/self-hosted-applications](https://github.com/friendbear/self-hosted-applications)  
 `[05/20 06:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [m-ou-se/auto-import](https://github.com/m-ou-se/auto-import)  
-`[05/19 22:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#248` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[05/19 15:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [python-poetry/poetry](https://github.com/python-poetry/poetry)  
 
 </details>
 <!--END_SECTION:activity-->
