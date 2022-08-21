@@ -366,7 +366,6 @@ Under constract
 `[05/24 04:10]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [datahub-project/datahub](https://github.com/datahub-project/datahub)  
 `[05/23 11:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Just-Moh-it/Pckd](https://github.com/Just-Moh-it/Pckd)  
 `[05/22 01:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#251` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[05/20 21:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#250` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 
 </details>
 <!--END_SECTION:activity-->
