@@ -366,7 +366,6 @@ Under constract
 `[05/24 21:30]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [github/rest-api-description](https://github.com/github/rest-api-description)  
 `[05/24 06:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 `[05/24 04:10]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [datahub-project/datahub](https://github.com/datahub-project/datahub)  
-`[05/23 11:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Just-Moh-it/Pckd](https://github.com/Just-Moh-it/Pckd)  
 
 </details>
 <!--END_SECTION:activity-->
