@@ -358,9 +358,6 @@ Under constract
 `[05/25 02:27]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2`](https://github.com//friendbear/kafka-beginners/pull/2 '[Snyk] Upgrade org.apache.kafka:kafka-clients from 3.0.0 to 3.1.0') in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[05/25 02:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[05/25 02:27]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//friendbear/kafka-beginners/pull/1 '[Snyk] Upgrade org.apache.kafka:kafka-clients from 3.0.0 to 3.1.0') in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
-`[05/24 21:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#252` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[05/24 21:39]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [hathach/tinyusb](https://github.com/hathach/tinyusb)  
-`[05/24 21:30]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [github/rest-api-description](https://github.com/github/rest-api-description)  
 
 </details>
 <!--END_SECTION:activity-->
