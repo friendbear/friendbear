@@ -156,10 +156,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 August 2022 - To: 23 August 2022
-
-TOML   4 mins          ████████████████▓░░░░░░░░   66.36 %
-Rust   2 mins          ████████▒░░░░░░░░░░░░░░░░   33.64 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
