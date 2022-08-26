@@ -346,9 +346,6 @@ Under constract
 `[05/28 06:46]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#3`](https://github.com//friendbear/kafka-beginners-course/pull/3 '[Snyk] Upgrade org.apache.kafka:kafka-clients from 3.1.0 to 3.2.0') in [friendbear/kafka-beginners-course](https://github.com/friendbear/kafka-beginners-course)  
 `[05/28 06:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/kafka-beginners-course](https://github.com/friendbear/kafka-beginners-course)  
 `[05/27 01:32]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [influxdata/rskafka](https://github.com/influxdata/rskafka)  
-`[05/25 16:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/node-backend-fetch](https://github.com/friendbear/node-backend-fetch)  
-`[05/25 16:17]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/node-backend-fetch/tree/main) in [friendbear/node-backend-fetch](https://github.com/friendbear/node-backend-fetch)  
-`[05/25 16:16]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/node-backend-fetch](https://github.com/friendbear/node-backend-fetch)  
 
 </details>
 <!--END_SECTION:activity-->
