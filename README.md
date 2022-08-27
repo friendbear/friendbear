@@ -345,7 +345,6 @@ Under constract
 `[05/28 06:46]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`snyk-upgrade-6aa8f675b81ce0304d621990b4a3a0a3`](https://github.com/friendbear/kafka-beginners-course/tree/snyk-upgrade-6aa8f675b81ce0304d621990b4a3a0a3) in [friendbear/kafka-beginners-course](https://github.com/friendbear/kafka-beginners-course)  
 `[05/28 06:46]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#3`](https://github.com//friendbear/kafka-beginners-course/pull/3 '[Snyk] Upgrade org.apache.kafka:kafka-clients from 3.1.0 to 3.2.0') in [friendbear/kafka-beginners-course](https://github.com/friendbear/kafka-beginners-course)  
 `[05/28 06:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/kafka-beginners-course](https://github.com/friendbear/kafka-beginners-course)  
-`[05/27 01:32]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [influxdata/rskafka](https://github.com/influxdata/rskafka)  
 
 </details>
 <!--END_SECTION:activity-->
