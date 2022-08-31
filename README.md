@@ -342,7 +342,6 @@ Under constract
 `[06/01 18:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#256` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[06/01 18:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#255` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[06/01 18:34]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1`](https://github.com//friendbear/apache-airflow-dags/issues/1 '[TODO] Dags') in [friendbear/apache-airflow-dags](https://github.com/friendbear/apache-airflow-dags)  
-`[05/30 12:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#254` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 
 </details>
 <!--END_SECTION:activity-->
