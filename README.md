@@ -339,9 +339,6 @@ Under constract
 `[06/07 17:55]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`scala3-sample-project`](https://github.com/friendbear/scala3-hello-world/tree/scala3-sample-project) in [friendbear/scala3-hello-world](https://github.com/friendbear/scala3-hello-world)  
 `[06/05 06:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#258` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[06/04 05:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#257` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[06/01 18:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#256` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[06/01 18:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#255` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[06/01 18:34]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1`](https://github.com//friendbear/apache-airflow-dags/issues/1 '[TODO] Dags') in [friendbear/apache-airflow-dags](https://github.com/friendbear/apache-airflow-dags)  
 
 </details>
 <!--END_SECTION:activity-->
