@@ -338,7 +338,6 @@ Under constract
 `[06/07 18:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 `[06/07 17:55]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`scala3-sample-project`](https://github.com/friendbear/scala3-hello-world/tree/scala3-sample-project) in [friendbear/scala3-hello-world](https://github.com/friendbear/scala3-hello-world)  
 `[06/05 06:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#258` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[06/04 05:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#257` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 
 </details>
 <!--END_SECTION:activity-->
