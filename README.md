@@ -249,6 +249,8 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[09/06 01:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
+`[09/06 01:37]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`snyk-fix-8e77a53f27c081f66cc6754bd1cd2f6c`](https://github.com/friendbear/kafka-beginners/tree/snyk-fix-8e77a53f27c081f66cc6754bd1cd2f6c) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[09/05 21:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[09/05 21:35]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`snyk-fix-60fc9c6a7ae916804a46d194b68ebf51`](https://github.com/friendbear/kafka-beginners/tree/snyk-fix-60fc9c6a7ae916804a46d194b68ebf51) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[08/30 02:35]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#8`](https://github.com//friendbear/kafka-beginners/pull/8 '[Snyk] Security upgrade org.yaml:snakeyaml from 1.30 to 1.31') in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
@@ -257,11 +259,11 @@ Under constract
 `[08/29 22:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[08/29 22:22]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`snyk-fix-edb1694f4cead29b3ed9de5168f50111`](https://github.com/friendbear/kafka-beginners/tree/snyk-fix-edb1694f4cead29b3ed9de5168f50111) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[08/25 00:08]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#266` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[08/22 04:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#265` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[08/22 00:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#264` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 
 <details><summary>Show More</summary>
 
+`[08/22 04:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#265` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
+`[08/22 00:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#264` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[08/20 05:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/auth-service](https://github.com/friendbear/auth-service)  
 `[08/20 05:20]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2`](https://github.com//friendbear/auth-service/issues/2 'Invitation API Response Error.') in [friendbear/auth-service](https://github.com/friendbear/auth-service)  
 `[08/20 04:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/auth-service](https://github.com/friendbear/auth-service)  
