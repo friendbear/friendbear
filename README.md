@@ -336,7 +336,6 @@ Under constract
 `[06/13 13:32]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `snyk-upgrade-9537a12d35ff5d65d5c76be7a044ec1b` from [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[06/13 13:32]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `snyk-upgrade-810c9331f206014d26178d3b836616a7` from [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[06/13 13:32]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `snyk-upgrade-8aba2205a5dc8cd0d4aa4a3c31d1966a` from [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
-`[06/11 02:14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [deviantony/docker-elk](https://github.com/deviantony/docker-elk)  
 
 </details>
 <!--END_SECTION:activity-->
