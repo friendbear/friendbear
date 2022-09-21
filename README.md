@@ -323,7 +323,6 @@ Under constract
 `[06/23 05:24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [superfly/flyctl](https://github.com/superfly/flyctl)  
 `[06/21 10:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#261` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[06/20 23:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#260` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[06/20 13:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [orhun/gpg-tui](https://github.com/orhun/gpg-tui)  
 
 </details>
 <!--END_SECTION:activity-->
