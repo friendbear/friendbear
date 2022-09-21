@@ -249,6 +249,8 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[09/21 02:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
+`[09/21 02:31]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`snyk-fix-a149f487f459158dda6163b2276f966f`](https://github.com/friendbear/kafka-beginners/tree/snyk-fix-a149f487f459158dda6163b2276f966f) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[09/20 22:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[09/20 22:17]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`snyk-fix-1734d092c70738ed5a529521de91f29d`](https://github.com/friendbear/kafka-beginners/tree/snyk-fix-1734d092c70738ed5a529521de91f29d) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[09/12 03:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/kafka-beginners-course](https://github.com/friendbear/kafka-beginners-course)  
@@ -257,11 +259,11 @@ Under constract
 `[09/06 01:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[09/06 01:37]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`snyk-fix-8e77a53f27c081f66cc6754bd1cd2f6c`](https://github.com/friendbear/kafka-beginners/tree/snyk-fix-8e77a53f27c081f66cc6754bd1cd2f6c) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[09/05 21:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
-`[09/05 21:35]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`snyk-fix-60fc9c6a7ae916804a46d194b68ebf51`](https://github.com/friendbear/kafka-beginners/tree/snyk-fix-60fc9c6a7ae916804a46d194b68ebf51) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
-`[08/30 02:35]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#8`](https://github.com//friendbear/kafka-beginners/pull/8 '[Snyk] Security upgrade org.yaml:snakeyaml from 1.30 to 1.31') in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 
 <details><summary>Show More</summary>
 
+`[09/05 21:35]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`snyk-fix-60fc9c6a7ae916804a46d194b68ebf51`](https://github.com/friendbear/kafka-beginners/tree/snyk-fix-60fc9c6a7ae916804a46d194b68ebf51) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
+`[08/30 02:35]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#8`](https://github.com//friendbear/kafka-beginners/pull/8 '[Snyk] Security upgrade org.yaml:snakeyaml from 1.30 to 1.31') in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[08/30 02:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[08/30 02:35]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`snyk-fix-9f2341df989b0a43d12fafb65416f42d`](https://github.com/friendbear/kafka-beginners/tree/snyk-fix-9f2341df989b0a43d12fafb65416f42d) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[08/29 22:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
@@ -322,7 +324,6 @@ Under constract
 `[06/23 14:05]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/introduction-to-github](https://github.com/friendbear/introduction-to-github)  
 `[06/23 05:24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [superfly/flyctl](https://github.com/superfly/flyctl)  
 `[06/21 10:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#261` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[06/20 23:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#260` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 
 </details>
 <!--END_SECTION:activity-->
