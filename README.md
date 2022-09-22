@@ -325,7 +325,6 @@ Under constract
 `[06/23 14:05]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/introduction-to-github/tree/main) in [friendbear/introduction-to-github](https://github.com/friendbear/introduction-to-github)  
 `[06/23 14:05]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/introduction-to-github](https://github.com/friendbear/introduction-to-github)  
 `[06/23 05:24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [superfly/flyctl](https://github.com/superfly/flyctl)  
-`[06/21 10:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#261` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 
 </details>
 <!--END_SECTION:activity-->
