@@ -249,6 +249,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[10/04 05:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/book-rust](https://github.com/friendbear/book-rust)  
 `[10/04 04:07]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/book-rust/tree/main) in [friendbear/book-rust](https://github.com/friendbear/book-rust)  
 `[10/04 04:07]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/book-rust](https://github.com/friendbear/book-rust)  
 `[10/01 04:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [friendbear/programming-rust](https://github.com/friendbear/programming-rust)  
@@ -258,10 +259,10 @@ Under constract
 `[09/21 02:31]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`snyk-fix-a149f487f459158dda6163b2276f966f`](https://github.com/friendbear/kafka-beginners/tree/snyk-fix-a149f487f459158dda6163b2276f966f) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[09/20 22:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[09/20 22:17]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`snyk-fix-1734d092c70738ed5a529521de91f29d`](https://github.com/friendbear/kafka-beginners/tree/snyk-fix-1734d092c70738ed5a529521de91f29d) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
-`[09/12 03:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/kafka-beginners-course](https://github.com/friendbear/kafka-beginners-course)  
 
 <details><summary>Show More</summary>
 
+`[09/12 03:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/kafka-beginners-course](https://github.com/friendbear/kafka-beginners-course)  
 `[09/12 03:24]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`snyk-upgrade-6a9a94623538f61cd8c915b525270410`](https://github.com/friendbear/kafka-beginners-course/tree/snyk-upgrade-6a9a94623538f61cd8c915b525270410) in [friendbear/kafka-beginners-course](https://github.com/friendbear/kafka-beginners-course)  
 `[09/08 02:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/programming-rust](https://github.com/friendbear/programming-rust)  
 `[09/06 01:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
