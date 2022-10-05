@@ -319,9 +319,6 @@ Under constract
 `[07/05 22:49]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR `#2` in <span title="Private Repo">`🔒friendbear/gatsby`</span>  
 `[07/05 02:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lensesio/fast-data-dev](https://github.com/lensesio/fast-data-dev)  
 `[07/05 01:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/kafka-connect](https://github.com/friendbear/kafka-connect)  
-`[07/04 05:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Eneco/kafka-connect-twitter](https://github.com/Eneco/kafka-connect-twitter)  
-`[07/04 05:18]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/kafka-connect/tree/main) in [friendbear/kafka-connect](https://github.com/friendbear/kafka-connect)  
-`[07/04 05:16]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/kafka-connect](https://github.com/friendbear/kafka-connect)  
 
 </details>
 <!--END_SECTION:activity-->
