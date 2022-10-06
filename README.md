@@ -319,7 +319,6 @@ Under constract
 `[07/05 22:49]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/npm_and_yarn/devcert-1.2.1` from <span title="Private Repo">`🔒friendbear/gatsby`</span>  
 `[07/05 22:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒friendbear/gatsby`</span>  
 `[07/05 22:49]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR `#2` in <span title="Private Repo">`🔒friendbear/gatsby`</span>  
-`[07/05 02:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lensesio/fast-data-dev](https://github.com/lensesio/fast-data-dev)  
 
 </details>
 <!--END_SECTION:activity-->
