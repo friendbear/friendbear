@@ -308,7 +308,6 @@ Under constract
 `[07/13 09:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#263` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[07/13 08:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/programming-rust](https://github.com/friendbear/programming-rust)  
 `[07/13 03:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [clauswilke/dataviz](https://github.com/clauswilke/dataviz)  
-`[07/06 12:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#262` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 
 </details>
 <!--END_SECTION:activity-->
