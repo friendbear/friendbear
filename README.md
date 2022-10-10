@@ -252,6 +252,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[10/10 02:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/book-rust](https://github.com/friendbear/book-rust)  
 `[10/09 02:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [CleanCut/ultimate_rust_crash_course](https://github.com/CleanCut/ultimate_rust_crash_course)  
 `[10/07 09:17]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `snyk-fix-b6b06fd58c933d105f0ed881b41318c6` from [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[10/07 09:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
@@ -261,10 +262,10 @@ Under constract
 `[10/07 06:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/kafka-beginners-course](https://github.com/friendbear/kafka-beginners-course)  
 `[10/07 06:52]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`snyk-upgrade-44e2f1257b998774eb17fab9f3c6a344`](https://github.com/friendbear/kafka-beginners-course/tree/snyk-upgrade-44e2f1257b998774eb17fab9f3c6a344) in [friendbear/kafka-beginners-course](https://github.com/friendbear/kafka-beginners-course)  
 `[10/07 04:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#268` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[10/07 04:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#267` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 
 <details><summary>Show More</summary>
 
+`[10/07 04:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#267` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[10/07 03:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [friendbear/book-rust](https://github.com/friendbear/book-rust)  
 `[10/04 04:07]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/book-rust/tree/main) in [friendbear/book-rust](https://github.com/friendbear/book-rust)  
 `[10/04 04:07]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/book-rust](https://github.com/friendbear/book-rust)  
