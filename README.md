@@ -322,7 +322,6 @@ Under constract
 `[07/14 11:26]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/springboot-kafka-real-world-project](https://github.com/friendbear/springboot-kafka-real-world-project)  
 `[07/14 06:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/programming-rust](https://github.com/friendbear/programming-rust)  
 `[07/14 03:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/dotfiles](https://github.com/friendbear/dotfiles)  
-`[07/13 14:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [MS-WEB-BN/c41n](https://github.com/MS-WEB-BN/c41n)  
 
 </details>
 <!--END_SECTION:activity-->
