@@ -156,12 +156,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 October 2022 - To: 23 October 2022
+From: 17 October 2022 - To: 24 October 2022
 
-Rust    1 hr 11 mins    ███████████████████████░░   92.29 %
-JSON    4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
-TOML    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+Rust    33 mins         █████████████████████▒░░░   84.92 %
+JSON    4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.58 %
+TOML    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+Other   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
 ```
 
 <!--END_SECTION:waka-->
