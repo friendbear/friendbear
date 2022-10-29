@@ -322,10 +322,6 @@ Under constract
 `[08/04 04:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [friendbear/programming-rust](https://github.com/friendbear/programming-rust)  
 `[08/02 07:06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [pretzelhammer/rust-blog](https://github.com/pretzelhammer/rust-blog)  
 `[08/02 05:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `20` commits in [friendbear/programming-rust](https://github.com/friendbear/programming-rust)  
-`[07/28 09:52]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/cargo/chapter2/mandelbrot/image-0.23.12` from [friendbear/programming-rust](https://github.com/friendbear/programming-rust)  
-`[07/28 09:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/programming-rust](https://github.com/friendbear/programming-rust)  
-`[07/28 09:52]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//friendbear/programming-rust/pull/1 'Bump image from 0.13.0 to 0.23.12 in /chapter2/mandelbrot') in [friendbear/programming-rust](https://github.com/friendbear/programming-rust)  
-`[07/28 04:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/programming-rust](https://github.com/friendbear/programming-rust)  
 
 </details>
 <!--END_SECTION:activity-->
