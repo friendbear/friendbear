@@ -242,11 +242,11 @@ Under constract
 ## daily.dev Bookmarks
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Top 7 Project Management Tools for Developers](https://app.daily.dev/posts/TRVZgIoUF?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
+- [Design Patterns](https://app.daily.dev/posts/MXrfApCkC?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [4 Must-Have Tests for Your Apache Kafka CI/CD with GitHub Actions](https://app.daily.dev/posts/bfiAY8BqH?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [From Zero to DevOps Engineer - DevOps Roadmap for YOUR specific background 🔥](https://app.daily.dev/posts/maRU3UexL?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [Developer Roadmaps](https://app.daily.dev/posts/AIMVj_l2N?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
-- [shubhamgrg04/awesome-diagramming: A curated collection of diagramming tools used by leading software engineering teams](https://app.daily.dev/posts/pE15pBBEI?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
-- [Remote development with Rust on fly.io](https://app.daily.dev/posts/alKOGIlhn?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 <!-- daily.dev BOOKMARKS:END -->
 
 
