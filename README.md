@@ -156,11 +156,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 October 2022 - To: 03 November 2022
-
-Bash       22 mins         ████████████████████████░   95.67 %
-Markdown   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
-Rust       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
