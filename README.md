@@ -325,7 +325,7 @@ Under constract
 `[08/20 03:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/programming-rust](https://github.com/friendbear/programming-rust)  
 `[08/16 07:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/auth-service](https://github.com/friendbear/auth-service)  
 `[08/09 16:16]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [conduktor/kafka-beginners-course](https://github.com/conduktor/kafka-beginners-course)  
-`[08/09 01:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [friendbear/programming-rust](https://github.com/friendbear/programming-rust)  
+`[08/09 01:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/programming-rust](https://github.com/friendbear/programming-rust)  
 
 </details>
 <!--END_SECTION:activity-->
