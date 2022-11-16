@@ -249,6 +249,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[11/16 06:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap)  
 `[11/12 04:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/book-rust](https://github.com/friendbear/book-rust)  
 `[11/10 10:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [friendbear/kafka-streams-course](https://github.com/friendbear/kafka-streams-course)  
 `[11/04 09:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
@@ -258,10 +259,10 @@ Under constract
 `[11/03 05:36]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#14`](https://github.com//friendbear/kafka-beginners/pull/14 '[Snyk] Fix for 5 vulnerabilities') in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[11/03 05:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[11/03 05:36]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`snyk-fix-3732596113edcd69b1b96f1d041a2e18`](https://github.com/friendbear/kafka-beginners/tree/snyk-fix-3732596113edcd69b1b96f1d041a2e18) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
-`[11/03 04:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [friendbear/book-rust](https://github.com/friendbear/book-rust)  
 
 <details><summary>Show More</summary>
 
+`[11/03 04:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [friendbear/book-rust](https://github.com/friendbear/book-rust)  
 `[11/01 12:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dailydotdev/daily](https://github.com/dailydotdev/daily)  
 `[10/29 04:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [friendbear/kafka-streams-course](https://github.com/friendbear/kafka-streams-course)  
 `[10/28 09:24]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/kafka-streams-course/tree/main) in [friendbear/kafka-streams-course](https://github.com/friendbear/kafka-streams-course)  
