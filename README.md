@@ -323,7 +323,7 @@ Under constract
 `[08/20 05:20]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2`](https://github.com//friendbear/auth-service/issues/2 'Invitation API Response Error.') in [friendbear/auth-service](https://github.com/friendbear/auth-service)  
 `[08/20 04:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/auth-service](https://github.com/friendbear/auth-service)  
 `[08/20 04:50]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#2`](https://github.com//friendbear/auth-service/issues/2 'Invitation API Response Error.') in [friendbear/auth-service](https://github.com/friendbear/auth-service)  
-`[08/20 03:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/programming-rust](https://github.com/friendbear/programming-rust)  
+`[08/20 03:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/programming-rust](https://github.com/friendbear/programming-rust)  
 
 </details>
 <!--END_SECTION:activity-->
