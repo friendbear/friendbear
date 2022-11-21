@@ -238,11 +238,11 @@ Under constract
 ## daily.dev Bookmarks
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Top 12 Advanced Git Commands to Know](https://app.daily.dev/posts/CVzlk_pa1?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [Netflix System Design- Backend Architecture](https://app.daily.dev/posts/G2Q_LRrvJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [Top 7 Project Management Tools for Developers](https://app.daily.dev/posts/TRVZgIoUF?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [Design Patterns](https://app.daily.dev/posts/MXrfApCkC?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [4 Must-Have Tests for Your Apache Kafka CI/CD with GitHub Actions](https://app.daily.dev/posts/bfiAY8BqH?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
-- [From Zero to DevOps Engineer - DevOps Roadmap for YOUR specific background 🔥](https://app.daily.dev/posts/maRU3UexL?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 <!-- daily.dev BOOKMARKS:END -->
 
 
