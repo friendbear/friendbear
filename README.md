@@ -317,7 +317,6 @@ Under constract
 `[08/29 22:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[08/29 22:22]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`snyk-fix-edb1694f4cead29b3ed9de5168f50111`](https://github.com/friendbear/kafka-beginners/tree/snyk-fix-edb1694f4cead29b3ed9de5168f50111) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[08/25 00:08]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#266` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[08/22 04:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#265` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 
 </details>
 <!--END_SECTION:activity-->
