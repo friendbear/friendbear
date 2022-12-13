@@ -28,11 +28,12 @@ Mozilla supporter
 Here are some ideas to get you started:
 <!--
 - 🔭 I’m currently working on ...
--->
+
 - 🌱 I’m currently learning [Scala](https://users.scala-lang.org/u/friendbear), [Rustlang](https://users.rust-lang.org/u/friendbear), [Python3](https://pypi.org/user/friendbear) C, C++, .NET and Bigdata, [MongoDB](https://www.mongodb.com/community/forums/u/friendbear) ... etc
 
 ---
 <a href="https://github.com/sponsors/friendbear" title="Sponsor T Kumagai"><img src="asset/images/sponsor.svg?sanitize=true" width="94" height="28" aria-hidden="true"></a>
+-->
 
 ---
 
