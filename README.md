@@ -2,8 +2,6 @@
 
 ### Hi there （こんにちわ）from Japan :japan: <img src="https://raw.githubusercontent.com/friendbear/friendbear/main/wave.gif" width="35px" height="35px" aria-hidden="true">
 
-
----
 <!--x
 
 ![moz://a](asset/images/mozfest-logo.svg)
@@ -312,9 +310,8 @@ Under constract
 </details>
 <!--END_SECTION:activity-->
 
-<!--END-SECTION:activity-->
 
-
+<!--
 ### [smile](https://smile.amazon.com/hz/wishlist/ls/ref_=wl_list_url_friends_message>>)
 
 Hi, I was wondering if you had built a list on Amazon. I'd love to see what you really want. Could you share your list with me?--
@@ -329,15 +326,12 @@ To view and share your lists, visit
 
 <p align="left">
 
-<!--
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B15N77Q)
--->
 </p>
 
 😙I love Asuna from SAO. ![asna](asuna.gif)
 
----
 * host: <https://vercel.com/friendbear>
+-->
 
 <!--
 [MyLiving](https://en.wikivoyage.org/wiki/Funabashi)
@@ -346,7 +340,7 @@ To view and share your lists, visit
 {
   "type": "Point",
   "coordinates": [
-    35.7333, 140.0366
+    0, 0
   ]
 }
 ```
