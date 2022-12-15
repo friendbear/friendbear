@@ -1,4 +1,4 @@
-# <img src="https://img.icons8.com/color/48/000000/github--v3.png"/> friendbear 
+# <img src="https://img.icons8.com/color/48/000000/github--v3.png"/> 
 
 ### Hi there （こんにちわ）from Japan :japan: <img src="https://raw.githubusercontent.com/friendbear/friendbear/main/wave.gif" width="35px" height="35px" aria-hidden="true">
 
@@ -17,15 +17,14 @@ Mozilla supporter
 ![mozilla](asset/images/icons8-firefox-a-free-and-open-source-web-browser-developed-by-the-mozilla-foundation-50.png)
 -->
 
-- [My Mozilla profile](https://support.mozilla.org/en-US/user/friendbear)
   
 
 ---
  ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-[QuickAccess Playground](https://wandbox.org/)
-Here are some ideas to get you started:
+* [QuickAccess Playground](https://wandbox.org/)
+
 <!--
 - 🔭 I’m currently working on ...
 
@@ -45,9 +44,11 @@ Here are some ideas to get you started:
 - 🔑 GPP Key: F9521D94D71A2F01
 
 -->
+<!--
 
 ### My link
 
+* [My Mozilla](https://support.mozilla.org/en-US/user/friendbear)
 * [IEEE](https://spectrum.ieee.org/u/tomohiro_kumagai)
 * [codepen](https://codepen.io/friendbear)
 * [Jira](https://friendbear.atlassian.net)
@@ -65,7 +66,6 @@ Here are some ideas to get you started:
 - [getcoin](https://gitcoin.co/friendbear)
 - [opensea](https://opensea.com/friendbear)
 
-<!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 
 ### A little more about me...
 
-<details><summary>CLICK ME</summary>
+<details><summary>-</summary>
 <p>
 
 #### We can hide anything, even code!
@@ -137,12 +137,12 @@ Here are some ideas to get you started:
 - [Open Lab](https://openlab.ncl.ac.uk/)
 - [Jupyter](https://jupyter.org/)
 
-
+<!--
 # Contributions
 (in the last 365 days, languages pie based on number of commits)
 
 ![](./profile-3d-contrib/profile-night-green.svg)
-
+-->
 ---
 
 [![Generate Snake](https://github.com/friendbear/friendbear/actions/workflows/cronjob-make-snake-picture.yml/badge.svg)](https://github.com/friendbear/friendbear/actions/workflows/cronjob-make-snake-picture.yml)
@@ -185,7 +185,7 @@ Under constract
 ### Skills
 
 ![](https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat) ![](https://img.shields.io/badge/-Amazon%20AWS-232F3E.svg?logo=amazon-aws&style=flat) ![](https://img.shields.io/badge/-Linux-6C6694.svg?logo=linux&style=flat) 
--->
+
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=friendbear alt=friendbear/> </p>
 
@@ -231,8 +231,8 @@ Under constract
 [![Twitter: ThraiiBraga](https://img.shields.io/twitter/follow/friendbear22?stype=social)](https://twitter.com/friendbear22)
 [![Twitter: ThraiiBraga](https://img.shields.io/twitter/follow/bearsworld22?stype=social)](https://twitter.com/bearsworld22)
 
-
-# daily.dev devcard
+-->
+## daily.dev devcard
 <a href="https://app.daily.dev/friendbear"><img src="devcard.svg" aligin="left" width="200px" height="200px" alt="T Kumagai's Dev Card"/></a>
 
 
