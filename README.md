@@ -296,7 +296,7 @@ Under constract
 `[10/07 06:52]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`snyk-upgrade-44e2f1257b998774eb17fab9f3c6a344`](https://github.com/friendbear/kafka-beginners-course/tree/snyk-upgrade-44e2f1257b998774eb17fab9f3c6a344) in [friendbear/kafka-beginners-course](https://github.com/friendbear/kafka-beginners-course)  
 `[10/07 04:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#268` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[10/07 04:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#267` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[10/07 03:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [friendbear/book-rust](https://github.com/friendbear/book-rust)  
+`[10/07 03:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/book-rust](https://github.com/friendbear/book-rust)  
 
 </details>
 <!--END_SECTION:activity-->
