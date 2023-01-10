@@ -286,7 +286,6 @@ Under constract
 `[10/10 09:03]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/rust-training-01/tree/main) in [friendbear/rust-training-01](https://github.com/friendbear/rust-training-01)  
 `[10/10 09:01]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/rust-training-01](https://github.com/friendbear/rust-training-01)  
 `[10/10 02:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/book-rust](https://github.com/friendbear/book-rust)  
-`[10/09 02:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [CleanCut/ultimate_rust_crash_course](https://github.com/CleanCut/ultimate_rust_crash_course)  
 
 </details>
 <!--END_SECTION:activity-->
