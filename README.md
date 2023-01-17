@@ -248,6 +248,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[01/17 10:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#273` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[12/15 13:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 `[12/11 09:16]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [eugenp/tutorials](https://github.com/eugenp/tutorials)  
 `[12/10 07:57]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#272` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
@@ -257,10 +258,10 @@ Under constract
 `[11/10 10:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [friendbear/kafka-streams-course](https://github.com/friendbear/kafka-streams-course)  
 `[11/04 09:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[11/03 05:37]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `snyk-fix-3732596113edcd69b1b96f1d041a2e18` from [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
-`[11/03 05:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 
 <details><summary>Show More</summary>
 
+`[11/03 05:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[11/03 05:37]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#14`](https://github.com//friendbear/kafka-beginners/pull/14 '[Snyk] Fix for 5 vulnerabilities') in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[11/03 05:36]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#14`](https://github.com//friendbear/kafka-beginners/pull/14 '[Snyk] Fix for 5 vulnerabilities') in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[11/03 05:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
