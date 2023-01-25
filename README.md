@@ -274,7 +274,6 @@ Under constract
 `[10/28 08:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/kafka-stream-code-v2](https://github.com/friendbear/kafka-stream-code-v2)  
 `[10/28 08:09]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/kafka-stream-code-v2/tree/main) in [friendbear/kafka-stream-code-v2](https://github.com/friendbear/kafka-stream-code-v2)  
 `[10/28 08:09]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/kafka-stream-code-v2](https://github.com/friendbear/kafka-stream-code-v2)  
-`[10/24 02:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/book-rust](https://github.com/friendbear/book-rust)  
 
 </details>
 <!--END_SECTION:activity-->
