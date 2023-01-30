@@ -270,7 +270,6 @@ Under constract
 `[11/03 05:36]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`snyk-fix-3732596113edcd69b1b96f1d041a2e18`](https://github.com/friendbear/kafka-beginners/tree/snyk-fix-3732596113edcd69b1b96f1d041a2e18) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[11/03 04:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [friendbear/book-rust](https://github.com/friendbear/book-rust)  
 `[11/01 12:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dailydotdev/daily](https://github.com/dailydotdev/daily)  
-`[10/29 04:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/kafka-streams-course](https://github.com/friendbear/kafka-streams-course)  
 
 </details>
 <!--END_SECTION:activity-->
