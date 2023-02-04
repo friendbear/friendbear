@@ -250,6 +250,8 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[02/04 07:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
+`[02/04 06:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cruise-group/.github](https://github.com/cruise-group/.github)  
 `[01/17 10:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#273` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[12/15 13:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 `[12/11 09:16]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [eugenp/tutorials](https://github.com/eugenp/tutorials)  
@@ -258,6 +260,9 @@ Under constract
 `[11/16 06:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap)  
 `[11/12 04:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/book-rust](https://github.com/friendbear/book-rust)  
 `[11/10 10:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [friendbear/kafka-streams-course](https://github.com/friendbear/kafka-streams-course)  
+
+<details><summary>Show More</summary>
+
 `[11/04 09:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 
 </details>
