@@ -121,13 +121,7 @@ Mozilla supporter
 </p>
 </details>
 
----
 
-<em><b>I love coffee</b> Since 2021-10: open ko-fi shop <a href="https://ko-fi.com/friendbear">Please Access My Coffe Shop.</a>
-<a href='https://ko-fi.com/B0B15N77Q' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</em>
-
----
 
 ## Usefull Link
 
@@ -136,6 +130,14 @@ Mozilla supporter
 - [Jupyter](https://jupyter.org/)
 
 <!--
+---
+
+<em><b>I love coffee</b> Since 2021-10: open ko-fi shop <a href="https://ko-fi.com/friendbear">Please Access My Coffe Shop.</a>
+<a href='https://ko-fi.com/B0B15N77Q' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</em>
+
+---
+
 # Contributions
 (in the last 365 days, languages pie based on number of commits)
 
