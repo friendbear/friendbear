@@ -268,8 +268,6 @@ Under constract
 `[12/15 13:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 `[12/11 09:16]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [eugenp/tutorials](https://github.com/eugenp/tutorials)  
 `[12/10 07:57]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#272` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[11/16 07:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [usagi/rust-memory-container-cs](https://github.com/usagi/rust-memory-container-cs)  
-`[11/16 06:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap)  
 
 </details>
 <!--END_SECTION:activity-->
