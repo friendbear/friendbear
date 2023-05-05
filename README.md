@@ -270,8 +270,6 @@ Under constract
 `[02/10 02:17]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`snyk-fix-36d83788e040431b2df2218b34c9c2fb`](https://github.com/friendbear/kafka-beginners/tree/snyk-fix-36d83788e040431b2df2218b34c9c2fb) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[02/09 21:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[02/09 21:58]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`snyk-fix-2d4dcf109eb157999ff113e16f326530`](https://github.com/friendbear/kafka-beginners/tree/snyk-fix-2d4dcf109eb157999ff113e16f326530) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
-`[02/04 07:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
-`[02/04 06:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [cruise-group/.github](https://github.com/cruise-group/.github)  
 
 </details>
 <!--END_SECTION:activity-->
