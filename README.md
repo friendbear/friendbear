@@ -261,11 +261,6 @@ Under constract
 `[02/28 19:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[02/28 19:16]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`snyk-fix-9ca93e550f3a23de550f4492a9420ec6`](https://github.com/friendbear/kafka-beginners/tree/snyk-fix-9ca93e550f3a23de550f4492a9420ec6) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[02/13 03:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/RockScalaForBeginner](https://github.com/friendbear/RockScalaForBeginner)  
-`[02/10 04:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/kafka-beginners-course](https://github.com/friendbear/kafka-beginners-course)  
-
-<details><summary>Show More</summary>
-
-`[02/10 04:49]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`snyk-fix-3cac1da667d4360f2c3ca0fc0272d7d4`](https://github.com/friendbear/kafka-beginners-course/tree/snyk-fix-3cac1da667d4360f2c3ca0fc0272d7d4) in [friendbear/kafka-beginners-course](https://github.com/friendbear/kafka-beginners-course)  
 
 </details>
 <!--END_SECTION:activity-->
