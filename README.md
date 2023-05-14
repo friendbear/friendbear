@@ -260,7 +260,6 @@ Under constract
 `[02/28 19:16]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#17`](https://github.com//friendbear/kafka-beginners/pull/17 '[Snyk] Security upgrade org.yaml:snakeyaml from 1.32 to 2.0') in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[02/28 19:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[02/28 19:16]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`snyk-fix-9ca93e550f3a23de550f4492a9420ec6`](https://github.com/friendbear/kafka-beginners/tree/snyk-fix-9ca93e550f3a23de550f4492a9420ec6) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
-`[02/13 03:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/RockScalaForBeginner](https://github.com/friendbear/RockScalaForBeginner)  
 
 </details>
 <!--END_SECTION:activity-->
