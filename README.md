@@ -257,9 +257,6 @@ Under constract
 `[03/22 07:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)  
 `[03/01 05:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[03/01 05:50]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`snyk-fix-e7a6fafb44629f8621a7479b938a47c3`](https://github.com/friendbear/kafka-beginners/tree/snyk-fix-e7a6fafb44629f8621a7479b938a47c3) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
-`[02/28 19:16]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#17`](https://github.com//friendbear/kafka-beginners/pull/17 '[Snyk] Security upgrade org.yaml:snakeyaml from 1.32 to 2.0') in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
-`[02/28 19:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
-`[02/28 19:16]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`snyk-fix-9ca93e550f3a23de550f4492a9420ec6`](https://github.com/friendbear/kafka-beginners/tree/snyk-fix-9ca93e550f3a23de550f4492a9420ec6) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 
 </details>
 <!--END_SECTION:activity-->
