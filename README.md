@@ -23,14 +23,12 @@ Mozilla supporter
 
 * [QuickAccess Playground](https://wandbox.org/)
 
-<!--
 - 🔭 I’m currently working on ...
 
 - 🌱 I’m currently learning [Scala](https://users.scala-lang.org/u/friendbear), [Rustlang](https://users.rust-lang.org/u/friendbear), [Python3](https://pypi.org/user/friendbear) C, C++, .NET and Bigdata, [MongoDB](https://www.mongodb.com/community/forums/u/friendbear) ... etc
 
 ---
 <a href="https://github.com/sponsors/friendbear" title="Sponsor T Kumagai"><img src="asset/images/sponsor.svg?sanitize=true" width="94" height="28" aria-hidden="true"></a>
--->
 
 ---
 
@@ -183,7 +181,6 @@ Under constract
 
 <img src="https://github-readme-linkedin-iwxercbpe-friendbear22.vercel.app/experience?username=friendbear" />
 
-<!--
 ### Skills
 
 ![](https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat) ![](https://img.shields.io/badge/-Amazon%20AWS-232F3E.svg?logo=amazon-aws&style=flat) ![](https://img.shields.io/badge/-Linux-6C6694.svg?logo=linux&style=flat) 
@@ -233,7 +230,6 @@ Under constract
 [![Twitter: ThraiiBraga](https://img.shields.io/twitter/follow/friendbear22?stype=social)](https://twitter.com/friendbear22)
 [![Twitter: ThraiiBraga](https://img.shields.io/twitter/follow/bearsworld22?stype=social)](https://twitter.com/bearsworld22)
 
--->
 ## daily.dev devcard
 <a href="https://app.daily.dev/friendbear"><img src="devcard.svg" aligin="left" width="200px" height="200px" alt="T Kumagai's Dev Card"/></a>
 
