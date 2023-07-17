@@ -248,6 +248,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[07/17 06:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 `[07/14 03:22]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest)  
 `[07/14 01:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine)  
 `[07/14 00:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#283` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
@@ -257,10 +258,10 @@ Under constract
 `[07/07 05:19]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [getzola/zola](https://github.com/getzola/zola)  
 `[07/07 05:14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [launchbadge/sqlx](https://github.com/launchbadge/sqlx)  
 `[07/06 06:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#281` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[07/06 06:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tadashi0713/circleci-cloudrun-demo](https://github.com/tadashi0713/circleci-cloudrun-demo)  
 
 <details><summary>Show More</summary>
 
+`[07/06 06:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tadashi0713/circleci-cloudrun-demo](https://github.com/tadashi0713/circleci-cloudrun-demo)  
 `[07/05 00:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#280` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[07/04 23:42]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [wez/wezterm](https://github.com/wez/wezterm)  
 `[07/02 10:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/rust-coding-for-beginners](https://github.com/friendbear/rust-coding-for-beginners)  
