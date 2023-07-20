@@ -252,6 +252,8 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[07/20 00:14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [abiosoft/colima](https://github.com/abiosoft/colima)  
+`[07/20 00:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server)  
 `[07/19 04:43]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [hashicorp/tfc-guide-example](https://github.com/hashicorp/tfc-guide-example) to [friendbear/tfc-guide-example](https://github.com/friendbear/tfc-guide-example)  
 `[07/17 06:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 `[07/14 03:22]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest)  
@@ -260,11 +262,11 @@ Under constract
 `[07/13 10:10]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Migorithm/rustiful-backend](https://github.com/Migorithm/rustiful-backend)  
 `[07/13 05:20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [coderabbitai/openai-pr-reviewer](https://github.com/coderabbitai/openai-pr-reviewer)  
 `[07/07 05:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#282` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[07/07 05:19]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [getzola/zola](https://github.com/getzola/zola)  
-`[07/07 05:14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [launchbadge/sqlx](https://github.com/launchbadge/sqlx)  
 
 <details><summary>Show More</summary>
 
+`[07/07 05:19]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [getzola/zola](https://github.com/getzola/zola)  
+`[07/07 05:14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [launchbadge/sqlx](https://github.com/launchbadge/sqlx)  
 `[07/06 06:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#281` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[07/06 06:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tadashi0713/circleci-cloudrun-demo](https://github.com/tadashi0713/circleci-cloudrun-demo)  
 `[07/05 00:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#280` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
