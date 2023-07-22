@@ -252,6 +252,9 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[07/22 04:04]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#20`](https://github.com//friendbear/kafka-beginners/pull/20 '[Snyk] Security upgrade org.apache.kafka:kafka-clients from 3.3.1 to 3.5.1') in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
+`[07/22 04:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
+`[07/22 04:04]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`snyk-fix-e391b2ef7b31124240cfc35867587b09`](https://github.com/friendbear/kafka-beginners/tree/snyk-fix-e391b2ef7b31124240cfc35867587b09) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[07/21 23:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui)  
 `[07/21 18:37]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#19`](https://github.com//friendbear/kafka-beginners/pull/19 '[Snyk] Security upgrade org.apache.kafka:kafka-clients from 3.3.1 to 3.5.1') in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[07/21 18:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
@@ -259,12 +262,12 @@ Under constract
 `[07/21 17:39]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#8`](https://github.com//friendbear/kafka-beginners-course/pull/8 '[Snyk] Security upgrade org.apache.kafka:kafka-clients from 3.1.0 to 3.5.1') in [friendbear/kafka-beginners-course](https://github.com/friendbear/kafka-beginners-course)  
 `[07/21 17:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/kafka-beginners-course](https://github.com/friendbear/kafka-beginners-course)  
 `[07/21 17:39]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`snyk-fix-06e36637a70ba7525f0a4105d4111596`](https://github.com/friendbear/kafka-beginners-course/tree/snyk-fix-06e36637a70ba7525f0a4105d4111596) in [friendbear/kafka-beginners-course](https://github.com/friendbear/kafka-beginners-course)  
-`[07/21 04:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#285` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[07/21 03:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cube-js/cube](https://github.com/cube-js/cube)  
-`[07/21 01:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#284` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 
 <details><summary>Show More</summary>
 
+`[07/21 04:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#285` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
+`[07/21 03:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cube-js/cube](https://github.com/cube-js/cube)  
+`[07/21 01:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#284` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[07/20 00:14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [abiosoft/colima](https://github.com/abiosoft/colima)  
 `[07/20 00:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server)  
 `[07/19 04:43]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [hashicorp/tfc-guide-example](https://github.com/hashicorp/tfc-guide-example) to [friendbear/tfc-guide-example](https://github.com/friendbear/tfc-guide-example)  
