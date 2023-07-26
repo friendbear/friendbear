@@ -155,13 +155,13 @@ Mozilla supporter
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 July 2023 - To: 24 July 2023
+From: 18 July 2023 - To: 25 July 2023
 
-Terraform    12 mins         █████████████░░░░░░░░░░░░   51.60 %
-Other        3 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.20 %
-HCL          2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.54 %
-Markdown     2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.86 %
-Bash         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
+Rust         1 hr 4 mins     ██████████████████▒░░░░░░   72.98 %
+Terraform    12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.76 %
+Other        3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
+HCL          2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
+Markdown     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
 ```
 
 <!--END_SECTION:waka-->
