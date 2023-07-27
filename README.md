@@ -145,8 +145,11 @@ Mozilla supporter
 
 
 ## <img src="https://image.flaticon.com/icons/svg/3306/3306281.svg" width=18/> Status
-<img src="https://github-readme-stats.vercel.app/api?username=friendbear&count_private=true&theme=dracula" width="450"/>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=friendbear&layout=compact&hide=javascript,html,jupyter&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=friendbear&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=friendbear&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=50&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=friendbear&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
 [![Waka Readme](https://github.com/friendbear/friendbear/actions/workflows/cronjob-wakatime-generater.yml/badge.svg)](https://github.com/friendbear/friendbear/actions/workflows/cronjob-wakatime-generater.yml)
 
@@ -162,11 +165,6 @@ TOML   0 secs          ░░░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=friendbear&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=friendbear&locale=ja&hide_title=false&layout=compact&card_width=320&langs_count=50&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=friendbear&locale=ja&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
 
 <!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=friendbear&show_icons=true)  
