@@ -255,19 +255,24 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[07/31 06:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
+`[07/31 06:47]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/perfect-rust/tree/main) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
+`[07/31 06:44]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
+`[07/31 06:41]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
+`[07/31 06:33]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[07/31 06:16]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/perfect-rust/tree/main) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[07/31 06:16]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[07/31 06:10]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/perfect-rust/tree/main) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[07/31 06:10]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[07/30 12:24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [novaspirit/pi-hosted](https://github.com/novaspirit/pi-hosted)  
+
+<details><summary>Show More</summary>
+
 `[07/30 12:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [charmbracelet/pop](https://github.com/charmbracelet/pop)  
 `[07/27 09:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 `[07/27 09:37]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/discord-iriam-bot/tree/main) in [friendbear/discord-iriam-bot](https://github.com/friendbear/discord-iriam-bot)  
 `[07/27 09:37]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/discord-iriam-bot](https://github.com/friendbear/discord-iriam-bot)  
 `[07/26 13:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle)  
-
-<details><summary>Show More</summary>
-
 `[07/24 20:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust)  
 `[07/24 01:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#286` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[07/22 04:04]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#20`](https://github.com//friendbear/kafka-beginners/pull/20 '[Snyk] Security upgrade org.apache.kafka:kafka-clients from 3.3.1 to 3.5.1') in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
