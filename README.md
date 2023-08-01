@@ -255,6 +255,9 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[08/01 05:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
+`[08/01 05:05]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//friendbear/perfect-rust/pull/1 'IRIAM Profile.') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
+`[08/01 05:04]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1`](https://github.com//friendbear/perfect-rust/pull/1 'IRIAM Profile.') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/01 04:49]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`develop`](https://github.com/friendbear/perfect-rust/tree/develop) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[07/31 22:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)  
 `[07/31 07:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
@@ -262,12 +265,12 @@ Under constract
 `[07/31 06:44]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[07/31 06:41]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[07/31 06:33]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
-`[07/31 06:16]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/perfect-rust/tree/main) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
-`[07/31 06:16]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
-`[07/31 06:10]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/perfect-rust/tree/main) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 
 <details><summary>Show More</summary>
 
+`[07/31 06:16]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/perfect-rust/tree/main) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
+`[07/31 06:16]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
+`[07/31 06:10]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/perfect-rust/tree/main) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[07/31 06:10]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[07/30 12:24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [novaspirit/pi-hosted](https://github.com/novaspirit/pi-hosted)  
 `[07/30 12:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [charmbracelet/pop](https://github.com/charmbracelet/pop)  
