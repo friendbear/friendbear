@@ -244,11 +244,11 @@ Under constract
 ## daily.dev Bookmarks
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Rust 🦀 CRUD Rest API](https://app.daily.dev/posts/Gm5HdX7XL?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
+- [Rust on the front-end](https://app.daily.dev/posts/8IKXdzLd-?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [Getting Started with LazyVIM](https://app.daily.dev/posts/XVF7VG0iJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [Docker Cheat Sheet – 36 Docker CLI Commands](https://app.daily.dev/posts/KwNkx04B5?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [Top 12 Advanced Git Commands to Know](https://app.daily.dev/posts/CVzlk_pa1?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
-- [Netflix System Design- Backend Architecture](https://app.daily.dev/posts/G2Q_LRrvJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
-- [Top 7 Project Management Tools for Developers](https://app.daily.dev/posts/TRVZgIoUF?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 <!-- daily.dev BOOKMARKS:END -->
 
 
