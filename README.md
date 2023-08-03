@@ -255,6 +255,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[08/03 09:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/03 07:53]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#9`](https://github.com//friendbear/perfect-rust/pull/9 'control formula closed #8') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/03 07:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/03 07:28]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#8`](https://github.com//friendbear/perfect-rust/issues/8 '制御式') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
@@ -264,10 +265,10 @@ Under constract
 `[08/02 11:44]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/vercel-nextjs](https://github.com/friendbear/vercel-nextjs)  
 `[08/02 11:01]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#6`](https://github.com//friendbear/perfect-rust/issues/6 '基本データ型') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/02 11:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
-`[08/02 11:01]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#7`](https://github.com//friendbear/perfect-rust/pull/7 '基本データ型') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 
 <details><summary>Show More</summary>
 
+`[08/02 11:01]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#7`](https://github.com//friendbear/perfect-rust/pull/7 '基本データ型') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/02 10:58]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#7`](https://github.com//friendbear/perfect-rust/pull/7 '基本データ型') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/02 10:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/02 09:32]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [slint-ui/slint](https://github.com/slint-ui/slint)  
