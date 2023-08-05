@@ -255,6 +255,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[08/05 04:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/05 00:54]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/tutorials-java/tree/main) in [friendbear/tutorials-java](https://github.com/friendbear/tutorials-java)  
 `[08/05 00:53]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/tutorials-java](https://github.com/friendbear/tutorials-java)  
 `[08/04 12:51]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rust-community-discord/ferrisbot-for-discord](https://github.com/rust-community-discord/ferrisbot-for-discord)  
@@ -264,10 +265,10 @@ Under constract
 `[08/04 12:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/03 09:01]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#8`](https://github.com//friendbear/perfect-rust/issues/8 '制御式') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/03 09:01]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#9`](https://github.com//friendbear/perfect-rust/pull/9 'control formula closed #8') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
-`[08/03 09:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 
 <details><summary>Show More</summary>
 
+`[08/03 09:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/03 07:53]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#9`](https://github.com//friendbear/perfect-rust/pull/9 'control formula closed #8') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/03 07:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/03 07:28]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#8`](https://github.com//friendbear/perfect-rust/issues/8 '制御式') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
