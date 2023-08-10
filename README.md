@@ -255,6 +255,9 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[08/10 07:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
+`[08/10 07:33]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#15`](https://github.com//friendbear/perfect-rust/pull/15 'Develop') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
+`[08/10 07:32]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#15`](https://github.com//friendbear/perfect-rust/pull/15 'Develop') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/10 07:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/09 04:39]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#14`](https://github.com//friendbear/perfect-rust/issues/14 '関数') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/08 21:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [supabase/postgres_lsp](https://github.com/supabase/postgres_lsp)  
@@ -262,12 +265,12 @@ Under constract
 `[08/08 14:09]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/with-cloudinary/tree/main) in [friendbear/with-cloudinary](https://github.com/friendbear/with-cloudinary)  
 `[08/08 14:08]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/with-cloudinary](https://github.com/friendbear/with-cloudinary)  
 `[08/08 08:52]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#12`](https://github.com//friendbear/perfect-rust/issues/12 'ライブラリのデータ型') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
-`[08/08 08:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
-`[08/08 08:52]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#13`](https://github.com//friendbear/perfect-rust/pull/13 'ライブラリのデータ型') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
-`[08/08 08:51]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#13`](https://github.com//friendbear/perfect-rust/pull/13 'ライブラリのデータ型') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 
 <details><summary>Show More</summary>
 
+`[08/08 08:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
+`[08/08 08:52]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#13`](https://github.com//friendbear/perfect-rust/pull/13 'ライブラリのデータ型') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
+`[08/08 08:51]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#13`](https://github.com//friendbear/perfect-rust/pull/13 'ライブラリのデータ型') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/08 08:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [helix-editor/helix](https://github.com/helix-editor/helix)  
 `[08/08 08:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/06 11:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [kangalio/rustbot](https://github.com/kangalio/rustbot)  
