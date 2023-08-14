@@ -255,19 +255,23 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[08/14 11:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
+`[08/14 11:09]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#17`](https://github.com//friendbear/perfect-rust/pull/17 'Result<T,E>') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
+`[08/14 11:07]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#17`](https://github.com//friendbear/perfect-rust/pull/17 'Result<T,E>') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
+`[08/14 11:01]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#14`](https://github.com//friendbear/perfect-rust/issues/14 '関数') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/14 10:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/14 07:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents)  
 `[08/14 05:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/python3-scripts](https://github.com/friendbear/python3-scripts)  
 `[08/14 05:43]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/a](https://github.com/friendbear/a)  
 `[08/14 05:32]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/python3-scripts/tree/main) in [friendbear/python3-scripts](https://github.com/friendbear/python3-scripts)  
 `[08/14 05:32]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/python3-scripts](https://github.com/friendbear/python3-scripts)  
+
+<details><summary>Show More</summary>
+
 `[08/13 09:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/13 09:49]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#16`](https://github.com//friendbear/perfect-rust/pull/16 'Builder patters.') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/13 09:49]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#16`](https://github.com//friendbear/perfect-rust/pull/16 'Builder patters.') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/13 09:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
-
-<details><summary>Show More</summary>
-
 `[08/12 17:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [hyperium/tonic](https://github.com/hyperium/tonic)  
 `[08/11 04:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)  
 `[08/10 09:17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition)  
