@@ -15,44 +15,37 @@ Mozilla supporter
 ![mozilla](asset/images/icons8-firefox-a-free-and-open-source-web-browser-developed-by-the-mozilla-foundation-50.png)
 -->
 
-  
-
----
  ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 * [QuickAccess Playground](https://wandbox.org/)
 
+<!--
 - 🔭 I’m currently working on ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
+-->
 - 🌱 I’m currently learning [Scala](https://users.scala-lang.org/u/friendbear), [Rustlang](https://users.rust-lang.org/u/friendbear), [Python3](https://pypi.org/user/friendbear) C, C++, .NET and Bigdata, [MongoDB](https://www.mongodb.com/community/forums/u/friendbear) ... etc
+- 📫 How to reach me: <a href="mailto:a11mpl0ax@relay.firefox.com">a11mpl0ax@relay.firefox.com</a> is.</p>
+- 🔑 GPP Key: F9521D94D71A2F01
 
 ---
 <a href="https://github.com/sponsors/friendbear" title="Sponsor T Kumagai"><img src="asset/images/sponsor.svg?sanitize=true" width="94" height="28" aria-hidden="true"></a>
-
----
-
-<!--
-<a href="https://app.daily.dev/friendbear"><img src="https://api.daily.dev/devcards/f55171042f5f40e5aeb3b88e315499f7.png?r=9vx" width="400" alt="T Kumagai's Dev Card"/></a>
-
-- 📫 How to reach me: <a href="mailto:a11mpl0ax@relay.firefox.com">a11mpl0ax@relay.firefox.com</a> is.</p>
-
-- 🔑 GPP Key: F9521D94D71A2F01
-
--->
-<!--
-
 ### My link
 
-* [My Mozilla](https://support.mozilla.org/en-US/user/friendbear)
+* [Mozilla](https://support.mozilla.org/en-US/user/friendbear)
 * [IEEE](https://spectrum.ieee.org/u/tomohiro_kumagai)
 * [codepen](https://codepen.io/friendbear)
 * [Jira](https://friendbear.atlassian.net)
-* [Tecnical blog](https://friendbear.hashnode.dev/)
 * [StackShare](https://stackshare.io/friendbear)
 * [coudcast](https://www.crowdcast.io/friendbear)
-* [MyDagsHub]: / https://dagshub.com/friendbear 
+* [MyDagsHub](https://dagshub.com/friendbear) 
 * [LFX](https://openprofile.dev/profile/friendbear)
+* host: <https://vercel.com/friendbear>
 
 ### Trading Profile
 - [mql](https://www.mql5.com/ja/users/friendbear)
@@ -61,15 +54,6 @@ Mozilla supporter
 
 - [getcoin](https://gitcoin.co/friendbear)
 - [opensea](https://opensea.com/friendbear)
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
 
 ---
 
@@ -144,7 +128,7 @@ Mozilla supporter
 ---
 
 
-## <img src="https://image.flaticon.com/icons/svg/3306/3306281.svg" width=18/> Status
+## Status
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=friendbear&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=friendbear&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=50&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
@@ -181,12 +165,6 @@ Text          1 min           ░░░░░░░░░░░░░░░░�
 [![blog badge](https://img.shields.io/badge/speakerdeck-inductor-1f425f?style=flat-square)](https://speakerdeck.com/inductor)
 
 -->
-
-### Experience
-
-Under constract
-
-<img src="https://github-readme-linkedin-iwxercbpe-friendbear22.vercel.app/experience?username=friendbear" />
 
 ### Skills
 
@@ -447,9 +425,8 @@ To view and share your lists, visit
 
 </p>
 
-😙I love Asuna from SAO. ![asna](asuna.gif)
 
-* host: <https://vercel.com/friendbear>
+
 -->
 
 <!--
@@ -471,3 +448,5 @@ To view and share your lists, visit
 [![Update gist with latest YouTube videos](https://github.com/friendbear/youtube-box/actions/workflows/main.yml/badge.svg)](https://github.com/friendbear/youtube-box/actions/workflows/main.yml)
 
 [![wakatime](https://wakatime.com/badge/user/c9dffbdd-c073-4c7d-a529-e105c09c8423/project/2860db9f-388b-400c-95ab-51b00dbf7a82.svg)](https://wakatime.com/badge/user/c9dffbdd-c073-4c7d-a529-e105c09c8423/project/2860db9f-388b-400c-95ab-51b00dbf7a82)
+
+😙I love Asuna from SAO. ![asna](asuna.gif)
