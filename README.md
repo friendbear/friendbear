@@ -255,6 +255,7 @@ Under constract
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[08/18 13:34]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#25`](https://github.com//friendbear/perfect-rust/issues/25 'トレイト') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/18 13:04]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#23`](https://github.com//friendbear/perfect-rust/issues/23 '列挙型') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/18 12:56]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#24`](https://github.com//friendbear/perfect-rust/pull/24 'Enum') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/18 12:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
@@ -264,10 +265,10 @@ Under constract
 `[08/18 11:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/18 10:18]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [isyuricunha/list-all-followers-and-following](https://github.com/isyuricunha/list-all-followers-and-following) to [friendbear/list-all-followers-and-following](https://github.com/friendbear/list-all-followers-and-following)  
 `[08/18 09:54]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#23`](https://github.com//friendbear/perfect-rust/issues/23 '列挙型') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
-`[08/18 09:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 
 <details><summary>Show More</summary>
 
+`[08/18 09:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/18 09:53]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#20`](https://github.com//friendbear/perfect-rust/issues/20 '構造体') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/18 09:53]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#22`](https://github.com//friendbear/perfect-rust/pull/22 'Struct') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/18 09:48]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#22`](https://github.com//friendbear/perfect-rust/pull/22 'Struct') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
