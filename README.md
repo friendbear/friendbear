@@ -233,6 +233,8 @@ Text          1 min           ░░░░░░░░░░░░░░░░�
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[08/19 09:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
+`[08/19 09:02]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#27`](https://github.com//friendbear/perfect-rust/pull/27 'トレイトの基本') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/19 06:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/18 16:05]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#26`](https://github.com//friendbear/perfect-rust/pull/26 'add wakatime') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/18 16:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
@@ -241,11 +243,11 @@ Text          1 min           ░░░░░░░░░░░░░░░░�
 `[08/18 16:00]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#26`](https://github.com//friendbear/perfect-rust/pull/26 'add wakatime') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/18 16:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/18 14:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
-`[08/18 13:34]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#25`](https://github.com//friendbear/perfect-rust/issues/25 'トレイト') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
-`[08/18 13:04]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#23`](https://github.com//friendbear/perfect-rust/issues/23 '列挙型') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 
 <details><summary>Show More</summary>
 
+`[08/18 13:34]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#25`](https://github.com//friendbear/perfect-rust/issues/25 'トレイト') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
+`[08/18 13:04]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#23`](https://github.com//friendbear/perfect-rust/issues/23 '列挙型') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/18 12:56]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#24`](https://github.com//friendbear/perfect-rust/pull/24 'Enum') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/18 12:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/18 12:53]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#24`](https://github.com//friendbear/perfect-rust/pull/24 'Enum') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
