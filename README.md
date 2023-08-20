@@ -233,7 +233,8 @@ Text          1 min           ░░░░░░░░░░░░░░░░�
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-`[08/20 03:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
+`[08/20 04:00]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#28`](https://github.com//friendbear/perfect-rust/pull/28 'Trait part1') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
+`[08/20 03:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/19 10:12]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#27`](https://github.com//friendbear/perfect-rust/pull/27 'トレイトの基本') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/19 09:33]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#27`](https://github.com//friendbear/perfect-rust/issues/27 'トレイトの基本') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/19 09:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
@@ -242,10 +243,10 @@ Text          1 min           ░░░░░░░░░░░░░░░░�
 `[08/18 16:05]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#26`](https://github.com//friendbear/perfect-rust/pull/26 'add wakatime') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/18 16:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/18 16:05]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#26`](https://github.com//friendbear/perfect-rust/pull/26 'add wakatime') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
-`[08/18 16:05]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#26`](https://github.com//friendbear/perfect-rust/pull/26 'add wakatime') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 
 <details><summary>Show More</summary>
 
+`[08/18 16:05]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#26`](https://github.com//friendbear/perfect-rust/pull/26 'add wakatime') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/18 16:00]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#26`](https://github.com//friendbear/perfect-rust/pull/26 'add wakatime') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/18 16:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/18 14:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
