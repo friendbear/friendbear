@@ -233,6 +233,7 @@ YAML           23 mins         ▒░░░░░░░░░░░░░░░�
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[08/23 08:36]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mozilla/sccache](https://github.com/mozilla/sccache)  
 `[08/23 08:10]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#39`](https://github.com//friendbear/perfect-rust/issues/39 'スレッドと非同期実行') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/23 07:29]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#32`](https://github.com//friendbear/perfect-rust/issues/32 'エラー') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/23 07:29]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#38`](https://github.com//friendbear/perfect-rust/pull/38 'Error') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
@@ -242,10 +243,10 @@ YAML           23 mins         ▒░░░░░░░░░░░░░░░�
 `[08/23 02:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [koukikitamura/scalable-twitter](https://github.com/koukikitamura/scalable-twitter)  
 `[08/22 14:35]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `snyk-fix-e7a6fafb44629f8621a7479b938a47c3` from [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[08/22 14:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
-`[08/22 14:34]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#18`](https://github.com//friendbear/kafka-beginners/pull/18 '[Snyk] Security upgrade org.yaml:snakeyaml from 1.32 to 2.0') in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 
 <details><summary>Show More</summary>
 
+`[08/22 14:34]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#18`](https://github.com//friendbear/kafka-beginners/pull/18 '[Snyk] Security upgrade org.yaml:snakeyaml from 1.32 to 2.0') in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[08/22 14:33]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `snyk-fix-e391b2ef7b31124240cfc35867587b09` from [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[08/22 14:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[08/22 14:33]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#20`](https://github.com//friendbear/kafka-beginners/pull/20 '[Snyk] Security upgrade org.apache.kafka:kafka-clients from 3.3.1 to 3.5.1') in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
