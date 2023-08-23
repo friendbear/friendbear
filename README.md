@@ -222,11 +222,11 @@ YAML           23 mins         ▒░░░░░░░░░░░░░░░�
 ## daily.dev Bookmarks
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Best Scrum Tools for Programmers](https://app.daily.dev/posts/HL39MtUB5?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [Backend Developer Roadmap](https://app.daily.dev/posts/O91RLZcPT?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [AI generated git commit messages](https://app.daily.dev/posts/yVcWJsz00?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [Rust 🦀 CRUD Rest API](https://app.daily.dev/posts/Gm5HdX7XL?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [Rust on the front-end](https://app.daily.dev/posts/8IKXdzLd-?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
-- [Getting Started with LazyVIM](https://app.daily.dev/posts/XVF7VG0iJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 <!-- daily.dev BOOKMARKS:END -->
 
 
