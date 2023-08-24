@@ -233,6 +233,7 @@ YAML           23 mins         ▒░░░░░░░░░░░░░░░�
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[08/24 07:23]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#42`](https://github.com//friendbear/perfect-rust/issues/42 'テスト') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/24 06:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ricklamers/shell-ai](https://github.com/ricklamers/shell-ai)  
 `[08/24 02:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/24 02:57]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#41`](https://github.com//friendbear/perfect-rust/pull/41 'グリーンスレッド事始め') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
@@ -242,10 +243,10 @@ YAML           23 mins         ▒░░░░░░░░░░░░░░░�
 `[08/23 10:13]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#40`](https://github.com//friendbear/perfect-rust/pull/40 'Thread and Async') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/23 09:59]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#40`](https://github.com//friendbear/perfect-rust/pull/40 'Thread and Async') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/23 09:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
-`[08/23 08:36]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mozilla/sccache](https://github.com/mozilla/sccache)  
 
 <details><summary>Show More</summary>
 
+`[08/23 08:36]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mozilla/sccache](https://github.com/mozilla/sccache)  
 `[08/23 08:10]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#39`](https://github.com//friendbear/perfect-rust/issues/39 'スレッドと非同期実行') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/23 07:29]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#32`](https://github.com//friendbear/perfect-rust/issues/32 'エラー') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/23 07:29]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#38`](https://github.com//friendbear/perfect-rust/pull/38 'Error') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
@@ -459,19 +460,6 @@ YAML           23 mins         ▒░░░░░░░░░░░░░░░�
 `[07/13 05:20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [coderabbitai/openai-pr-reviewer](https://github.com/coderabbitai/openai-pr-reviewer)  
 `[07/07 05:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#282` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[07/07 05:19]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [getzola/zola](https://github.com/getzola/zola)  
-`[07/07 05:14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [launchbadge/sqlx](https://github.com/launchbadge/sqlx)  
-`[07/06 06:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#281` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[07/06 06:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tadashi0713/circleci-cloudrun-demo](https://github.com/tadashi0713/circleci-cloudrun-demo)  
-`[07/05 00:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#280` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[07/04 23:42]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [wez/wezterm](https://github.com/wez/wezterm)  
-`[07/02 10:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/rust-coding-for-beginners](https://github.com/friendbear/rust-coding-for-beginners)  
-`[06/29 06:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#279` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[06/29 05:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#278` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[06/20 10:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#277` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[06/20 04:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#276` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[06/19 04:36]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [openobserve/openobserve](https://github.com/openobserve/openobserve)  
-`[06/19 04:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer)  
-`[06/05 02:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#275` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 
 </details>
 <!--END_SECTION:activity-->
