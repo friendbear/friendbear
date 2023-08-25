@@ -233,6 +233,7 @@ JSON           6 mins          ░░░░░░░░░░░░░░░░�
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[08/25 03:14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cloudflare/quiche](https://github.com/cloudflare/quiche)  
 `[08/24 07:23]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#42`](https://github.com//friendbear/perfect-rust/issues/42 'テスト') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/24 06:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ricklamers/shell-ai](https://github.com/ricklamers/shell-ai)  
 `[08/24 02:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
@@ -242,10 +243,10 @@ JSON           6 mins          ░░░░░░░░░░░░░░░░�
 `[08/23 11:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/23 10:13]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#40`](https://github.com//friendbear/perfect-rust/pull/40 'Thread and Async') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/23 09:59]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#40`](https://github.com//friendbear/perfect-rust/pull/40 'Thread and Async') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
-`[08/23 09:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 
 <details><summary>Show More</summary>
 
+`[08/23 09:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/23 08:36]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mozilla/sccache](https://github.com/mozilla/sccache)  
 `[08/23 08:10]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#39`](https://github.com//friendbear/perfect-rust/issues/39 'スレッドと非同期実行') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/23 07:29]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#32`](https://github.com//friendbear/perfect-rust/issues/32 'エラー') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
@@ -459,7 +460,6 @@ JSON           6 mins          ░░░░░░░░░░░░░░░░�
 `[07/13 10:10]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Migorithm/rustiful-backend](https://github.com/Migorithm/rustiful-backend)  
 `[07/13 05:20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [coderabbitai/openai-pr-reviewer](https://github.com/coderabbitai/openai-pr-reviewer)  
 `[07/07 05:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#282` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
-`[07/07 05:19]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [getzola/zola](https://github.com/getzola/zola)  
 
 </details>
 <!--END_SECTION:activity-->
