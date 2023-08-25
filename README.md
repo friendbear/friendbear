@@ -233,6 +233,7 @@ JSON           6 mins          ░░░░░░░░░░░░░░░░�
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[08/25 06:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/25 06:26]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#46`](https://github.com//friendbear/perfect-rust/issues/46 'workspaces warning') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/25 05:39]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#45`](https://github.com//friendbear/perfect-rust/pull/45 'Testing') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/25 05:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
@@ -242,10 +243,10 @@ JSON           6 mins          ░░░░░░░░░░░░░░░░�
 `[08/24 02:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/24 02:57]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#41`](https://github.com//friendbear/perfect-rust/pull/41 'グリーンスレッド事始め') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/24 02:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
-`[08/23 11:38]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#41`](https://github.com//friendbear/perfect-rust/pull/41 'グリーンスレッド事始め') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 
 <details><summary>Show More</summary>
 
+`[08/23 11:38]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#41`](https://github.com//friendbear/perfect-rust/pull/41 'グリーンスレッド事始め') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/23 11:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/23 10:13]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#40`](https://github.com//friendbear/perfect-rust/pull/40 'Thread and Async') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/23 09:59]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#40`](https://github.com//friendbear/perfect-rust/pull/40 'Thread and Async') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
@@ -456,8 +457,6 @@ JSON           6 mins          ░░░░░░░░░░░░░░░░�
 `[07/20 00:14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [abiosoft/colima](https://github.com/abiosoft/colima)  
 `[07/20 00:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server)  
 `[07/19 04:43]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [hashicorp/tfc-guide-example](https://github.com/hashicorp/tfc-guide-example) to [friendbear/tfc-guide-example](https://github.com/friendbear/tfc-guide-example)  
-`[07/17 06:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
-`[07/14 03:22]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest)  
 
 </details>
 <!--END_SECTION:activity-->
