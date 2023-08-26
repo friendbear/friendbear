@@ -222,11 +222,11 @@ JSON           7 mins          ░░░░░░░░░░░░░░░░�
 ## daily.dev Bookmarks
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Use Nginx as an API Gateway](https://app.daily.dev/posts/d7l0vD5ZK?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
+- [Best AI Tools for Developers](https://app.daily.dev/posts/PtFDJV2TR?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [Best Scrum Tools for Programmers](https://app.daily.dev/posts/HL39MtUB5?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [Backend Developer Roadmap](https://app.daily.dev/posts/O91RLZcPT?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [AI generated git commit messages](https://app.daily.dev/posts/yVcWJsz00?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
-- [Rust 🦀 CRUD Rest API](https://app.daily.dev/posts/Gm5HdX7XL?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
-- [Rust on the front-end](https://app.daily.dev/posts/8IKXdzLd-?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 <!-- daily.dev BOOKMARKS:END -->
 
 
