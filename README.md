@@ -233,7 +233,7 @@ JSON       4 mins          ░░░░░░░░░░░░░░░░░�
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-`[08/27 23:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
+`[08/28 03:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/27 21:51]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#49`](https://github.com//friendbear/perfect-rust/pull/49 'RwLockによる書き込み、読み込みロック') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/27 21:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/27 20:12]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#48`](https://github.com//friendbear/perfect-rust/pull/48 'thread and async') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
@@ -448,7 +448,6 @@ JSON       4 mins          ░░░░░░░░░░░░░░░░░�
 `[07/31 06:16]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[07/31 06:10]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/perfect-rust/tree/main) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[07/31 06:10]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
-`[07/30 12:24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [novaspirit/pi-hosted](https://github.com/novaspirit/pi-hosted)  
 
 </details>
 <!--END_SECTION:activity-->
