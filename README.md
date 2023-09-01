@@ -233,6 +233,7 @@ JSON       9 mins          ░░░░░░░░░░░░░░░░░�
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[09/01 06:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/python3-scripts](https://github.com/friendbear/python3-scripts)  
 `[08/31 22:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/31 07:56]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#54`](https://github.com//friendbear/perfect-rust/pull/54 'PostgreSQL') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/31 07:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
@@ -242,10 +243,10 @@ JSON       9 mins          ░░░░░░░░░░░░░░░░░�
 `[08/30 11:55]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `snyk-fix-f1b1e438aa926142e6973a193851dd82` from [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[08/30 11:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[08/30 11:55]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#19`](https://github.com//friendbear/kafka-beginners/pull/19 '[Snyk] Security upgrade org.apache.kafka:kafka-clients from 3.3.1 to 3.5.1') in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
-`[08/30 11:55]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/maven/kafka-producer-twitter/org.yaml-snakeyaml-2.0` from [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 
 <details><summary>Show More</summary>
 
+`[08/30 11:55]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/maven/kafka-producer-twitter/org.yaml-snakeyaml-2.0` from [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[08/30 11:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[08/30 11:55]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#22`](https://github.com//friendbear/kafka-beginners/pull/22 'Bump org.yaml:snakeyaml from 1.32 to 2.0 in /kafka-producer-twitter') in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[08/30 11:54]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/maven/kafka-basics/org.yaml-snakeyaml-2.0` from [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
@@ -440,7 +441,6 @@ JSON       9 mins          ░░░░░░░░░░░░░░░░░�
 `[08/02 11:49]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/image-gallery-starter](https://github.com/friendbear/image-gallery-starter)  
 `[08/02 11:44]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/vercel-nextjs/tree/main) in [friendbear/vercel-nextjs](https://github.com/friendbear/vercel-nextjs)  
 `[08/02 11:44]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/vercel-nextjs](https://github.com/friendbear/vercel-nextjs)  
-`[08/02 11:01]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#6`](https://github.com//friendbear/perfect-rust/issues/6 '基本データ型') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 
 </details>
 <!--END_SECTION:activity-->
