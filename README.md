@@ -233,7 +233,7 @@ Python     30 mins         ▒░░░░░░░░░░░░░░░░�
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-`[09/02 11:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
+`[09/03 02:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[09/01 08:23]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#56`](https://github.com//friendbear/perfect-rust/pull/56 'PostgreSQL') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[09/01 08:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[09/01 08:23]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#56`](https://github.com//friendbear/perfect-rust/pull/56 'PostgreSQL') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
@@ -441,7 +441,6 @@ Python     30 mins         ▒░░░░░░░░░░░░░░░░�
 `[08/04 12:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/03 09:01]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#8`](https://github.com//friendbear/perfect-rust/issues/8 '制御式') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/03 09:01]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#9`](https://github.com//friendbear/perfect-rust/pull/9 'control formula closed #8') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
-`[08/03 09:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 
 </details>
 <!--END_SECTION:activity-->
