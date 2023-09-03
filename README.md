@@ -233,19 +233,25 @@ Python     30 mins         ▒░░░░░░░░░░░░░░░░�
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-`[09/03 02:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
+`[09/03 10:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
+`[09/03 10:27]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#57`](https://github.com//friendbear/perfect-rust/pull/57 'MongoDB') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
+`[09/03 10:14]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#57`](https://github.com//friendbear/perfect-rust/pull/57 'MongoDB') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
+`[09/03 10:12]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/cargo/chrono-0.4.28` from [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
+`[09/03 10:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
+`[09/03 10:12]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#55`](https://github.com//friendbear/perfect-rust/pull/55 'Bump chrono from 0.4.27 to 0.4.28') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
+`[09/03 10:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[09/01 08:23]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#56`](https://github.com//friendbear/perfect-rust/pull/56 'PostgreSQL') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[09/01 08:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[09/01 08:23]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#56`](https://github.com//friendbear/perfect-rust/pull/56 'PostgreSQL') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
+
+<details><summary>Show More</summary>
+
 `[09/01 08:23]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#56`](https://github.com//friendbear/perfect-rust/pull/56 'PostgreSQL') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[09/01 08:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[09/01 08:14]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#56`](https://github.com//friendbear/perfect-rust/pull/56 'PostgreSQL') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[09/01 08:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[09/01 06:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/python3-scripts](https://github.com/friendbear/python3-scripts)  
 `[08/31 22:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
-
-<details><summary>Show More</summary>
-
 `[08/31 07:56]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#54`](https://github.com//friendbear/perfect-rust/pull/54 'PostgreSQL') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/31 07:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/31 07:27]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#54`](https://github.com//friendbear/perfect-rust/pull/54 'PostgreSQL') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
@@ -434,13 +440,6 @@ Python     30 mins         ▒░░░░░░░░░░░░░░░░�
 `[08/05 06:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/05 00:54]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/tutorials-java/tree/main) in [friendbear/tutorials-java](https://github.com/friendbear/tutorials-java)  
 `[08/05 00:53]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/tutorials-java](https://github.com/friendbear/tutorials-java)  
-`[08/04 12:51]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rust-community-discord/ferrisbot-for-discord](https://github.com/rust-community-discord/ferrisbot-for-discord)  
-`[08/04 12:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
-`[08/04 12:12]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#10`](https://github.com//friendbear/perfect-rust/pull/10 'Top level workspace changed.') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
-`[08/04 12:09]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#10`](https://github.com//friendbear/perfect-rust/pull/10 'Top level workspace changed.') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
-`[08/04 12:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
-`[08/03 09:01]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#8`](https://github.com//friendbear/perfect-rust/issues/8 '制御式') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
-`[08/03 09:01]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#9`](https://github.com//friendbear/perfect-rust/pull/9 'control formula closed #8') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 
 </details>
 <!--END_SECTION:activity-->
