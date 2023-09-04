@@ -233,7 +233,7 @@ Python     30 mins         ▒░░░░░░░░░░░░░░░░�
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-`[09/04 08:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
+`[09/04 11:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[09/04 06:26]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#58`](https://github.com//friendbear/perfect-rust/issues/58 'O/R Mapper') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[09/03 10:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[09/03 10:27]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#57`](https://github.com//friendbear/perfect-rust/pull/57 'MongoDB') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
@@ -439,7 +439,7 @@ Python     30 mins         ▒░░░░░░░░░░░░░░░░�
 `[08/05 07:01]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#11`](https://github.com//friendbear/perfect-rust/pull/11 'add rust yaml') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/05 07:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `13` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/05 07:01]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#11`](https://github.com//friendbear/perfect-rust/pull/11 'add rust yaml') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
-`[08/05 06:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
+`[08/05 06:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 
 </details>
 <!--END_SECTION:activity-->
