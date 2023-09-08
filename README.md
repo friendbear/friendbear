@@ -222,11 +222,11 @@ TOML         16 mins         ▒░░░░░░░░░░░░░░░░
 ## daily.dev Bookmarks
 
 <!-- daily.dev BOOKMARKS:START -->
+- [rust-unofficial/awesome-rust: A curated list of Rust code and resources.](https://app.daily.dev/posts/uYxs5QimU?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [How to Build a Real-Time Notification System with Go and Kafka](https://app.daily.dev/posts/XRp4jDWgv?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [Use Nginx as an API Gateway](https://app.daily.dev/posts/d7l0vD5ZK?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [Best AI Tools for Developers](https://app.daily.dev/posts/PtFDJV2TR?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [Best Scrum Tools for Programmers](https://app.daily.dev/posts/HL39MtUB5?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
-- [Backend Developer Roadmap](https://app.daily.dev/posts/O91RLZcPT?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 <!-- daily.dev BOOKMARKS:END -->
 
 
