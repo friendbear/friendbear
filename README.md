@@ -45,6 +45,7 @@ Mozilla supporter
 * [coudcast](https://www.crowdcast.io/friendbear)
 * [MyDagsHub](https://dagshub.com/friendbear) 
 * [LFX](https://openprofile.dev/profile/friendbear)
+* [ProductHunt](https://www.producthunt.com/@friendbear)
 * host: <https://vercel.com/friendbear>
 
 ### Trading Profile
