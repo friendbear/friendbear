@@ -234,19 +234,24 @@ Bash         4 mins          ░░░░░░░░░░░░░░░░░
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[09/09 13:29]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#66`](https://github.com//friendbear/perfect-rust/pull/66 'Web Framework') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
+`[09/09 13:28]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/cargo/chrono-0.4.30` from [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
+`[09/09 13:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
+`[09/09 13:28]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#65`](https://github.com//friendbear/perfect-rust/pull/65 'Bump chrono from 0.4.29 to 0.4.30') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
+`[09/09 13:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[09/09 07:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 `[09/09 04:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[09/08 09:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications)  
 `[09/08 06:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[09/07 13:54]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#64`](https://github.com//friendbear/perfect-rust/issues/64 'Web Framework') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
+
+<details><summary>Show More</summary>
+
 `[09/07 11:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[09/07 11:12]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#63`](https://github.com//friendbear/perfect-rust/pull/63 'O/R Mapper') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[09/07 11:06]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#63`](https://github.com//friendbear/perfect-rust/pull/63 'O/R Mapper') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[09/07 10:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[09/06 07:02]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#62`](https://github.com//friendbear/perfect-rust/pull/62 'O/R Mapper') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
-
-<details><summary>Show More</summary>
-
 `[09/06 06:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `23` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[09/06 06:30]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#62`](https://github.com//friendbear/perfect-rust/pull/62 'O/R Mapper') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[09/06 06:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
@@ -439,11 +444,6 @@ Bash         4 mins          ░░░░░░░░░░░░░░░░░
 `[08/13 09:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/12 17:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [hyperium/tonic](https://github.com/hyperium/tonic)  
 `[08/11 04:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)  
-`[08/10 09:17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition)  
-`[08/10 07:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
-`[08/10 07:33]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#15`](https://github.com//friendbear/perfect-rust/pull/15 'Develop') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
-`[08/10 07:32]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#15`](https://github.com//friendbear/perfect-rust/pull/15 'Develop') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
-`[08/10 07:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 
 </details>
 <!--END_SECTION:activity-->
