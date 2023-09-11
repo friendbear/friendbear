@@ -234,6 +234,7 @@ TOML         12 mins         ▒░░░░░░░░░░░░░░░░
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[09/11 12:36]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#67`](https://github.com//friendbear/perfect-rust/issues/67 '外部クレート活用') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[09/11 04:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[09/11 04:03]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#66`](https://github.com//friendbear/perfect-rust/pull/66 'Web Framework') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[09/11 03:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
@@ -243,10 +244,10 @@ TOML         12 mins         ▒░░░░░░░░░░░░░░░░
 `[09/09 13:28]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#65`](https://github.com//friendbear/perfect-rust/pull/65 'Bump chrono from 0.4.29 to 0.4.30') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[09/09 13:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[09/09 07:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
-`[09/09 04:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 
 <details><summary>Show More</summary>
 
+`[09/09 04:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[09/08 09:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications)  
 `[09/08 06:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[09/07 13:54]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#64`](https://github.com//friendbear/perfect-rust/issues/64 'Web Framework') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
@@ -439,8 +440,6 @@ TOML         12 mins         ▒░░░░░░░░░░░░░░░░
 `[08/14 07:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents)  
 `[08/14 05:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/python3-scripts](https://github.com/friendbear/python3-scripts)  
 `[08/14 05:43]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/a](https://github.com/friendbear/a)  
-`[08/14 05:32]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/python3-scripts/tree/main) in [friendbear/python3-scripts](https://github.com/friendbear/python3-scripts)  
-`[08/14 05:32]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/python3-scripts](https://github.com/friendbear/python3-scripts)  
 
 </details>
 <!--END_SECTION:activity-->
