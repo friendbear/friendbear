@@ -234,7 +234,7 @@ TOML         12 mins         ▒░░░░░░░░░░░░░░░░
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-`[09/11 02:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
+`[09/11 03:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[09/09 13:29]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#66`](https://github.com//friendbear/perfect-rust/pull/66 'Web Framework') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[09/09 13:28]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/cargo/chrono-0.4.30` from [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[09/09 13:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
@@ -441,9 +441,6 @@ TOML         12 mins         ▒░░░░░░░░░░░░░░░░
 `[08/14 05:32]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/python3-scripts](https://github.com/friendbear/python3-scripts)  
 `[08/13 09:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/13 09:49]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#16`](https://github.com//friendbear/perfect-rust/pull/16 'Builder patters.') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
-`[08/13 09:49]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#16`](https://github.com//friendbear/perfect-rust/pull/16 'Builder patters.') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
-`[08/13 09:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
-`[08/12 17:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [hyperium/tonic](https://github.com/hyperium/tonic)  
 
 </details>
 <!--END_SECTION:activity-->
