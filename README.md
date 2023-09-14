@@ -234,6 +234,7 @@ Python     0 secs          ░░░░░░░░░░░░░░░░░�
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[09/14 13:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/learn-building-flink-applications-in-java-exercises](https://github.com/friendbear/learn-building-flink-applications-in-java-exercises)  
 `[09/13 14:36]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [apache/flink-playgrounds](https://github.com/apache/flink-playgrounds)  
 `[09/12 10:58]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [confluentinc/learn-building-flink-applications-in-java-exercises](https://github.com/confluentinc/learn-building-flink-applications-in-java-exercises) to [friendbear/learn-building-flink-applications-in-java-exercises](https://github.com/friendbear/learn-building-flink-applications-in-java-exercises)  
 `[09/11 12:36]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#67`](https://github.com//friendbear/perfect-rust/issues/67 '外部クレート活用') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
@@ -243,10 +244,10 @@ Python     0 secs          ░░░░░░░░░░░░░░░░░�
 `[09/09 13:29]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#66`](https://github.com//friendbear/perfect-rust/pull/66 'Web Framework') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[09/09 13:28]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/cargo/chrono-0.4.30` from [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[09/09 13:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
-`[09/09 13:28]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#65`](https://github.com//friendbear/perfect-rust/pull/65 'Bump chrono from 0.4.29 to 0.4.30') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 
 <details><summary>Show More</summary>
 
+`[09/09 13:28]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#65`](https://github.com//friendbear/perfect-rust/pull/65 'Bump chrono from 0.4.29 to 0.4.30') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[09/09 13:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[09/09 07:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 `[09/09 04:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
@@ -440,7 +441,6 @@ Python     0 secs          ░░░░░░░░░░░░░░░░░�
 `[08/14 11:01]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#14`](https://github.com//friendbear/perfect-rust/issues/14 '関数') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/14 10:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/14 07:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents)  
-`[08/14 05:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/python3-scripts](https://github.com/friendbear/python3-scripts)  
 
 </details>
 <!--END_SECTION:activity-->
