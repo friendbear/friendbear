@@ -234,7 +234,7 @@ XML               33 mins         █░░░░░░░░░░░░░░�
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-`[09/16 12:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/learn-building-flink-applications-in-java-exercises](https://github.com/friendbear/learn-building-flink-applications-in-java-exercises)  
+`[09/17 09:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/learn-building-flink-applications-in-java-exercises](https://github.com/friendbear/learn-building-flink-applications-in-java-exercises)  
 `[09/16 01:47]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [confluentinc/kafka-rest](https://github.com/confluentinc/kafka-rest)  
 `[09/15 13:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/learn-building-flink-applications-in-java-exercises](https://github.com/friendbear/learn-building-flink-applications-in-java-exercises)  
 `[09/13 14:36]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [apache/flink-playgrounds](https://github.com/apache/flink-playgrounds)  
@@ -439,7 +439,6 @@ XML               33 mins         █░░░░░░░░░░░░░░�
 `[08/16 06:44]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#14`](https://github.com//friendbear/perfect-rust/issues/14 '関数') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/16 06:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/14 11:09]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#17`](https://github.com//friendbear/perfect-rust/pull/17 'Result<T,E>') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
-`[08/14 11:07]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#17`](https://github.com//friendbear/perfect-rust/pull/17 'Result<T,E>') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 
 </details>
 <!--END_SECTION:activity-->
