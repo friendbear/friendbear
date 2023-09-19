@@ -142,13 +142,13 @@ Mozilla supporter
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 September 2023 - To: 17 September 2023
+From: 11 September 2023 - To: 18 September 2023
 
-Other             6 hrs 29 mins   ████████▓░░░░░░░░░░░░░░░░   35.09 %
-Markdown          5 hrs 17 mins   ███████░░░░░░░░░░░░░░░░░░   28.63 %
-Java              4 hrs 46 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.87 %
-Rust              1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
-XML               33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
+Other             8 hrs 31 mins   ███████████▓░░░░░░░░░░░░░   46.98 %
+Java              5 hrs 44 mins   ████████░░░░░░░░░░░░░░░░░   31.61 %
+Markdown          2 hrs 52 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.87 %
+XML               39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
+Java Properties   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
 ```
 
 <!--END_SECTION:waka-->
