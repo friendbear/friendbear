@@ -234,6 +234,7 @@ TOML       11 mins         ▒░░░░░░░░░░░░░░░░�
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[09/26 10:01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [twigly/rust-http-cli](https://github.com/twigly/rust-http-cli)  
 `[09/26 09:35]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/cargo/bumpalo-3.12.0` from [friendbear/rust-mongodb](https://github.com/friendbear/rust-mongodb)  
 `[09/26 09:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/rust-mongodb](https://github.com/friendbear/rust-mongodb)  
 `[09/26 09:35]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#3`](https://github.com//friendbear/rust-mongodb/pull/3 'Bump bumpalo from 3.7.0 to 3.12.0') in [friendbear/rust-mongodb](https://github.com/friendbear/rust-mongodb)  
@@ -243,10 +244,10 @@ TOML       11 mins         ▒░░░░░░░░░░░░░░░░�
 `[09/24 10:50]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [kdash-rs/kdash](https://github.com/kdash-rs/kdash)  
 `[09/23 12:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[09/21 09:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert)  
-`[09/20 14:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 
 <details><summary>Show More</summary>
 
+`[09/20 14:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[09/20 11:19]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [knaufk/flink-faker](https://github.com/knaufk/flink-faker)  
 `[09/19 12:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [friendbear/learn-building-flink-applications-in-java-exercises](https://github.com/friendbear/learn-building-flink-applications-in-java-exercises)  
 `[09/16 01:47]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [confluentinc/kafka-rest](https://github.com/confluentinc/kafka-rest)  
@@ -440,7 +441,6 @@ TOML       11 mins         ▒░░░░░░░░░░░░░░░░�
 `[08/16 12:04]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#20`](https://github.com//friendbear/perfect-rust/issues/20 '構造体') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/16 09:51]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Nutlope/aicommits](https://github.com/Nutlope/aicommits)  
 `[08/16 09:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
-`[08/16 09:22]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#19`](https://github.com//friendbear/perfect-rust/pull/19 ' Run  `cargo clippy --fix`') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 
 </details>
 <!--END_SECTION:activity-->
