@@ -233,6 +233,7 @@ Java       2 mins          ░░░░░░░░░░░░░░░░░�
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[10/01 15:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [getcursor/cursor](https://github.com/getcursor/cursor)  
 `[09/29 04:32]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)  
 `[09/26 10:01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [twigly/rust-http-cli](https://github.com/twigly/rust-http-cli)  
 `[09/26 09:35]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/cargo/bumpalo-3.12.0` from [friendbear/rust-mongodb](https://github.com/friendbear/rust-mongodb)  
@@ -242,10 +243,10 @@ Java       2 mins          ░░░░░░░░░░░░░░░░░�
 `[09/26 09:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/rust-mongodb](https://github.com/friendbear/rust-mongodb)  
 `[09/26 09:35]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#4`](https://github.com//friendbear/rust-mongodb/pull/4 'Bump mongodb from 1.2.3 to 2.0.0') in [friendbear/rust-mongodb](https://github.com/friendbear/rust-mongodb)  
 `[09/24 10:50]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [kdash-rs/kdash](https://github.com/kdash-rs/kdash)  
-`[09/23 12:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 
 <details><summary>Show More</summary>
 
+`[09/23 12:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[09/21 09:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert)  
 `[09/20 14:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[09/20 11:19]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [knaufk/flink-faker](https://github.com/knaufk/flink-faker)  
@@ -439,7 +440,6 @@ Java       2 mins          ░░░░░░░░░░░░░░░░░�
 `[08/18 05:09]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#21`](https://github.com//friendbear/perfect-rust/pull/21 'Struct #20') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/18 05:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/16 12:04]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#20`](https://github.com//friendbear/perfect-rust/issues/20 '構造体') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
-`[08/16 09:51]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Nutlope/aicommits](https://github.com/Nutlope/aicommits)  
 
 </details>
 <!--END_SECTION:activity-->
