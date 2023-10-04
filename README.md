@@ -234,6 +234,9 @@ TypeScript   2 mins          ░░░░░░░░░░░░░░░░░
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[10/04 15:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
+`[10/04 15:11]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`snyk-fix-ad4161c1a06d3b60b3df040f03c9f18a`](https://github.com/friendbear/kafka-beginners/tree/snyk-fix-ad4161c1a06d3b60b3df040f03c9f18a) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
+`[10/04 15:11]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#24`](https://github.com//friendbear/kafka-beginners/pull/24 '[Snyk] Security upgrade org.apache.kafka:kafka-clients from 3.5.1 to 3.6.0') in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[10/04 13:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [TheLastBen/fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion)  
 `[10/04 08:34]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#23`](https://github.com//friendbear/kafka-beginners/pull/23 '[Snyk] Security upgrade org.apache.kafka:kafka-clients from 3.5.1 to 3.6.0') in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[10/04 08:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
@@ -241,12 +244,12 @@ TypeScript   2 mins          ░░░░░░░░░░░░░░░░░
 `[10/01 15:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [getcursor/cursor](https://github.com/getcursor/cursor)  
 `[09/29 04:32]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)  
 `[09/26 10:01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [twigly/rust-http-cli](https://github.com/twigly/rust-http-cli)  
-`[09/26 09:35]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/cargo/bumpalo-3.12.0` from [friendbear/rust-mongodb](https://github.com/friendbear/rust-mongodb)  
-`[09/26 09:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/rust-mongodb](https://github.com/friendbear/rust-mongodb)  
-`[09/26 09:35]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#3`](https://github.com//friendbear/rust-mongodb/pull/3 'Bump bumpalo from 3.7.0 to 3.12.0') in [friendbear/rust-mongodb](https://github.com/friendbear/rust-mongodb)  
 
 <details><summary>Show More</summary>
 
+`[09/26 09:35]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/cargo/bumpalo-3.12.0` from [friendbear/rust-mongodb](https://github.com/friendbear/rust-mongodb)  
+`[09/26 09:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/rust-mongodb](https://github.com/friendbear/rust-mongodb)  
+`[09/26 09:35]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#3`](https://github.com//friendbear/rust-mongodb/pull/3 'Bump bumpalo from 3.7.0 to 3.12.0') in [friendbear/rust-mongodb](https://github.com/friendbear/rust-mongodb)  
 `[09/26 09:35]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/cargo/mongodb-2.0.0` from [friendbear/rust-mongodb](https://github.com/friendbear/rust-mongodb)  
 `[09/26 09:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/rust-mongodb](https://github.com/friendbear/rust-mongodb)  
 `[09/26 09:35]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#4`](https://github.com//friendbear/rust-mongodb/pull/4 'Bump mongodb from 1.2.3 to 2.0.0') in [friendbear/rust-mongodb](https://github.com/friendbear/rust-mongodb)  
@@ -441,9 +444,6 @@ TypeScript   2 mins          ░░░░░░░░░░░░░░░░░
 `[08/18 09:53]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#22`](https://github.com//friendbear/perfect-rust/pull/22 'Struct') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/18 09:48]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#22`](https://github.com//friendbear/perfect-rust/pull/22 'Struct') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/18 09:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
-`[08/18 05:11]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#21`](https://github.com//friendbear/perfect-rust/pull/21 'Struct #20') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
-`[08/18 05:09]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#21`](https://github.com//friendbear/perfect-rust/pull/21 'Struct #20') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
-`[08/18 05:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 
 </details>
 <!--END_SECTION:activity-->
