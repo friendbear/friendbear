@@ -231,6 +231,7 @@ Markdown   1 hr 14 mins    ███▓░░░░░░░░░░░░░�
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[10/20 15:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[10/17 17:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis)  
 `[10/11 11:42]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rapiz1/rathole](https://github.com/rapiz1/rathole)  
 `[10/10 13:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [juhaku/utoipa](https://github.com/juhaku/utoipa)  
@@ -240,10 +241,10 @@ Markdown   1 hr 14 mins    ███▓░░░░░░░░░░░░░�
 `[10/07 14:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[10/07 14:27]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#72`](https://github.com//friendbear/perfect-rust/pull/72 'Bump sea-orm from 0.12.2 to 0.12.3') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[10/07 14:26]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/cargo/chrono-0.4.31` from [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
-`[10/07 14:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 
 <details><summary>Show More</summary>
 
+`[10/07 14:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[10/07 14:26]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#71`](https://github.com//friendbear/perfect-rust/pull/71 'Bump chrono from 0.4.30 to 0.4.31') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[10/07 14:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[10/07 14:26]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#70`](https://github.com//friendbear/perfect-rust/pull/70 'Bump serde_json from 1.0.105 to 1.0.107') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
@@ -444,7 +445,6 @@ Markdown   1 hr 14 mins    ███▓░░░░░░░░░░░░░�
 `[08/18 16:05]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#26`](https://github.com//friendbear/perfect-rust/pull/26 'add wakatime') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/18 16:00]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#26`](https://github.com//friendbear/perfect-rust/pull/26 'add wakatime') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/18 16:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
-`[08/18 14:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 
 </details>
 <!--END_SECTION:activity-->
