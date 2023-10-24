@@ -223,11 +223,11 @@ Ezhil      3 mins          ░░░░░░░░░░░░░░░░░�
 ## daily.dev Bookmarks
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Why is Kafka so fast? How does it work?](https://app.daily.dev/posts/BYWCpiYM8?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [Run AWS on Your Laptop. Introduction to LocalStack.](https://app.daily.dev/posts/zAqJn04JJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [Hoppscotch Self-Host - Open-source API development — now on-premise!](https://app.daily.dev/posts/08hVvT2Aa?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [rust-unofficial/awesome-rust: A curated list of Rust code and resources.](https://app.daily.dev/posts/uYxs5QimU?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [How to Build a Real-Time Notification System with Go and Kafka](https://app.daily.dev/posts/XRp4jDWgv?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
-- [Use Nginx as an API Gateway](https://app.daily.dev/posts/d7l0vD5ZK?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 <!-- daily.dev BOOKMARKS:END -->
 
 
