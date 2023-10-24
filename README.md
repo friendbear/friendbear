@@ -234,6 +234,7 @@ Ezhil      3 mins          ░░░░░░░░░░░░░░░░░�
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[10/24 12:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [AleoHQ/snarkOS](https://github.com/AleoHQ/snarkOS)  
 `[10/22 15:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [fathyb/carbonyl](https://github.com/fathyb/carbonyl)  
 `[10/22 11:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mozilla/hubs-cloud](https://github.com/mozilla/hubs-cloud)  
 `[10/20 15:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
@@ -243,10 +244,10 @@ Ezhil      3 mins          ░░░░░░░░░░░░░░░░░�
 `[10/10 13:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sqlparser/sqlflow_public](https://github.com/sqlparser/sqlflow_public)  
 `[10/10 11:47]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Mazars-Tech/AD_Miner](https://github.com/Mazars-Tech/AD_Miner)  
 `[10/07 14:27]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/cargo/sea-orm-0.12.3` from [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
-`[10/07 14:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 
 <details><summary>Show More</summary>
 
+`[10/07 14:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[10/07 14:27]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#72`](https://github.com//friendbear/perfect-rust/pull/72 'Bump sea-orm from 0.12.2 to 0.12.3') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[10/07 14:26]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/cargo/chrono-0.4.31` from [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[10/07 14:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
@@ -446,7 +447,6 @@ Ezhil      3 mins          ░░░░░░░░░░░░░░░░░�
 `[08/19 06:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/18 16:05]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#26`](https://github.com//friendbear/perfect-rust/pull/26 'add wakatime') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/18 16:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
-`[08/18 16:05]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#26`](https://github.com//friendbear/perfect-rust/pull/26 'add wakatime') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/18 16:05]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#26`](https://github.com//friendbear/perfect-rust/pull/26 'add wakatime') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 
 </details>
