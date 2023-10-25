@@ -234,6 +234,7 @@ Ezhil      3 mins          ░░░░░░░░░░░░░░░░░�
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[10/25 15:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ratatui-org/rust-tui-template](https://github.com/ratatui-org/rust-tui-template)  
 `[10/25 13:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dagster-io/fake-star-detector](https://github.com/dagster-io/fake-star-detector)  
 `[10/24 12:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [AleoHQ/snarkOS](https://github.com/AleoHQ/snarkOS)  
 `[10/22 15:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [fathyb/carbonyl](https://github.com/fathyb/carbonyl)  
@@ -243,10 +244,10 @@ Ezhil      3 mins          ░░░░░░░░░░░░░░░░░�
 `[10/11 11:42]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rapiz1/rathole](https://github.com/rapiz1/rathole)  
 `[10/10 13:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [juhaku/utoipa](https://github.com/juhaku/utoipa)  
 `[10/10 13:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sqlparser/sqlflow_public](https://github.com/sqlparser/sqlflow_public)  
-`[10/10 11:47]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Mazars-Tech/AD_Miner](https://github.com/Mazars-Tech/AD_Miner)  
 
 <details><summary>Show More</summary>
 
+`[10/10 11:47]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Mazars-Tech/AD_Miner](https://github.com/Mazars-Tech/AD_Miner)  
 `[10/07 14:27]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/cargo/sea-orm-0.12.3` from [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[10/07 14:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[10/07 14:27]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#72`](https://github.com//friendbear/perfect-rust/pull/72 'Bump sea-orm from 0.12.2 to 0.12.3') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
