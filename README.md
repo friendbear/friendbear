@@ -234,6 +234,7 @@ YAML       37 mins         ▓░░░░░░░░░░░░░░░░�
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[11/01 03:28]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`features-sentry`](https://github.com/friendbear/perfect-rust/tree/features-sentry) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[10/26 09:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [KOBA789/relly](https://github.com/KOBA789/relly)  
 `[10/26 09:03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [KOBA789/gh-sql](https://github.com/KOBA789/gh-sql)  
 `[10/25 15:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ratatui-org/rust-tui-template](https://github.com/ratatui-org/rust-tui-template)  
@@ -243,10 +244,10 @@ YAML       37 mins         ▓░░░░░░░░░░░░░░░░�
 `[10/22 11:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mozilla/hubs-cloud](https://github.com/mozilla/hubs-cloud)  
 `[10/20 15:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[10/17 17:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis)  
-`[10/11 11:42]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rapiz1/rathole](https://github.com/rapiz1/rathole)  
 
 <details><summary>Show More</summary>
 
+`[10/11 11:42]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rapiz1/rathole](https://github.com/rapiz1/rathole)  
 `[10/10 13:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [juhaku/utoipa](https://github.com/juhaku/utoipa)  
 `[10/10 13:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sqlparser/sqlflow_public](https://github.com/sqlparser/sqlflow_public)  
 `[10/10 11:47]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Mazars-Tech/AD_Miner](https://github.com/Mazars-Tech/AD_Miner)  
@@ -447,7 +448,6 @@ YAML       37 mins         ▓░░░░░░░░░░░░░░░░�
 `[08/19 10:12]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#27`](https://github.com//friendbear/perfect-rust/pull/27 'トレイトの基本') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/19 09:33]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#27`](https://github.com//friendbear/perfect-rust/issues/27 'トレイトの基本') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/19 09:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
-`[08/19 09:02]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#27`](https://github.com//friendbear/perfect-rust/pull/27 'トレイトの基本') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 
 </details>
 <!--END_SECTION:activity-->
