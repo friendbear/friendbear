@@ -234,7 +234,7 @@ YAML         37 mins         ▒░░░░░░░░░░░░░░░░
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-`[11/02 10:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
+`[11/02 10:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[11/01 03:28]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`features-sentry`](https://github.com/friendbear/perfect-rust/tree/features-sentry) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[10/26 09:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [KOBA789/relly](https://github.com/KOBA789/relly)  
 `[10/26 09:03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [KOBA789/gh-sql](https://github.com/KOBA789/gh-sql)  
@@ -447,7 +447,6 @@ YAML         37 mins         ▒░░░░░░░░░░░░░░░░
 `[08/20 04:00]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#28`](https://github.com//friendbear/perfect-rust/pull/28 'Trait part1') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/20 03:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/19 10:12]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#27`](https://github.com//friendbear/perfect-rust/pull/27 'トレイトの基本') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
-`[08/19 09:33]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#27`](https://github.com//friendbear/perfect-rust/issues/27 'トレイトの基本') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 
 </details>
 <!--END_SECTION:activity-->
