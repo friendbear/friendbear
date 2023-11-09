@@ -455,7 +455,6 @@ YAML         0 secs          ░░░░░░░░░░░░░░░░░
 `[08/20 09:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/20 09:08]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#31`](https://github.com//friendbear/perfect-rust/pull/31 'part 3 実践!プログラミング') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/20 09:06]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#31`](https://github.com//friendbear/perfect-rust/pull/31 'part 3 実践!プログラミング') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
-`[08/20 09:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 
 </details>
 <!--END_SECTION:activity-->
