@@ -235,6 +235,8 @@ TOML       0 secs          ░░░░░░░░░░░░░░░░░�
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[11/10 13:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
+`[11/10 13:17]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) to [friendbear/awesome-github-profile-readme](https://github.com/friendbear/awesome-github-profile-readme)  
 `[11/09 23:10]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [githubnext/monaspace](https://github.com/githubnext/monaspace)  
 `[11/06 14:15]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/cargo/proc-macro2-1.0.69` from [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[11/06 14:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
@@ -243,11 +245,11 @@ TOML       0 secs          ░░░░░░░░░░░░░░░░░�
 `[11/06 14:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[11/06 14:14]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#81`](https://github.com//friendbear/perfect-rust/pull/81 'Bump rustix from 0.37.23 to 0.37.25') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[11/06 14:12]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/cargo/reqwest-0.11.22` from [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
-`[11/06 14:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
-`[11/06 14:12]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#80`](https://github.com//friendbear/perfect-rust/pull/80 'Bump reqwest from 0.11.20 to 0.11.22') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 
 <details><summary>Show More</summary>
 
+`[11/06 14:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
+`[11/06 14:12]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#80`](https://github.com//friendbear/perfect-rust/pull/80 'Bump reqwest from 0.11.20 to 0.11.22') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[11/06 14:11]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/cargo/num-traits-0.2.17` from [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[11/06 14:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[11/06 14:10]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#79`](https://github.com//friendbear/perfect-rust/pull/79 'Bump num-traits from 0.2.16 to 0.2.17') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
@@ -454,8 +456,6 @@ TOML       0 secs          ░░░░░░░░░░░░░░░░░�
 `[08/20 13:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/20 13:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [peeriot/murf](https://github.com/peeriot/murf)  
 `[08/20 09:23]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#32`](https://github.com//friendbear/perfect-rust/issues/32 'エラー') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
-`[08/20 09:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
-`[08/20 09:08]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#31`](https://github.com//friendbear/perfect-rust/pull/31 'part 3 実践!プログラミング') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 
 </details>
 <!--END_SECTION:activity-->
