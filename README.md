@@ -223,11 +223,11 @@ TOML       0 secs          ░░░░░░░░░░░░░░░░░�
 ## daily.dev Bookmarks
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Awesome Rust Weekly - Issue 385, Nov 09, 2023](https://app.daily.dev/posts/67pTdnorB?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
+- [Faster compilation with the parallel front-end in nightly](https://app.daily.dev/posts/0qBsv73PI?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [The Solana Network](https://app.daily.dev/posts/ZsGHu40e0?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [CNCF Observability whitepaper 1.0](https://app.daily.dev/posts/G50QFzdUg?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [Rust Vs Go: A Hands-On Comparison](https://app.daily.dev/posts/lkyfhTxRi?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
-- [Awesome Rust Weekly - Issue 382, Oct 19, 2023](https://app.daily.dev/posts/zbcOWWisO?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
-- [Why is Kafka so fast? How does it work?](https://app.daily.dev/posts/BYWCpiYM8?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 <!-- daily.dev BOOKMARKS:END -->
 
 
