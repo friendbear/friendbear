@@ -235,6 +235,7 @@ TOML       0 secs          ░░░░░░░░░░░░░░░░░�
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[11/10 16:57]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#288` in <span title="Private Repo">`🔒friendbear/pocket`</span>  
 `[11/10 15:59]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dougkalash/lanyard-profile-readme](https://github.com/dougkalash/lanyard-profile-readme)  
 `[11/10 13:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/friendbear](https://github.com/friendbear/friendbear)  
 `[11/10 13:17]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) to [friendbear/awesome-github-profile-readme](https://github.com/friendbear/awesome-github-profile-readme)  
@@ -244,10 +245,10 @@ TOML       0 secs          ░░░░░░░░░░░░░░░░░�
 `[11/06 14:15]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#78`](https://github.com//friendbear/perfect-rust/pull/78 'Bump proc-macro2 from 1.0.66 to 1.0.69') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[11/06 14:14]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/cargo/rustix-0.37.25` from [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[11/06 14:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
-`[11/06 14:14]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#81`](https://github.com//friendbear/perfect-rust/pull/81 'Bump rustix from 0.37.23 to 0.37.25') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 
 <details><summary>Show More</summary>
 
+`[11/06 14:14]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#81`](https://github.com//friendbear/perfect-rust/pull/81 'Bump rustix from 0.37.23 to 0.37.25') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[11/06 14:12]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/cargo/reqwest-0.11.22` from [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[11/06 14:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[11/06 14:12]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#80`](https://github.com//friendbear/perfect-rust/pull/80 'Bump reqwest from 0.11.20 to 0.11.22') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
@@ -455,7 +456,6 @@ TOML       0 secs          ░░░░░░░░░░░░░░░░░�
 `[08/21 05:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/20 13:54]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#33`](https://github.com//friendbear/perfect-rust/pull/33 'ISBN') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/20 13:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
-`[08/20 13:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [peeriot/murf](https://github.com/peeriot/murf)  
 
 </details>
 <!--END_SECTION:activity-->
