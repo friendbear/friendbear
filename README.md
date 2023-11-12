@@ -458,7 +458,6 @@ Rust         1 min           ░░░░░░░░░░░░░░░░░
 `[08/22 14:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[08/22 14:33]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#20`](https://github.com//friendbear/kafka-beginners/pull/20 '[Snyk] Security upgrade org.apache.kafka:kafka-clients from 3.3.1 to 3.5.1') in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 `[08/22 13:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
-`[08/22 13:41]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#36`](https://github.com//friendbear/perfect-rust/pull/36 'エラーの基本と独自エラー型') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 
 </details>
 <!--END_SECTION:activity-->
