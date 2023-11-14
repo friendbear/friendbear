@@ -235,6 +235,7 @@ Bash         3 mins          ░░░░░░░░░░░░░░░░░
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+`[11/14 05:56]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mdn/project-template](https://github.com/mdn/project-template)  
 `[11/12 17:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [cruise-group/.github](https://github.com/cruise-group/.github)  
 `[11/11 04:48]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/friendbear/mdn-generated-project-template/tree/main) in [friendbear/mdn-generated-project-template](https://github.com/friendbear/mdn-generated-project-template)  
 `[11/11 04:48]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [friendbear/mdn-generated-project-template](https://github.com/friendbear/mdn-generated-project-template)  
@@ -244,10 +245,10 @@ Bash         3 mins          ░░░░░░░░░░░░░░░░░
 `[11/10 23:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[11/10 22:52]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#89`](https://github.com//friendbear/perfect-rust/pull/89 'Develop') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[11/10 22:46]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#85`](https://github.com//friendbear/perfect-rust/pull/85 'Bump sea-orm from 0.12.3 to 0.12.4') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
-`[11/10 22:45]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/cargo/futures-util-0.3.29` from [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 
 <details><summary>Show More</summary>
 
+`[11/10 22:45]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/cargo/futures-util-0.3.29` from [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[11/10 22:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[11/10 22:45]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#86`](https://github.com//friendbear/perfect-rust/pull/86 'Bump futures-util from 0.3.28 to 0.3.29') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[11/10 22:45]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#86`](https://github.com//friendbear/perfect-rust/pull/86 'Bump futures-util from 0.3.28 to 0.3.29') in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
@@ -452,7 +453,6 @@ Bash         3 mins          ░░░░░░░░░░░░░░░░░
 `[08/23 07:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)  
 `[08/23 02:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [koukikitamura/scalable-twitter](https://github.com/koukikitamura/scalable-twitter)  
 `[08/22 14:35]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `snyk-fix-e7a6fafb44629f8621a7479b938a47c3` from [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
-`[08/22 14:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)  
 
 </details>
 <!--END_SECTION:activity-->
