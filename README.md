@@ -224,11 +224,11 @@ TOML         6 mins          ░░░░░░░░░░░░░░░░░
 ## daily.dev Bookmarks
 
 <!-- daily.dev BOOKMARKS:START -->
+- [A Spotify client for the terminal written in Rust](https://app.daily.dev/posts/f17f89c6786d96329c2d488656805911?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [Playground](https://app.daily.dev/posts/9zm2eGRPn?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [Welcome to Comprehensive Rust 🦀](https://app.daily.dev/posts/l8PQKl_Y6?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [How Flexcity used Grafana Cloud to help balance the national power grid in France](https://app.daily.dev/posts/MtMtKgcEF?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [Announcing Grok](https://app.daily.dev/posts/IWAWJcXks?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
-- [Awesome Rust Weekly - Issue 385, Nov 09, 2023](https://app.daily.dev/posts/67pTdnorB?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 <!-- daily.dev BOOKMARKS:END -->
 
 
