@@ -31,8 +31,8 @@ Mozilla supporter
 
 -->
 - 🌱 I’m currently learning [Scala](https://users.scala-lang.org/u/friendbear), [Rustlang](https://users.rust-lang.org/u/friendbear), [Python3](https://pypi.org/user/friendbear) C, C++, .NET and Bigdata, [MongoDB](https://www.mongodb.com/community/forums/u/friendbear) ... etc
-- 📫 How to reach me: <a href="mailto:friendbear22@gmail.com">friendbear22@gmail.com</a> is.</p>
-- 🔑 GPP Key: F9521D94D71A2F01
+- 📫 How to reach me: <a href="mailto:s8zmnonun@relay.firefox.com">s8zmnonun@relay.firefox.com</a> is.</p>
+- 🔑 GPP Key: None
 
 ---
 <a href="https://github.com/sponsors/friendbear" title="Sponsor T Kumagai"><img src="asset/images/sponsor.svg?sanitize=true" width="94" height="28" aria-hidden="true"></a>
