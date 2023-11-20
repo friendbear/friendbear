@@ -40,22 +40,23 @@ Mozilla supporter
 
 * [Mozilla](https://support.mozilla.org/en-US/user/friendbear)
 * [IEEE](https://spectrum.ieee.org/u/tomohiro_kumagai)
+* [LFX](https://openprofile.dev/profile/friendbear)
 * [codepen](https://codepen.io/friendbear)
 * [Jira](https://friendbear.atlassian.net)
 * [StackShare](https://stackshare.io/friendbear)
 * [coudcast](https://www.crowdcast.io/friendbear)
 * [MyDagsHub](https://dagshub.com/friendbear) 
-* [LFX](https://openprofile.dev/profile/friendbear)
+
 * [ProductHunt](https://www.producthunt.com/@friendbear)
 * host: <https://vercel.com/friendbear>
 
 ### Trading Profile
-- [mql](https://www.mql5.com/ja/users/friendbear)
+- [MQL5](https://www.mql5.com/ja/users/friendbear)
 
 ### Web3 My Profile
 
 - [getcoin](https://gitcoin.co/friendbear)
-- [opensea](https://opensea.com/friendbear)
+- [OpenSea](https://opensea.com/friendbear)
 
 ---
 
@@ -123,12 +124,13 @@ Mozilla supporter
 ---
 
 # Contributions
+
 (in the last 365 days, languages pie based on number of commits)
 
 ![](./profile-3d-contrib/profile-night-green.svg)
+
 -->
 ---
-
 
 ## Status
 <div align="center">
@@ -474,9 +476,6 @@ To view and share your lists, visit
 <p align="left">
 
 </p>
-
-
-
 -->
 
 <!--
