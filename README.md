@@ -226,11 +226,11 @@ TOML         8 mins          ░░░░░░░░░░░░░░░░░
 ## daily.dev Bookmarks
 
 <!-- daily.dev BOOKMARKS:START -->
+- [The Power of MQTT and Confluent in Fleet Management](https://app.daily.dev/posts/22VBYqteO?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [Monaspace](https://app.daily.dev/posts/3mnc33tTY?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [A Spotify client for the terminal written in Rust](https://app.daily.dev/posts/f17f89c6786d96329c2d488656805911?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [Playground](https://app.daily.dev/posts/9zm2eGRPn?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [Welcome to Comprehensive Rust 🦀](https://app.daily.dev/posts/l8PQKl_Y6?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
-- [How Flexcity used Grafana Cloud to help balance the national power grid in France](https://app.daily.dev/posts/MtMtKgcEF?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 <!-- daily.dev BOOKMARKS:END -->
 
 
