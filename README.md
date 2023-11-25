@@ -231,11 +231,11 @@ Rust         9 mins          ▒░░░░░░░░░░░░░░░░
 ## daily.dev Bookmarks
 
 <!-- daily.dev BOOKMARKS:START -->
+- [GitHub Learning Pathways: Learn from the best](https://app.daily.dev/posts/fwk4hzdqZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
+- [Analysis of Scratch projects](https://app.daily.dev/posts/VbsNeu0R2?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
+- [microsoft/inshellisense: IDE style command line auto complete](https://app.daily.dev/posts/3qthQvMFz?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [Build and Deploy an AI SaaS with Paid Subscriptions](https://app.daily.dev/posts/Wtbnej83r?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [nektos/act: Run your GitHub Actions locally 🚀](https://app.daily.dev/posts/vqAZoio2Y?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
-- [Share Article [GitOps. vs. DevOps]](https://app.daily.dev/posts/5t55xoV8Z?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
-- [Google to Force-Block Ad Blockers — Time to Get Firefox?](https://app.daily.dev/posts/mJpxNPoSG?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
-- [The Power of MQTT and Confluent in Fleet Management](https://app.daily.dev/posts/22VBYqteO?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 <!-- daily.dev BOOKMARKS:END -->
 
 
