@@ -231,11 +231,11 @@ Go           12 mins         ▒░░░░░░░░░░░░░░░░
 ## daily.dev Bookmarks
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Real-Time Financial Risk Management for Legacy Trading Transactions](https://app.daily.dev/posts/gCcpoCPNH?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
+- [The Grafana OpenTelemetry Distribution for Java: Optimized for Application Observability](https://app.daily.dev/posts/OS0ukVdYu?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [Full stack WebPageForm builder, NextJs, Typescript &lpar; React &rpar;, Dnd-Kit, PostgreSQL, Prisma](https://app.daily.dev/posts/iKdZVk5W7?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [Top 9 Microservices Design Patterns](https://app.daily.dev/posts/4y9yeWgDv?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [GitHub Learning Pathways: Learn from the best](https://app.daily.dev/posts/fwk4hzdqZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
-- [Analysis of Scratch projects](https://app.daily.dev/posts/VbsNeu0R2?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
-- [microsoft/inshellisense: IDE style command line auto complete](https://app.daily.dev/posts/3qthQvMFz?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 <!-- daily.dev BOOKMARKS:END -->
 
 
