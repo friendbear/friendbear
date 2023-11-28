@@ -150,13 +150,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 November 2023 - To: 26 November 2023
+From: 20 November 2023 - To: 27 November 2023
 
-Other        11 hrs 59 mins  ████████████▓░░░░░░░░░░░░   51.28 %
-Markdown     9 hrs 53 mins   ██████████▓░░░░░░░░░░░░░░   42.26 %
-Rust         39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
-Go           23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
-Makefile     15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+Other        10 hrs 28 mins  ████████████▓░░░░░░░░░░░░   50.86 %
+Markdown     8 hrs 47 mins   ██████████▓░░░░░░░░░░░░░░   42.65 %
+Rust         39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
+Makefile     15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+Go           12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
 ```
 
 <!--END_SECTION:waka-->
