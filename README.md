@@ -231,11 +231,11 @@ C            11 mins         ▒░░░░░░░░░░░░░░░░
 ## daily.dev Bookmarks
 
 <!-- daily.dev BOOKMARKS:START -->
+- [The Verge’s 2023 holiday gift guide for kids](https://app.daily.dev/posts/F5PSa4tW3?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
+- [Firefox’s Android browser will have proper extension support again real soon](https://app.daily.dev/posts/45yc5gb9v?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
+- [Understanding Git Rebase](https://app.daily.dev/posts/WqKrBFvmr?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [Yor Forger From Spy x Family Made in 3D With Blender](https://app.daily.dev/posts/kzKZEu5ef?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [Protect your privacy and your phone number with Firefox Relay](https://app.daily.dev/posts/tDhGBA--q?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
-- [Kagi Search](https://app.daily.dev/posts/_Ql3lpDFc?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
-- [My top personal software upgrades](https://app.daily.dev/posts/DrYB8b6gP?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
-- [Real-Time Financial Risk Management for Legacy Trading Transactions](https://app.daily.dev/posts/gCcpoCPNH?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 <!-- daily.dev BOOKMARKS:END -->
 
 
