@@ -231,11 +231,11 @@ C            11 mins         ▒░░░░░░░░░░░░░░░░
 ## daily.dev Bookmarks
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Protect your privacy and your phone number with Firefox Relay](https://app.daily.dev/posts/tDhGBA--q?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [Kagi Search](https://app.daily.dev/posts/_Ql3lpDFc?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [My top personal software upgrades](https://app.daily.dev/posts/DrYB8b6gP?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [Real-Time Financial Risk Management for Legacy Trading Transactions](https://app.daily.dev/posts/gCcpoCPNH?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [The Grafana OpenTelemetry Distribution for Java: Optimized for Application Observability](https://app.daily.dev/posts/OS0ukVdYu?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
-- [Full stack WebPageForm builder, NextJs, Typescript &lpar; React &rpar;, Dnd-Kit, PostgreSQL, Prisma](https://app.daily.dev/posts/iKdZVk5W7?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 <!-- daily.dev BOOKMARKS:END -->
 
 
