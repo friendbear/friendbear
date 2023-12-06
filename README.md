@@ -150,11 +150,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 November 2023 - To: 04 December 2023
+From: 28 November 2023 - To: 05 December 2023
 
-Other      9 hrs 24 mins   █████████████████░░░░░░░░   67.72 %
-Markdown   4 hrs 24 mins   ████████░░░░░░░░░░░░░░░░░   31.77 %
-HTML       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+Other      6 hrs 7 mins    ██████████████████▓░░░░░░   74.09 %
+Markdown   2 hrs 4 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.05 %
+HTML       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
 ```
 
 <!--END_SECTION:waka-->
