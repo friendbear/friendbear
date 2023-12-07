@@ -229,11 +229,11 @@ HTML       4 mins          ▒░░░░░░░░░░░░░░░░�
 ## daily.dev Bookmarks
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Google&#39;s Answer to ChatGPT Arrives in Gemini [Here&#39;s How To Access It]](https://app.daily.dev/posts/erFcbBex5?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [Beeper Mini brings iMessage to Android](https://app.daily.dev/posts/QJ6OA2wcY?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [New Open Source vs Old Open Source](https://app.daily.dev/posts/84ERsGiHE?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [No title](https://app.daily.dev/posts/ayMpYTz3q?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [The Top Programming Languages 2023](https://app.daily.dev/posts/sxe34CxUI?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
-- [The Verge’s 2023 holiday gift guide for kids](https://app.daily.dev/posts/F5PSa4tW3?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 <!-- daily.dev BOOKMARKS:END -->
 
 
