@@ -1,11 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
 cff-version: 1.2.0
-title: “GitHub ✨ special ✨ repository”
-message: “hi there. I love open soure.” 
-type: book
+title: About Me
+message: GitHub ✨ special ✨ repository.
+type: software
 authors:
-- family-names: “Kumagai”
-  given-names: “Tomohiro”
-  orcid: "https://orcid.org/0000-0003-2602-5639"
-repository-code: “https://github.com/friendbear/friendbear”
-url: “https://github.com/github-linguist/linguist”
-license: "Mozilla Public Licence"
+  - given-names: Tomohiro
+    family-names: Kumagai
+    email: s8zmnonun@relay.firefox.com
+    orcid: 'https://orcid.org/0000-0003-2602-5639'
+identifiers:
+  - type: url
+    value: >-
+      https://github.com/citation-file-format/citation-file-format/releases/tag/1.1.0
+repository-code: 'https://gitlab.com/friendbear'
+url: 'https://friendbear.github.io/'
+abstract: README.md reference document on GitHub.
+keywords:
+  - AboutMe
+  - README.md
+license: MIT
