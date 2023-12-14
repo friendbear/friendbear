@@ -231,11 +231,11 @@ TOML          22 mins         █░░░░░░░░░░░░░░░�
 ## daily.dev Bookmarks
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Slack Architecture](https://app.daily.dev/posts/KBo0I6xZZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
+- [From macOS runners to secure deployments, what’s new from GitHub Actions](https://app.daily.dev/posts/fzK8Yf1in?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [mjl-/mox: modern full-featured open source secure mail server for low-maintenance self-hosted email](https://app.daily.dev/posts/Ra678zmOL?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [How I teach Git](https://app.daily.dev/posts/2NxQQGDAr?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [Google&#39;s Answer to ChatGPT Arrives in Gemini [Here&#39;s How To Access It]](https://app.daily.dev/posts/erFcbBex5?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
-- [Beeper Mini brings iMessage to Android](https://app.daily.dev/posts/QJ6OA2wcY?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
-- [New Open Source vs Old Open Source](https://app.daily.dev/posts/84ERsGiHE?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 <!-- daily.dev BOOKMARKS:END -->
 
 
