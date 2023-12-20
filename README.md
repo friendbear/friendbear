@@ -150,12 +150,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 December 2023 - To: 18 December 2023
+From: 12 December 2023 - To: 19 December 2023
 
-Other      4 hrs 53 mins   █████████████▒░░░░░░░░░░░   52.99 %
-Markdown   4 hrs 19 mins   ███████████▓░░░░░░░░░░░░░   46.93 %
-Rust       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-TOML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Other      3 hrs 39 mins   █████████████▒░░░░░░░░░░░   53.72 %
+Markdown   3 hrs 8 mins    ███████████▓░░░░░░░░░░░░░   46.18 %
+Rust       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+TOML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
