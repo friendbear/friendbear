@@ -150,10 +150,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 December 2023 - To: 28 December 2023
+From: 22 December 2023 - To: 29 December 2023
 
-Markdown   2 hrs 16 mins   █████████████████████░░░░   84.59 %
-Other      24 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.41 %
+Markdown   1 hr 28 mins    ███████████████████▓░░░░░   78.20 %
+Other      24 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.80 %
 ```
 
 <!--END_SECTION:waka-->
