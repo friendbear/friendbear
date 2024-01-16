@@ -228,11 +228,11 @@ Other      23 mins         █████████▒░░░░░░░�
 ## daily.dev Bookmarks
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Hello World! Start your squad journey here](https://app.daily.dev/posts/53byQJBqL?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [GitHub Certifications are generally available](https://app.daily.dev/posts/SiAT6fRdy?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [Make Your Linux Terminal Enjoyable to Use](https://app.daily.dev/posts/zSyn2D0Nl?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [Sharing a state between windows without a serve](https://app.daily.dev/posts/NrutfUXAJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [Slack Architecture](https://app.daily.dev/posts/KBo0I6xZZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
-- [From macOS runners to secure deployments, what’s new from GitHub Actions](https://app.daily.dev/posts/fzK8Yf1in?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 <!-- daily.dev BOOKMARKS:END -->
 
 
