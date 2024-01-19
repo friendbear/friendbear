@@ -150,10 +150,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 January 2024 - To: 17 January 2024
+From: 11 January 2024 - To: 18 January 2024
 
-Markdown   1 hr 56 mins    ████████████████░░░░░░░░░   64.19 %
-Other      1 hr 4 mins     █████████░░░░░░░░░░░░░░░░   35.81 %
+Other      3 hrs 12 mins   ███████████████▓░░░░░░░░░   62.34 %
+Markdown   1 hr 56 mins    █████████▒░░░░░░░░░░░░░░░   37.66 %
 ```
 
 <!--END_SECTION:waka-->
