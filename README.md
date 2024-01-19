@@ -33,15 +33,25 @@
 - ⚡ Fun fact: ...
 
 -->
-- 🌱 I’m currently learning [Scala](https://users.scala-lang.org/u/friendbear), [Rustlang](https://users.rust-lang.org/u/friendbear), [Python3](https://pypi.org/user/friendbear) C, C++, .NET and Bigdata, [MongoDB](https://www.mongodb.com/community/forums/u/friendbear) ... etc
-- 📫 How to reach me: <a href="mailto:s8zmnonun@relay.firefox.com">s8zmnonun@relay.firefox.com</a> is.</p>
+- 🌱 I’m currently learning [Scala](https://users.scala-lang.org/u/friendbear), [Rust Lang](https://users.rust-lang.org/u/friendbear), [Python3](https://pypi.org/user/friendbear) C, C++, .NET and Bigdata, [MongoDB](https://www.mongodb.com/community/forums/u/friendbear) ... etc
+- 📫 How to reach me: <a href="mailto:null@none.none">null@none.none</a> is.</p>
   - 🔑 GPP Key: None
 - ⚡ I'm Join Developer Forums
   - 𝕏[Twitter Coommunity Developers](https://twittercommunity.com/u/bearsworld22) 
 ---
 
 <a href="https://github.com/sponsors/friendbear" title="Sponsor T Kumagai"><img src="asset/images/sponsor.svg?sanitize=true" width="94" height="28" aria-hidden="true"></a>
-### My link
+
+
+---
+
+### Usefull Links
+
+* [GitHub Markdown Reference](https://github.github.com/gfm/)
+* [Open Lab](https://openlab.ncl.ac.uk/)
+* [Jupyter](https://jupyter.org/)
+
+### My links
 
 * [Mozilla](https://support.mozilla.org/en-US/user/friendbear)
 * [IEEE](https://spectrum.ieee.org/u/tomohiro_kumagai)
@@ -49,25 +59,25 @@
 * [codepen](https://codepen.io/friendbear)
 * [Jira](https://friendbear.atlassian.net)
 * [StackShare](https://stackshare.io/friendbear)
-* [coudcast](https://www.crowdcast.io/friendbear)
+* [Coudcast](https://www.crowdcast.io/friendbear)
 * [MyDagsHub](https://dagshub.com/friendbear) 
-
 * [ProductHunt](https://www.producthunt.com/@friendbear)
 * host: <https://vercel.com/friendbear>
 
 ### Trading Profile
-- [MQL5](https://www.mql5.com/ja/users/friendbear)
+
+* [MQL5](https://www.mql5.com/ja/users/friendbear)
 
 ### Web3 My Profile
 
-- [getcoin](https://gitcoin.co/friendbear)
-- [OpenSea](https://opensea.com/friendbear)
+* [Getcoin](https://gitcoin.co/friendbear)
+* [OpenSea](https://opensea.com/friendbear)
 
 ---
 
 ### A little more about me...
 
-<details><summary>-</summary>
+<details><summary>Scala 2.2x</summary>
 <p>
 
 #### We can hide anything, even code!
@@ -111,20 +121,13 @@
 </p>
 </details>
 
-
-
-## Usefull Link
-
-- [GitHub Markdown Reference](https://github.github.com/gfm/)
-- [Open Lab](https://openlab.ncl.ac.uk/)
-- [Jupyter](https://jupyter.org/)
-
-<!--
 ---
 
-<em><b>I love coffee</b> Since 2021-10: open ko-fi shop <a href="https://ko-fi.com/friendbear">Please Access My Coffe Shop.</a>
+<em><b>I love coffee</b> Since 2021-10: Open ko-fi shop <a href="https://ko-fi.com/friendbear">Please Access My Coffe Shop.</a>
 <a href='https://ko-fi.com/B0B15N77Q' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </em>
+
+<!--
 
 ---
 
@@ -137,15 +140,17 @@
 -->
 ---
 
-## Status
-<div align="center">
+### Status
+
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=friendbear&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=friendbear&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=50&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=friendbear&locale=en&hide_title=false&layout=compact&card_width=1024&langs_count=50&theme=github_dark&hide_border=false&order=2" height="300" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=friendbear&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 [![Waka Readme](https://github.com/friendbear/friendbear/actions/workflows/cronjob-wakatime-generater.yml/badge.svg)](https://github.com/friendbear/friendbear/actions/workflows/cronjob-wakatime-generater.yml)
 
+---
 
 <!--START_SECTION:waka-->
 
@@ -158,59 +163,39 @@ Markdown   1 hr 56 mins    █████████▒░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-
-<!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=friendbear&show_icons=true)  
-
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=friendbear)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=friendbear)  
 
+
+<!--
+pending
+
 [![instagram badge](https://img.shields.io/badge/instagram-inductor.kela-C42D81?style=flat-square&logo=instagram)](https://www.instagram.com/inductor.kela) [![blog badge](https://img.shields.io/badge/blog-blog.inductor.me-1f425f?style=flat-square)](https://blog.inductor.me) 
 [![blog badge](https://img.shields.io/badge/speakerdeck-inductor-1f425f?style=flat-square)](https://speakerdeck.com/inductor)
-
 -->
 
+<!--
 ### Skills
 
 ![](https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat) ![](https://img.shields.io/badge/-Amazon%20AWS-232F3E.svg?logo=amazon-aws&style=flat) ![](https://img.shields.io/badge/-Linux-6C6694.svg?logo=linux&style=flat) 
+-->
 
-
+<!--
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=friendbear alt=friendbear/> </p>
 
 <p algin="center">
 <a href="https://dev.to/friendbear"> 
 <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="dev to profile" width="24px"/></a>
-&emsp;
-<a href= "https://instagram.com/friendbear22">
-<img src="https://img.icons8.com/ios-glyphs/256/000000/instagram-new.svg" alt="instagram profile" width="28px"/></a>
-&emsp;
-<a href="https://www.paypal.com/paypalme/friendbear">
-<img src="https://img.icons8.com/ios-glyphs/256/000000/paypal.png" alt="Pay pal me profile" width="28px"/></a> 
-&emsp;
-<a href="https://friendbear.github.io">
-<img src="https://img.icons8.com/material/256/000000/globe--v1.png" alt="personal website" width="28px"/></a>
-&emsp;
-<a href="https://linkedin.com/in/friendbear">
-<img src="https://img.icons8.com/ios-filled/256/000000/linkedin.svg" alt="linked in profile" width="26px"/></a>
-&emsp;
-<a href="https://twitter.com/friendbear22">
-<img src="https://img.icons8.com/ios-filled/256/000000/twitter.svg" alt="twitter profile" width="26px"/></a>
-&emsp;
-<a href="https://twitter.com/bearsworld22">
-<img src="https://img.icons8.com/ios-filled/256/000000/twitter.svg" alt="bearsworld" width="26px"/></a>
-&emsp;
-<a href="https://stackoverflow.com/users/10924993/t-kumagai">
-<img src="https://img.icons8.com/ios/32/000000/stackoverflow.png"/>
-&emsp;
 <a href="https://community.codenewbie.org/friendbear">
 <img src="https://raw.githubusercontent.com/friendbear/friendbear/main/asset/images/icon8-accuracy-50.png" alt="community" width="26px"/></a>
 &emsp;
 <a href="https://friendbear.atlassian.net">
 <img src="https://raw.githubusercontent.com/friendbear/friendbear/main/asset/images/icon8-atlassian-50.png" alt="atlassian" width="26px"/></a>
 &emsp;
-
+-->
 
 [twitter]: https://twitter.com/friendbear22
 [devdojo]: https://devdojo.com/friendbear
@@ -225,7 +210,7 @@ Markdown   1 hr 56 mins    █████████▒░░░░░░░�
 <a href="https://app.daily.dev/friendbear"><img src="devcard.svg" aligin="left" width="200px" height="200px" alt="T Kumagai's Dev Card"/></a>
 
 
-## daily.dev Bookmarks
+### daily.dev Bookmarks
 
 <!-- daily.dev BOOKMARKS:START -->
 - [Hello World! Start your squad journey here](https://app.daily.dev/posts/53byQJBqL?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
@@ -236,7 +221,7 @@ Markdown   1 hr 56 mins    █████████▒░░░░░░░�
 <!-- daily.dev BOOKMARKS:END -->
 
 
-## Recent GitHub Activity
+### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
 `[11/14 05:56]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mdn/project-template](https://github.com/mdn/project-template)  
