@@ -227,11 +227,11 @@ pending
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com/friendbear/kafka-beginners/pull/25) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)
-2. 💪 Opened PR [#25](https://github.com/friendbear/kafka-beginners/pull/25) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)
-3. 🎉 Merged PR [#10](https://github.com/friendbear/kafka-beginners-course/pull/10) in [friendbear/kafka-beginners-course](https://github.com/friendbear/kafka-beginners-course)
-4. 💪 Opened PR [#10](https://github.com/friendbear/kafka-beginners-course/pull/10) in [friendbear/kafka-beginners-course](https://github.com/friendbear/kafka-beginners-course)
-5. 🗣 Commented on [#3](https://github.com/cruise-group/write-hello-world-from-any-language-in-the-rust/pull/3#issuecomment-1918486341) in [cruise-group/write-hello-world-from-any-language-in-the-rust](https://github.com/cruise-group/write-hello-world-from-any-language-in-the-rust)
+1. 💪 Opened PR [#213](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials/pull/213) in [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
+2. 🎉 Merged PR [#25](https://github.com/friendbear/kafka-beginners/pull/25) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)
+3. 💪 Opened PR [#25](https://github.com/friendbear/kafka-beginners/pull/25) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)
+4. 🎉 Merged PR [#10](https://github.com/friendbear/kafka-beginners-course/pull/10) in [friendbear/kafka-beginners-course](https://github.com/friendbear/kafka-beginners-course)
+5. 💪 Opened PR [#10](https://github.com/friendbear/kafka-beginners-course/pull/10) in [friendbear/kafka-beginners-course](https://github.com/friendbear/kafka-beginners-course)
 `[01/30 09:40]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#5`](https://github.com//friendbear/karin-alexa-project/pull/5 'Bump werkzeug from 0.16.1 to 2.2.3') in [friendbear/karin-alexa-project](https://github.com/friendbear/karin-alexa-project)  
 `[01/30 09:40]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/pip/flask-2.3.2` from [friendbear/karin-alexa-project](https://github.com/friendbear/karin-alexa-project)  
 `[01/30 09:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/karin-alexa-project](https://github.com/friendbear/karin-alexa-project)  
