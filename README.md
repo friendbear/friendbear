@@ -37,7 +37,7 @@
 - 📫 How to reach me: <a href="mailto:null@none.none">null@none.none</a> is.</p>
   - 🔑 GPP Key: None
 - ⚡ I'm Join Developer Forums
-  - 𝕏[Twitter Coommunity Developers](https://twittercommunity.com/u/bearsworld22) 
+  - 𝕏[Twitter Community Developers](https://twittercommunity.com/u/bearsworld22) 
 ---
 
 <a href="https://github.com/sponsors/friendbear" title="Sponsor T Kumagai"><img src="asset/images/sponsor.svg?sanitize=true" width="94" height="28" aria-hidden="true"></a>
