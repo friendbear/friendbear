@@ -227,7 +227,7 @@ pending
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/cruise-group/write-hello-world-from-any-language-in-the-rust/pull/4) in [cruise-group/write-hello-world-from-any-language-in-the-rust](https://github.com/cruise-group/write-hello-world-from-any-language-in-the-rust)
+1. 🎉 Merged PR [#117](https://github.com/friendbear/perfect-rust/pull/117) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
 2. 💪 Opened PR [#4](https://github.com/cruise-group/write-hello-world-from-any-language-in-the-rust/pull/4) in [cruise-group/write-hello-world-from-any-language-in-the-rust](https://github.com/cruise-group/write-hello-world-from-any-language-in-the-rust)
 3. 🔒 Closed issue [#98](https://github.com/friendbear/perfect-rust/issues/98) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
 4. 💪 Opened PR [#213](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials/pull/213) in [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
