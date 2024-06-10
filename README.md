@@ -155,13 +155,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 January 2024 - To: 30 January 2024
+From: 02 June 2024 - To: 09 June 2024
 
-Other      23 hrs 32 mins  █████████████████████░░░░   84.02 %
-Rust       3 hrs 38 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.97 %
-TOML       32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
-Markdown   15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
-CSS        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Other   3 hrs 35 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
