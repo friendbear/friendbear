@@ -9,7 +9,7 @@
 -->
 
 
-### Moz://a supporter 
+### moz://a supporter 
 
 <!--
 ![moz://a](asset/images/mozfest-logo.svg)
