@@ -227,9 +227,9 @@ pending
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#122](https://github.com/friendbear/perfect-rust/pull/122) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
-2. 🎉 Merged PR [#117](https://github.com/friendbear/perfect-rust/pull/117) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
-3. 🔒 Closed issue [#98](https://github.com/friendbear/perfect-rust/issues/98) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
+1. 💪 Opened PR [#125](https://github.com/friendbear/perfect-rust/pull/125) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
+2. 🎉 Merged PR [#122](https://github.com/friendbear/perfect-rust/pull/122) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
+3. 🎉 Merged PR [#117](https://github.com/friendbear/perfect-rust/pull/117) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
 4. 💪 Opened PR [#213](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials/pull/213) in [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
 5. 🎉 Merged PR [#25](https://github.com/friendbear/kafka-beginners/pull/25) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)
 `[01/30 09:40]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#5`](https://github.com//friendbear/karin-alexa-project/pull/5 'Bump werkzeug from 0.16.1 to 2.2.3') in [friendbear/karin-alexa-project](https://github.com/friendbear/karin-alexa-project)  
