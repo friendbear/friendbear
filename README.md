@@ -33,7 +33,7 @@
 - ⚡ Fun fact: ...
 
 -->
-- 🌱 I’m currently learning [Scala](https://users.scala-lang.org/u/friendbear), [Rust Lang](https://users.rust-lang.org/u/friendbear), [Python3](https://pypi.org/user/friendbear) C, C++, .NET and Bigdata, [MongoDB](https://www.mongodb.com/community/forums/u/friendbear) ... etc
+- 🌱 I’m currently learning [Scala](https://users.scala-lang.org/u/friendbear), [Rust](https://users.rust-lang.org/u/friendbear), [Python3](https://pypi.org/user/friendbear) C, C++, .NET and Bigdata, [MongoDB](https://www.mongodb.com/community/forums/u/friendbear) ... etc
 - 📫 How to reach me: <a href="mailto:null@none.none">null@none.none</a> is.</p>
   - 🔑 GPP Key: None
 - ⚡ I'm Join Developer Forums
