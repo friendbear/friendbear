@@ -223,11 +223,11 @@ pending
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [ファースト・ベータ・リリース](https://github.com/friendbear/skills-release-based-workflow/releases/tag/v0.9) in [friendbear/skills-release-based-workflow](https://github.com/friendbear/skills-release-based-workflow)
-2. ❗ Opened issue [#1](https://github.com/friendbear/skills-release-based-workflow/issues/1) in [friendbear/skills-release-based-workflow](https://github.com/friendbear/skills-release-based-workflow)
-3. ❗ Opened issue [#1](https://github.com/friendbear/rust-warp-jwt-example/issues/1) in [friendbear/rust-warp-jwt-example](https://github.com/friendbear/rust-warp-jwt-example)
-4. 🎉 Merged PR [#128](https://github.com/friendbear/perfect-rust/pull/128) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
-5. 💪 Opened PR [#128](https://github.com/friendbear/perfect-rust/pull/128) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
+1. 🚀 Published release [ファースト・リリース](https://github.com/friendbear/skills-release-based-workflow/releases/tag/v1.0.0) in [friendbear/skills-release-based-workflow](https://github.com/friendbear/skills-release-based-workflow)
+2. 🎉 Merged PR [#3](https://github.com/friendbear/skills-release-based-workflow/pull/3) in [friendbear/skills-release-based-workflow](https://github.com/friendbear/skills-release-based-workflow)
+3. 💪 Opened PR [#3](https://github.com/friendbear/skills-release-based-workflow/pull/3) in [friendbear/skills-release-based-workflow](https://github.com/friendbear/skills-release-based-workflow)
+4. 🎉 Merged PR [#2](https://github.com/friendbear/skills-release-based-workflow/pull/2) in [friendbear/skills-release-based-workflow](https://github.com/friendbear/skills-release-based-workflow)
+5. 💪 Opened PR [#2](https://github.com/friendbear/skills-release-based-workflow/pull/2) in [friendbear/skills-release-based-workflow](https://github.com/friendbear/skills-release-based-workflow)
 `[01/30 09:40]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#5`](https://github.com//friendbear/karin-alexa-project/pull/5 'Bump werkzeug from 0.16.1 to 2.2.3') in [friendbear/karin-alexa-project](https://github.com/friendbear/karin-alexa-project)  
 `[01/30 09:40]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/pip/flask-2.3.2` from [friendbear/karin-alexa-project](https://github.com/friendbear/karin-alexa-project)  
 `[01/30 09:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/karin-alexa-project](https://github.com/friendbear/karin-alexa-project)  
