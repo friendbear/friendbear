@@ -212,11 +212,17 @@ pending
 ### daily.dev Bookmarks
 
 <!-- daily.dev BOOKMARKS:START -->
+- [JWT vs PASETO: New Era of Token-Based Authentication](https://app.daily.dev/posts/tO2oBjXXo?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
+- [🚨The new Rust video is out and
+
+In less than 10 minutes, we discuss when it is appropriate to panic, so end the code execution, and when to handle the Errors using `Result.` 
+
+Rust also has an interesting feature called Custom Error Types.
+
+Available on YT.](https://app.daily.dev/posts/SeDLRhZiQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
+- [EP111: My Favorite 10 Books for Software Developers](https://app.daily.dev/posts/2Nens17UB?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [ChatGPT - Prompts for developers](https://app.daily.dev/posts/FK1UIbccV?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [API Design 101: From Basics to Best Practices](https://app.daily.dev/posts/gYbJn53Cd?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
-- [100+ Free Courses for Java Developers to Learn Java, Spring Boot, and Microservices](https://app.daily.dev/posts/6sxlfn6TR?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
-- [Hello World! Start your squad journey here](https://app.daily.dev/posts/53byQJBqL?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
-- [GitHub Certifications are generally available](https://app.daily.dev/posts/SiAT6fRdy?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 <!-- daily.dev BOOKMARKS:END -->
 
 
