@@ -143,20 +143,18 @@ Other   3 hrs 35 mins   ██████████████████�
 <a href='https://ko-fi.com/B0B15N77Q' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </em>
 
-<!--
-
 ---
 
-# Contributions
+### Contributions
 
 (in the last 365 days, languages pie based on number of commits)
 
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
 
--->
 ---
+<!--
 
-### Status
+## Status
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=friendbear&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
@@ -164,16 +162,11 @@ Other   3 hrs 35 mins   ██████████████████�
   <img src="https://streak-stats.demolab.com?user=friendbear&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-
+pending
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=friendbear&show_icons=true)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=friendbear)  
-
-
-<!--
-pending
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=friendbear)  
 
 [![instagram badge](https://img.shields.io/badge/instagram-inductor.kela-C42D81?style=flat-square&logo=instagram)](https://www.instagram.com/inductor.kela) [![blog badge](https://img.shields.io/badge/blog-blog.inductor.me-1f425f?style=flat-square)](https://blog.inductor.me) 
