@@ -75,6 +75,22 @@
 
 ---
 
+### Activity
+
+[![Waka Readme](https://github.com/friendbear/friendbear/actions/workflows/cronjob-wakatime-generater.yml/badge.svg)](https://github.com/friendbear/friendbear/actions/workflows/cronjob-wakatime-generater.yml)
+
+---
+
+<!--START_SECTION:waka-->
+
+```txt
+From: 02 June 2024 - To: 09 June 2024
+
+Other   3 hrs 35 mins   █████████████████████████   100.00 %
+```
+
+<!--END_SECTION:waka-->
+
 ### A little more about me...
 
 <details><summary>Scala 2.2x</summary>
@@ -135,7 +151,7 @@
 
 (in the last 365 days, languages pie based on number of commits)
 
-![](./profile-3d-contrib/profile-night-green.svg)
+![](./profile-3d-contrib/profile-south-season-animate.svg)
 
 -->
 ---
@@ -148,29 +164,17 @@
   <img src="https://streak-stats.demolab.com?user=friendbear&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-[![Waka Readme](https://github.com/friendbear/friendbear/actions/workflows/cronjob-wakatime-generater.yml/badge.svg)](https://github.com/friendbear/friendbear/actions/workflows/cronjob-wakatime-generater.yml)
 
----
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 02 June 2024 - To: 09 June 2024
-
-Other   3 hrs 35 mins   █████████████████████████   100.00 %
-```
-
-<!--END_SECTION:waka-->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=friendbear&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=friendbear)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=friendbear)  
 
 
 <!--
 pending
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=friendbear)  
 
 [![instagram badge](https://img.shields.io/badge/instagram-inductor.kela-C42D81?style=flat-square&logo=instagram)](https://www.instagram.com/inductor.kela) [![blog badge](https://img.shields.io/badge/blog-blog.inductor.me-1f425f?style=flat-square)](https://blog.inductor.me) 
 [![blog badge](https://img.shields.io/badge/speakerdeck-inductor-1f425f?style=flat-square)](https://speakerdeck.com/inductor)
