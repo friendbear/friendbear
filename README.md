@@ -235,11 +235,11 @@ Available on YT.](https://app.daily.dev/posts/SeDLRhZiQ?utm_source=rss&utm_mediu
 3. 🎉 Merged PR [#8](https://github.com/friendbear/socket-programming/pull/8) in [friendbear/socket-programming](https://github.com/friendbear/socket-programming)
 4. 🎉 Merged PR [#1](https://github.com/friendbear/skills-secure-code-game/pull/1) in [friendbear/skills-secure-code-game](https://github.com/friendbear/skills-secure-code-game)
 5. 🔒 Closed issue [#1](https://github.com/friendbear/skills-release-based-workflow/issues/1) in [friendbear/skills-release-based-workflow](https://github.com/friendbear/skills-release-based-workflow)
-`[01/30 09:40]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#5`](https://github.com//friendbear/karin-alexa-project/pull/5 'Bump werkzeug from 0.16.1 to 2.2.3') in [friendbear/karin-alexa-project](https://github.com/friendbear/karin-alexa-project)  
-`[01/30 09:40]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/pip/flask-2.3.2` from [friendbear/karin-alexa-project](https://github.com/friendbear/karin-alexa-project)  
-`[01/30 09:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [friendbear/karin-alexa-project](https://github.com/friendbear/karin-alexa-project)  
-`[01/30 09:40]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#6`](https://github.com//friendbear/karin-alexa-project/pull/6 'Bump flask from 1.0 to 2.3.2') in [friendbear/karin-alexa-project](https://github.com/friendbear/karin-alexa-project)  
-`[01/30 09:38]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/cargo/bumpalo-3.12.0` from [friendbear/iriam-event](https://github.com/friendbear/iriam-event)  
+6. 🚀 Published release [Final Release](https://github.com/friendbear/skills-release-based-workflow/releases/tag/v1.0.1) in [friendbear/skills-release-based-workflow](https://github.com/friendbear/skills-release-based-workflow)
+7. 🎉 Merged PR [#5](https://github.com/friendbear/skills-release-based-workflow/pull/5) in [friendbear/skills-release-based-workflow](https://github.com/friendbear/skills-release-based-workflow)
+8. 💪 Opened PR [#5](https://github.com/friendbear/skills-release-based-workflow/pull/5) in [friendbear/skills-release-based-workflow](https://github.com/friendbear/skills-release-based-workflow)
+9. 🎉 Merged PR [#4](https://github.com/friendbear/skills-release-based-workflow/pull/4) in [friendbear/skills-release-based-workflow](https://github.com/friendbear/skills-release-based-workflow)
+10. 💪 Opened PR [#4](https://github.com/friendbear/skills-release-based-workflow/pull/4) in [friendbear/skills-release-based-workflow](https://github.com/friendbear/skills-release-based-workflow)
 
 <details><summary>Show More</summary>
 
