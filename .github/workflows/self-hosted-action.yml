@@ -1,0 +1,16 @@
+name: Echo Time
+
+on: [push]
+
+jobs:
+  echo-time:
+    runs-on: self-hosted
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Echo current time and save to file
+      run: |
+        echo "Current time: $(date)" > ~/actions_output.txt
+      shell: sh
