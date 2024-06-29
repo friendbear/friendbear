@@ -12,5 +12,5 @@ jobs:
 
     - name: Echo current time and save to file
       run: |
-        echo "Current time: $(date)" > ~/actions_output.txt
+        echo "Current time: $(date)" >> ~/actions_output.txt
       shell: sh
