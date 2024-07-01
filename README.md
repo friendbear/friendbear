@@ -84,11 +84,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 June 2024 - To: 29 June 2024
+From: 23 June 2024 - To: 30 June 2024
 
-Other      25 hrs 17 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   99.62 %
-Python     4 mins          -------------------------   00.30 %
-Markdown   1 min           -------------------------   00.08 %
+Other      28 hrs 45 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   99.18 %
+Rust       9 mins          -------------------------   00.52 %
+Markdown   4 mins          -------------------------   00.24 %
+JSON       1 min           -------------------------   00.06 %
 ```
 
 <!--END_SECTION:waka-->
