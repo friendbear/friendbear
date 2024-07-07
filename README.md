@@ -34,7 +34,7 @@
 
 -->
 - 🌱 I’m currently learning [Scala](https://users.scala-lang.org/u/friendbear), [Rust](https://users.rust-lang.org/u/friendbear), [Python3](https://pypi.org/user/friendbear) C, C++, .NET and Bigdata, [MongoDB](https://www.mongodb.com/community/forums/u/friendbear) ... etc
-- 📫 How to reach me: <a href="mailto:null@none.none">null@none.none</a> is.</p>
+- 📫 How to reach me: <a href="mailto:friendbear22@gmail.com">friendbear22@gmail.com</a> is.</p>
   - 🔑 GPP Key: None
 - ⚡ I'm Join Developer Forums
   - 𝕏[Twitter Community Developers](https://twittercommunity.com/u/bearsworld22) 
