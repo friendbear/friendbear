@@ -230,16 +230,16 @@ Available on YT.](https://app.daily.dev/posts/SeDLRhZiQ?utm_source=rss&utm_mediu
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/friendbear/programming-rust/pull/4) in [friendbear/programming-rust](https://github.com/friendbear/programming-rust)
-2. ❗ Opened issue [#4](https://github.com/friendbear/self-hosted-applications/issues/4) in [friendbear/self-hosted-applications](https://github.com/friendbear/self-hosted-applications)
-3. ❗ Opened issue [#3](https://github.com/friendbear/self-hosted-applications/issues/3) in [friendbear/self-hosted-applications](https://github.com/friendbear/self-hosted-applications)
-4. ❗ Opened issue [#2](https://github.com/friendbear/self-hosted-applications/issues/2) in [friendbear/self-hosted-applications](https://github.com/friendbear/self-hosted-applications)
-5. ❗ Opened issue [#1](https://github.com/friendbear/self-hosted-applications/issues/1) in [friendbear/self-hosted-applications](https://github.com/friendbear/self-hosted-applications)
-6. ❗ Opened issue [#1](https://github.com/friendbear/my-dotfiles/issues/1) in [friendbear/my-dotfiles](https://github.com/friendbear/my-dotfiles)
-7. 💪 Opened PR [#130](https://github.com/friendbear/perfect-rust/pull/130) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
-8. 🎉 Merged PR [#129](https://github.com/friendbear/perfect-rust/pull/129) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
-9. 🎉 Merged PR [#8](https://github.com/friendbear/socket-programming/pull/8) in [friendbear/socket-programming](https://github.com/friendbear/socket-programming)
-10. 🎉 Merged PR [#1](https://github.com/friendbear/skills-secure-code-game/pull/1) in [friendbear/skills-secure-code-game](https://github.com/friendbear/skills-secure-code-game)
+1. 🎉 Merged PR [#6](https://github.com/friendbear/programming-rust/pull/6) in [friendbear/programming-rust](https://github.com/friendbear/programming-rust)
+2. 🎉 Merged PR [#5](https://github.com/friendbear/programming-rust/pull/5) in [friendbear/programming-rust](https://github.com/friendbear/programming-rust)
+3. 🎉 Merged PR [#3](https://github.com/friendbear/programming-rust/pull/3) in [friendbear/programming-rust](https://github.com/friendbear/programming-rust)
+4. 🎉 Merged PR [#2](https://github.com/friendbear/programming-rust/pull/2) in [friendbear/programming-rust](https://github.com/friendbear/programming-rust)
+5. 🎉 Merged PR [#4](https://github.com/friendbear/programming-rust/pull/4) in [friendbear/programming-rust](https://github.com/friendbear/programming-rust)
+6. ❗ Opened issue [#4](https://github.com/friendbear/self-hosted-applications/issues/4) in [friendbear/self-hosted-applications](https://github.com/friendbear/self-hosted-applications)
+7. ❗ Opened issue [#3](https://github.com/friendbear/self-hosted-applications/issues/3) in [friendbear/self-hosted-applications](https://github.com/friendbear/self-hosted-applications)
+8. ❗ Opened issue [#2](https://github.com/friendbear/self-hosted-applications/issues/2) in [friendbear/self-hosted-applications](https://github.com/friendbear/self-hosted-applications)
+9. ❗ Opened issue [#1](https://github.com/friendbear/self-hosted-applications/issues/1) in [friendbear/self-hosted-applications](https://github.com/friendbear/self-hosted-applications)
+10. ❗ Opened issue [#1](https://github.com/friendbear/my-dotfiles/issues/1) in [friendbear/my-dotfiles](https://github.com/friendbear/my-dotfiles)
 
 <details><summary>Show More</summary>
 
