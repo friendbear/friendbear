@@ -213,6 +213,7 @@ pending
 ### daily.dev Bookmarks
 
 <!-- daily.dev BOOKMARKS:START -->
+- [8 Strategies for Reducing Latency](https://app.daily.dev/posts/zNfnMjoVT?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers&lpar; OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity &rpar;, Multi-Modals &lpar;Vision/TTS&rpar; and plugin](https://app.daily.dev/posts/KaZT99xCF?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [12 Best Code Review Tools for Developers](https://app.daily.dev/posts/0eXQ0VWgS?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [JWT vs PASETO: New Era of Token-Based Authentication](https://app.daily.dev/posts/tO2oBjXXo?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
@@ -223,7 +224,6 @@ In less than 10 minutes, we discuss when it is appropriate to panic, so end the 
 Rust also has an interesting feature called Custom Error Types.
 
 Available on YT.](https://app.daily.dev/posts/SeDLRhZiQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
-- [EP111: My Favorite 10 Books for Software Developers](https://app.daily.dev/posts/2Nens17UB?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 <!-- daily.dev BOOKMARKS:END -->
 
 
