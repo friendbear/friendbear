@@ -8,8 +8,7 @@
 ## <img src="asset/images/Mozilla-supporter.svg"/>
 -->
 
-
-### moz://a supporter 
+### Moz://a supporter 
 
 <!--
 ![moz://a](asset/images/mozfest-logo.svg)
@@ -21,7 +20,6 @@
 
  ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
 * [QuickAccess Playground](https://wandbox.org/)
 
 <!--
@@ -31,17 +29,19 @@
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
 -->
+
 - 🌱 I’m currently learning [Scala](https://users.scala-lang.org/u/friendbear), [Rust](https://users.rust-lang.org/u/friendbear), [Python3](https://pypi.org/user/friendbear) C, C++, .NET and Bigdata, [MongoDB](https://www.mongodb.com/community/forums/u/friendbear) ... etc
 - 📫 How to reach me: <a href="mailto:friendbear22@gmail.com">friendbear22@gmail.com</a> is.</p>
   - 🔑 GPP Key: None
-- ⚡ I'm Join Developer Forums
-  - 𝕏[Twitter Community Developers](https://twittercommunity.com/u/bearsworld22) 
+- ⚡ I'm Join Forums
+  - [Rust Language](https://users.rust-lang.org/u/friendbear)
+  - 𝕏[Twitter Community Developers](https://twittercommunity.com/u/bearsworld22)
+  - [MongoDB](https://www.mongodb.com/community/forums/u/friendbear)
+  - [Home assistant](https://community.home-assistant.io/u/friendbear)
 ---
 
 <a href="https://github.com/sponsors/friendbear" title="Sponsor T Kumagai"><img src="asset/images/sponsor.svg?sanitize=true" width="94" height="28" aria-hidden="true"></a>
-
 
 ---
 
