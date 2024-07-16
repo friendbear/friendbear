@@ -144,7 +144,7 @@ Markdown   23 mins         -------------------------   00.87 %
 ---
 
 <em><b>I love coffee</b> Since 2021-10: Open ko-fi shop <a href="https://ko-fi.com/friendbear">Please Access My Coffe Shop.</a>
-<a href='https://ko-fi.com/B0B15N77Q' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://ko-fi.com/friendbear' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </em>
 
 ---
