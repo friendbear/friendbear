@@ -230,16 +230,16 @@ Available on YT.](https://app.daily.dev/posts/SeDLRhZiQ?utm_source=rss&utm_mediu
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#60](https://github.com/monkeymademe/picamera2-WebUI/issues/60) in [monkeymademe/picamera2-WebUI](https://github.com/monkeymademe/picamera2-WebUI)
-2. 🎉 Merged PR [#132](https://github.com/friendbear/perfect-rust/pull/132) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
-3. 💪 Opened PR [#132](https://github.com/friendbear/perfect-rust/pull/132) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
-4. 🎉 Merged PR [#131](https://github.com/friendbear/perfect-rust/pull/131) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
-5. 🎉 Merged PR [#130](https://github.com/friendbear/perfect-rust/pull/130) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
-6. 🎉 Merged PR [#126](https://github.com/friendbear/perfect-rust/pull/126) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
-7. 🎉 Merged PR [#121](https://github.com/friendbear/perfect-rust/pull/121) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
-8. 🎉 Merged PR [#120](https://github.com/friendbear/perfect-rust/pull/120) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
-9. 🎉 Merged PR [#107](https://github.com/friendbear/perfect-rust/pull/107) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
-10. 🎉 Merged PR [#106](https://github.com/friendbear/perfect-rust/pull/106) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
+1. 🗣 Commented on [#60](https://github.com/monkeymademe/picamera2-WebUI/issues/60#issuecomment-2236110085) in [monkeymademe/picamera2-WebUI](https://github.com/monkeymademe/picamera2-WebUI)
+2. ❗ Opened issue [#60](https://github.com/monkeymademe/picamera2-WebUI/issues/60) in [monkeymademe/picamera2-WebUI](https://github.com/monkeymademe/picamera2-WebUI)
+3. 🎉 Merged PR [#132](https://github.com/friendbear/perfect-rust/pull/132) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
+4. 💪 Opened PR [#132](https://github.com/friendbear/perfect-rust/pull/132) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
+5. 🎉 Merged PR [#131](https://github.com/friendbear/perfect-rust/pull/131) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
+6. 🎉 Merged PR [#130](https://github.com/friendbear/perfect-rust/pull/130) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
+7. 🎉 Merged PR [#126](https://github.com/friendbear/perfect-rust/pull/126) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
+8. 🎉 Merged PR [#121](https://github.com/friendbear/perfect-rust/pull/121) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
+9. 🎉 Merged PR [#120](https://github.com/friendbear/perfect-rust/pull/120) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
+10. 🎉 Merged PR [#107](https://github.com/friendbear/perfect-rust/pull/107) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
 
 <details><summary>Show More</summary>
 
