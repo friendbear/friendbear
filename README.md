@@ -209,11 +209,11 @@ pending
 ### daily.dev Bookmarks
 
 <!-- daily.dev BOOKMARKS:START -->
+- [19 Developer Tools that keep me productive](https://app.daily.dev/posts/qVXjIBwi4?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [10 Cutting-Edge Web Dev Resources You Should Be Using Now](https://app.daily.dev/posts/SvqRgMeP5?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [Welcome to Rust Dev Community: Level Up and Stay Up-to-date](https://app.daily.dev/posts/R4DA7XEi2?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [Rust Project goals for 2024](https://app.daily.dev/posts/vUQuvERdp?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [8 Strategies for Reducing Latency](https://app.daily.dev/posts/zNfnMjoVT?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
-- [an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers&lpar; OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity &rpar;, Multi-Modals &lpar;Vision/TTS&rpar; and plugin](https://app.daily.dev/posts/KaZT99xCF?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 <!-- daily.dev BOOKMARKS:END -->
 
 
