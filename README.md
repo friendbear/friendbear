@@ -209,17 +209,11 @@ pending
 ### daily.dev Bookmarks
 
 <!-- daily.dev BOOKMARKS:START -->
+- [10 Cutting-Edge Web Dev Resources You Should Be Using Now](https://app.daily.dev/posts/SvqRgMeP5?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
+- [Welcome to Rust Dev Community: Level Up and Stay Up-to-date](https://app.daily.dev/posts/R4DA7XEi2?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
+- [Rust Project goals for 2024](https://app.daily.dev/posts/vUQuvERdp?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [8 Strategies for Reducing Latency](https://app.daily.dev/posts/zNfnMjoVT?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers&lpar; OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity &rpar;, Multi-Modals &lpar;Vision/TTS&rpar; and plugin](https://app.daily.dev/posts/KaZT99xCF?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
-- [12 Best Code Review Tools for Developers](https://app.daily.dev/posts/0eXQ0VWgS?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
-- [JWT vs PASETO: New Era of Token-Based Authentication](https://app.daily.dev/posts/tO2oBjXXo?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
-- [🚨The new Rust video is out and
-
-In less than 10 minutes, we discuss when it is appropriate to panic, so end the code execution, and when to handle the Errors using `Result.` 
-
-Rust also has an interesting feature called Custom Error Types.
-
-Available on YT.](https://app.daily.dev/posts/SeDLRhZiQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 <!-- daily.dev BOOKMARKS:END -->
 
 
