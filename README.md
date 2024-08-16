@@ -84,11 +84,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 August 2024 - To: 14 August 2024
+From: 08 August 2024 - To: 15 August 2024
 
-Other    16 hrs 37 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   99.40 %
-Bash     5 mins          -------------------------   00.57 %
-Docker   0 secs          -------------------------   00.02 %
+Other      22 hrs 8 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   96.23 %
+Python     26 mins         -------------------------   01.95 %
+Markdown   19 mins         -------------------------   01.38 %
+Bash       5 mins          -------------------------   00.42 %
+Docker     0 secs          -------------------------   00.02 %
 ```
 
 <!--END_SECTION:waka-->
