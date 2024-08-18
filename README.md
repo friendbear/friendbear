@@ -224,16 +224,16 @@ pending
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#31](https://github.com/friendbear/kafka-beginners/pull/31) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)
-2. 🎉 Merged PR [#152](https://github.com/friendbear/perfect-rust/pull/152) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
-3. 🎉 Merged PR [#151](https://github.com/friendbear/perfect-rust/pull/151) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
-4. 🎉 Merged PR [#150](https://github.com/friendbear/perfect-rust/pull/150) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
-5. 🎉 Merged PR [#149](https://github.com/friendbear/perfect-rust/pull/149) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
-6. 🎉 Merged PR [#148](https://github.com/friendbear/perfect-rust/pull/148) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
-7. ❗ Opened issue [#130](https://github.com/hacksider/Deep-Live-Cam/issues/130) in [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
-8. 💪 Opened PR [#30](https://github.com/friendbear/kafka-beginners/pull/30) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)
-9. 💪 Opened PR [#29](https://github.com/friendbear/kafka-beginners/pull/29) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)
-10. 💪 Opened PR [#28](https://github.com/friendbear/kafka-beginners/pull/28) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)
+1. 🎉 Merged PR [#13](https://github.com/friendbear/sense-hat-on-raspberry-pi-os/pull/13) in [friendbear/sense-hat-on-raspberry-pi-os](https://github.com/friendbear/sense-hat-on-raspberry-pi-os)
+2. 🎉 Merged PR [#12](https://github.com/friendbear/sense-hat-on-raspberry-pi-os/pull/12) in [friendbear/sense-hat-on-raspberry-pi-os](https://github.com/friendbear/sense-hat-on-raspberry-pi-os)
+3. 🎉 Merged PR [#11](https://github.com/friendbear/sense-hat-on-raspberry-pi-os/pull/11) in [friendbear/sense-hat-on-raspberry-pi-os](https://github.com/friendbear/sense-hat-on-raspberry-pi-os)
+4. 🎉 Merged PR [#10](https://github.com/friendbear/sense-hat-on-raspberry-pi-os/pull/10) in [friendbear/sense-hat-on-raspberry-pi-os](https://github.com/friendbear/sense-hat-on-raspberry-pi-os)
+5. 🎉 Merged PR [#9](https://github.com/friendbear/sense-hat-on-raspberry-pi-os/pull/9) in [friendbear/sense-hat-on-raspberry-pi-os](https://github.com/friendbear/sense-hat-on-raspberry-pi-os)
+6. 🎉 Merged PR [#8](https://github.com/friendbear/sense-hat-on-raspberry-pi-os/pull/8) in [friendbear/sense-hat-on-raspberry-pi-os](https://github.com/friendbear/sense-hat-on-raspberry-pi-os)
+7. 🎉 Merged PR [#5](https://github.com/friendbear/sense-hat-on-raspberry-pi-os/pull/5) in [friendbear/sense-hat-on-raspberry-pi-os](https://github.com/friendbear/sense-hat-on-raspberry-pi-os)
+8. 🎉 Merged PR [#4](https://github.com/friendbear/sense-hat-on-raspberry-pi-os/pull/4) in [friendbear/sense-hat-on-raspberry-pi-os](https://github.com/friendbear/sense-hat-on-raspberry-pi-os)
+9. 🎉 Merged PR [#1](https://github.com/friendbear/sense-hat-on-raspberry-pi-os/pull/1) in [friendbear/sense-hat-on-raspberry-pi-os](https://github.com/friendbear/sense-hat-on-raspberry-pi-os)
+10. 🎉 Merged PR [#7](https://github.com/friendbear/sense-hat-on-raspberry-pi-os/pull/7) in [friendbear/sense-hat-on-raspberry-pi-os](https://github.com/friendbear/sense-hat-on-raspberry-pi-os)
 
 <details><summary>Show More</summary>
 
