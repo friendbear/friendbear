@@ -1,14 +1,14 @@
 # My ReadMe Profile and If you like it 🌟💕
 ## <img src="https://img.icons8.com/color/48/000000/github--v3.png"/> 
 
-### Hi there （こんにちわ）from Japan :japan: <img src="https://raw.githubusercontent.com/friendbear/friendbear/main/wave.gif" width="35px" height="35px" aria-hidden="true">
+## Hi there （こんにちわ）from Japan :japan: <img src="https://raw.githubusercontent.com/friendbear/friendbear/main/wave.gif" width="35px" height="35px" aria-hidden="true">
 
 <!--
 ![moz://a](asset/images/mozfest-logo.svg)
 ## <img src="asset/images/Mozilla-supporter.svg"/>
 -->
 
-### Moz://a supporter 
+### Mozilla supporter 
 
 <!--
 ![moz://a](asset/images/mozfest-logo.svg)
@@ -32,13 +32,14 @@
 -->
 
 - 🌱 I’m currently learning [Scala](https://users.scala-lang.org/u/friendbear), [Rust](https://users.rust-lang.org/u/friendbear), [Python3](https://pypi.org/user/friendbear) C, C++, .NET and Bigdata, [MongoDB](https://www.mongodb.com/community/forums/u/friendbear) ... etc
-- 📫 How to reach me: <a href="mailto:friendbear22@gmail.com">friendbear22@gmail.com</a> is.</p>
-  - 🔑 GPP Key: None
-- ⚡ I'm Join Forums
-  - [Rust Language](https://users.rust-lang.org/u/friendbear)
-  - 𝕏[Twitter Community Developers](https://twittercommunity.com/u/bearsworld22)
-  - [MongoDB](https://www.mongodb.com/community/forums/u/friendbear)
-  - [Home assistant](https://community.home-assistant.io/u/friendbear)
+* 📫 How to reach me: <a href="mailto:friendbear22@gmail.com">friendbear22@gmail.com</a> is.</p>
+  * 🔑 GPP Key: None
+* ⚡ I'm Join Forums
+  * [🦀Rust Language Community](https://users.rust-lang.org/u/friendbear)
+  * [Twitter Community Developers](https://twittercommunity.com/u/bearsworld22)
+  * [Mongo DB Community](https://www.mongodb.com/community/forums/u/friendbear)
+  * [Home assistant Community](https://community.home-assistant.io/u/friendbear)
+
 ---
 
 <a href="https://github.com/sponsors/friendbear" title="Sponsor T Kumagai"><img src="asset/images/sponsor.svg?sanitize=true" width="94" height="28" aria-hidden="true"></a>
