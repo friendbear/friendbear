@@ -225,16 +225,16 @@ pending
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/friendbear/sense-hat-on-raspberry-pi-os/pull/13) in [friendbear/sense-hat-on-raspberry-pi-os](https://github.com/friendbear/sense-hat-on-raspberry-pi-os)
-2. 🎉 Merged PR [#12](https://github.com/friendbear/sense-hat-on-raspberry-pi-os/pull/12) in [friendbear/sense-hat-on-raspberry-pi-os](https://github.com/friendbear/sense-hat-on-raspberry-pi-os)
-3. 🎉 Merged PR [#11](https://github.com/friendbear/sense-hat-on-raspberry-pi-os/pull/11) in [friendbear/sense-hat-on-raspberry-pi-os](https://github.com/friendbear/sense-hat-on-raspberry-pi-os)
-4. 🎉 Merged PR [#10](https://github.com/friendbear/sense-hat-on-raspberry-pi-os/pull/10) in [friendbear/sense-hat-on-raspberry-pi-os](https://github.com/friendbear/sense-hat-on-raspberry-pi-os)
-5. 🎉 Merged PR [#9](https://github.com/friendbear/sense-hat-on-raspberry-pi-os/pull/9) in [friendbear/sense-hat-on-raspberry-pi-os](https://github.com/friendbear/sense-hat-on-raspberry-pi-os)
-6. 🎉 Merged PR [#8](https://github.com/friendbear/sense-hat-on-raspberry-pi-os/pull/8) in [friendbear/sense-hat-on-raspberry-pi-os](https://github.com/friendbear/sense-hat-on-raspberry-pi-os)
-7. 🎉 Merged PR [#5](https://github.com/friendbear/sense-hat-on-raspberry-pi-os/pull/5) in [friendbear/sense-hat-on-raspberry-pi-os](https://github.com/friendbear/sense-hat-on-raspberry-pi-os)
-8. 🎉 Merged PR [#4](https://github.com/friendbear/sense-hat-on-raspberry-pi-os/pull/4) in [friendbear/sense-hat-on-raspberry-pi-os](https://github.com/friendbear/sense-hat-on-raspberry-pi-os)
-9. 🎉 Merged PR [#1](https://github.com/friendbear/sense-hat-on-raspberry-pi-os/pull/1) in [friendbear/sense-hat-on-raspberry-pi-os](https://github.com/friendbear/sense-hat-on-raspberry-pi-os)
-10. 🎉 Merged PR [#7](https://github.com/friendbear/sense-hat-on-raspberry-pi-os/pull/7) in [friendbear/sense-hat-on-raspberry-pi-os](https://github.com/friendbear/sense-hat-on-raspberry-pi-os)
+1. 🎉 Merged PR [#153](https://github.com/friendbear/perfect-rust/pull/153) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
+2. 🎉 Merged PR [#13](https://github.com/friendbear/sense-hat-on-raspberry-pi-os/pull/13) in [friendbear/sense-hat-on-raspberry-pi-os](https://github.com/friendbear/sense-hat-on-raspberry-pi-os)
+3. 🎉 Merged PR [#12](https://github.com/friendbear/sense-hat-on-raspberry-pi-os/pull/12) in [friendbear/sense-hat-on-raspberry-pi-os](https://github.com/friendbear/sense-hat-on-raspberry-pi-os)
+4. 🎉 Merged PR [#11](https://github.com/friendbear/sense-hat-on-raspberry-pi-os/pull/11) in [friendbear/sense-hat-on-raspberry-pi-os](https://github.com/friendbear/sense-hat-on-raspberry-pi-os)
+5. 🎉 Merged PR [#10](https://github.com/friendbear/sense-hat-on-raspberry-pi-os/pull/10) in [friendbear/sense-hat-on-raspberry-pi-os](https://github.com/friendbear/sense-hat-on-raspberry-pi-os)
+6. 🎉 Merged PR [#9](https://github.com/friendbear/sense-hat-on-raspberry-pi-os/pull/9) in [friendbear/sense-hat-on-raspberry-pi-os](https://github.com/friendbear/sense-hat-on-raspberry-pi-os)
+7. 🎉 Merged PR [#8](https://github.com/friendbear/sense-hat-on-raspberry-pi-os/pull/8) in [friendbear/sense-hat-on-raspberry-pi-os](https://github.com/friendbear/sense-hat-on-raspberry-pi-os)
+8. 🎉 Merged PR [#5](https://github.com/friendbear/sense-hat-on-raspberry-pi-os/pull/5) in [friendbear/sense-hat-on-raspberry-pi-os](https://github.com/friendbear/sense-hat-on-raspberry-pi-os)
+9. 🎉 Merged PR [#4](https://github.com/friendbear/sense-hat-on-raspberry-pi-os/pull/4) in [friendbear/sense-hat-on-raspberry-pi-os](https://github.com/friendbear/sense-hat-on-raspberry-pi-os)
+10. 🎉 Merged PR [#1](https://github.com/friendbear/sense-hat-on-raspberry-pi-os/pull/1) in [friendbear/sense-hat-on-raspberry-pi-os](https://github.com/friendbear/sense-hat-on-raspberry-pi-os)
 
 <details><summary>Show More</summary>
 
