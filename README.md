@@ -214,11 +214,11 @@ pending
 ### daily.dev Bookmarks
 
 <!-- daily.dev BOOKMARKS:START -->
+- [GitHub Repositories Every Software Engineer Should Know](https://app.daily.dev/posts/cdbXKUYqf?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [Using Rust and Axum to build a JWT authentication API](https://app.daily.dev/posts/eqULi7gTA?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [Rust Tutorial – Learn Advanced Iterators &amp; Pattern Matching by Building a JSON Parser](https://app.daily.dev/posts/v4jZJlDPR?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [19 Developer Tools that keep me productive](https://app.daily.dev/posts/qVXjIBwi4?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [10 Cutting-Edge Web Dev Resources You Should Be Using Now](https://app.daily.dev/posts/SvqRgMeP5?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
-- [Welcome to Rust Dev Community: Level Up and Stay Up-to-date](https://app.daily.dev/posts/R4DA7XEi2?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 <!-- daily.dev BOOKMARKS:END -->
 
 
