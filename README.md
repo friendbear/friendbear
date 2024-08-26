@@ -225,16 +225,16 @@ pending
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/friendbear/skills-introduction-to-codeql/issues/1) in [friendbear/skills-introduction-to-codeql](https://github.com/friendbear/skills-introduction-to-codeql)
-2. 🎉 Merged PR [#158](https://github.com/friendbear/perfect-rust/pull/158) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
-3. 🎉 Merged PR [#157](https://github.com/friendbear/perfect-rust/pull/157) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
-4. 🎉 Merged PR [#156](https://github.com/friendbear/perfect-rust/pull/156) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
-5. 🎉 Merged PR [#155](https://github.com/friendbear/perfect-rust/pull/155) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
-6. 🎉 Merged PR [#154](https://github.com/friendbear/perfect-rust/pull/154) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
-7. 🎉 Merged PR [#153](https://github.com/friendbear/perfect-rust/pull/153) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
-8. 🎉 Merged PR [#13](https://github.com/friendbear/sense-hat-on-raspberry-pi-os/pull/13) in [friendbear/sense-hat-on-raspberry-pi-os](https://github.com/friendbear/sense-hat-on-raspberry-pi-os)
-9. 🎉 Merged PR [#12](https://github.com/friendbear/sense-hat-on-raspberry-pi-os/pull/12) in [friendbear/sense-hat-on-raspberry-pi-os](https://github.com/friendbear/sense-hat-on-raspberry-pi-os)
-10. 🎉 Merged PR [#11](https://github.com/friendbear/sense-hat-on-raspberry-pi-os/pull/11) in [friendbear/sense-hat-on-raspberry-pi-os](https://github.com/friendbear/sense-hat-on-raspberry-pi-os)
+1. 🎉 Merged PR [#2](https://github.com/friendbear/skills-introduction-to-codeql/pull/2) in [friendbear/skills-introduction-to-codeql](https://github.com/friendbear/skills-introduction-to-codeql)
+2. 💪 Opened PR [#2](https://github.com/friendbear/skills-introduction-to-codeql/pull/2) in [friendbear/skills-introduction-to-codeql](https://github.com/friendbear/skills-introduction-to-codeql)
+3. ❗ Opened issue [#1](https://github.com/friendbear/skills-introduction-to-codeql/issues/1) in [friendbear/skills-introduction-to-codeql](https://github.com/friendbear/skills-introduction-to-codeql)
+4. 🎉 Merged PR [#158](https://github.com/friendbear/perfect-rust/pull/158) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
+5. 🎉 Merged PR [#157](https://github.com/friendbear/perfect-rust/pull/157) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
+6. 🎉 Merged PR [#156](https://github.com/friendbear/perfect-rust/pull/156) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
+7. 🎉 Merged PR [#155](https://github.com/friendbear/perfect-rust/pull/155) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
+8. 🎉 Merged PR [#154](https://github.com/friendbear/perfect-rust/pull/154) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
+9. 🎉 Merged PR [#153](https://github.com/friendbear/perfect-rust/pull/153) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
+10. 🎉 Merged PR [#13](https://github.com/friendbear/sense-hat-on-raspberry-pi-os/pull/13) in [friendbear/sense-hat-on-raspberry-pi-os](https://github.com/friendbear/sense-hat-on-raspberry-pi-os)
 
 <details><summary>Show More</summary>
 
