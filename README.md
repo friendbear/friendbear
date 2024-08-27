@@ -214,11 +214,11 @@ pending
 ### daily.dev Bookmarks
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Java Roadmap](https://app.daily.dev/posts/l0W41bTi4?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [Best AI Coding Tools for Developers in 2024](https://app.daily.dev/posts/25uiXTRUU?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [Why you should use Rust on the backend](https://app.daily.dev/posts/OrMNgUVQp?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [How to Design Twitter &lpar;X&rpar; in a System Design Interview?](https://app.daily.dev/posts/RgtBHkVyO?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 - [GitHub Repositories Every Software Engineer Should Know](https://app.daily.dev/posts/cdbXKUYqf?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
-- [Using Rust and Axum to build a JWT authentication API](https://app.daily.dev/posts/eqULi7gTA?utm_source=rss&utm_medium=bookmarks&utm_campaign=l1Q7lMvCD9ALXzxqEPWaM)
 <!-- daily.dev BOOKMARKS:END -->
 
 
