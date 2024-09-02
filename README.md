@@ -221,16 +221,16 @@ pending
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/friendbear/programming-rust/pull/10) in [friendbear/programming-rust](https://github.com/friendbear/programming-rust)
-2. ❗ Opened issue [#12](https://github.com/friendbear/programming-rust/issues/12) in [friendbear/programming-rust](https://github.com/friendbear/programming-rust)
-3. 💪 Opened PR [#164](https://github.com/friendbear/perfect-rust/pull/164) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
-4. 🎉 Merged PR [#163](https://github.com/friendbear/perfect-rust/pull/163) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
-5. 🎉 Merged PR [#162](https://github.com/friendbear/perfect-rust/pull/162) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
-6. 🎉 Merged PR [#161](https://github.com/friendbear/perfect-rust/pull/161) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
-7. 🎉 Merged PR [#160](https://github.com/friendbear/perfect-rust/pull/160) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
-8. 🎉 Merged PR [#159](https://github.com/friendbear/perfect-rust/pull/159) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
-9. 🎉 Merged PR [#2](https://github.com/friendbear/skills-introduction-to-codeql/pull/2) in [friendbear/skills-introduction-to-codeql](https://github.com/friendbear/skills-introduction-to-codeql)
-10. 💪 Opened PR [#2](https://github.com/friendbear/skills-introduction-to-codeql/pull/2) in [friendbear/skills-introduction-to-codeql](https://github.com/friendbear/skills-introduction-to-codeql)
+1. 🎉 Merged PR [#14](https://github.com/friendbear/programming-rust/pull/14) in [friendbear/programming-rust](https://github.com/friendbear/programming-rust)
+2. 🎉 Merged PR [#13](https://github.com/friendbear/programming-rust/pull/13) in [friendbear/programming-rust](https://github.com/friendbear/programming-rust)
+3. 🎉 Merged PR [#11](https://github.com/friendbear/programming-rust/pull/11) in [friendbear/programming-rust](https://github.com/friendbear/programming-rust)
+4. 🎉 Merged PR [#10](https://github.com/friendbear/programming-rust/pull/10) in [friendbear/programming-rust](https://github.com/friendbear/programming-rust)
+5. ❗ Opened issue [#12](https://github.com/friendbear/programming-rust/issues/12) in [friendbear/programming-rust](https://github.com/friendbear/programming-rust)
+6. 💪 Opened PR [#164](https://github.com/friendbear/perfect-rust/pull/164) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
+7. 🎉 Merged PR [#163](https://github.com/friendbear/perfect-rust/pull/163) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
+8. 🎉 Merged PR [#162](https://github.com/friendbear/perfect-rust/pull/162) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
+9. 🎉 Merged PR [#161](https://github.com/friendbear/perfect-rust/pull/161) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
+10. 🎉 Merged PR [#160](https://github.com/friendbear/perfect-rust/pull/160) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
 
 <details><summary>Show More</summary>
 
