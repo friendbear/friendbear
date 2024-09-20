@@ -85,12 +85,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 September 2024 - To: 18 September 2024
+From: 12 September 2024 - To: 19 September 2024
 
-Other   3 hrs 8 mins    >>>>>>>>>>>>>>>>>>>>>----   83.20 %
-Rust    24 mins         >>>----------------------   10.99 %
-Bash    12 mins         >------------------------   05.42 %
-TOML    0 secs          -------------------------   00.38 %
+Other      4 hrs 14 mins   >>>>>>>>>>>>>>>----------   58.59 %
+Rust       1 hr 55 mins    >>>>>>>------------------   26.69 %
+Markdown   50 mins         >>>----------------------   11.67 %
+Bash       12 mins         >------------------------   02.83 %
+TOML       0 secs          -------------------------   00.23 %
 ```
 
 <!--END_SECTION:waka-->
