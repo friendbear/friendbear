@@ -85,10 +85,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 November 2024 - To: 17 November 2024
+From: 11 November 2024 - To: 18 November 2024
 
-Other   5 hrs 22 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   99.87 %
-Rust    0 secs          -------------------------   00.13 %
+Other         5 hrs 43 mins   >>>>>>>>>>>>>>>>>>>------   77.16 %
+CSS           1 hr            >>>----------------------   13.56 %
+Astro         20 mins         >------------------------   04.69 %
+Rust          8 mins          >------------------------   02.01 %
+Markdown      6 mins          -------------------------   01.37 %
 ```
 
 <!--END_SECTION:waka-->
