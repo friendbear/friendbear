@@ -225,16 +225,16 @@ pending
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#181](https://github.com/friendbear/perfect-rust/pull/181) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
-2. 💪 Opened PR [#181](https://github.com/friendbear/perfect-rust/pull/181) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
-3. 🎉 Merged PR [#180](https://github.com/friendbear/perfect-rust/pull/180) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
-4. 🎉 Merged PR [#179](https://github.com/friendbear/perfect-rust/pull/179) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
-5. 🎉 Merged PR [#178](https://github.com/friendbear/perfect-rust/pull/178) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
-6. 🎉 Merged PR [#177](https://github.com/friendbear/perfect-rust/pull/177) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
-7. 🎉 Merged PR [#176](https://github.com/friendbear/perfect-rust/pull/176) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
-8. 💪 Opened PR [#39](https://github.com/friendbear/kafka-beginners/pull/39) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)
-9. 🎉 Merged PR [#2](https://github.com/friendbear/skills-secure-code-game/pull/2) in [friendbear/skills-secure-code-game](https://github.com/friendbear/skills-secure-code-game)
-10. 💪 Opened PR [#38](https://github.com/friendbear/kafka-beginners/pull/38) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)
+1. 💪 Opened PR [#41](https://github.com/friendbear/kafka-beginners/pull/41) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)
+2. 🎉 Merged PR [#181](https://github.com/friendbear/perfect-rust/pull/181) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
+3. 💪 Opened PR [#181](https://github.com/friendbear/perfect-rust/pull/181) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
+4. 🎉 Merged PR [#180](https://github.com/friendbear/perfect-rust/pull/180) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
+5. 🎉 Merged PR [#179](https://github.com/friendbear/perfect-rust/pull/179) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
+6. 🎉 Merged PR [#178](https://github.com/friendbear/perfect-rust/pull/178) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
+7. 🎉 Merged PR [#177](https://github.com/friendbear/perfect-rust/pull/177) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
+8. 🎉 Merged PR [#176](https://github.com/friendbear/perfect-rust/pull/176) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
+9. 💪 Opened PR [#39](https://github.com/friendbear/kafka-beginners/pull/39) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)
+10. 🎉 Merged PR [#2](https://github.com/friendbear/skills-secure-code-game/pull/2) in [friendbear/skills-secure-code-game](https://github.com/friendbear/skills-secure-code-game)
 
 <details><summary>Show More</summary>
 
