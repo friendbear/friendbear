@@ -221,16 +221,16 @@ pending
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#44](https://github.com/friendbear/kafka-beginners/pull/44) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)
-2. 💪 Opened PR [#43](https://github.com/friendbear/kafka-beginners/pull/43) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)
-3. 💪 Opened PR [#42](https://github.com/friendbear/kafka-beginners/pull/42) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)
-4. 🎉 Merged PR [#39](https://github.com/friendbear/kafka-beginners/pull/39) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)
-5. ❌ Closed PR [#38](https://github.com/friendbear/kafka-beginners/pull/38) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)
-6. ❌ Closed PR [#37](https://github.com/friendbear/kafka-beginners/pull/37) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)
-7. 🎉 Merged PR [#41](https://github.com/friendbear/kafka-beginners/pull/41) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)
-8. 🎉 Merged PR [#40](https://github.com/friendbear/kafka-beginners/pull/40) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)
-9. 💪 Opened PR [#12](https://github.com/friendbear/kafka-beginners-course/pull/12) in [friendbear/kafka-beginners-course](https://github.com/friendbear/kafka-beginners-course)
-10. 💪 Opened PR [#41](https://github.com/friendbear/kafka-beginners/pull/41) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)
+1. 🎉 Merged PR [#44](https://github.com/friendbear/kafka-beginners/pull/44) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)
+2. 🎉 Merged PR [#43](https://github.com/friendbear/kafka-beginners/pull/43) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)
+3. 🎉 Merged PR [#42](https://github.com/friendbear/kafka-beginners/pull/42) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)
+4. 🗣 Commented on [#42](https://github.com/friendbear/kafka-beginners/pull/42#issuecomment-2526671158) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)
+5. 💪 Opened PR [#44](https://github.com/friendbear/kafka-beginners/pull/44) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)
+6. 💪 Opened PR [#43](https://github.com/friendbear/kafka-beginners/pull/43) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)
+7. 💪 Opened PR [#42](https://github.com/friendbear/kafka-beginners/pull/42) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)
+8. 🎉 Merged PR [#39](https://github.com/friendbear/kafka-beginners/pull/39) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)
+9. ❌ Closed PR [#38](https://github.com/friendbear/kafka-beginners/pull/38) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)
+10. ❌ Closed PR [#37](https://github.com/friendbear/kafka-beginners/pull/37) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)
 
 <details><summary>Show More</summary>
 
