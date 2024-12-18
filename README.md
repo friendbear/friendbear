@@ -85,10 +85,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 December 2024 - To: 16 December 2024
+From: 10 December 2024 - To: 17 December 2024
 
-Other   54 mins         >>>>>>>>>>>>>>>>>>>>>>>>-   97.11 %
-Rust    1 min           >------------------------   02.89 %
+Other   40 mins         >>>>>>>>>>>>>>>>>>>>>>>--   90.20 %
+Rust    4 mins          >>-----------------------   09.80 %
 ```
 
 <!--END_SECTION:waka-->
