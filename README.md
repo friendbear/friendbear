@@ -85,12 +85,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 February 2025 - To: 19 February 2025
+From: 13 February 2025 - To: 20 February 2025
 
-Other   4 hrs 48 mins   >>>>>>>>>>>>>>>>>>-------   70.90 %
-Rust    1 hr 48 mins    >>>>>>>------------------   26.59 %
-Bash    5 mins          -------------------------   01.34 %
-TOML    4 mins          -------------------------   01.17 %
+Other   3 hrs           >>>>>>>>>>>>>>>>>>>>>>---   88.49 %
+Rust    23 mins         >>>----------------------   11.51 %
 ```
 
 <!--END_SECTION:waka-->
