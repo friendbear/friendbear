@@ -221,7 +221,7 @@ pending
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#208](https://github.com/friendbear/perfect-rust/pull/208) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
+1. 💪 Opened PR [#48](https://github.com/friendbear/kafka-beginners/pull/48) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)
 2. 🎉 Merged PR [#207](https://github.com/friendbear/perfect-rust/pull/207) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
 3. 🎉 Merged PR [#206](https://github.com/friendbear/perfect-rust/pull/206) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
 4. 🎉 Merged PR [#205](https://github.com/friendbear/perfect-rust/pull/205) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
