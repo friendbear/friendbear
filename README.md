@@ -221,7 +221,7 @@ pending
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#51](https://github.com/friendbear/kafka-beginners/pull/51) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)
+1. 💪 Opened PR [#53](https://github.com/friendbear/kafka-beginners/pull/53) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)
 2. 💪 Opened PR [#50](https://github.com/friendbear/kafka-beginners/pull/50) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)
 3. 💪 Opened PR [#48](https://github.com/friendbear/kafka-beginners/pull/48) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)
 4. 🎉 Merged PR [#205](https://github.com/friendbear/perfect-rust/pull/205) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
