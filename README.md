@@ -221,13 +221,13 @@ pending
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15](https://github.com/friendbear/kafka-beginners-course/pull/15) in [friendbear/kafka-beginners-course](https://github.com/friendbear/kafka-beginners-course)
-2. 💪 Opened PR [#14](https://github.com/friendbear/kafka-beginners-course/pull/14) in [friendbear/kafka-beginners-course](https://github.com/friendbear/kafka-beginners-course)
-3. 💪 Opened PR [#54](https://github.com/friendbear/kafka-beginners/pull/54) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)
-4. 💪 Opened PR [#53](https://github.com/friendbear/kafka-beginners/pull/53) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)
-5. 🎉 Merged PR [#204](https://github.com/friendbear/perfect-rust/pull/204) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
-6. 🎉 Merged PR [#203](https://github.com/friendbear/perfect-rust/pull/203) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
-7. 🎉 Merged PR [#202](https://github.com/friendbear/perfect-rust/pull/202) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
+1. 🔒 Closed issue [#1](https://github.com/friendbear/rust-warp-jwt-example/issues/1) in [friendbear/rust-warp-jwt-example](https://github.com/friendbear/rust-warp-jwt-example)
+2. 🎉 Merged PR [#2](https://github.com/friendbear/rust-warp-jwt-example/pull/2) in [friendbear/rust-warp-jwt-example](https://github.com/friendbear/rust-warp-jwt-example)
+3. 💪 Opened PR [#2](https://github.com/friendbear/rust-warp-jwt-example/pull/2) in [friendbear/rust-warp-jwt-example](https://github.com/friendbear/rust-warp-jwt-example)
+4. 💪 Opened PR [#15](https://github.com/friendbear/kafka-beginners-course/pull/15) in [friendbear/kafka-beginners-course](https://github.com/friendbear/kafka-beginners-course)
+5. 💪 Opened PR [#14](https://github.com/friendbear/kafka-beginners-course/pull/14) in [friendbear/kafka-beginners-course](https://github.com/friendbear/kafka-beginners-course)
+6. 💪 Opened PR [#54](https://github.com/friendbear/kafka-beginners/pull/54) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)
+7. 💪 Opened PR [#53](https://github.com/friendbear/kafka-beginners/pull/53) in [friendbear/kafka-beginners](https://github.com/friendbear/kafka-beginners)
 8. 💪 Opened PR [#202](https://github.com/friendbear/perfect-rust/pull/202) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
 9. 🎉 Merged PR [#201](https://github.com/friendbear/perfect-rust/pull/201) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
 10. 🎉 Merged PR [#200](https://github.com/friendbear/perfect-rust/pull/200) in [friendbear/perfect-rust](https://github.com/friendbear/perfect-rust)
